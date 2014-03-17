@@ -1,0 +1,88 @@
+- &BE &VBD
+C &[subj_N:1] &AUX_ &RB_ $+against &[N:2] against~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+among &[N:2] among~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+around &[N:2] around~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+as &[N:2] as~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+at &[N:2] at~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+back_on &[N:2] back~ on~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+back_to &MISC31
+C &[subj_N:1] &AUX_ &RB_ $+between &[N:2] between~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+for &[N:2] for~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+from_v-ing &[N:2] from~ &[G:2].
+C &[subj_N:1] &AUX_ &RB_ $+from &[N:2] from~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+in_favor_of &[N:2] in~ favor~ of~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+in_for &[N:2] in~ for~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+in_on &[N:2] in~ on~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+on &[N:2] on~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $on &MISC18
+C &[subj_N:1] &AUX_ &RB_ $+in &[N:2] in~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $in &MISC20
+C &[subj_N:1] &AUX_ &RB_ $phr_in in~ [2] &._
+C &[subj_N:1] &AUX_ &RB_ $+into &[N:2] into~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+of &[N:2] of~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+off_to &[N:2] off~ to~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+off_with &[N:2] off~ with~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $down_on &MISC28
+C &[subj_N:1] &AUX_ &RB_ $+onto &[N:2] onto~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+out_in &[N:2] out~ in~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+out_of &[N:2] out~ of~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+out &[N:2] out~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+over_to &[N:2] over~ to~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+over &[N:2] over~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+round &[N:2] round~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+that &MISC27
+C &[subj_N:1] &AUX_ &RB_ $+through &[N:2] through~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+throughout &[N:2] throughout~ &[N:2]
+C &C1_ [1] to &RB_ $+to-v &[N:2] to~ &RB_ &[VP:2].
+C &[subj_N:1] &AUX_ &RB_ $+to-v &[N:2] to~ &RB_ &[VP:2].
+C &[subj_N:1] &AUX_ &RB_ $+to &[N:2] to~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+towards &[N:2] towards~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+upon &[N:2] upon~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+with &[N:2] with~ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $about &MISC26
+C &[subj_N:1] &AUX_ &RB_ $apart &MISC25
+C &[subj_N:1] &AUX_ &RB_ $away &MISC24
+C &[subj_N:1] &AUX_ &RB_ $back &MISC23
+C &[subj_N:1] &AUX_ &RB_ $down &MISC22
+C &[subj_N:1] &AUX_ &RB_ $forth &MISC21
+C &[subj_N:1] &AUX_ &RB_ $off &MISC19
+C &[subj_N:1] &AUX_ &RB_ $open &MISC17
+C &[subj_N:1] &AUX_ &RB_ $out &MISC16
+C &[subj_N:1] &AUX_ &RB_ $over &MISC15
+C &[subj_N:1] &AUX_ &RB_ $round &MISC14
+C &[subj_N:1] &AUX_ &RB_ $through &MISC13
+C &[subj_N:1] &AUX_ &RB_ $together &MISC12
+C &[subj_N:1] &AUX_ &RB_ $up &MISC11
+C &[subj_N:1] &AUX_ &RB_ $phr_away_with away~ with~ &[N:2]
+C &[subj_N:2] &AUX_ &RB_ $phr_from from~ [1] &._
+C &[subj_N:1] &AUX_ &RB_ $phr_out+to &MISC10
+C &C1_ [1] &AUX_ &RB_ $phr_to to [2] &._
+C &C1_ [1] &AUX_ &RB_ $phr_up up [2] &._
+C &[subj_N:1] &AUX_ &RB_ $+n &[N:2] &"_ &[N:2]
+C &[subj_N:1] &AUX_ &RB_ $+prep &[N:2] &[P:2]
+C &[subj_N:1] &AUX_ &RB_ $+v-ing &[N:2] &[G:2]
+C &[subj_N:1] &AUX_ &RB_ $+v-ed &[N:2] &RB_ &[VPpast:2]
+- $+v &[N:0] &RB_ &VBD/VBG
+C &[subj_N:1] &AUX_ &RB_ $+v &[N:2] &RB_ &[VP:2].
+C &C1_ [1] [1] to~ &RB_ &V_ $+v &[N:2] &RB_ &[VP:2].
+C &[subj_N:1] &AUX_ &RB_ $particle &MISC40
+#- $ @CD ,
+#- $ @CD &.
+C &C1_ [1] , $_|VBG &[obj_N:2]
+C &[subj_N:1] &AUX_ &RB_ $_ &[obj_N:2]
+C &[subj_N:1] @MD to $_ &[obj_N:2]
+- &[subj_N:1] &AUX_ &RB_ @V &[N:0]_ by $_|VBG &[obj_N:2]
+- too @J
+C &[subj_N:1] &AUX &RB_ &J &MISC9
+C &[subj_N:1] &AUX &RB_ &J in~ &RB_ $_|VBG &[obj_N:2]
+- &FAIL to &RB_ @V
+C &[subj_N:1] &AUX_ &RB_ @V~ &[P:0]_ &TO_ &RB_ &V_ &MISC7
+C $to~ &[N:1] to &RB_ &V_ $_ &RB_ &[obj_N:2]
+C $to~ &[N:1] to~ &RB_ &V_ @V~ &RB_ &[N:0] &, &TO_ &RB_ &V_ $_ &RB_
+&[obj_N:2]
+- @EX &AUX [N:0] to &RB_ @V
+C &C1_ [1] [1] -- *** -- to~ &RB_ &V_ $_ &RB_ &[obj_N:2]
+C &C1_ [1] [1] to~ &RB_ &V_ &MISC8
+C &C1_ [1] &MEAN , *** , [2] &WILL [2] &._
+C &C1_ [1] &MEAN [2] &WILL [2] &._
+C &[subj_N:1] touch* off [2] &._
