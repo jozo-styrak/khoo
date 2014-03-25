@@ -81,7 +81,7 @@ public class PatternFactory {
 		System.out.println("Loading patterns definitions");
 		
 		while ((line = in.readLine()) != null) {
-			if (!line.startsWith("#")) {
+			if (!line.startsWith("#") && (line.trim().length() > 0)) {
 				this.patternsDefinitions.add(line.trim());
 			}
 		}
@@ -145,7 +145,8 @@ public class PatternFactory {
 		while ((line = in.readLine()) != null) {
 			
 			if (line.trim().startsWith("#")) {
-				if (verbs.size() > 0) {
+				//if (verbs.size() > 0) {
+				if (verbGroupKey.length() > 0) {
 					this.verbGroups.put(verbGroupKey, verbs);
 					verbs = new ArrayList<String>();
 				}
@@ -155,7 +156,7 @@ public class PatternFactory {
 			}
 			
 		}
-		if (verbs.size() != 0) {
+		if (verbGroupKey.length() > 0) {
 			this.verbGroups.put(verbGroupKey, verbs);
 		}
 		
@@ -228,7 +229,7 @@ public class PatternFactory {
 		String vgId = (string.contains("|")) ? string.substring(0, string.indexOf("|")) : string;
 		String tag = (string.contains("|")) ? string.substring(string.indexOf("|")) : "";
 		VerbGroupToken token = new VerbGroupToken(string);
-		List<Token> verbs = new ArrayList<Token>();
+		List<LiteralToken> verbs = new ArrayList<LiteralToken>();
 		try {
 			for (String v : this.verbGroups.get(vgId)) {
 				verbs.add(new LiteralToken(v + tag + tilda));

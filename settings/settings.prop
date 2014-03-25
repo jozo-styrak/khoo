@@ -4,7 +4,7 @@
 e1.patterns.file=data/patterns/e1.patterns.edited.data
 e2.patterns.file=data/patterns/e2.patterns.data
 e3.patterns.file=data/patterns/e3.patterns.ver03.data
-e1.e2.subpatterns.file=data/subpatterns/e1.e2.subpatterns.data
+e1.e2.subpatterns.file=data/subpatterns/e1.e2.subpatterns.edited.data
 e3.subpatterns.file=data/subpatterns/e3.subpatterns.edited.data
 e1.e2.verbgroups.file=data/verb_groups/verb.groups.e1.e2.conj.data
-e3.verbgroups.file=data/verb_groups/verb.groups.e3.ver03.data
+e3.verbgroups.file=data/verb_groups/verb.groups.shortened.data

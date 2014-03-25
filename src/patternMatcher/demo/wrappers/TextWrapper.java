@@ -69,7 +69,8 @@ public class TextWrapper {
 		String line;
 		
 		while ((line = reader.readLine()) != null) {
-			if (line.trim().length() > 0) {
+			// comment allowed in text
+			if (line.trim().length() > 0 && !line.trim().startsWith("#")) {
 				line = (isManFormat) ? this.processManFormat(line) : line.trim();
 			    Annotation lineAnnotation = new Annotation(line);
 			    pipeline.annotate(lineAnnotation);
@@ -119,7 +120,7 @@ public class TextWrapper {
 			
 			for (String patternDefinition : patterns) {
 				
-				//System.out.println("Pattern: " + patternDefinition);
+//				System.out.println("Pattern: " + patternDefinition);
 				try {
 					Pattern pattern = patternFactory.createPattern(patternDefinition.startsWith("C"), patternDefinition.substring(2).trim());
 					pattern.returnToken(new WildcardToken("***"));
@@ -128,20 +129,26 @@ public class TextWrapper {
 					
 						while (PatternMatcher.tryPattern(sentence, pattern)) {
 							//if (PatternMatcher.tryPattern(sentence, pattern)) {
-							System.out.println("Matched Pattern: " + pattern.getPatternString());
-							pattern.printCausalInformation(System.out);
-							System.out.println(pattern.getMatches());
+//							System.out.println("Matched Pattern: " + pattern.getPatternString());
+//							pattern.printCausalInformation(System.out);
+//							pattern.printCausalInformationConjunctions(System.out);
+//							System.out.println(pattern.getMatches());
+//							System.out.println("Cause Parse:");
+//							this.parseString(pattern.getCauseString());
+//							System.out.println("Effect Parse:");
+//							this.parseString(pattern.getEffectString());
+							
 							pattern.flag(sentence);
 							if (fileStream != null) {
 //								fileStream.println("Pattern: " + pattern.getPatternString());
-								pattern.printCausalInformation(fileStream);
+								pattern.printCausalInformationConjunctions(fileStream);
 //								fileStream.println(pattern.getMatches());
 							} else {
 								System.out.println("No output file");
 							}
 							if (debugFileStream != null) {
 								debugFileStream.println("Pattern: " + pattern.getPatternString());
-								pattern.printCausalInformation(debugFileStream);
+								pattern.printCausalInformationConjunctions(debugFileStream);
 								debugFileStream.println(pattern.getMatches());
 							}
 							//System.out.println(pattern.getMatches());
@@ -156,7 +163,7 @@ public class TextWrapper {
 						pattern.resetPattern();
 						//}
 					} else {
-						//System.out.println("*irelevant pattern");
+//						System.out.println("\t*irelevant pattern");
 					}
 				} catch (Exception e) {
 					System.out.println("Pattern: \'"+patternDefinition+"\', message: " + e.getMessage());
@@ -269,6 +276,14 @@ public class TextWrapper {
 			//parsed.addChild(0, dotSentence.getLeaves().get(1).parent(dotSentence));
 			TreeUtils.preprocessPhraseLabels(parsed);
 			this.parseTrees.add(parsed);
+//			parsed.indentedListPrint();
+		}
+	}
+	
+	// test method
+	private void parseString(String string) {
+		if (string.length() > 0) {
+			Tree parsed = this.parser.parse(string);
 			parsed.indentedListPrint();
 		}
 	}

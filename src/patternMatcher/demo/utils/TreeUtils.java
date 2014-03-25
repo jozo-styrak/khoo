@@ -33,6 +33,9 @@ public class TreeUtils {
 			// tag D for phrase starting with verb in VBN
 			} else if ((TreeUtils.isPhraseType(node, "NP") || TreeUtils.isPhraseType(node, "VP")) && node.getLeaves().get(0).parent(node).label().toString().compareTo("VBN") == 0) {
 			 	node.label().setValue("D");
+			 // rename S tag to C
+			} else if (TreeUtils.isPhraseType(node, "S")) {
+				node.label().setValue("C");
 			}
 		}
 	}

@@ -153,20 +153,42 @@ public class Pattern extends Token implements IPatternSlot, IFlagToken {
 		} else return null;
 	}
 	
-	public void printCausalInformation(PrintStream out) {
+	public String getCauseString() {
+		String cause = "";
 		if (isCausal) {
-			String cause = "";
-			String effect = "";
 			for (Tree leaf : getCause()) {
 				cause = cause + leaf + " ";
 			}
-			//out.println(cause);
+		}
+		return this.processOutputString(cause);
+	}
+	
+	public String getEffectString() {
+		String effect = "";
+		if (isCausal) {
 			for (Tree leaf : getEffect()) {
 				effect = effect + leaf + " ";
 			}
-			//out.println(effect);
+		}
+		return this.processOutputString(effect);
+	}
+	
+	// simple casual information print
+	public void printCausalInformation(PrintStream out) {
+		if (isCausal) {
+			String cause = this.getCauseString();
+			String effect = this.getEffectString();
 			if (cause.length() > 0 && effect.length() > 0) out.println(cause +"\t"+ effect); //out.println("Verb(" + this.getVerbString() + ")\t" + cause +"\t"+ effect);
-		} //else out.println("No causal information");
+		}
+	}
+	
+	// print causal information, if there is a conjunction, generate subparts
+	public void printCausalInformationConjunctions(PrintStream out) {
+		if (isCausal) {
+			for (String relation : this.generateCauseEffectConjunctionPairs()) {
+				out.println(relation);
+			}
+		}
 	}
 
 	@Override
@@ -236,15 +258,77 @@ public class Pattern extends Token implements IPatternSlot, IFlagToken {
 		return literals;
 	}
 	
-	// filter pattern, if it is necessary to use on sentence, based on literal tokens matching
+	// get verb groups from this patterns
+	private List<VerbGroupToken> getVerbGroupTokens() {
+		List<VerbGroupToken> groups = new ArrayList<VerbGroupToken>();
+		for (Object token : this.toProcess.toArray()) {
+			if (token instanceof VerbGroupToken) {
+				groups.add((VerbGroupToken)token);
+			}
+		}
+		return groups;
+	}
+	
+	// filter pattern, if it is necessary to use on sentence, based on literal tokens matching and verb groups
 	public boolean useThisPattern(SentenceWrapper sentence) {
 		boolean relevant = true;
+		// first, check literals
 		for (LiteralToken literal : this.getLiteralTokens()) {
 			if (!sentence.containsLiteral(literal.getValue(), literal.isWildcard())) {
 				relevant = false;
 			}
 		}
+		
+		// if matched all, check verb groups
+		if (relevant) {
+			for (VerbGroupToken verb : this.getVerbGroupTokens()) {
+				if (!sentence.containsVerbFromVerbGroup(verb)) {
+					relevant = false;
+				}
+			}
+		}
 		return relevant;
+	}
+	
+	// get conjuncted subparts of given phrase
+	// supported format - A, B and C | A and B | A
+	private List<String> getConjunctedPhrases(String phrase) {
+		List<String> phrases = new ArrayList<String>();
+		String[] parts = phrase.split(" and ");
+		// there is a 'and' conjunction
+		if (parts.length > 1) {
+			// try to split every non-ending part with ','
+			for (int i = 0; i < parts.length-1; i ++) {
+				String[] subparts = parts[i].split(",");
+				for (String subpart : subparts) {
+					phrases.add(subpart);
+				}
+			}
+			phrases.add(parts[parts.length-1]);
+		}
+		else {
+			for (String part : parts) {
+				phrases.add(part);
+			}
+		}
+		return phrases;
+	}
+	
+	// if there is conjunction in cause or effect, this will produce list of pairs of cause and effect
+	public List<String> generateCauseEffectConjunctionPairs() {
+		List<String> pairs = new ArrayList<String>();
+		if (isCausal) {
+			String cause = this.getCauseString();
+			String effect = this.getEffectString();
+			if (cause.length() > 0 && effect.length() > 0) {
+				for (String c : this.getConjunctedPhrases(cause)) {
+					for (String e : this.getConjunctedPhrases(effect)) {
+						pairs.add(c + "\t" + e);
+					}
+				}
+			}
+		}
+		return pairs;
 	}
 	
 	// debug method for extracting verb triggers in relations
@@ -258,6 +342,13 @@ public class Pattern extends Token implements IPatternSlot, IFlagToken {
 			}
 		}
 		return verb.trim();
+	}
+	
+	// remove leading and ending dot from prhase result
+	private String processOutputString(String phrase) {
+		String output = (phrase.startsWith(".")) ? phrase.substring(1).trim() : phrase.trim();
+		output = (output.endsWith(".")) ? output.substring(0, output.length() - 1) : output;
+		return output;
 	}
 	
 }

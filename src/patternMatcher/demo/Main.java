@@ -11,13 +11,13 @@ public class Main {
 	public static void main(String[] args) throws Exception {
 		
 		PatternFactory patternFactory = new PatternFactory();
-//		patternFactory.loadSubpatterns("data/subpatterns/e1.e2.subpatterns.data");
-//		patternFactory.loadVerbGroups("data/verb_groups/verb.groups.e1.e2.conj.data");
-//		patternFactory.loadPatternsDefinitions("data/patterns/e1.patterns.edited.data");
+		patternFactory.loadSubpatterns("data/subpatterns/e1.e2.subpatterns.edited.data");
+		patternFactory.loadVerbGroups("data/verb_groups/verb.groups.e1.e2.conj.data");
+		patternFactory.loadPatternsDefinitions("data/patterns/e1.patterns.edited.data");
 //		patternFactory.loadPatternsDefinitions("data/patterns/e2.patterns.data");
-		patternFactory.loadSubpatterns("data/subpatterns/e3.subpatterns.edited.data");
-		patternFactory.loadVerbGroups("data/verb_groups/verb.groups.e3.ver03.data");
-		patternFactory.loadPatternsDefinitions("data/patterns/e3.patterns.ver03.data");
+//		patternFactory.loadSubpatterns("data/subpatterns/e3.subpatterns.edited.data");
+//		patternFactory.loadVerbGroups("data/verb_groups/verb.groups.shortened.data");
+//		patternFactory.loadPatternsDefinitions("data/patterns/e3.patterns.ver03.data");
 		
 		//String s4 = "It is slippery because it has rained.";
 		//String s5 = "The fact that the aircraft could not be reached did not alarm the company flight following because it was not unusual for aircraft to be out of radio range of the flight watch facility.";

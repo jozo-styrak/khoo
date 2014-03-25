@@ -81,8 +81,8 @@ C it &AUX &ADV_ due &RB_ to [1] that [2] &._
 C &C2_ &[2](AND_THIS) &AUX &ADV_ because of [1] &._
 C &C2_ &[2](AND_THIS) &AUX &ADV_ because [1] &._
 C &C2_ &[2](AND_THIS) &AUX &ADV_ on account of [1] &._
-C &C because of &[N:1],[2]
 C &C2_ [2] because of [1] &._
+C &C because of &[N:1],[2]
 - &NOT owing to
 C &C owing to &[N:1],[2]
 C &C2_ [2] owing to [1] &._
@@ -465,7 +465,7 @@ C &C1_ [1] in an effort to [2] &._
 - to be sure
 - agree* *** to
 C &S &"_ to &ADV_ [v:2] , [1] &._
-C &S &"_ to &ADV_ [v:2] &[2], [1] &._
+#C &S &"_ to &ADV_ [v:2] &[2], [1] &._
 C &S &"_ to &ADV_ &[VP:2] &[C:1].
 C &C2_ &[2](AND_THIS) &AUX &ADV_ &NOT dependent on *** but on [1] &._
 - &NOT dependent
@@ -481,3 +481,10 @@ C &C2_ [2] -- &ADJ &EFFECT/RESULT of [1] &,/.
 C &C in response to &[N:1],[2]
 C &C2_ [2] in response to [1] &._
 C &C1_ [1] &AUX credited with [2] &._
+# my added patterns
+C . &RB_ &,_ had &[subj_my:1] , &[obj_my:2]
+C . &RB_ &,_ given &[subj_my:1] , &[obj_my:2]
+C . &RB_ &,_ when &[subj_my:1] , &[obj_my:2]
+C . &RB_ &,_ with &[subj_my:1] , &[obj_my:2]
+C . &RB_ &,_ without &[subj_my:1] , &[obj_my:2]
+C . &RB_ &,_ while [G:1], &[obj_my:2]

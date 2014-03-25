@@ -3,6 +3,8 @@ package patternMatcher.demo.wrappers;
 import java.util.ArrayList;
 import java.util.List;
 
+import patternMatcher.demo.patterns.tokenTypes.LiteralToken;
+import patternMatcher.demo.patterns.tokenTypes.VerbGroupToken;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import edu.stanford.nlp.trees.Tree;
 
@@ -213,5 +215,15 @@ public class SentenceWrapper {
 			}
 		}
 		return contains;		
+	}
+	
+	public boolean containsVerbFromVerbGroup(VerbGroupToken verb) {
+		boolean contains = false;
+		for (LiteralToken token : verb.getVerbs()) {
+			if (this.containsLiteral(token.getValue(), token.isWildcard())) {
+				contains = true;
+			}
+		}
+		return contains;
 	}
 }

@@ -7,7 +7,7 @@ import patternMatcher.demo.wrappers.SentenceWrapper;
 // verb group implementation
 public class VerbGroupToken extends Token implements IFlagToken {
 
-	private List<Token> verbs;
+	private List<LiteralToken> verbs;
 	private int index;
 	
 	public VerbGroupToken(String substring) {
@@ -16,7 +16,7 @@ public class VerbGroupToken extends Token implements IFlagToken {
 		this.index = 0;
 	}
 	
-	public void setVerbs(List<Token> verbs) {
+	public void setVerbs(List<LiteralToken> verbs) {
 		this.verbs = verbs;
 	}
 
@@ -68,4 +68,8 @@ public class VerbGroupToken extends Token implements IFlagToken {
 	public String getMatchedVerbString() {
 		return this.verbs.get(this.index-1).getValue();
 	}
+	
+	public List<LiteralToken> getVerbs() {
+		return this.verbs;
+	} 
 }

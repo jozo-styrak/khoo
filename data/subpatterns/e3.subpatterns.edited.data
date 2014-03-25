@@ -236,13 +236,13 @@ _
 [M:2]
 [N:2]
 #[subj_N:1]
-&C_ [1] , and that
-&C_ [1] , which
-&C_ [1] , that
+&C [1] &,_ that
+&C [1] &,_ which
 &[N:1] &SAY &THAT_
 @PP~
 [G:1] &MISC4_ &"_
 &[N:1] [V:1] ,
+&C [1] &,_
 &C_ &[N:1] &MISC4_
 #[subj_N:1]ver2
 &C_ [1] , and that
@@ -1324,3 +1324,17 @@ _
 #WILL
 will
 would
+#j+to
+sufficient
+conducive
+unable
+able
+#j+on
+based
+#j+of
+result
+#[obj_my:2]
+[V:2]
+[M:2]
+[N:2]
+[C:2]

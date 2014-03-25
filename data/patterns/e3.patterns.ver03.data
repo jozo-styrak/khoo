@@ -70,7 +70,7 @@ C &[subj_N:2] &AUX_ &RB_ &past_v+v &RB_ to~ &[VP:2] by &[N:1]
 C &[subj_N:2] &AUX_ &RB_ &past_vparticle @RP by &[N:1]
 C &[subj_N:2] &AUX_ &RB_ &past_v_ by &[N:1]
 C &[subj_N:2] &AUX_ &RB_ &past_v+v-ed &RB_ &[VPpast:2] by &[N:1]
-- &BE &VBD
+#- &BE &VBD
 C &[subj_N:1] &AUX_ &RB_ $+against &[N:2] against~ &[N:2]
 C &[subj_N:1] &AUX_ &RB_ $+among &[N:2] among~ &[N:2]
 C &[subj_N:1] &AUX_ &RB_ $+around &[N:2] around~ &[N:2]
@@ -147,7 +147,7 @@ C &[subj_N:1] &AUX_ &RB_ $_ &[obj_N:2]
 C &[subj_N:1] @MD to $_ &[obj_N:2]
 - &[subj_N:1] &AUX_ &RB_ @V &[N:0]_ by $_|VBG &[obj_N:2]
 - too @J
-C &[subj_N:1] &AUX &RB_ &J &MISC9
+#C &[subj_N:1] &AUX &RB_ &J &MISC9
 C &[subj_N:1] &AUX &RB_ &J in~ &RB_ $_|VBG &[obj_N:2]
 - &FAIL to &RB_ @V
 #C &[subj_N:1] &AUX_ &RB_ @V~ &[P:0]_ &TO_ &RB_ &V_ &MISC7
@@ -159,3 +159,7 @@ C &C1_ [1] [1] -- *** -- to~ &RB_ &V_ $_ &RB_ &[obj_N:2]
 C &C1_ [1] &MEAN , *** , [2] &WILL [2] &._
 C &C1_ [1] &MEAN [2] &WILL [2] &._
 C &[subj_N:1] touch* off [2] &._
+# my added adjective patterns
+C &[subj_N:1] &AUX_ &RB_ &j+to to &[obj_my:2]
+C &[subj_N:1] &AUX_ &RB_ &j+on on &[obj_my:2]
+C &[subj_N:1] &AUX_ &RB_ &j+of of &[obj_my:2]
