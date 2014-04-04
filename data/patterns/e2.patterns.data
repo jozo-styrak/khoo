@@ -2,6 +2,7 @@ C [1] . &S_ &THEREFORE [2]
 C [1] . &S_ in consequence [2]
 C [1] . &S_ and in consequence [2]
 C [1] . &S_ it &AUX &THEREFORE [2]
+C [1] . &S_ &[N:2] [v:2] &THEREFORE [2]
 - as *** , so &BE
 - as *** , so &HAVE
 - so as

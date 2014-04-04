@@ -101,7 +101,7 @@ public class ExtractRelations {
 					String filename = file.getName().substring(0, file.getName().indexOf("."));
 					System.out.println("Processing file \'"+file.getName()+"\'");
 					text.loadAndParseTextFile(file, isManFormat);
-					text.setOutputStream(outputFolder +filename+"-relations.txt");
+					text.setOutputStream(outputFolder +filename+".txt");
 					text.setDebugOutputStream(outputFolder + filename + "-debug.txt");
 
 					System.out.println("Extracting E2 patterns");

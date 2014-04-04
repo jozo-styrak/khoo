@@ -17,7 +17,7 @@
 - there &AUX *** &ANOTHER &EFFECT/RESULT &OF/FROM
 - there &AUX *** &ANOTHER &EFFECT/RESULT to
 - &S &ADJ &EFFECT/RESULT :
-- &S &ADJ &EFFECT/RESULT &AUX
+#- &S &ADJ &EFFECT/RESULT &AUX
 - &S &ADJ &REASON :
 - &S &ADJ &REASON &AUX
 - &S &ADJ &CAUSE :
@@ -103,8 +103,8 @@ C &C2_ [2] for reasons of [1] &._
 C &C for [j:1] reasons [2] &._
 C &C2_ [2] for [j:1] reasons
 - &NOT as &DT &EFFECT/RESULT
-C &C as &ADJ &EFFECT/RESULT of &[N:1],[2]
 C &C2_ [2] as &ADJ &EFFECT/RESULT of [1] &._
+C &C as &ADJ &EFFECT/RESULT of &[N:1],[2]
 - &NOT for the sake
 C &C for the sake of &[1], [2] &._
 C &C for the sake of [1] &[C:2].
@@ -485,6 +485,8 @@ C &C1_ [1] &AUX credited with [2] &._
 C . &RB_ &,_ had &[subj_my:1] , &[obj_my:2]
 C . &RB_ &,_ given &[subj_my:1] , &[obj_my:2]
 C . &RB_ &,_ when &[subj_my:1] , &[obj_my:2]
-C . &RB_ &,_ with &[subj_my:1] , &[obj_my:2]
+#C . &RB_ &,_ with &[subj_my:1] , &[obj_my:2]
 C . &RB_ &,_ without &[subj_my:1] , &[obj_my:2]
+C . &RB_ &,_ at &[subj_my:1] , &[obj_my:2]
+C . &RB_ &,_ in reaction to &[subj_my:1] , &[obj_my:2]
 C . &RB_ &,_ while [G:1], &[obj_my:2]

@@ -117,7 +117,7 @@ public class PatternFactory {
 					patterns = new ArrayList<String>();
 				}
 				subpatternKey = line.trim().substring(1);
-			} else if (line.trim().length() > 0) {
+			} else if (line.trim().length() > 0 && !line.trim().startsWith("\\")) {
 				patterns.add(line.trim());
 			}
 			

@@ -70,7 +70,7 @@ public class SentenceWrapper {
 		int i = this.currentPosition;
 		while ((i < processOrder.size()) && !processOrder.get(i).isLeaf()) {
 			//if (processOrder.get(i).isPhrasal() && (processOrder.get(i).label().value().compareTo(tag) == 0)) {
-			if ((processOrder.get(i).isPhrasal() || processOrder.get(i).isPreTerminal()) && processOrder.get(i).label().value().startsWith(tag)) {
+			if ((processOrder.get(i).isPhrasal() || processOrder.get(i).isPreTerminal()) && processOrder.get(i).label().value().startsWith(tag) && processOrder.get(i).label().value().compareTo("MD") != 0) {
 				phrases.add(processOrder.get(i));
 			} 
 			i++;

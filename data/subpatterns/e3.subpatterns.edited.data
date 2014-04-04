@@ -226,9 +226,11 @@ _
 [N:1] [P:1] [P:1]
 [M:1] [P:1]
 [N:1] [P:1]
+[P:1]
 [M:1]
 [N:1]
 #[N:2]
+[C:2]
 [M:2] [P:2] [P:2]
 [N:2] [P:2] [P:2]
 [M:2] [P:2]
@@ -236,14 +238,21 @@ _
 [M:2]
 [N:2]
 #[subj_N:1]
-&C [1] &,_ that
-&C [1] &,_ which
-&[N:1] &SAY &THAT_
-@PP~
-[G:1] &MISC4_ &"_
-&[N:1] [V:1] ,
-&C [1] &,_
-&C_ &[N:1] &MISC4_
+&C [1] &AND_ &WHICH
+&C [1] ,
+&[N:1] [i:1] &[N:1] &AND_ &WHICH_
+&[N:1] &RB_ [v:1] [V:1] &AND_ &WHICH_
+&[N:1] &RB_ [V:1] &AND_ &WHICH_
+&[N:1] &RB_ [v:1] &[N:1] &AND_ &WHICH_
+&[N:1] &AND_ &WHICH_
+//&C [1] &,_ that
+//&C [1] &,_ which
+//&[N:1] &SAY &THAT_
+//@PP~
+//[G:1] &MISC4_ &"_
+//&[N:1] [V:1] ,
+//&C [1] &,_
+//&C_ &[N:1] &MISC4_
 #[subj_N:1]ver2
 &C_ [1] , and that
 &[N:1] &SAY &THAT_
@@ -259,10 +268,15 @@ _
 &C_ &[N:1] &MISC4_
 &"_
 #[subj_N:2]
-&C_ [2] , and that
-&[N:2] &SAY &THAT_
-@PP~
-&C_ &[N:2] &MISC4_
+&[N:2] &AND_ &WHICH_
+&[N:2] [i:2] [N:2] &AND_ &WHICH_
+&[N:2] &RB_ [v:2] [V:2] &AND_ &WHICH_
+&[N:2] &RB_ [V:2] &AND_ &WHICH_
+&[N:2] &RB_ [v:2] [N:2] &AND_ &WHICH_
+//&C_ [2] , and that
+//&[N:2] &SAY &THAT_
+//@PP~
+//&C_ &[N:2] &MISC4_
 #[subj_N:2]ver2
 &C_ [2] , and that
 &[N:2] &SAY &THAT_
@@ -281,6 +295,8 @@ _
 @CC~ &AUX_ &RB_
 @V~ &[N:1]
 #[obj_N:2]
+&[N:2] &WHICH [C:2]
+&[N:2] to &[N:2]
 &[N:2]
 @CC~ &AUX_ &RB_
 @V~ &[N:2]
@@ -456,6 +472,15 @@ and
 ;
 on one hand , and
 on the one hand , and
+#AND_
+, and
+and
+; and
+;
+,
+on one hand , and
+on the one hand , and
+_
 #AND/OR
 and
 or
@@ -566,6 +591,7 @@ recently , &"_
 , &"_ but &"_
 , &"_ and &"_
 , &"_ while &"_
+,
 [C:0] &"_ , and &"_
 $that &MISC1
 &WH &"_
@@ -1329,6 +1355,7 @@ sufficient
 conducive
 unable
 able
+critical
 #j+on
 based
 #j+of

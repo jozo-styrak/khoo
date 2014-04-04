@@ -323,7 +323,7 @@ public class Pattern extends Token implements IPatternSlot, IFlagToken {
 			if (cause.length() > 0 && effect.length() > 0) {
 				for (String c : this.getConjunctedPhrases(cause)) {
 					for (String e : this.getConjunctedPhrases(effect)) {
-						pairs.add(c + "\t" + e);
+						pairs.add(c.trim() + "\t" + e.trim());
 					}
 				}
 			}
@@ -348,7 +348,7 @@ public class Pattern extends Token implements IPatternSlot, IFlagToken {
 	private String processOutputString(String phrase) {
 		String output = (phrase.startsWith(".")) ? phrase.substring(1).trim() : phrase.trim();
 		output = (output.endsWith(".")) ? output.substring(0, output.length() - 1) : output;
-		return output;
+		return output.trim();
 	}
 	
 }

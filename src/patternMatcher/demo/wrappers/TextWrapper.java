@@ -50,8 +50,12 @@ public class TextWrapper {
 	
 	// remove man annotation
 	// currently just strips brackets and labels
+//	public String processManFormat(String line) {
+//		return line.replaceAll("\\(", "").replaceAll("\\[", "").replaceAll("<", "").replaceAll("\\]C", "").replaceAll("\\]T", "").replaceAll("\\]E", "").replaceAll("\\{", "").replaceAll("\\)C", "").replaceAll("\\)T", "").replaceAll("\\)E", "").replaceAll("\\}C", "").replaceAll("\\}T", "").replaceAll("\\}E", "").replaceAll(">C", "").replaceAll(">E", "").replaceAll(">T", "").replaceAll("\\]", "").replaceAll("\\}", "").replaceAll("\\)", "").replaceAll("\\]", "").replaceAll("\\}", "");
+//	}
+	// adjusted method for new annotation
 	public String processManFormat(String line) {
-		return line.replaceAll("\\(", "").replaceAll("\\[", "").replaceAll("<", "").replaceAll("\\]C", "").replaceAll("\\]T", "").replaceAll("\\]E", "").replaceAll("\\{", "").replaceAll("\\)C", "").replaceAll("\\)T", "").replaceAll("\\)E", "").replaceAll("\\}C", "").replaceAll("\\}T", "").replaceAll("\\}E", "").replaceAll(">C", "").replaceAll(">E", "").replaceAll(">T", "").replaceAll("\\]", "").replaceAll("\\}", "").replaceAll("\\)", "").replaceAll("\\]", "").replaceAll("\\}", "");
+		return line.replaceAll("\\[", "").replaceAll("\\][CTE][0-9]*", "");
 	}
 	
 	public void loadAndParseTextFile(File file, boolean isManFormat) throws IOException {
@@ -72,6 +76,7 @@ public class TextWrapper {
 			// comment allowed in text
 			if (line.trim().length() > 0 && !line.trim().startsWith("#")) {
 				line = (isManFormat) ? this.processManFormat(line) : line.trim();
+//				System.out.println(line);
 			    Annotation lineAnnotation = new Annotation(line);
 			    pipeline.annotate(lineAnnotation);
 			    List<CoreMap> sentenceMap = lineAnnotation.get(SentencesAnnotation.class);
@@ -128,27 +133,27 @@ public class TextWrapper {
 					if (pattern.useThisPattern(sentence)) {
 					
 						while (PatternMatcher.tryPattern(sentence, pattern)) {
-							//if (PatternMatcher.tryPattern(sentence, pattern)) {
 //							System.out.println("Matched Pattern: " + pattern.getPatternString());
-//							pattern.printCausalInformation(System.out);
+							pattern.printCausalInformation(System.out);
+//							System.out.println("Verbs: " + pattern.getVerbString());
 //							pattern.printCausalInformationConjunctions(System.out);
 //							System.out.println(pattern.getMatches());
-//							System.out.println("Cause Parse:");
-//							this.parseString(pattern.getCauseString());
-//							System.out.println("Effect Parse:");
-//							this.parseString(pattern.getEffectString());
 							
 							pattern.flag(sentence);
 							if (fileStream != null) {
-//								fileStream.println("Pattern: " + pattern.getPatternString());
-								pattern.printCausalInformationConjunctions(fileStream);
+//								fileStream.println("\nSentence:   " + this.sentences.get(i));
+//								fileStream.println("Pattern:    " + pattern.getPatternString());
+//								pattern.printCausalInformationConjunctions(fileStream);
+//								fileStream.println("Verbs:      " + pattern.getVerbString());
+								pattern.printCausalInformation(fileStream);
 //								fileStream.println(pattern.getMatches());
 							} else {
-								System.out.println("No output file");
+//								System.out.println("No output file");
 							}
 							if (debugFileStream != null) {
 								debugFileStream.println("Pattern: " + pattern.getPatternString());
-								pattern.printCausalInformationConjunctions(debugFileStream);
+//								pattern.printCausalInformationConjunctions(debugFileStream);
+								pattern.printCausalInformation(debugFileStream);
 								debugFileStream.println(pattern.getMatches());
 							}
 							//System.out.println(pattern.getMatches());
@@ -204,8 +209,8 @@ public class TextWrapper {
 						if (PatternMatcher.tryPattern(pair, pattern)) {
 //							System.out.println("Pattern: " + pattern.getPatternString());
 //							pattern.printCausalInformation(System.out);
-							//fileStream.println(pattern.getMatches());
-							//System.out.println("Successful parse");
+//							fileStream.println(pattern.getMatches());
+//							System.out.println("Successful parse");
 							pattern.flag(pair);
 							if (fileStream != null && pattern.isCausal()) {
 //								fileStream.println("Pattern: " + pattern.getPatternString());
@@ -280,12 +285,12 @@ public class TextWrapper {
 		}
 	}
 	
-	// test method
-	private void parseString(String string) {
-		if (string.length() > 0) {
-			Tree parsed = this.parser.parse(string);
-			parsed.indentedListPrint();
-		}
-	}
-	
+//	// test method
+//	private void parseString(String string) {
+//		if (string.length() > 0) {
+//			Tree parsed = this.parser.parse(string);
+//			parsed.indentedListPrint();
+//		}
+//	}
+//	
 }

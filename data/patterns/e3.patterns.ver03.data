@@ -1,10 +1,10 @@
-#- &NOT $_
+- &NOT $_
 #- $_ &TIME
 #- &TIME &AUX_ &RB_ $
 #- by &TIME
 C &[subj_N:2] &AUX_ &VBD [j:2] &,_ &J_ by &[N:1]
 #- [N:0] such as
-C &[subj_N:1] &AUX_ &RB_ @V &[N:2] &RB_ [j:2] &MISC5
+#C &[subj_N:1] &AUX_ &RB_ @V &[N:2] &RB_ [j:2] &MISC5
 C &[subj_N:2] &AUX_ &RB_ &past_v+against against~ &[N:2] by &[N:1]
 C &[subj_N:2] &AUX_ &RB_ &past_v+among among~ &[N:2] by &[N:1]
 C &[subj_N:2] &AUX_ &RB_ &past_v+around around~ &[N:2] by &[N:1]
@@ -130,7 +130,8 @@ C &[subj_N:1] &AUX_ &RB_ $for &MISC50
 C &[subj_N:1] &AUX_ &RB_ $phr_away_with away~ with~ &[N:2]
 C &[subj_N:2] &AUX_ &RB_ $phr_from from~ [1] &._
 C &[subj_N:1] &AUX_ &RB_ $phr_out+to &MISC10
-C &C1_ [1] &AUX_ &RB_ $phr_to to [2] &._
+C &[subj_N:1] &AUX_ &RB_ $phr_to to [2] &._
+#C &C1_ [1] &AUX_ &RB_ $phr_to to [2] &._
 C &C1_ [1] &AUX_ &RB_ $phr_up up [2] &._
 C &[subj_N:1] &AUX_ &RB_ $+n &[N:2] &"_ &[N:2]
 C &[subj_N:1] &AUX_ &RB_ $+prep &[N:2] &[P:2]
@@ -142,7 +143,9 @@ C &C1_ [1] [1] to~ &RB_ &V_ $+v &[N:2] &RB_ &[VP:2].
 C &[subj_N:1] &AUX_ &RB_ $particle &MISC40
 #- $ @CD ,
 #- $ @CD &.
-C &C1_ [1] , $_|VBG &[obj_N:2]
+# edited G pattern 
+#C &C1_ [1] , $_|VBG &[obj_N:2]
+C &[subj_N:1] $_|VBG &[obj_N:2]
 C &[subj_N:1] &AUX_ &RB_ $_ &[obj_N:2]
 C &[subj_N:1] @MD to $_ &[obj_N:2]
 - &[subj_N:1] &AUX_ &RB_ @V &[N:0]_ by $_|VBG &[obj_N:2]
@@ -160,6 +163,7 @@ C &C1_ [1] &MEAN , *** , [2] &WILL [2] &._
 C &C1_ [1] &MEAN [2] &WILL [2] &._
 C &[subj_N:1] touch* off [2] &._
 # my added adjective patterns
-C &[subj_N:1] &AUX_ &RB_ &j+to to &[obj_my:2]
-C &[subj_N:1] &AUX_ &RB_ &j+on on &[obj_my:2]
-C &[subj_N:1] &AUX_ &RB_ &j+of of &[obj_my:2]
+- &NOT &BE
+C &[subj_N:1] &AUX_ &RB_ &j+to to &[obj_N:2]
+C &[subj_N:1] &AUX_ &RB_ &j+on on &[obj_N:2]
+C &[subj_N:1] &AUX_ &RB_ &j+of of &[obj_N:2]

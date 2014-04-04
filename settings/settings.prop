@@ -1,10 +1,18 @@
 # settings file of pattern extraction
 # specified source files for loading patterns, subpatterns and verbgroups
 
-e1.patterns.file=data/patterns/e1.patterns.edited.data
-e2.patterns.file=data/patterns/e2.patterns.data
-e3.patterns.file=data/patterns/e3.patterns.ver03.data
-e1.e2.subpatterns.file=data/subpatterns/e1.e2.subpatterns.edited.data
-e3.subpatterns.file=data/subpatterns/e3.subpatterns.edited.data
-e1.e2.verbgroups.file=data/verb_groups/verb.groups.e1.e2.conj.data
-e3.verbgroups.file=data/verb_groups/verb.groups.shortened.data
+#e1.patterns.file=data/patterns/e1.patterns.edited.data
+#e2.patterns.file=data/patterns/e2.patterns.data
+#e3.patterns.file=data/patterns/e3.patterns.ver03.data
+#e1.e2.subpatterns.file=data/subpatterns/e1.e2.subpatterns.edited.data
+#e3.subpatterns.file=data/subpatterns/e3.subpatterns.edited.data
+#e1.e2.verbgroups.file=data/verb_groups/verb.groups.e1.e2.conj.data
+#e3.verbgroups.file=data/verb_groups/verb.groups.shortened.02.data
+
+e1.patterns.file=data/patterns/e1.original.data
+e2.patterns.file=data/patterns/e2.original.data
+e3.patterns.file=data/patterns/e3.original.data
+e1.e2.subpatterns.file=data/subpatterns/e1e2.subpatterns.original.data
+e3.subpatterns.file=data/subpatterns/e3.subpatterns.original.data
+e1.e2.verbgroups.file=data/verb_groups/e1e2.verbs.original.data
+e3.verbgroups.file=data/verb_groups/e3.verbs.original.data
