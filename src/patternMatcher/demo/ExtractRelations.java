@@ -18,7 +18,7 @@ import patternMatcher.demo.wrappers.TextWrapper;
  * 
  * -f from what directory
  * -t where to output
- * -m if it is man format
+ *-m if it is man format - currently always set to man format
  */
 public class ExtractRelations {
 	
@@ -26,7 +26,7 @@ public class ExtractRelations {
 
 		String directoryFrom = "";
 		String directoryOutput  = "";
-		boolean isManFormat = false;
+		boolean isManFormat = true;
 		
 		try {
 			
@@ -35,9 +35,9 @@ public class ExtractRelations {
 					directoryFrom = args[i+1];
 				} else if (args[i].compareTo("-t") == 0) {
 					directoryOutput = args[i+1];
-				} else if (args[i].compareTo("-m") == 0) {
-					isManFormat = true;
-				} //else throw new Exception("Unknown paramater " + args[i]); 
+				} //else if (args[i].compareTo("-m") == 0) {
+//					isManFormat = true;
+//				} else throw new Exception("Unknown paramater " + args[i]); 
 			}
 			
 			ExtractRelations.extractRelations(directoryFrom, (directoryOutput.endsWith("/")) ? directoryOutput : directoryOutput + "/", isManFormat);
@@ -102,7 +102,7 @@ public class ExtractRelations {
 					System.out.println("Processing file \'"+file.getName()+"\'");
 					text.loadAndParseTextFile(file, isManFormat);
 					text.setOutputStream(outputFolder +filename+".txt");
-					text.setDebugOutputStream(outputFolder + filename + "-debug.txt");
+					//text.setDebugOutputStream(outputFolder + filename + "-debug.txt");
 
 					System.out.println("Extracting E2 patterns");
 					long checkpoint = System.currentTimeMillis();
