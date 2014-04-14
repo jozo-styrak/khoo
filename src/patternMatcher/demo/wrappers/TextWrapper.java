@@ -75,7 +75,7 @@ public class TextWrapper {
 		while ((line = reader.readLine()) != null) {
 			// comment allowed in text
 			if (line.trim().length() > 0 && !line.trim().startsWith("#")) {
-				line = (isManFormat) ? this.processManFormat(line) : line.trim();
+				line = (isManFormat) ? this.processManFormat(line.replaceAll("\"", "")) : line.replaceAll("\"", "").trim();
 //				System.out.println(line);
 			    Annotation lineAnnotation = new Annotation(line);
 			    pipeline.annotate(lineAnnotation);
@@ -101,7 +101,7 @@ public class TextWrapper {
 	
 	// for testing
 	public void addSentence(String s) {
-		this.sentences.add(s);
+		this.sentences.add(s.replaceAll("\"", ""));
 	}
 	
 	// lazy extraction - apply sequentaly patterns supplied by given patternFactory
