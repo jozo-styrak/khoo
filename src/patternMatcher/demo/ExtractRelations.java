@@ -8,7 +8,11 @@ import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
+import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
+import patternMatcher.demo.concurrency.FileProcessor;
 import patternMatcher.demo.patterns.PatternFactory;
 import patternMatcher.demo.wrappers.TextWrapper;
 
@@ -18,7 +22,7 @@ import patternMatcher.demo.wrappers.TextWrapper;
  * 
  * -f from what directory
  * -t where to output
- *-m if it is man format - currently always set to man format
+ * -n number of threads, default 1
  */
 public class ExtractRelations {
 	
@@ -27,6 +31,7 @@ public class ExtractRelations {
 		String directoryFrom = "";
 		String directoryOutput  = "";
 		boolean isManFormat = true;
+		int numberOfThreads = 1;
 		
 		try {
 			
@@ -35,12 +40,13 @@ public class ExtractRelations {
 					directoryFrom = args[i+1];
 				} else if (args[i].compareTo("-t") == 0) {
 					directoryOutput = args[i+1];
-				} //else if (args[i].compareTo("-m") == 0) {
-//					isManFormat = true;
+				} else if (args[i].compareTo("-n") == 0) {
+					numberOfThreads = Integer.parseInt(args[i+1]);
+				}
 //				} else throw new Exception("Unknown paramater " + args[i]); 
 			}
 			
-			ExtractRelations.extractRelations(directoryFrom, (directoryOutput.endsWith("/")) ? directoryOutput : directoryOutput + "/", isManFormat);
+			ExtractRelations.extractRelationsParallelized(numberOfThreads, directoryFrom, (directoryOutput.endsWith("/")) ? directoryOutput : directoryOutput + "/", isManFormat);
 			
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
@@ -49,7 +55,7 @@ public class ExtractRelations {
 
 	}
 	
-	public static void extractRelations(String fromFolder, String outputFolder, boolean isManFormat) throws IOException {
+	public static void extractRelationsParallelized(int numberOfThreads, String fromFolder, String outputFolder, boolean isManFormat) throws IOException {
 		List<File> FILES = new ArrayList<File>();
 		File folder = new File(fromFolder);//new File("data/aviation_reports/files/");
 		File[] files = folder.listFiles();
@@ -66,67 +72,53 @@ public class ExtractRelations {
 			throw new IOException("Error loading system settings");
 		}
 		
+		List<PatternFactory> patterns = new ArrayList<PatternFactory>();
+		
 		PatternFactory e1Patterns = new PatternFactory();
-//		e1Patterns.loadSubpatterns("data/subpatterns/e1.e2.subpatterns.data");
-//		e1Patterns.loadVerbGroups("data/verb_groups/verb.groups.e1.e2.conj.data");
-//		e1Patterns.loadPatternsDefinitions("data/patterns/e1.patterns.edited.data");
 		e1Patterns.loadSubpatterns(properties.getProperty("e1.e2.subpatterns.file"));
 		e1Patterns.loadVerbGroups(properties.getProperty("e1.e2.verbgroups.file"));
 		e1Patterns.loadPatternsDefinitions(properties.getProperty("e1.patterns.file"));
 		
 		PatternFactory e2Patterns = new PatternFactory();
-//		e2Patterns.loadSubpatterns("data/subpatterns/e1.e2.subpatterns.data");
-//		e2Patterns.loadVerbGroups("data/verb_groups/verb.groups.e1.e2.conj.data");
-//		e2Patterns.loadPatternsDefinitions("data/patterns/e2.patterns.data");
 		e2Patterns.loadSubpatterns(properties.getProperty("e1.e2.subpatterns.file"));
 		e2Patterns.loadVerbGroups(properties.getProperty("e1.e2.verbgroups.file"));
 		e2Patterns.loadPatternsDefinitions(properties.getProperty("e2.patterns.file"));
 		
 		PatternFactory e3Patterns = new PatternFactory();
-//		e3Patterns.loadSubpatterns("data/subpatterns/e3.subpatterns.edited.data");
-//		e3Patterns.loadVerbGroups("data/verb_groups/verb.groups.e3.ver03.data");
-//		e3Patterns.loadPatternsDefinitions("data/patterns/e3.patterns.all.data");
 		e3Patterns.loadSubpatterns(properties.getProperty("e3.subpatterns.file"));
 		e3Patterns.loadVerbGroups(properties.getProperty("e3.verbgroups.file"));
 		e3Patterns.loadPatternsDefinitions(properties.getProperty("e3.patterns.file"));
 		
+		// list object for all patterns
+		patterns.add(e2Patterns);
+		patterns.add(e1Patterns);
+		patterns.add(e3Patterns);
+		
 		long startTime = System.currentTimeMillis();
+		
+		// load parser
+		LexicalizedParser parser = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
+		
+		// create executor service
+		ExecutorService executor = Executors.newFixedThreadPool(numberOfThreads);
+		System.out.println("\n***** PROCESSING " + numberOfThreads + " THREADS CONCURRENTLY *****\n");
 		
 		for (File file : FILES) {
 		
 			if (file.isFile()) {
 				try {
-					long fileStartTime = System.currentTimeMillis();
-					TextWrapper text = new TextWrapper();
-					String filename = file.getName().substring(0, file.getName().indexOf("."));
-					System.out.println("Processing file \'"+file.getName()+"\'");
-					text.loadAndParseTextFile(file, isManFormat);
-					text.setOutputStream(outputFolder +filename+".txt");
-					//text.setDebugOutputStream(outputFolder + filename + "-debug.txt");
-
-					System.out.println("Extracting E2 patterns");
-					long checkpoint = System.currentTimeMillis();
-					text.extractRelationsFromSentencePairs(e2Patterns);
-					System.out.println("Extraction duration: " + String.format("%.2f", (System.currentTimeMillis()-checkpoint)/1000.0/60.0) + " min");
-					
-					System.out.println("Extracting E1 patterns");
-					checkpoint = System.currentTimeMillis();
-					text.extractRelationsLazy(e1Patterns);
-					System.out.println("Extraction duration: " + String.format("%.2f", (System.currentTimeMillis()-checkpoint)/1000.0/60.0) + " min");
-					
-					System.out.println("Extracting E3 patterns");
-					checkpoint = System.currentTimeMillis();
-					text.extractRelationsLazy(e3Patterns);
-					System.out.println("Extraction duration: " + String.format("%.2f", (System.currentTimeMillis()-checkpoint)/1000.0/60.0) + " min");
-					
-					System.out.println("Total duration for this file: " + String.format("%.2f", (System.currentTimeMillis()-fileStartTime)/1000.0/60.0) + " min\n");
-				
+					Runnable processFile = new FileProcessor(parser, file, patterns, outputFolder);
+					executor.execute(processFile);
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
-			}
-		}
+			}				
 
+		}
+			
+		executor.shutdown();
+		while (!executor.isTerminated()) {}
+			
 		// output usage data
 		PrintStream out = new PrintStream(new File(outputFolder + "usage_data.txt"));
 		System.out.println("----------- Printing e1 pattern usage -----------");
