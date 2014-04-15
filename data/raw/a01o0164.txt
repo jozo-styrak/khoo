@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+The environmental conditions at the time of the occurrence were favourable for safe VFR flight; however, a number of factors combined to allow the collision to occur. The analysis will examine those factors, including procedures at uncontrolled aerodromes and minimum equipment required for flight in Class G airspace.
+
+
+The helicopter was flying on a heading of approximately 230 magnetic as it passed one nautical mile south of Sandford Field. Simultaneously, the Cessna 170 was climbing out from Sandford Field to an altitude of between 500 and 700 feet agl on a heading of approximately 180 magnetic. The Cessna 170 pilot was climbing into the helicopter's flight path from below and to the right of the helicopter on an intercept heading of approximately 50 . The helicopter pilot did not see the Cessna because of the blind spot created by the lower right cabin wall/door of the helicopter. The Cessna pilot did not see the helicopter because of the blind spot created above and to the left by the aircraft's high wing. Although the Cessna pilot's forward visibility was not restricted, he did not see the helicopter while visually scanning the horizon during climbout.
+
+
+As the helicopter came into the Cessna pilot's field of vision, it was slightly above at the pilot's 11 o'clock position, at extremely close range. Collision was imminent, and although the Cessna pilot initiated a climbing right-hand collision-avoidance turn, he was unable to gain positive separation. The helicopter tail rotor struck the under side of the Cessna's engine cowl, and the tail-rotor blades broke. Simultaneously, the helicopter's retreating main-rotor blade struck the top left side of the Cessna's engine cowl, and the blade separated from the main-rotor system. The helicopter became uncontrollable and pitched forward to an inverted attitude. This pitching movement caused a bending moment of the remaining main-rotor blade. The blade flexed downward and severed the tail boom from the main body of the helicopter. The helicopter then descended to the ground and was destroyed by impact forces.
+
+
+Pilots are not required to make mandatory traffic advisory calls on a common frequency at uncontrolled aerodromes. The existing regulations only recommend that pilots monitor 126.7 MHz whenever practicable. Furthermore, aircraft are not required to be equipped with a functioning two-way VHF radio while operating in Class G airspace. Although see-and-avoid is the primary means of providing safe separation between aircraft operating under VFR, it has limitations and cannot always provide separation. All aircraft have inherent design limitations with respect to pilot visibility. In this occurrence, as the aircraft were merging, it was impossible for the helicopter pilot to see the Cessna approaching from below. Similarly, the Cessna pilot could not see the helicopter, because it was hidden from the pilot's view by the Cessna's high wing. Although neither pilot saw the other aircraft in time to avert the collision, the accident could have been averted had the pilots been aware of each other through other means. For example, had both pilots been monitoring the recommended VHF frequency and making position reports, they likely would have been aware of the other aircraft operating in the area and carried out a more vigilant lookout.
+
+
+On-board equipment, such as a traffic alert and collision-avoidance system (TCAS), designed to operate independently of the ATC system, will provide pilots with traffic information to assist them in visually acquiring other aircraft. Aircraft without transponders are invisible to the TCAS. The helicopter was equipped with a transponder but the Cessna 170 was not. Aircraft operating in Class G airspace, without the benefit of ATC traffic advisories, are not required to be equipped with a TCAS or a transponder. TCAS, if installed and functioning, would have warned the pilots of their proximity to other aircraft operating with transponders. A TCAS warning could have provided either pilot with adequate warning to take appropriate action to avert the collision.
+
+
+The Cessna pilot had been flying for more than 20 years and had accumulated approximately 250 hours' total flight time. He had not completed the training to obtain a pilot licence, and his skills had not been assessed by a Transport Canada-administered flight test. The pilot's skill level, therefore, cannot be assessed.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Neither pilot saw the other aircraft in time to avert the collision. The design limitations of both aircraft with respect to pilot visibility, combined with the intercept geometry, contributed to the pilots' failure to see and avoid the other aircraft.
+
+
+
+Findings as to Risk
+
+
+Neither aircraft was equipped with a traffic alert and collision-avoidance system (TCAS), depriving the pilots of a defence against collision. TCAS equipment was not required by regulation. The pilot of the Cessna 170 was not appropriately licensed. The Cessna 170 did not have a valid certificate of airworthiness. In Class G airspace, where the aircraft were operating, aircraft are not required to be equipped with a functioning two-way VHF radio, and there is no mandatory frequency on which pilots must broadcast their positions or intentions. Had either pilot been aware of the proximity of the other aircraft through direct or indirect communication, the collision might have been averted.
+

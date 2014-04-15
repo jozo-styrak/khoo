@@ -1,0 +1,25 @@
+The missing check valve springs were not recovered and it could not be determined how long they had been missing	of a missing check valve spring would go unnoticed during normal operation of the system and , therefore , could go undetected for some time
+Although the left air conditioning system continued to operate and supply the cabin/cockpit with air pressure , the pressure supplied was insufficient to overcome the rate of pressure loss created by the left system duct leak	, the cabin altitude could not be controlled and continued to climb
+either of the two packs goes off-line	the remaining pack will automatically switch to Hi flow as a normal function of the system
+the missing spring	However , the check valve remained open
+the detached PRSOV line	This allowed cabin air pressure to backflow through the inoperative right system ducting up to the PRSOV valve which had closed
+the bulkhead check valve spring been in place	the valve would have closed when the duct pressure opposing it decreased
+a missing	check valve spring would go unnoticed during normal operation of the system and , therefore , could go undetected for some time
+the independent technical	failures across both independent ACU pack systems resulted in a loss of cabin pressurization
+there were little or no air pressure entering the aircraft cabin , provided the following conditions are met	According to Bombardier analysis from other incidents , the rate of pressure loss in this case was the same as what be expected
+the lack of any other significant pressurization warnings and because the aircraft can normally operate on one pack	the crew 's initial plan to descend to 25 000 feet was reasonable
+the detached left air conditioning unit pack system air supply duct , the detached right system pressure regulating shut-off valve line , and the missing return spring	the left system bulkhead check valve resulted in the loss of cabin pressurization
+the detached left air conditioning unit pack system air supply duct , the detached right system pressure regulating shut-off valve line , and the missing return spring	the left system bulkhead check valve resulted in the loss of cabin pressurization
+The closed PRSOV valve	the right pack
+In this case the left pack did switch to Hi flow	the pressure in that respective duct system
+The additional pressure from the Hi flow	an already weak flange-to-duct joint
+Normally , one air conditioning pack operating at Hi flow is adequate for aircraft pressurization	a maximum aircraft altitude of 25 000 feet is maintained
+the fact that a low airflow supply to the instrument panel and to the avionics bay	an increased operating temperature of those particular components
+This	cabin air pressure backflow through the inoperative right system ducting up to the PRSOV valve which had closed due to the detached PRSOV line
+This	backflow of the pressurizing air to the PRSOV valve
+The left system duct had detached at the water separator	the majority of supply air from the left ACU escape from the ducting
+the left system duct leak	the rate of pressure loss
+The combined effect of the independent technical failures across both independent ACU pack systems	a loss of cabin pressurization
+According to Bombardier analysis from other incidents , the rate of pressure loss in this case was the same as what could be expected if there were little or no air pressure entering the aircraft cabin	the following conditions are met
+the missing return spring on the left system bulkhead check valve	the loss of cabin pressurization
+the missing return spring on the left system bulkhead check valve	the loss of cabin pressurization

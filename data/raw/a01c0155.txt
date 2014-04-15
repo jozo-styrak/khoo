@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+When NWA853 requested a climb to FL370, the controller used the PTL function to assess the situation; therefore, he was aware of a potential conflict with ACA3578. Because PTLs are based on current track and ground speed rather than a flight-planned track, the PTL for ACA3578 extended east past Red Lake, rather than southeast toward Sioux Lookout. ACA3578 had just requested direct to Marathon, and the controller did not confirm the routing on the ACA3578 flight progress strip. Consequently, the controller's mental picture of the track of ACA3578 was eastward from Red Lake, likely replacing any previous knowledge of the flight-planned route to Sioux Lookout. As a result, he assessed that ACA3578 would not conflict with NWA853 at FL370.
+
+
+Vertical separation of aircraft travelling in opposite directions provides a defence against loss of separation, risk of collision, and collision. Because the controller approved a wrong-way altitude for NWA853, this defence was negated. ATC MANOPS provides an additional procedural defence of a red circle around the flight progress strip altitude and 5 nm track offsets when a wrong-way altitude is in use. The controller circled the flight progress strip altitude in red but did not issue instructions to offset NWA853 from the airway. A second defence against risk of collision was thus negated.
+
+
+The Winnipeg specialty was short staffed, and there was no standback supervisor to monitor the controller's workload and provide assistance before or at the time of the occurrence. Because no second controller was performing data position duties, the controller's workload was increased and the time available for flight monitoring was reduced.
+
+
+The controller was aware of air traffic flow management restrictions. However, despite the restrictions, he approved a wrong-way altitude for NWA853 and took steps to provide a direct routing for ACA3578. From 2024:58 until 2026:30, the controller was occupied with activities related to the wrong-way altitude for NWA853 and the direct routing for ACA3578. Because of these activities, his attention was likely diverted from monitoring traffic on the IM at a time when a conflict between NWA853 and ACA3578 could have been more easily resolved.
+
+
+Diverting attention away from the IM for any length of time breaks down the defence afforded by effective scanning techniques. Without other defences in place, such as automated conflict alerting or a second controller working the data position, the controller's attention was not directed back to a developing conflict.
+
+
+When the controller's attention was directed back to the IM, he recognized a conflict and took measures to separate the aircraft. He did not use safety alert phraseology, but his instructions to ACA3578 were effective in that the aircraft did turn. NWA853 had just levelled off at FL370 when cleared to maintain FL350. The crew were not expecting a descent clearance, nor were they aware of oncoming traffic; therefore, the controller's issuance of a descent clearance was not compelling enough to trigger an immediate corrective response. Rather than accepting and complying, NWA853's initial response was to question the descent clearance. The query prompted the controller to issue an ambiguous instruction to descend, followed shortly by a very clear instruction to descend. The initial use of a descent clearance, rather than safety alert phraseology, increased the time needed to achieve the required spacing between the two aircraft and increased the time the two aircraft were at risk.
+
+
+TCAS operates independently of ATC and produces complementary RAs for each aircraft involved. Because of the independent operation of TCAS, the controller could not know when a TCAS RA would occur and also could not know that the TCAS RA would contradict instructions he issued. Because TCAS and ATC are not coordinated and because each crew decided independently on their course of action, there was a chance that one crew would follow the controller's instructions and that the other crew would follow the TCAS commands, thereby negating the defence of complementary TCAS commands and increasing the risk of collision.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The controller cleared NWA853 to an altitude inappropriate for direction of flight, did not issue instructions to establish NWA853 five nautical miles offset from the airway, and did not monitor the flight paths of NWA853 and ACA3578 closely enough to prevent a loss of separation. The controller's expectation that ACA3578 would track eastward from Red Lake was incorrect. He therefore did not recognize the need for a separation plan in conjunction with a wrong-way altitude clearance for NWA853. The controller's workload was assessed as high, with high complexity. He further increased his workload by approving the wrong-way altitude for NWA853 and by coordinating a direct routing for ACA3578. High workload reduced the time available for monitoring the flight paths of NWA853 and ACA3578. The Winnipeg specialty was understaffed by two controllers, resulting in increased workload for controllers on duty.
+
+
+
+Findings as to Risk
+
+
+At the time of the occurrence, an automated conflict alerting system was not available to alert Canadian controllers of impending air traffic conflicts. The time that the two aircraft were exposed to a risk of collision was increased because the controller did not use standard safety alert phraseology. The practice of combining radar and data positions in a sector reduces the opportunity to detect conflicts and take timely action to prevent losses of separation. Risk of collision was increased because TCAS and air traffic control are not coordinated. Each flight crew independently decided to disregard the TCAS resolution advisory commands because they were contradictory to instructions the controller had already issued. At the time of the occurrence, there was no standback supervision in the Winnipeg specialty. The acting team supervisor was not expected to function as a supervisor, was working at a control position before and during the time of the occurrence, and was unable to adequately carry out any supervisory function. CARs do not require traffic alert and collision-avoidance systems (TCASs) to be installed in aircraft flying in Canadian airspace.
+
+
+
+Other Findings
+
+
+The controller refresher training on safety alert phraseology was not effective.
+

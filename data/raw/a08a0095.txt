@@ -1,0 +1,45 @@
+
+
+Analysis
+
+
+During engine overhaul, the linkpin plugs had not been installed in the linkpins. Over the 90 hours since the engine was overhauled, the absence of the linkpin plugs allowed a reduced oil pressure at the master rod bearing and crankpin interface. This caused increased heat due to friction, accelerated wear, and smearing of the bearing material, resulting in the lack of lubrication to critical engine components.
+
+
+With a normally running engine, oil circulating through the engine oil system is routed through the oil filter, capturing any debris or contaminants. During the engine examination, no debris was noted in the engine oil filter. This indicates that the engine failed catastrophically due to inadequate lubrication to the linkpin bushings.
+
+
+The Beaver flight manual and flight training guidance states that a pilot must maintain a safe airspeed to assure full control of the aircraft by lowering the nose and landing straight ahead. During the forced approach the aircraft turned through approximately 130 ; this decision was based on finding a more suitable landing area than the terrain located straight ahead of the aircraft.
+
+
+During the turn, the aircraft's airspeed decreased and the aircraft entered an aerodynamic stall at a height where successful recovery was not possible. This resulted in a rapid descent and considerable impact with the bog. Had the pilot followed the guidance of the Beaver flight manual and proceeded straight ahead while maintaining a safe flying speed, the crash landing could possibly have been less violent.
+
+
+Industry practice is such that the green arc (70 to 90 psi) on the oil pressure indicator is usually described as the safe operating range. However, the Beaver aeroplane equipped with the Pratt and Whitney R985 can be operated as long as the engine oil pressure is within the 50 to 100 psi range (between the red arcs on the indicator). This inconsistency with industry practice could lead to confusion and inadvertent landings if a pilot thought the oil pressure was too low while operating the engine out of the green arc.
+
+
+Had the pilot worn the shoulder harness, it is likely that his injuries would have been less severe.
+
+
+The following TSB Laboratory reports were completed:
+
+
+LP 115/2008 - Engine Teardown LP 116/2008 - GPS Download
+
+
+These reports are available from the Transportation Safety Board upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The linkpin plugs had not been installed in the recently overhauled engine, causing inadequate lubrication to the linkpin bushings, increased heat, and eventually an abrupt engine failure. Immediately following the engine failure, while the pilot manoeuvred the aircraft for a forced landing, the aircraft entered an aerodynamic stall at a height from which recovery was not possible.
+
+
+
+Finding as to Risk
+
+
+The failure to utilize available shoulder harnesses increases the risk and severity of injury.
+

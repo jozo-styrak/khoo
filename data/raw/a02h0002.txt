@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+The first east satellite sector controller inadvertently deleted the flight plan of C-GLJM while performing normal organizational duties associated with the coast list. The design of the radar processing system is such that the single action required for the deletion of track information from the coast list also deletes all flight plan information on the aircraft. As a result, when the SSR target for C-GLJM was re-acquired, there was no flight plan information available to correlate with the new target. Because the Mode C altitude readout for C-GLJM was not functioning, there was no indication on the RSiT that this aircraft was flying at 6000 feet. The type of radar target displayed on the RSiT was, therefore, similar to other non-identified, uncontrolled targets and was not considered significant by any of the controllers. The east satellite sector relied heavily on radar because of the large number of transient VFR aircraft that ask for temporary radar services and by the generally short time that aircraft are in the sector. Because the radar target for C-GLJM did not correspond to those he normally controls, the controller's situational awareness was reduced to the point that he forgot about C-GLJM
+
+
+The change of responsibility briefing by the first east satellite sector controller reflected his reliance on radar displayed information. Because the target for C-GLJM was not shown as known radar traffic, it was not mentioned by the first east satellite sector controller nor was it matched with the flight progress strip. When the flight progress strip was later reviewed by the second east satellite sector controller there was no indication on the strip that C-GLJM had made contact and was active traffic in the sector. The use of radar traffic displayed on the RSiT to cross reference with the flight progress strips meant that the presence of the flight progress strip for C-GLJM without an associated radar target was not noticed. The flight progress strips did not, therefore, serve as a back-up method for tracking active flights.
+
+
+The presence of uncontrolled VFR targets below and surrounding the controlled airspace in the Toronto area may desensitize controllers to the presence of aircraft with which they are not in contact. As a result, traffic information may not always be passed, under the assumption that these aircraft are not flying within controlled airspace. The practice of handing-off departing aircraft to subsequent controllers prior to the normal airspace boundaries meant that there was a tacit confirmation from the controller responsible for the airspace that there was no known conflicting traffic for that departing aircraft. Traffic information or avoiding vectors were not issued to the crews of either aircraft.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The flight plan of C-GLJM was inadvertently deleted from the coast list which resulted in the loss of all displayed flight data for that target on the radar monitor. The aircraft was forgotten because the identifying flight data was not displayed on the radar data processing system situation display (RSiT). There is no provision for deleting data from the coast list, without, at the same time, deleting the entire flight plan. When the radar system re-acquired the secondary surveillance radar (SSR) target for C-GLJM, there was no flight data available to post in the target data block. The target for C-GLJM was not evident on the monitor and was not referenced to the active flight progress strip during the change of responsibility briefing. The method of conducting the change of responsibility briefing, by first referencing traffic on the radar monitor against flight progress strips, led to the flight being overlooked. The radar target for C-GLJM was not recognized as conflicting traffic for JZA7868. Therefore, the flight crews of JZA7868 and C-GLJM were not issued traffic information or vectors to avoid each other.
+
+
+
+Findings as to Risk
+
+
+The early handoff to the next sector, may have led to the assumption that unidentified targets in the vicinity would be at low level and of no concern to departing climbing aircraft such as JZA7868. The deletion of the flight data from the coast list also deletes the associated flight plan. The deletion is completed with a single input action without an opportunity for confirmation that the deletion of all the aircraft data, including the flight plan, is the desired course of action.
+

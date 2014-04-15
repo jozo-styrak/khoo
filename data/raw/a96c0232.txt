@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The aircraft's weight and centre of gravity were within approved limits during the accident flight. The aircraft's electrical and hydraulic systems apparently functioned normally during the flight, until the aircraft landed at Winnipeg.
+
+
+Although the crew shut down the aircraft's engines as soon as the aircraft sank to the runway, pieces of the propellers broke off and penetrated the fuselage, disrupting electrical cables and hydraulic lines.
+
+
+The crew and witness reports indicate that the crew selected the landing gear down during the approach, and that the gear extended to the down position well before the aircraft landed. The distance travelled by the aircraft on its landing gear and its reduction in speed during that time make it likely that the aircraft's weight was substantially on the landing gear before the gear retracted after landing. The serviceability of the landing gear weight-on switches and oleo extension make it unlikely that the hydraulic power pack received an "up" signal from the landing gear selector in the cockpit after the aircraft touched down.
+
+
+Part of the flap wiring harness at the terminal strip was enclosed by soft plastic tubing, and the gear harness in that area was wrapped with spiral wrap; however, these measures did not adequately protect the wiring, and the wiring sustained abrasion damage as a result. Although these measures did not contravene existing regulations, they did not meet the standards of acceptable engineering practices.
+
+
+The most likely accident scenario is that the hydraulic power pack received an electrical "up" signal and lost its normal electrical "down" signal, which resulted in the retraction of the landing gear. The serviceability of the landing gear and the electrical circuitry leading to the terminal strip indicate that the most likely source of the electrical "up" signal was the area between the terminal strip and the hydraulic power pack containing bare electrical wiring for the landing gear and flap systems. The oily condition of this wiring, together with the wet, slushy runway conditions at Winnipeg and Regina and the use of chemical de-icing fluids, increased the likelihood of electrical short circuits in the area of the terminal strip and the power pack connectors.
+
+
+Although the Fairchild inspection sheets require the removal of 11 panels to complete the zone 5 heavy inspection, they do not identify or refer to the hydraulic power pack transmitter access panel. The extensive detail contained in the sheets and panel diagrams suggests that the procedures contained therein are sufficient to accomplish the inspection, and that further inspection and panel removal is not required. However, the procedures contained in the zone 5 check cannot adequately accomplish the objective, stated in Section 1 of the Phase Inspection Program, of inspecting the condition of the power pack and associated electrical harnesses without the removal of the transmitter access panel. Because the components involved are "on condition" with no mandatory replacement interval, inspection of the area is unlikely to occur under the existing inspection program until a component fails.
+
+
+The inspection procedures outlined in the manufacturer's Phase Inspection Program and the MCM, in referring to panels which are not illustrated and in requiring the inspection of items which are not accessible by following the listed procedures, are ambiguous and reduce the effectiveness of the inspections.
+
+
+
+Findings
+
+
+The crew was certified and qualified for the flight. The aircraft's weight and centre of gravity were within approved limits throughout the accident flight. The crew selected the landing gear down during the approach, and the gear was extended before the aircraft landed. The aircraft rolled on the landing gear wheels for about 2,000 feet on runway 36 before the gear began an uncommanded retraction. The aircraft records indicate that the aircraft was certified and maintained in accordance with existing regulations. It is unlikely that the hydraulic power pack received an "up" signal from the landing gear selector in the cockpit after the aircraft touched down. The electrical wiring harnesses of the landing gear and flap systems between the left nacelle terminal strip and the hydraulic power pack had numerous small areas of chafed insulation, exposing bare wiring. The repairs that had been made to the wiring harnesses after the aircraft entered service with the operator did not adequately protect the harnesses from chafing and were not in accordance with acceptable engineering practices. The wet, slushy conditions at the departure and landing runways and the oily condition of the wiring harnesses were conducive to electrical faults in unprotected wiring. The manufacturer's Phase Inspection Program and the operator's approved maintenance program are ambiguous and do not clearly require the inspection of the hydraulic power pack or its wiring harness area. Parts of the propeller blades penetrated the fuselage and disrupted the electrical and hydraulic systems.
+

@@ -1,0 +1,25 @@
+the aircraft 's approach had positioned the aircraft at 50 feet above the threshold	with all other factors remaining the same , the aircraft have used 6625 feet to stop
+the braking profile had matched that of previous flights	even with a threshold crossing height of 75 feet , the aircraft have required 6700 feet from threshold to full stop
+The pilots were aware of the wet runway conditions and the approximate landing distance required	, they should have been aware of the requirement for a normal touchdown point on the 8000-foot runway , typically about 1000 feet from the threshold
+what happened in the cockpit and , consequently , with the aircraft	reconstructing
+preserving all evidence	including that provided by the CVR
+an electrical , mechanical , or hydraulic brake problem existed at the time of the landing	It not be determined
+The AFM factored landing field length of 6500 feet	a safety margin in the event of a problem or long landing
+Several operational and human factors	the occurrence
+a slower flap 45 approach	a shorter landing distance
+in a shorter landing distance	the risk of hydroplaning
+The influences	this were the turn to intercept the localizer at close range , the need to begin the final descent to land , and the realization that it would be difficult to slow the aircraft enough for the flap 45 approach
+of the need for a firm landing	the risk of hydroplaning
+the anti-skid system modulating brake pressure	wheel lockup
+the anti-system	the brakes come into full effect and effectively slow the aircraft
+into full effect	the aircraft
+the CVR	that
+Interference with the CVR obstructs the work of the investigation	the Board reporting publicly on causes and safety deficiencies
+The approach to Runway 25 was high , fast , and not stabilized	the aircraft touching down almost halfway down the 8000-foot runway
+this most likely	the aircraft hydroplaning on touchdown
+The anti-skid system most likely	the brake pressures rising to normal values until 16 to 19 seconds after weight on wheels , resulting in little or no braking action immediately after landing
+The anti-skid system most likely prevented the brake pressures from rising to normal values until 16 to 19 seconds after weight on wheels	little or no braking action
+The flight crew were	to recognize and react to the lack of normal deceleration
+This delayed the transfer of control to the captain	the runway overrun
+This	the transfer of control the captain
+Interference with the CVR obstructs TSB investigations	the Board reporting publicly on causes and safety deficiencies

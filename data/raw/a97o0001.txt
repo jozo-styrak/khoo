@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+The only anomaly found on examination of the aircraft and crash site was that the rudder trim was close to its full left rudder trim position, while the indicator showed full right trim. Because the trim is manual, and the time from when the pilot first experienced difficulty controlling the aircraft until it crashed was very short, it is unlikely that the pilot made any rudder trim adjustment after initially setting the trim for take-off. Therefore, barring any tampering with the aircraft after the crash, it is probable that the rudder trim was set to the left before the pilot started his take-off. During taxi, the three left turns to position the aircraft on the runway centre line may have hidden the fact that the rudder trim was not in the neutral position as the pilot expected. With the rudder trim deflected, the rudder pedals and nosewheel would also be deflected to about their travel in the same direction as the trim. The pilot did not comment on rudder pedal position, so it could be that he interpreted some deflection as a result of the left turns. With the trim set to nearly full left, full rudder authority would still be available; however, pressure on the opposite rudder pedal would be required to maintain the rudder and nosewheel in their neutral positions.
+
+
+Under normal circumstances, the rudder trim would be approximately neutral for take-off. The pilot indicated that he exercised the rudder trim and set it for take-off, and it is inconceivable that he would intentionally set the trim to the nearly full left position. It is likely that when the pilot entered the aircraft, the rudder trim indicator was indicating right rudder although the trim was actually neutral or near neutral. When the pilot exercised the rudder trim, he would have brought the indicator to neutral but, in so doing, moved the rudder trim to almost full left. It was demonstrated that the trim indicator could be moved without moving the trim wheel and without affecting rudder position. This could have been done by some inadvertent action, such as dragging a coat over the trim indicator while a pilot was exiting the aircraft.
+
+
+With the rudder deflected to the left, as it would be with the trim set to nearly full left, the aircraft should have yawed and rolled to the left during the take-off. However, the pilot stated that he applied left rudder and left aileron in his attempt to control the yaw to the right. No satisfactory explanation was found to account for this inconsistency.
+
+
+
+Findings
+
+
+During the take-off, the aircraft reportedly yawed to the right, and the yawing became more pronounced as the airspeed increased. The pilot reportedly applied left rudder and left aileron in his attempts to maintain control of the aircraft, but he was unsuccessful and it crashed. Prior to the take-off, the pilot verified rudder trim operation but did not turn the trim wheel through its full left and right travel, as required by the checklist. The pilot set the rudder trim indicator pointer to the slightly right-of-centre position for take-off. The rudder pedal actuator nut was found in the aft direction with one thread on the shaft exposed, which equates to the rudder being positioned at approximately the full left trim position. The rudder trim indicator could easily be moved, without moving the trim wheel or affecting the actual rudder trim position, to indicate any trim setting. The aircraft take-off weight and centre of gravity were within approved limits.
+

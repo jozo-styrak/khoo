@@ -1,0 +1,15 @@
+This report concludes the TSB 's investigation into this occurrence	, the Board authorized the release of this report on 19 September 2002
+fretting	wear between the second-stage ring gear and the magnesium mating splines of the RGB case
+the friction to a point where the oil immediately surrounding the particle will breakdown , depositing a thin carbonaceous layer around the particle	The magnesium dust particles are heated
+excessive fretting of the RGB housing splines	Implementation of these inspections and compliance with the service bulletin have been successful : there have been no reported catastrophic failures
+was turned on demanded a large electrical load	idle -LRB- 65 % Ng -RRB- , and the equipment
+the engine was able to accelerate from ground idle to flight idle speed with the electrical equipment already selected	it is likely that the 300-A draw and the engine power loss were coincidental and that the draw did not contribute to engine power loss
+The engine power loss and fretting of the RGB case mating splines were not considered an engine failure	did not affect the engine 's reliability record
+the mating splines of the RGB case	magnesium dust particles being released into the engine oil
+Inspection of the fuel system did not reveal any sign of water , and testing and disassembly of the FCU , fuel pump , and flow divider did not reveal any anomalies	the power loss
+the generator	to meet the demands of charging the battery and running the equipment
+Once flight idle -LRB- 75 % Ng -RRB- was selected , the generator was more able to meet these demands	a 300-A draw on the amperage gauge
+the generator was	these demands , which resulted in a 300-A draw on the amperage gauge
+the draw did	engine power loss
+case	a magnesium count in the engine oil
+The electrical power draw did	the engine power loss

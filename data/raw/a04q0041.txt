@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+Two elements indicate that the tendency to roll encountered on departure from Montr al was caused by the aileron trim tab being up: the procedure for a runaway trim tab corrected the situation, and it was in the neutral position on arrival at Qu bec. However, it is difficult to say why the trim tab was deflected upward. Because the previous flight crew ensured that the trim tab was centred and it was not used during the flight, it can be concluded that it was centred when the aircraft arrived at Montr al. It is possible that the trim tab was actuated accidentally on the pre-flight checks or when the propeller balancer was installed. Having forgotten the indicator malfunction, and considering that it may have been working properly that day, the crew probably used it as a reference to align the trim tab before take-off. However, incorrect adjustment of the trim tab during previous maintenance may have contributed to an incorrect indication in the cockpit, leading the pilots to believe that the trim tab was correctly aligned when it was in fact deflected five degrees upward.
+
+
+Entries in the flight plan and in the logbook were defence mechanisms to advise the pilots of the indicator malfunction. The arrangement of the logbook given to the captain (that is, the fact that there were two Part 2s) made it less clear that there was an entry stating that the indicator was defective. Despite the fact that the logbook was given to the pilot only a few minutes before departure, he had enough time to review it properly since the aircraft left the ramp seven minutes before the scheduled departure time. The absence of a placard failed to advise the pilots of the indicator malfunction before departure.
+
+
+When the tendency to roll left occurred, the crew should have noticed the inconsistency between the position of the indicator and the tendency to roll. It was not normal that a runaway trim tab to the right caused a tendency to roll left. A placard would have revealed that inconsistency. However, the runaway trim tab procedure corrected the roll tendency.
+
+
+The indication of maximum trim tab deflection led the captain to believe that resistance was created by the loss of a panel. This conclusion was based on the absence of the severe vibrations that had been reported to him and on the false indication provided by the defective indicator. Here again, the presence of a placard would have enabled the pilots to not take into account the indicator in their analysis of the observed anomaly. Other elements would have helped them realize that the trim tab was not fully deflected as they believed it to be. It was possible to visually check the position of the trim tab from the cabin, which was not done. Also, the position of the ball on the turn indicator would have enabled them to understand more clearly what was happening. If the aileron trim tab had been fully deflected to the right as indicated, the crew would have had to apply rudder to keep the ball in the centre, which was not the case.
+
+
+The flight dispatcher and the maintenance coordinator knew that the indicator was defective. It could not be determined why they did not recall that it was defective. In such a case, they could have passed this information on to the pilots and the director of flight operations, which would have allowed them to make a more accurate assessment of the situation.
+
+
+When the crew received the first instruction to not continue the approach, they were in full control of the aircraft. The aircraft was configured for landing and the approach was stabilized. But the situation still seemed abnormal, which made them uncomfortable with the idea of executing a missed approach. However, on receiving the second instruction to go around, the crew decided to comply. Although the final decision is up to the pilot-in-command, it is possible that he felt he had to comply.
+
+
+During the course of this occurrence, the assistant chief dispatcher went from the role of supervisor to that of flight dispatcher unbeknownst to the actual flight dispatcher. It is possible that his actions were influenced by the presence of people in his office. The flight dispatcher had a better overall view of the situation and should have been involved in the decision-making process leading to the missed approach. This would have avoided the confusion that was created surrounding the telephone calls with the control tower. This confusion contributed to a delay in the last transmission of the instruction to the pilots to execute a missed approach, which placed the crew in a precarious situation, that is, a missed approach at low altitude.
+
+
+The decision to order a missed approach provided more time for management personnel to diagnose the problem and find a solution. However, it would have been preferable to take into consideration the lack of precision in the aircraft position provided by radar. The aircraft was closer to the ground than they thought, and it executed a missed approach at very low altitude. Considering that the landing is a critical phase of flight and that many accidents occur during the landing phase, it can be concluded that the risk associated with the missed approach close to the ground was high.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aileron trim tab was improperly aligned, which contributed to the tendency of the aircraft to roll on departure from Montr al. The absence of a placard near the indicator and the arrangement of information in the logbook contributed to the crew being unaware of the defective aileron trim tab indicator.
+
+
+
+Findings as to Risk
+
+
+Poor task distribution between the assistant chief dispatcher and the flight dispatcher created confusion in the telephone conversations with the tower controller, which delayed transmission of the second order to execute a missed approach, resulting in a missed approach at very low altitude. The trim tab had been improperly adjusted during prior service; an incorrect indication of the position of the aileron trim tab in the cockpit might have resulted if the indicator had been serviceable.
+

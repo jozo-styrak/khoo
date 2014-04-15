@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The correspondence between the data from the FDR and the recorded ATS radar data indicates that the aircraft reached a maximum nose-up attitude of 52 degrees. The crew's belief that the aircraft's nose-up attitude during the flight upset was steeper than registered in the FDR is understandable. The rapid onset of the pitch-up and the steep attitude achieved would have made accurate assessment of the pitch angle very difficult, particularly while the crew was attempting to regain aircraft control. The visual weather conditions, experience level of the pilot, and the physical strength of the first officer were likely significant factors in the successful recovery of the aircraft. The crew's immediate and coordinated action was critical to avoiding an aerodynamic stall and the probable loss of aircraft control.
+
+
+The remainder of this analysis will focus on the technical issues regarding the pitch trim actuator. The pitch-trim actuator, S/N 115, failed in a condition which allowed the horizontal stabilizer trim surface of the aircraft to move to an extreme travel position thereby causing an immediate and rapid uncommanded nose-up deviation of the aircraft. The loss of control of the horizontal trim movement resulted when the mechanical "no-backs", within the actuator unit, failed to hold the stabilizer trim surface load. Failure of the "no-back" restraint probably caused the subsequent failure of a bearing in the actuator geartrain. The failure of the bearing permitted the gear that it was supporting to disengage the gear mesh from the rest of the geartrain. Under normal circumstances, the geartrain, in conjunction with the motor brake, provides a redundant system which will hold the stabilizer load should the "no-back" mechanism fail. The combined failures of the "no-back" mechanism and of the gear bearing allowed the uncommanded motion of the actuator output tubes and stabilizer.
+
+
+No other similar actuator units, that have been returned to the Barber-Colman Company for repair or overhaul, have displayed the type and extent of damage exhibited by the S/N 115 unit. There have been no other similar actuator failures reported, and despite extensive testing by the manufacturers, the noted failure of the S/N115 actuator could not be duplicated. Therefore, the uncommanded output tube movement of this specific unit remains an isolated occurrence that was likely caused by the effects of undefined repeated loading conditions, which progressively forged the actuator "no-back" rollers into a configuration that ultimately prevented them from holding the actuator output tubes in position against the stabilizer flight loads. There were no
+
+
+reports indicating that the aircraft had been subjected to heavy turbulence or abnormal flight conditions prior to the uncommanded runaway trim condition. Neither the teardown of the actuator nor the examination of the aircraft revealed the source of the repeated heavy loading. The inspection requirements of AD 97-23-01 have been put in place to assess and remove actuators from service before the no-back rollers fail in this manner.
+
+
+The following TSB Engineering Branch reports were completed:
+
+
+LP 130/97 - FDR/CVR Analysis LP 132/97 - Pitch Trim Actuator Examination
+
+
+
+Findings
+
+
+During the descent on approach for landing, the aircraft entered an abrupt uncommanded pitch-up. The physical force required to overcome the nose-up force of the horizontal stabilizer tasked the strength and endurance of the young and physically strong co-pilot. The visual meteorological conditions facilitated the re-establishment of aircraft control and the recovery from the nose-high, low airspeed flight condition. The internal "no-back" and geartrain mechanisms failed within the pitch trim actuator (Barber-Colman P/N RYLC-51438-1 / Fairchild Aircraft P/N 27-1900-002 ). Unrestrained by the "no back" mechanisms and influenced by air loads, the horizontal stabilizer moved rapidly to a full nose-up trim condition. Despite considerable testing, neither Fairchild nor Barber-Colman could duplicate the failure of the actuator "no-back" roller mechanism.
+

@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+It was established that the engine flameouts were caused by ice in the engine air inlet ducts lifting up as a solid sheet interrupting the airflow to the engines and causing them to flame-out. Two possible scenarios were established for the ice built up in the engine air inlet ducts. One scenario is that there was water in the engine air inlet ducts when the aircraft was removed from the hangar. This water went undetected during the inlet inspections and then froze into a solid sheet. The other scenario is that the engine air inlet ducts were clean when the engine inlet plugs were removed for engine start and that a sheet of ice formed in each engine inlet duct after engine start.
+
+
+The first scenario postulates that because the aircraft had arrived in Sydney in blowing snow conditions, snow/ice accumulated in the inlet duct before the aircraft was placed in the unheated hanger. Although this is likely, (either from in-flight accumulation or from after landing accumulation, or a combination of both) it was not verified that snow/ice was present. If snow/ice had accumulated, it would have melted because the temperature inside the hangar was slightly above freezing and the residual engine heat in the inlets would have raised the inlet temperature after the aircraft engines had been shut down. Water from the melted ice that would have normally drained out the inlet duct drain holes would have remained in the inlet because of the drain hole blockages. When the aircraft was removed from the hangar the next day, the water in the bottom of the inlet ducts froze. This water and/or ice went undetected by the flight crew or the ground handler when he installed and removed the inlet plugs.
+
+
+Thirty minutes after the aircraft was removed from the hangar the right engine was started and run for five minutes to heat the aircraft. Both engines were started 46 minutes after the aircraft was out of the hangar. Of the total period outside the hangar before both engines were started, the plugs were estimated to have been in place for 20 minutes, leaving the inlets exposed to the wind and blowing snow for 26 minutes, with the right engine running for 5 minutes of that. The heat transfer analysis concluded that, in conditions similar to those on the ramp on the day of the occurrence (temperature -1 C, wind 10 knots), inch of water could freeze in 30 minutes. Given that any water in the inlet ducts would have been exposed (plugs removed) to the wind prior to engine start for approximately 10 minutes with respect to the right engine, and slightly less than 30 minutes for the left engine, the heat transfer analysis conclusion may not be completely appropriate for both engines. The left engine, however, would have been exposed to the -1 C temperature for about 46 minutes.
+
+
+Heat transfer analysis also concluded that the conditions on 03 April 2001, after engine start, were not conducive to inlet duct icing and consequently, the inlet icing could not have occurred as described by the crew unless there was a pre-existing, ground-accumulated ice sheet. Previous occurrences where it has been concluded that inappropriate ground handling procedures resulted in an ice/snow build-up in the engine inlets were also used to support the first scenario.
+
+
+The second scenario postulates that the inlet ducts were clear of water and ice prior to engine start and that ice developed in the inlet ducts after the engines were running. In this scenario, there is agreement that any ice present on arrival the night before would have likely melted after the aircraft was put in the hangar. There is disagreement, however, regarding the presence of ice or water in the inlet ducts prior to engine start, because the ground handler's direct visual and tactile inspection of the inlets showed them to be clear. Further, ice formation in flight is supported by the pilots' observations from the cockpit of ice forming in the inlet ducts after take-off, and the fact that there was no ice visible in the inlet ducts after the flame-outs. The incident of 05 December 2001 and other ACR in-flight-icing reports confirm that inlet duct icing can occur.
+
+
+Theoretical modeling was used to develop the conclusions in the first scenario. The second scenario relies on ACR personnel statements that no ice was present before engine start and that the proper ground and flight procedures were followed. While it is not possible to determine conclusively which scenario is accurate, the implications of either possibility are serious.
+
+
+To deal with the first scenario and ensure that inlet ice contamination on the ground will not result in an engine flame-out, the manufacturer introduced additional ground handling safety defenses. These procedures have been implemented by ACR.
+
+
+The second scenario, that the multiple in-flight engine flame-outs may have been caused by ice accumulation after the engines were started, cannot be discounted as a possibility. Therefore, even though engine ignition successfully re-started the engines on this occasion, appropriate follow-up action is required to ensure that the risk of significant in-flight ice accumulation causing flame-outs is adequately assessed.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+It was determined that the engine flame-outs were caused by ice in the engine air inlet ducts lifting up as a solid sheet interrupting the airflow to the engines and causing them to flame-out. It could not be determined conclusively how the ice formed in the inlet ducts.
+
+
+
+Findings as to Risk
+
+
+Three of the four drain holes in the right engine inlet duct were completely blocked and the fourth was partially blocked, which increased the risk that water could pool and freeze in the duct.
+

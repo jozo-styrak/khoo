@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+The engine power loss was caused by the make-shift inspection aid partially blocking off the compressor inlet. The analysis will concentrate on the chain of events that resulted in the inspection aid being left in the engine inlet area and the altitude at which the check flight was carried out.
+
+
+The make-shift inspection aid was likely used to prop open the engine by-pass door by the AME who was dispatched on forest fire fighting duties. Prior to the second AME working in this area, the tube was likely dislodged, coming to rest aft of the door where it was hard to see; the AME did not detect the tube when he carried out the inspection for foreign objects. There was no flag attached to the tube, which would have made detection easier, and there was no procedure in place to ensure that all tools were removed, such as a sign off section on the inspection sheets or a tool shadow board.
+
+
+The flight was carried out at an altitude of 300 feet agl over a forest. There is no requirement to be at such a low altitude on a check flight. In general, the lower the altitude at which there is a loss of power, the less likely it is that a pilot will be able to reach a suitable landing area and successfully complete an autorotational landing.
+
+
+
+Findings
+
+
+An un-flagged, make-shift aid was used to facilitate inspection and was left in the engine inlet area. There was a change of maintenance personnel part way through the inspection. The second AME did not see the make-shift aid when he carried out the inspection for foreign objects; consequently, it was not removed prior to the flight. There was no procedure in place to ensure that all tools were removed and accounted for on the completion of an inspection. The engine flamed out when the make-shift inspection aid partially blocked off the engine compressor. The pilot extended the glide to reach the woods road, and, as a consequence, the rotor rpm decayed resulting in a hard landing. The operator had not issued any directives specifying a minimum safe altitude for test check flights.
+

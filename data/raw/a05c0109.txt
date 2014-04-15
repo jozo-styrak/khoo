@@ -1,0 +1,34 @@
+
+
+Analysis
+
+
+Landing with an approach speed of about 100 mph and a tailwind of 23 mph would nearly double the aircraft's normal touchdown speed and greatly increase the impact forces on water contact. The increased impact forces would have been further amplified by the rough water conditions that existed at the time of the accident. The force sustained on this particular landing was enough to cause the float attachment fittings to fail in overload.
+
+
+The aircraft was being operated without due regard for several regulations and safe practices designed for the safety of the crew, the passengers and other aircraft. The passengers were not safely seated and strapped in; the approach was flown downwind, resulting in a high-speed, hard landing; the weather conditions were below those required for VFR operations in a control zone; the pilot's intentions were not broadcast on the mandatory radio frequency; and ATC and the crew of the IFR aircraft were unaware that C-FEXL was operating within the Thompson control zone.
+
+
+The absence of witnesses, communication with ATC, and an ELT signal resulted in the accident remaining undetected for nearly three hours.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot flew the approach at high speed, with a 23 mph tailwind, and landed in rough water, resulting in a hard landing. The impact forces on landing caused the float attachment fittings to fail; the aircraft's floats dug in and the aircraft overturned.
+
+
+
+Findings as to Risk
+
+
+The required mandatory frequency broadcasts were not made, creating a risk of collision between C-FEXL and the instrument flight rules aircraft. The aircraft was operated within a control zone in weather conditions that were below allowable limits for such operations. The aircraft was operated within a control zone without the required special visual flight rules clearance from air traffic control (ATC). The pilot and front seat passenger were not wearing the available seat belts, which increased the risk of serious injury. Proper seating and restraints were not provided for the rear passenger.
+
+
+
+Other Finding
+
+
+The absence of a functioning emergency locator transmitter on board the aircraft and the aircraft's unknown presence within the Thompson area precluded ATC from alerting emergency services. As a result, emergency personnel did not respond to the accident.
+

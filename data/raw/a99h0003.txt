@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+Controllers have the responsibility to provide safe, orderly, and expeditious movement of traffic under their control. Local and standard operating procedures assist controllers in completing this task. Many procedures also include provision to allow controllers to coordinate out of these procedures to better react to varying circumstances.
+
+
+If controllers use other-than-standard operating procedures, there is a requirement for increased vigilance and additional safety checks to ensure the level of safety is not compromised. This often results in an increased workload for the controller. With arrival and departure controllers routinely coordinating altitudes below those specified in the standard operating procedure for arriving aircraft, they increase their workload by having to pay extra attention to the aircraft's flight path until any potential conflict has been satisfactorily resolved. When controllers routinely coordinate out of a standard procedure to meet aircrew's requests or to provide an expeditious service, management has a responsibility to review the procedure to determine whether it is still fulfilling its intended purpose. Management must also ensure that the alternate methods used by controllers still provide the equivalent level of safety.
+
+
+In this occurrence, the arrival controller assumed there was no other traffic of concern to the arriving Navajo, because none had been mentioned to him by the departure controller. The departure controller did not anticipate that the Mooney about to depart to the west would conflict with the arriving aircraft. The standard procedures of leaving the arriving aircraft at 7000 or 5000 feet and limiting departing aircraft to 4000 feet was circumvented without additional checks or defences being put in place. The standard procedure in Operations Letter OL-97-006 does not define what additional safeguards must be in place if alternate methods are employed, other than to state "as coordinated". Without the defence provided by the arrival and departure controllers exchanging traffic information, neither controller recognized the impending conflict or the requirement to monitor the traffic more closely in an area in which the normal defences provided by the standard operating procedures were circumvented.
+
+
+Both the arrival and departure controllers had focussed their attention on the area in which most of the traffic under their control was concentrated, that is, to the east of the airport. The arrival controller was specifically focussing his attention on an arriving aircraft to the southeast, where a pilot had requested a type of approach that did not exist. The arrival controller was, therefore, attempting to determine this aircraft's requirements in the seconds before the loss of separation occurred between the Navajo and the Mooney to the west. Focussing attention on one area of the radar display for any length of time results in a breakdown of the defence afforded by effective scanning techniques. With no other defences in place, such as conflict alerting or a request for altitude call-outs from the pilots, neither controller's attention was directed back to the two aircraft involved in the conflict.
+
+
+The arrival controller had noted the departure of an aircraft (the Mooney) heading westbound from the airport at the time the Navajo was issued descent from 5000 to 3000 feet. He assumed that the target was a VFR flight and, therefore, not of concern to the Navajo. Several pieces of information could have led to the arrival controller's conclusion. First of all, the Mooney had turned almost immediately to the west rather than climbing on runway heading, which had been the normal pattern established by the departure controller that morning. The aircraft's immediate turn was more representative of departing VFR traffic under the tower's control, which are normally restricted to 2500 feet asl or less within 7 nm of the airport, whereas the arrival controller's aircraft (the Navajo) was to maintain 3000 feet.
+
+
+There was no reliable method for a controller to distinguish between VFR and IFR traffic in the vicinity of the airport by looking at the aircraft's data tag. Since the VFR radar monitoring position was in operation, and the CJS for C-GKGY indicated that it was under departure control and not under VFR monitoring, the arrival controller should have concluded that this aircraft was IFR and provided at least the minimum required spacing of 3 miles lateral or 1000 feet vertical. However, the CJS was not a strong enough signal to alter the controller's perception that--based on his observation of the aircraft's flight path--it was VFR. As a result, the arrival controller saw no special requirement to closely monitor the Navajo, because he thought there were no conflicts in the aircraft's path. Other NAV CANADA units, such as Calgary TCU and Vancouver TCU, use the SFI to indicate that a flight is VFR.
+
+
+A loss of separation occurred when, as a result of not monitoring the aircraft closely on radar, the arrival and departure controllers allowed the two aircraft to fly closer than the minimum required separation of 3 nm laterally or 1000 feet vertically, as specified in CAR 801.08 and the associated standard.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The arrival and departure controllers did not adequately monitor the flight paths of the two aircraft on radar. The departure controller authorized the arrival controller to descend the Navajo to 3000 feet asl without passing relevant traffic information about the Mooney. The arrival controller assumed the Mooney was a VFR flight and would maintain 2500 feet asl or less. He therefore saw no requirement to take action to provide another form of separation.
+
+
+
+Findings as to Risk
+
+
+The arrival and departure controllers used non-standard safety-alerting phraseology, which was not in accordance with the ATC MANOPS, to alert the pilots of the conflict. There is no functioning conflict-alerting tool available to warn controllers of impending air traffic conflicts. Operations Letter OL-97-006 allows controllers to coordinate out of the procedures pertaining to arrival-departure separation without specifying what other specific defences must be in place to provide the appropriate level of safety. It is accepted practice for controllers to routinely coordinate out of standard procedures in order to provide a more expeditious air traffic service, without associated defences being put in place.
+
+
+
+Other Findings
+
+
+Just prior to the loss of separation, the arrival controller's attention was diverted from his other controlling tasks while sorting out a request from another arriving aircraft.
+

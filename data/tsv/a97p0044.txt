@@ -1,0 +1,16 @@
+failures in the drive train from the engine to the final output shaft	Both engines suffered uncontained failures of the power turbine blades
+both engines are considered secondary	The failures of the input shafts
+the excessive loads placed on it when the worn clutch began to slip and then suddenly re-engaged	This shaft sheared
+a loss of lubrication	The number 2 engine continued to run while the helicopter was on its side , and the engine eventually failed
+drive system vibrations	The bearing races probably began to wear while the clutch was engaged , and the ball bearings wore grooves into the races
+the excessive loads placed on it when the worn clutch slipped and then suddenly re-engaged	The number 1 engine clutch coupling shaft sheared
+a lack of lubrication	The number 2 engine continued to run while the helicopter was on its side , and the engine eventually failed
+the excessive loads	it
+the resulting imbalance	extreme loads
+No single factor was found	the clutch to wear
+The grooves	greater stress on the outer race during clutch freewheeling -LRB- when there would have been relative motion between the inner and outer races of the bearings -RRB-
+contamination from the wear metals of the bearings	wear on the clutch engagement surfaces
+the wear in the clutch	the C-box chip light warning experienced eight days before the accident
+the symptoms	them suspect a clutch malfunction
+The operational environment in which the helicopter worked was not unusual , and no operational practice was identified	abnormal clutch wear
+the excessive loads	it

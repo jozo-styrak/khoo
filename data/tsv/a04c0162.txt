@@ -1,0 +1,11 @@
+two purposes	The pilot was flying to Gimli
+the deteriorating weather conditions	The aircraft crashed on a westward heading , indicating the pilot had probably decided to reverse course
+the darkness and weather conditions	the pilot would have needed to revert to instrument flight to make the course reversal turn
+an overnight stop	him seeing his friend in Gimli , who was leaving the next day
+the combination of nighttime darkness , limited surface lighting , low overcast clouds and reduced visibility in drizzle	it very difficult for the pilot to maintain visual reference with the surface
+low overcast clouds	visibility in drizzle
+to instrument flight	the course reversal turn
+the descent in time	impact with the surface
+pilot	the designated responsible person
+The pilot 's instrument flying skills were most likely not adequate to safely complete the course reversal turn	an inadvertent descent that was not detected and corrected in time to prevent impact with the surface
+in time	impact with the surface

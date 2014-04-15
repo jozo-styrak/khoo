@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+The departure controller was a fully qualified and experienced air traffic controller and supervisor within the Montreal terminal specialty of the Montreal ACC. He was aware that the inbound Citation was in descent on arrival, he was aware of the vertical division of responsibility within the airspace, and he was aware that it was his responsibility to provide separation between aircraft under his control and other aircraft. However, when he issued the initial climb clearance to the Boeing 767, he did not recall and consider the inbound aircraft, which led to the loss of separation. Since no information was conveyed to the terminal south controller about the departure controller's intentions, no action was taken by the terminal south controller to assure separation.
+
+
+Though the departure controller had worked a significant number of regular and overtime shifts in the previous 30 days, there is no indication of sleep debt. It cannot be shown that fatigue was a factor in this occurrence.
+
+
+It is common practice in Montreal to expedite departures by issuing, without coordination, climb clearance through the airspace of the terminal controller and to monitor the departure to assure separation. In this occurrence, the desire to expedite the departure by issuing immediate climb clearance, the lack of coordination between two controllers responsible for two aircraft within the same airspace, not monitoring the climb of the Boeing 767 with sufficient vigilance, and not recalling the presence of the inbound aircraft led to a loss of separation where the safety of the aircraft was not assured. The providing of traffic information to VFR aircraft and the partial obscurity of the Citation's radar target in themselves did not appear to have unduly distracted the departure controller.
+
+
+With the aim of expediting traffic, controllers are permitted to depart from established and procedurally safe separation criteria and to use ad hoc procedures. In this occurrence, the ad hoc procedure was used to expedite the departing aircraft. As with most, if not all, ad hoc procedures, this one lacked defences, particularly against normally expected levels of human error, such as forgetfulness and loss of situational awareness.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The departure controller issued climb clearance for the Boeing 767 through airspace assigned to another controller without coordinating the action with that controller. Such coordination is not required by Montreal ACC terminal operational procedures. The departure controller did not recall the presence of the inbound Citation when he issued climb clearance to the Boeing 767. The departure controller did not monitor the climb of the Boeing 767 with sufficient attention to detect the conflict with the Citation. In assuming that the departure controller would follow standard procedures and level the Boeing 767 at 5000 feet, the terminal south controller took no action to ensure the two aircraft were sufficiently separated. Montreal ACC terminal operating procedures permit controllers to bypass established altitude responsibility assignments without providing a replacement defence against normal levels of human error.
+
+
+
+Other Findings
+
+
+The present-position symbol and CJS of the Citation were partially obscured by the data block of a VFR aircraft when the departure controller issued climb clearance to the Boeing 767. The departure controller was not unduly distracted by other duties at the time of the Boeing 767 departure.
+

@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The engine failure was the result of damage to the power turbine and nozzle, following the fracture of two turbine blades. The turbine blades failed due to the overstress extension of pre-existing fatigue cracks. It was not determined what initiated the cracks, but the most common initiators are mechanical damage (nicks), manufacturing faults (inclusions or discontinuities), corrosion and metallurgical deterioration due to heat. No damage, faults or corrosion were found, and the metallurgical examination was inconclusive.
+
+
+The history of the failed turbine blades could not be ascertained because they were maintained "on condition." Therefore, the blades had been in service in this engine or other engines for an undetermined time. Database information confirms that power turbine blade failures have not been a problem area with this model of engine.
+
+
+The helicopter was being operated at a weight exceeding the maximum out-of-ground-effect hover weight, but within the increased gross weight limit with an external load at the time of the accident. The increased weight would have required a significant amount of collective pitch for all phases of flight, especially at lower speeds or in a hover. When the engine failed, the undriven main rotor blades generated a considerable amount of drag, resulting in the rapid decay of the main rotor speed. This loss of rotor speed reduced the rotor system kinetic energy available to the pilot for control of the helicopter's descent, and, combined with the low altitude, the attached load and airspeed delineated within the critical area of the H-V chart, thereby increasing the severity of the impact and injuries.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 64/03 - Examination and Analysis of Turbines
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Two turbine blades failed due to the overstress extension of pre-existing fatigue cracks, resulting in the substantial damage of the power turbine section and loss of engine power. The cause of the fatigue cracks could not be determined. The loss of engine power occurred at a low altitude and airspeed, and a hard landing ensued.
+
+
+
+Findings as to Risk
+
+
+The helicopter was being operated at a weight that exceeded the maximum out-of-ground-effect hover weight, and within the speed and height parameters that the aircraft flight manual H-V diagram states should be avoided.
+

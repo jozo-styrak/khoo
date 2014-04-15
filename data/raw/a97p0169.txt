@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The following table compares the pre-flight fuel calculations to the amount of fuel burned, and it compares the fuel load recorded in the journey logbook to the fuel load calculated from the fuel burn. All of the calculations are based on the figures given above.
+
+
+The pilots' pre-flight calculations were somewhat optimistic; however, pre-flight plans are often slightly inaccurate. Of greater concern are the gross errors made in the journey logbook regarding the quantity of fuel on board. These figures are normally based on actual fuel burns or accurate measurements of fuel on board. The quantities listed in the journey logbook for this day were not consistent with known and measured quantities, nor with the fuel calculations that should have been made as the flights progressed. The only other source these figures could have been derived from were the fuel gauge indications, even though only one gauge was functioning. The captain believed that the forward gauge was accurate, and he assumed that the aft tank would be carrying the same amount of fuel. He relied on the forward fuel gauge for all of his fuel load information, but this gauge proved to be inaccurate.
+
+
+The means of establishing the fuel quantity in this particular operation is problematic. Twin Otters, operating on floats in a salt water environment, have a history of fuel gauge problems. Additionally, the fuel dip should be considered an approximate indication rather than an accurate measurement. The pilots do not fill the tanks to capacity since that would reduce the payload. The only method available to the pilot to reliably establish the fuel quantity on board is to closely monitor the fuel burn during the course of the flights. The amount of fuel that the captain loaded onto the aircraft is not consistent with him having accurately monitored the fuel burn during the flight. According to the captain, he refuelled the aircraft twice, each time adding 600 pounds of fuel; pre-flight planning, however, indicated that 680 pounds would have been required after each round trip. The flights were longer than planned, which should have alerted the captain that more fuel was required. For instance, after the 43-minute flight from Alliford Bay to Langara, the fuel load in the journey logbook was reduced by only 340 pounds of fuel, even though the fuel burn was likely about 480 pounds.
+
+
+Contributing to this incident were the unserviceability of the aft fuel gauge, the inaccuracy of the forward gauge, and that the MEL procedures for continued operations with an unserviceable fuel gauge were not followed. It is not clear why the procedures were not followed, but the negative operational impact of complying with the MEL procedures may have deterred the captain from entering the defect into the logbook. Had the MEL procedures been followed, the tank would have been filled, or additional fuel dips would have been made, and the low fuel situation would likely have been identified or prevented.
+
+
+The procedure of dipping the tanks each morning as a means of checking fuel gauge accuracy has limitations that must be understood. The design of the fuel tanks makes the fuel dip technique prone to error. When the dip and the gauge are the same, it is possible that both are equally in error.
+
+
+The captain decided to land after the number 2 engine stopped because he recognized conflicting information regarding the fuel quantity status and he was unable to resolve the conflict. Rather than attempt to proceed on the single engine, he chose to land at Yakoun Lake, ten minutes short of his destination, and this action likely prevented a serious accident.
+
+
+
+Findings
+
+
+The forward fuel gauge was inaccurate, and the aft fuel tank gauge was unserviceable. The procedures required by the MEL to continue operations with an unserviceable fuel gauge were not followed. The pilots did not accurately monitor fuel consumption during flight. The captain relied on the forward fuel gauge and the dipstick for his fuel load information. The captain landed after the number 2 engine stopped because of conflicting information about the fuel quantity. The procedure of dipping the tanks is a secondary method of determining the fuel quantity and gives an approximate reading. The recorded fuel loads found in the journey logbook reflect neither the pilots' calculations nor the actual fuel onboard.
+

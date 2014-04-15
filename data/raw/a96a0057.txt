@@ -1,0 +1,17 @@
+
+
+Analysis
+
+
+The first controller was aware of the developing conflict between the two aircraft. He requested that SPR 904 keep his speed up, and he assumed that this increase in speed, along with the extra distance that C-FGNL had to fly to get to the approach for runway 11, would provide adequate, yet minimum, separation. He did not anticipate that SPR 904 would reduce his airspeed upon interception of the localizer, thereby reducing the separation between the two aircraft. The relief controller took over the position prior to SPR 904 reducing speed. He saw a loss of separation developing, but did not take action to prevent it.
+
+
+The term MEDEVAC on a flight plan has a significant impact on the air traffic control system in that air traffic controllers give priority handling to these aircraft and do everything possible to avoid delays. In this occurrence, both controllers were aware that C-FGNL was a MEDEVAC, and they assumed that priority handling was required. Based on the assumption that the MEDEVAC was a priority, the relief controller was willing to accept the loss of separation that resulted, rather than issue an alternative clearance to either aircraft.
+
+
+
+Findings
+
+
+C-FGNL's flight plan indicated that the flight was a MEDEVAC, even though priority handling was not required. The relief controller allowed the separation between the two aircraft to be reduced to 1.4 nm when 3 nm was required. The relief controller consciously allowed a loss of separation rather than issue an alternative clearance to either aircraft.
+

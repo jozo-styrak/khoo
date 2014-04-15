@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The balancing and the independent inspection of the spring tab were carried out approximately one month before the occurrence; therefore, many of the specific details about how the work was done were not available. However, the top of the jammed weight had been ground down, confirming that it had been removed at least once to grind material off in the attempt to balance the spring tab. After the weights had been adjusted, they would be reinstalled and the tab rechecked for balance.
+
+
+Although it is possible that the nuts and washers were not reinstalled for the balance check, it is more likely that they were installed but left loose intentionally to facilitate re-removal of the weights should additional grinding be required. In any event, the final step of tightening them was overlooked. Without the nuts installed, the bolts migrated out of the weights, and when the outboard weight fell off, the bolts jammed on the top surface of the elevator.
+
+
+The task of balancing the spring tab was completed late at night by an AME who had travelled from Halifax and then worked a long day. The independent inspection that was completed the next morning did not discover the loose nuts; no explanation for this was found.
+
+
+There was nothing in the training provided to the flight crew nor in the QRH that would have helped them to recognize the symptoms of a jammed spring tab. As well, they would not have been aware that such a condition could potentially overstress the tail of the aircraft due to the elevator loads no longer being symmetrical. This lack of information contributed to them continuing the flight to destination rather than landing at the nearest suitable airport. From their training, they would be predisposed to assume that a pitch control jam would result in an inability to move the control column. Therefore, they did not associate the difficulty in holding the control column forward as an indication of a pitch control jam. Instead of slowing the aircraft to minimize the abnormal forces on the aircraft, they continued with the normal climb procedures, including retracting the flaps and allowing the aircraft to accelerate.
+
+
+After declaring an emergency because of the pitch control anomaly, but without being able to determine the cause of the anomaly or whether there was any damage to the aircraft or its controls, the flight crew overflew a suitable aerodrome where an emergency landing could have been accomplished. The QRH checklist for a pitch control jam did not indicate that a landing should be conducted at the nearest suitable aerodrome.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The nuts securing the counter balance weight to the weight arm were not tightened. They fell off, which in turn allowed the bolts to migrate out of the weights. When the outboard weight fell off, the bolts jammed on the top surface of the elevator. The independent inspection was not adequate, in that it did not reveal that the securing nuts were not tight.
+
+
+
+Findings as to Risk
+
+
+The training and checklists provided to the flight crew members did not provide them with sufficient means to identify the nature of the anomaly, nor were they made aware of the potential for overstressing the aircraft with increased airspeed. The Quick Reference Handbook checklist for the pitch control jam did not indicate that a landing should be conducted at the nearest suitable aerodrome.
+

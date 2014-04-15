@@ -1,0 +1,106 @@
+
+
+Analysis
+
+
+
+General
+
+
+The pilot of this helicopter experienced a sudden upward movement of the collective stick during the prescribed pre-flight hydraulic accumulator check procedure. However, the pilot was unable to prevent the helicopter from becoming airborne and could not regain control before the helicopter struck the terrain. The uncommanded collective stick movement is a characteristic of the rotor system design and pre-flight procedures are in place to prevent it.
+
+
+The factual information in this report explains the mechanical reasons for the uncommanded collective stick movement during this hydraulic test. Without the collective lock in place, it is clear that the helicopter flight controls behaved in a predictable manner and no further analysis is needed to explain this behaviour itself.
+
+
+This analysis will therefore focus on the reasons behind the chain of events that allowed the collective to move and cause the accident. Also, several physical and procedural anomalies were discovered that had an impact on the safety defences that are built into the flight control system and its operation, including those that have already resulted in TSB safety action.
+
+
+
+
+Circumstances Leading to Uncommanded Collective Movement
+
+
+The original design of the locking button on the pilot's collective stick permitted incorrect engagement of the locking plate. This anomaly created a situation where the downward force on the collective stick necessary to release the lock was considerably less than it would have been had the lock been engaged correctly. Once the lock was released, the collective stick was free to move up.
+
+
+In this accident, the pilot exhausted the forward servo accumulator as part of his usual pre-flight checks, but stopped his test and centralized the flight controls to allow the AME under the rotor disk. This action likely included light downward pressure on the collective stick as a matter of normal reflexive action by the pilot. Such pressure was sufficient to release the improperly engaged lock and free the collective; at this stage, the pilot was unaware that the lock had disengaged.
+
+
+Once the pilot continued testing, it was only a matter of time before the collective stick rose up as a result of the lateral accumulator(s) exhausting and causing the flight controls to move to the non-hydraulic-powered position.
+
+
+
+
+Weight and Balance
+
+
+The helicopter was well below maximum certificated gross weight and the longitudinal CG was near the aft limit. As a result of the relative light weight of the helicopter, a lesser amount of collective pitch application would have been necessary for the helicopter to become airborne. The aft CG condition would have required the pilot to maintain more forward cyclic input in flight than normal and thus reduced the available forward cyclic stick travel. Although not a significant factor until the helicopter became airborne, this reduction in forward cyclic stick travel made the helicopter vulnerable to nose-high attitudes; the onset speed and magnitude of this nose-up force may have lessened the pilot's ability to prevent the nose of the helicopter from rapidly rising.
+
+
+
+
+Hydraulic Test Procedures
+
+
+It could be said that the former hydraulic test procedures prescribed by the original Canadian AD incorporated a proactive approach toward detecting a failing accumulator whereas the procedure presently contained in the RFM is reactive. That is, the procedure only identifies a failed accumulator after it cannot supply the required two or three cyclic control movements; up to that point, the failing accumulator is undetectable.
+
+
+There is some doubt regarding the number of cyclic movements prescribed by Eurocopter for the procedures for both the hydraulic system ground test and the in-flight loss of hydraulic pressure. This doubt was primarily created by inconsistent interpretation of the procedures promulgated in the RFM, and timely revision of the procedures by Eurocopter is necessary.
+
+
+Furthermore, the diagnosis of the final stage of the test (both the former and current) relies on a small interval of one second or less to identify a defective accumulator. Given that pilots would have varying interpretations of this time, this subjective factor makes the recharging element of the pre-flight test an insensitive method of assessing the integrity of the accumulator.
+
+
+Another factor in the circumstances leading to the accident was the procedural requirement to establish full flying rotor rpm (revolutions per minute) for the pre-flight hydraulic test procedure. Coupled with low gross weight and exhausted accumulators, the flying rotor rpm placed the helicopter in a condition to certainly become airborne were the collective stick lock to release.
+
+
+
+
+Servo Actuator Anomalies
+
+
+The servo actuators were tested and found anomalous in two particular areas: inconsistent piston extension and retraction travel rates, and low accumulator pressures.
+
+
+Though it could not be proven that the inconsistent servo travel rates directly contributed to the accident, there is doubt that such servo behaviour is always benign. It is possible that a combination of servo performance tolerance limits, though individually insignificant, could act synergistically in a manner that causes the servo to malfunction. Because the servos always leave the overhaul/manufacturing facility well within the required specification tolerances, it is clear that, in some cases, a servo can deteriorate in service. At this time, however, no meaningful link to the servo malfunctions has been made.
+
+
+Regardless, Eurocopter tests have shown that asymmetric lateral servo accumulator depletion can cause uncommanded servo movement. Information also exists to demonstrate that the helicopter is difficult to control in the event of unequal exhaustion of the accumulators. Following pertinent ANs and ADs, modifications to the hydraulic system were mandated by both Canada and France. These modifications allowed pilots to shut off the hydraulic system pressure and exhaust the accumulators simultaneously, thus providing a controlled transition into non-hydraulic-assisted flight.
+
+
+
+
+Hydraulic Accumulator Pressure Monitoring
+
+
+Part of the certification basis for the helicopter required that the pilot be able to continue to manipulate the flight controls with reasonable feedback forces in the event of a hydraulic system failure. The hydraulic accumulators are the sole approved mechanical devices providing that guarantee and they are crucial to the proper function of the flight control system in flight. With an unserviceable accumulator, the helicopter is not permitted to dispatch.
+
+
+The pre-flight test is the last opportunity for the pilot to ascertain that the accumulators are functional. Apparently, the test methodology is not particularly effective since many instances of undetected low accumulator pressures have been found, with a range of pressures from 35 to 175 psi, where 218 psi would have been expected. Adding to the uncertainty of the test is the situation where these low-pressure accumulators were in service without any indication given to either pilots or maintenance personnel as to their low-pressure state, and where they all apparently passed the pre-flight test procedures. The underlying issue remains that the revised hydraulic accumulator test per se is not effective in identifying accumulators that do not contain the prescribed pressure. There is still the risk that flight in the AS 350 helicopter could commence with one or more marginally serviceable hydraulic accumulators, thereby reducing the level of defence against hydraulic system failure.
+
+
+Given that this critical element of the flight control system is subject to progressive and latent failure, a simple method of measuring the actual accumulator pressures before flight would appear to be an indispensable component. While this device would not alert the pilot to in-flight failure of an accumulator, it would prevent take-off with a marginal pressure resulting from progressive deterioration of the accumulator unit.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The design of the lock button on the collective stick allowed improper engagement with the locking plate and led to premature release of the collective stick during the hydraulic test procedure. When the pilot interrupted his pre-flight hydraulic test sequence, the collective stick lock released without his knowledge. When the lateral accumulator(s) exhausted, the unlocked collective stick rose up sharply and caused the helicopter to become airborne; such collective movement is a predictable characteristic of the AS 350 B2 helicopter. The rapid feedback forces on the flight controls, resulting from the exhausted accumulators, were such that the pilot was unable to lower the collective stick and prevent the helicopter from becoming airborne, nor could control of the helicopter be regained before it struck the ground. The helicopter centre of gravity was within the limits of the approved rotorcraft flight manual (RFM); however, it was near the aft limit and this situation exacerbated the nose-up attitude. The rotor speed for the pre-flight hydraulic test was required by approved procedure to be at normal flying rpm (revolutions per minute); however, during the pilot's test process when one of the accumulators exhausted with the collective stick lock disengaged, such rpm enabled the helicopter to become airborne inadvertently.
+
+
+
+Findings as to Risk
+
+
+The accumulators for the three main rotor servos had lower pressure than specification value, yet no indication of that condition had been given to either the pilot or maintenance personnel. The approved maintenance documents for the AS 350 B2 helicopter required that the accumulators be charged with nitrogen to 15 bar (218 pounds per square inch); however, there was no visual method of monitoring the pressure in each hydraulic accumulator and a significant pressure differential could develop before it became apparent to the pilot. In the event of a hydraulic system pressure loss in the AS 350 B2 helicopter, the condition of significant pressure differential in the main rotor accumulators leads to unequal depletion of the reserve of pressurized hydraulic fluid, thereby causing asymmetric servo actuator movement, high and unpredictable flight control forces, and a potential loss of control in flight. The current hydraulic accumulator test is not effective in identifying accumulators that do not contain the prescribed pressure. The risk is that flight in the AS 350 helicopter could commence with one or more marginally serviceable hydraulic accumulators, thereby reducing the level of defence against subsequent hydraulic system failure. The prescribed pre-flight hydraulic test procedures required the pilot to move the cyclic at least twice to verify that the servo continued to be powered. An earlier airworthiness directive from Transport Canada required the cyclic to be moved to exhaustion and gave a more meaningful assessment of accumulator condition. The prescribed hydraulic system ground-test and in-flight procedures contained in the RFM are not consistent with Eurocopter's procedures and need to be clarified. The hydraulic servo actuator has a time between overhaul (TBO) of either 1800 or 3000 hours in service and is therefore subject to periodic overhaul and specification adjustment, whereas the accumulator unit is an on-condition item and is not subject to overhaul. As a result, an accumulator with undetected marginal performance could remain on an airframe for an indefinite period.
+
+
+
+Other Findings
+
+
+There is no meaningful data concerning the effect of in-flight conditions upon the specification performance of the hydraulic servo actuators because in-service monitoring is not done, nor is it required by regulation. The upward collective movement caused by the exhaustion of the hydraulic accumulators is a design characteristic of the rotor control system in the AS 350 B2 helicopter and is effectively prevented on the ground by correctly engaging the collective lock. Functional tests with the servo actuators revealed inconsistent travel rates that were beyond the manufacturers' specifications; however, no data exist to conclude that this anomaly was applicable to this or other loss-of-control accidents in the AS 350 B2 helicopter.
+

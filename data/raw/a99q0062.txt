@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+The aircraft was certificated and maintained in accordance with existing regulations. All the aircraft's systems were functioning normally. There was no indication found of any airframe failure or system malfunction during the flight. Examination of the engines did not reveal any sign of failure. The engines were producing power, and all damage was caused by the impact. Further, the internal marks left by the impact confirm that the angle of the blades corresponded to fine pitch. All the indications tend to confirm that the aircraft was in overshoot configuration.
+
+
+The crew was qualified for the flight, but had limited experience in IFR conditions. When they planned the flight, the weather information led them to believe that the ceiling would stay at an acceptable height. Over Mont-Joli, however, the crew was informed that the weather conditions had deteriorated to the point where it was difficult to land safely. They nevertheless decided to continue the flight, hoping that the visibility and ceiling conditions would improve. During the approach, they received a new weather sequence indicating that the bad weather was persisting. Despite this information, they chose to continue the approach, and nothing in the regulations prevented them from doing so.
+
+
+On the day of the accident, the environmental conditions and scarce visual ground references near Gasp Airport were conducive to spatial disorientation. Given the prevailing weather conditions at the time of the approach, the runway was covered with a layer of snow, making it difficult to see. Use of the aerodrome lighting system would perhaps have helped the crew to better orient themselves. During the overshoot, false-horizon and false-climb illusions were both possible. In reaction to a false-horizon illusion, pilots can be led not to act correctly on the flight controls. The false-climb illusion, for its part, can lead pilots to push on the stick and put the aircraft in a nose-down attitude. At low altitude, pilots have very little time to recognize an illusion and take appropriate corrective action. The information gathered at the accident site showed that the aircraft was flying on a heading of approximately 230 degrees magnetic in a 60-degree banked left turn when it struck the ground. The aircraft's angle of impact appears to be more consistent with the nose-down attitude associated with the false-climb illusion.
+
+
+Only instrument-flight training, experience, and practice can enable pilots to acquire the skills needed to recognize and counter the effects of spatial disorientation. The pilots of the occurrence aircraft were certified for the flight but had little instrument-flight experience. The pilots had therefore not had the opportunity to fully acquire the essential skills to react immediately to spatial disorientation. It is likely that the pilot flying became disoriented and was unable to regain control of the situation, and thus he flew the aircraft towards the ground after losing situational awareness.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The environmental conditions and scarce visual ground references near Gasp Airport were conducive to spatial disorientation. The pilot became disoriented during the overshoot and was unable to regain control of the situation. During the approach, the crew did not activate the aerodrome lighting system, thereby contributing to worsening the pilot's spatial disorientation.
+

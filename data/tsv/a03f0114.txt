@@ -1,0 +1,12 @@
+The crew received no special training on the Apollo 820 GPS or briefing on long-range navigation procedures	, they were unprepared to detect a navigational error caused by incorrect data input to the GPS
+the crew confirmed the flight plan track and distance to IBESO on passing AUTEL	it would have been apparent that there was a discrepancy between the flight plan and GPS coordinates
+this deactivated the internal airports and VORs databases	Had they understood the GPS better and believed that no data card to cover the route to be flown was available , they probably would not have dispatched the aircraft with the North American data card installed ,
+the North American data card been removed before the crew used the GPS nearest waypoint listing	the GPS would have returned a display of airports and VORs in New Zealand instead of North America
+they been where the GPS indicated	the descent would have brought them into possible conflict with New Zealand domestic air traffic and into close proximity to terrain , as they would have been in the vicinity of the Ruahine mountain range
+the flight did not contain any Gisborne aeronautical charts	When it became apparent that Gisborne was the only airport within fuel range of the aircraft , the crew found that the Jeppesen trip kit purchased
+it became apparent that Gisborne was the only airport within fuel range of the aircraft	the crew found that the Jeppesen trip kit purchased for the flight did not contain any Gisborne aeronautical charts
+The MEF is	the highest known feature
+The last six waypoints of the flight plan from Pago Pago to Palmerston North were entered into both GPSs with west longitude instead of east longitude	the GPS
+North American data cards were inserted in both GPSs	the internal databases of airports and VORs
+incorrect data input to the GPS	a navigational error
+Instrument approach and airport charts for Gisborne were not available to the crew	them at risk

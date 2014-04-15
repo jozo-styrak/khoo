@@ -1,0 +1,17 @@
+
+
+Analysis
+
+
+The ACC controller based his traffic separation plan on the mistaken premise that OEL 1967 was going to proceed northeast of the airport on the 12 DME arc approach for runway 21, and therefore would not conflict with OEL 1968 departing the area to the southwest. Given that OEL 1968 had originally planned to depart on runway 21 and an approach to runway 03 would be downwind, it would not have been abnormal for the crew of OEL 1967 to plan an approach to runway 21 as the ACC controller thought. Despite several conversations with the crew of OEL 1967 concerning their intention and subsequent instructions to fly the ILS arc approach to runway 03, the ACC controller did not recognize the severity of the developing traffic conflict. Since there was no radar coverage, he did not have any visual radar target cues on his indicator module (IM) to assist him in recognizing the risk of collision scenario developing. In addition, neither crew were able to anticipate the impending traffic conflict since they shared a common radio frequency with the ACC controller for only about 45 seconds prior to the TCAS warnings. Consequently, when OEL 1967 was cleared to the Timmins airport for a straight-in ILS approach to runway 03 and commenced a descent from 5,000 asl while inbound and in close proximity to the 210-degree VOR radial, a significant risk of collision existed with OEL 1968 which was outbound on the 210-degree VOR radial and cleared from 4,000 to 17,000 feet asl. In effect, the two aircraft were closing head on in cloud at six miles and transiting through each other's flight path until their TCAS II RA warnings were activated. The immediate and prompt action by both crews to follow their respective TCAS II commands alleviated the risk of collision that existed between the two commuter aircraft.
+
+
+The OEL 1968 crew reacted to the RA visual indication on the VSI instrument since they did not hear the aural alert, which was not routed through their headsets.
+
+
+
+Findings
+
+
+The ACC controller based his non-radar traffic separation plan on the incorrect premise that the arrival aircraft would be proceeding to the northeast and be well clear of the aircraft departing to the southwest. A loss of separation and significant risk of collision occurred between OEL 1967 and OEL 1968. Both crews took immediate evasive action in accordance with TCAS II information, which may have prevented a mid-air collision. The OEL 1968 crew did not hear the TCAS II aural warning.
+

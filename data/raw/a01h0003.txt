@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+There is considerable risk of injury and aircraft damage when a single-engine aircraft experiences engine power loss and the departure path is not clear of obstacles, which is often the case. For this occurrence there was an area available for a forced landing and the aircraft was landed without damage, and with no injuries to the five passengers on board.
+
+
+The reason for the engine power loss, or roll-back, was a loss of vacuum of the fuel control unit (FCU) acceleration bellows, which resulted in the FCU reducing fuel going to the engine to minimum flow. The loss of the bellows vacuum was due to a breach of the bellows material at a corrosion site, at a time when the compressor discharge air was at its highest pressure--under take-off power conditions. There were no possible actions available to the pilot to restore power to the engine. There is optional equipment available, but not fitted on C-GROO, that would have permitted the restoration of sufficient engine power to maintain a climb. An emergency fuel lever, when used carefully, would have bypassed the FCU acceleration bellows control function and allowed engine operation. The analysis will focus on why the recently-overhauled FCU was being operated with the bellows in a corroded state.
+
+
+From the available maintenance documents, there are no records indicating that of the occurrence FCU had been installed on an engine from June 1986 to April 2001. There are also no records available which describe any special preparations for storage. The FCU "Light Overhaul" carried out three months prior to the occurrence did not call for the inspection of the acceleration bellows and this was not done. Thus, the acceleration bellows had not been inspected for nearly 15 years. The full overhaul calendar provisions are not mandated, and it appears that inspection of the acceleration bellows is not mandatory.
+
+
+The operating environment of the FCU bellows is corrosive because of the presence of high-temperature, high-pressure compressor discharge air in the chamber housing the acceleration bellows. Careful inspection of the bellows at the 8-year point would likely detect areas where corrosion was developing, and would lead to its replacement during overhaul at the recommended interval. There is no indication that the recommended inspection calendar time intervals are inadequate. However, because these full inspection intervals are not always mandatory, and component maintenance records may be lacking, defective FCU bellows can be in service, creating the potential for power loss at critical stages of flight.
+
+
+The FAA Airworthiness Approval Tag (FAA Form 8130-3), which accompanied the occurrence FCU when it went to the operator, did not indicate that the FCU had undergone less than a full overhaul. It would appear that there needs be some clear indication of the type of overhaul carried out so that those carrying out maintenance activities will be given the opportunity to better evaluate the serviceability of an FCU.
+
+
+The operator's maintenance actions, in replacing the previous FCU, did conform to the recommended overhaul calendar intervals for FCU, but it appears that there are no regulatory requirements for such compliance.
+
+
+It was noted that the atmospheric pressure correction table in the Honeywell (Allied Signal) Service Manual, used to determine the length of the FCU acceleration bellows, cannot be used without extrapolation at overhaul facilities located at high elevation, such as IGS.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The engine power loss occurred because the fuel control unit (FCU) bellows was breached, causing the fuel flow to the engine to be limited to minimum flow. The FCU bellows was breached because of corrosion, initiated during in-service use and exacerbated by long-term, un-preserved storage. The corrosion was not detected because a complete inspection of the FCU components was not carried out during overhaul. The FCU light overhaul procedure did not provide enough direction as to when the procedure may be used. Thus those using the light overhaul procedure may not detect, in sub-components such as the acceleration bellows, flaws that can be beyond safe limits.
+
+
+
+Findings as to Risk
+
+
+This and many other single-engine aircraft are not equipped with an optional emergency fuel lever. This option would allow restoration of sufficient engine power to continue flight for instances where the FCU acceleration bellows is breached or other compressor discharge air problems occur.
+
+
+
+Other Findings
+
+
+The tracking of engine accessory operating time and usage is not always mandated. Overhaul scheduling for engine accessories such as FCUs is difficult to calculate because of an absence of operating and storage history of such components. The FAA Airworthiness Approval Tag (FAA Form 8130-3) description of the FCU overhaul did not indicate that the FCU underwent less than a full overhaul, occurring, in part, because the light overhaul provisions are contained within the same Service Manual used for the full overhaul of the FCU. The bellows height atmospheric correction table from the Honeywell Service Manual 73-20-28 is not consistently usable for overhaul facilities located above 5000 feet above sea level.
+

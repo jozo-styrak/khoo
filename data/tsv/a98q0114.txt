@@ -1,0 +1,19 @@
+the spring was missing , the aircraft was not airworthy	In reality ,
+the logbooks reflected the defect and been available to the pilots	the flight instructor
+no work was done on the rudder control system	No independent check was completed and Transport Canada maintains that this is not required in these circumstances
+the aircraft no longer conformed to its type certification	In any event , the removal of the rudder return spring meant that the flight authority was no longer valid
+closing	the horn
+the direction of cable pull tends to close the mouth of the horn	increasing the jamming effect , applying right rudder force would only have tightened the jam rather than broken it
+a higher altitude	the flight instructor 's chances of recovery from the spin in this occurrence
+the failure to follow specified altitude restrictions for spin exercises	the risk of such operations
+The requirement to conduct independent inspections is intended	a further check of an engine or flight control system has been disturbed during maintenance
+The objective is	the likelihood the system is going to operate properly
+The absence of the rudder bar return spring and its attachment bracket arguably	a disturbance to the flight control system which ought to have required an independent inspection
+During the maintenance audit of the flight school operator at Saint-Hubert Airport , discrepancies were noted	the grounding of several aircraft , including five Cessna 152 aircraft with reported rudder over-traveling
+the TSB , Transport Canada , Cessna , and Laurentide Aviation personnel on 22	findings regarding rudder over-traveling additional examinations and tests
+the direction of cable pull tends	the jamming by closing the horn
+a new rudder horn stop bolt assembly	protection against future jamming of the rudder
+the crew	a full left deflection
+The aircraft was released for flight with a rudder bar return spring missing , which , in combination with other factors	the rudder to lock in a full left deflection
+the design and condition of the stop bolt and rudder horn stop plate	the stop plate over-travel the stop bolt and jam
+Because the direction of cable pull tends to close the mouth of the horn	the jamming effect

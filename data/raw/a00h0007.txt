@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The landing gear warning light is not bright enough to reliably capture a pilot's attention in daylight conditions. The warning horn is readily apparent in most situations and is a more reliable defence against gear-up landings. The operation of the King Air landing gear warning system, when the power levers are sequentially retarded, is not clearly described in the POM. As a result, it was not universally known that the landing gear horn, once silenced, does not activate if the second power lever is subsequently retarded. The PIC's decision to silence the landing gear warning horn was predicated, in part, on an incorrect understanding of the landing gear warning system functionality.
+
+
+Since the aircraft's single-engine climb performance is not assured when the flaps are extended, carrying out a flapless approach where one engine has failed is a prudent thing to do, in recognition that a single-engine missed approach may be required. To practise for this eventuality, simulated single-engine approaches and landings are routinely carried out with no flap selected. This procedure effectively disables the aural defences associated with the King Air landing gear warning system.
+
+
+The Before Landing check was forgotten; the landing gear was not lowered, and the crew did not note the status of the landing gear warning light. The current SOPs do not require any further checks of the landing gear status after the Before Landing check is carried out.
+
+
+The King Air SOPs' Before Landing checklist and Single-Engine Approach and Landing checklist are similar but not identical. Both checklists should be completed to cover all items at least once, a procedure that would also ensure a redundant check of the flaps and the landing gear. When conducting a single-engine approach, there is no requirement to complete both the normal and single-engine landing checklists. The SOPs provide no specific guidance about when to complete the Single-Engine Approach and Landing checklist. This list is typically not consulted during single-engine VFR approaches and landings, even though the checklist twice refers to VFR circuits.
+
+
+In the 11 months before the occurrence, the PIC had worked approximately 8 weeks of overtime. Although he had recently expressed concern to ASD management about his workload and associated fatigue, he voluntarily continued to work. Despite the PIC's considerable overtime, his work schedule complied with the CARs flight duty time and rest period criteria. A detailed review of factors influencing the fatigue state of the PIC was not indicative of acute fatigue and was inconclusive regarding chronic fatigue.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+A simulated single-engine, flapless landing was conducted in a Transport Canada King Air aircraft, with its landing gear warning horn silenced. The King Air standard operating procedures do not require a redundant check of the landing gear status during single-engine approach and landing exercises. The crew forgot to complete the Before Landing check and did not lower the landing gear before landing. With the landing gear warning horn effectively disabled, there was no aural warning that the landing gear was not extended, although the gear warning light was most probably illuminated.
+
+
+
+Findings as to Risk
+
+
+The functionality of the King Air A100 landing gear warning system is not clearly described in the pilot's operating manual. The King Air standard operating procedures provide no specific guidance about when to complete the Single-Engine Approach and Landing checklist.
+

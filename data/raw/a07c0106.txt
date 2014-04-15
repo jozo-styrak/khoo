@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The wire chafing occurred as a result of relative movement between individual wires secured together in adjacent wire bundles in a non-standard way. The bundles are situated in an engine area identified as a high-vibration area. Excess wire length in the number 4 engine fire-detection loop was folded back and secured to the adjacent PMG wiring harness. The Boeing Standard Wiring Practices manual specifies in part that all wires must be parallel before a wire harness tie is assembled on the wire harness. The excess wire length in the number 4 engine fire-detection loop was not secured in this manner.
+
+
+The wires chafed to the conductor core, which allowed the generator PMG 60 VAC to transfer to the 28 VDC "A" loop fire-detection circuit and cause a current surge back through to the fire-detection control electronics box in the cockpit. The current surge was dissipated by resistors on the A4 circuit board warning card, causing a rise in temperature in the resistors to the point of ignition. There is no circuit breaker protection in the circuit between the circuit card and the engine fire loop; thus, the system would overheat until the short occurred.
+
+
+It could not be established when the subject wires were secured improperly, but it is likely that it occurred at some point at or after engine overhaul. Subsequent shop visits, and under-cowl maintenance checks did not identify the wiring discrepancy or wire chafing. Such a discrepancy would be hard to identify without disassembly of the wire harness. Ongoing maintenance checks only require a visual inspection/check of the wire harness as installed.
+
+
+The following TSB Engineering laboratory reports were completed:
+
+
+LP 057/07 - DFDR/CVR Analysis, Boeing B747-200, N632NW LP 059/07 - Fire Detection Control Box Examination, Boeing B747-200, N632NW
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Adjacent wire bundles in a high-vibration area in the number four engine were secured in a non-standard way. The improperly secured wire bundle was not detected by Northwest Airlines Inc. maintenance or quality control personnel during initial installation, modification of the bundle, or the subsequent under-cowl inspections. The wires chafed to the conductor core, allowing a high-voltage power surge back through to the fire-detection control electronics box in the cockpit. The power surge subsequently shorted the resistors on an internal circuit card, causing the on-board fire.
+

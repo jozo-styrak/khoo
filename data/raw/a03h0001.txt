@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+Radio communications are essential for positive control of air traffic. A controller must quickly determine the cause of any communications failure and decide on the best course of action to re-establish communications. When DLH8161 did not read back the clearance to climb to FL350, the controller initially concluded that it was the aircraft that had a communications failure. Because of past experience, many controllers do not initially consider that ATC equipment may be involved when making an assessment of a communications failure but instead conclude it is an aircraft problem. Not all Gander controllers were provided with adequate training or simulation of ground-based communications failures and the necessary steps to quickly re-establish communications. As a result, valuable time was lost in repeated attempts to contact DLH8161 on a frequency that was not working.
+
+
+The controller was presented with clues that the communications failure was not restricted to one aircraft: the display indication on the controller's VSCS CCP, and comments from other aircraft and from Moncton ACC controllers that there was a problem contacting the sector on 134.7 MHz. Even when he requested another aircraft to call DLH8161, the controller did not specify another serviceable frequency that could have been used. The controller did switch to the VSCS back-up mode; however, because the failure was in the line to the PAL site, this action had no effect.
+
+
+The VSCS CCP display provided one clue that the loss of communications was caused by a failure in the ATC communications system and not by the aircraft; however, the differences in the display indications on the VSCS CCP was not obvious to the controller. A glance at the frequency icon would have shown what the controller expected to see whenever he attempted to activate the frequency, that is, an overall green indication. However, only a close look and detailed familiarity with the meaning of the different types of display patterns on the frequency icon would have alerted the controller that he was not getting out on the frequency. Although the controller had received instruction on the operation of the VSCS during training, and had used this equipment for a number of months, he was not aware of the variety of display patterns nor of their exact meaning. The controller involved in the incident was not alone in not knowing the meaning of the presentation on the VSCS CCP frequency icon. The supervisor, on looking at the VSCS CPP, did recognize that the controller was not transmitting on 134.7 MHz.
+
+
+The controller was not aware that a multi-channel, tunable, back-up radio was available in another specialty in Gander ACC. This controller was not alone in being unaware of this resource. The aircraft's flight path was near the outer limit of expected coverage of that radio; therefore, COA65 was close enough to Gander ACC to be within range of the multi-channel, tunable, back-up radio. It was determined that other controllers were unaware of the coverage area of the radio. Coincidentally, DLH8161 contacted the controller at the time the supervisor was communicating with COA65. This allowed the controller to issue a clearance to climb to FL350 immediately, reducing the time the two aircraft were in conflict.
+
+
+The communications problem was not completely resolved after the two aircraft achieved the required spacing. COA65 was left on frequency 134.7 MHz by the supervisor, but the multi-channel tunable back-up radio was no longer being monitored. The controller, under the impression that DLH8161 had contacted him on 134.7 MHz, thought that 134.7 MHz was now serviceable. The technical staff was not alerted to the problem with 134.7 MHz until 1200, 15 minutes after the problem first appeared, because the controller had not realized at the time that the communications problem originated with the ground based equipment. During the handover between the incident controller and the relieving controller, there was no clear indication which frequencies were operating, and what action had or had not been taken to ensure all aircraft were being transferred to a serviceable frequency. The line connecting the Gander ACC to the Trepassey PAL site was still unserviceable at the time of the handover.
+
+
+A commercial service provider under contract to NAV CANADA is responsible for maintaining the links between the Gander ACC and PAL sites. The VSCS and ACCECS system at Gander ACC are connected to the main and back-up radios at the PAL sites through these links. There is only one line per frequency available for the section between St. John's and Trepassey. The failure of this line resulted in the severing of the connections between Gander ACC and the PAL site and the loss of the main frequency (134.7 MHz) for that area. There was no back-up to this line and, therefore, no alternative ways for the controller to access 134.7 MHz. Neither the service provider nor the NAV CANADA facility received a warning indication that a line failure had occurred. It is up to the controllers to determine that there has been a failure in the communications system and alert the technical staff; approximately 15 minutes passed before the technicians were advised of the failure.
+
+
+In this occurrence, two aircraft on reciprocal tracks at the same altitude were not assured of safety of flight for a period of approximately 10 minutes because no alternate to radar separation minima was in place during the time that communication with the two aircraft was not available. Both aircraft were eventually contacted and issued clearances to descend (COA65) and climb (DLH8161), and the minimum required vertical separation was achieved when the aircraft were approximately one minute flying time apart.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+There was a failure in the line linking Gander ACC to the ATC frequencies at the Trepassey PAL site. The cause of the failure could not be determined. The communications failure between the Gander controller and two aircraft on nearly reciprocal tracks flying at the same altitude resulted in the safety of flight for the two aircraft not being assured. The controller did not recognize that there was a failure of the frequency used to control aircraft in the southern section of the airspace. The controller was not aware that the communications voice switch control panel gave a green indication even when the transmission on one of the frequencies was not completed. This resulted in a delay in establishing alternate communications with the aircraft.
+
+
+
+Findings as to Risk
+
+
+Some controllers at Gander ACC were not aware that a tunable, multi-channel radio, which could be used as a back-up radio in the event of a main transmitter failure, was located in the operations room, nor were they aware that the radio may not provide adequate coverage to reach all aircraft in the airspace for which a controller may be responsible. The training of Gander controllers in how to recover from a communications failure and the resources available to re-establish communications with aircraft under their control is not practised in simulation training. This could delay the recovery from a communications failure and result in a loss of separation or risk of collision. There is no alternate method for controllers at Gander ACC to access the radios located at the PAL site in the event of a failure in the lines connecting the ACC to the PAL site. The main and back-up radios at the PAL are connected to the ACC using the same links.
+
+
+
+Other Findings
+
+
+The Gander ACCECS uses the same links to connect the ACC to PAL frequencies as are used by the VSCS. A power failure or a failure of the VSCS at Gander ACC and a simultaneous loss of the links connecting the ACC to the PAL site would result in a complete loss of communications on all those frequencies served by the failed links.
+

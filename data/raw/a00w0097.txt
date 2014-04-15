@@ -1,0 +1,17 @@
+
+
+Analysis
+
+
+The take-off was rejected after the aircraft exceeded V1, where, normally, the take-off would have been continued. The take-off was rejected because, in the instant available to make a decision, the captain decided it would be safer to stop than to continue: he thought that some or all of the power on both engines was lost. This mental picture was the result of the aircraft passing through a flock of birds, the sound of loud thuds and popping noises (the engine compressor stalling), a drop in the right engine's EPR and engine fan speed, and a momentary fluctuation of the left engine's EPR.
+
+
+At zero flaps and the take-off speed appropriate for the aircraft's weight and altitude and the temperature, a rejected take-off at or before V1 should have been successful. Because the weight was near the maximum allowable, even a very short delay in reject initiation would result in an overrun. Considering the aircraft's speed when the reject was initiated, there was not enough runway available on which to stop the aircraft.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+During the take-off run, the aircraft struck birds after passing V1, and the take-off was rejected. The captain believed that both engines were damaged to the extent that continuing flight posed a greater risk than a rejected take-off. The take-off was rejected at about 167 knots, with 3000 feet of runway remaining. The aircraft could not be stopped on the runway.
+

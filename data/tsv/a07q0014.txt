@@ -1,0 +1,30 @@
+Considering that the aircraft had flown for only 40 minutes before the engine stopped , it can be concluded that the aircraft took off with less fuel in the wing tanks than the amount estimated by the pilot	The engine stopped of fuel starvation while part of the pilot 's attention was focused on looking for caribou tracks
+With the wing tank selector in the middle position , the engine was fed fuel from both wing tanks at the same time	, the fuel level in each tank should have decreased equally
+the bending of the fuel senders ; the absence of perforations in the flapper valve guards ; the wing fuel selector placard did not conform to drawing MF001-003 -LRB- Rev IR -RRB- ; and the description of the fuel system	, Transport Canada issued an STC that contained several deficiencies
+the stick is moved	the fuel wet more of the stick and give a reading that is higher than the real level
+the length of the tanks	a small error in the reading could correspond to a difference of several gallons
+fuel starvation while part of the pilot 's attention was focused on looking for caribou tracks	The engine stopped
+the low fuel pressure warning light illuminated	the pilot
+the random operation of the low fuel pressure switch	it is also plausible that the warning light did not indicate the drop in fuel pressure in a timely manner
+the engine continued to operate	the fact that the propeller pitch was not changed did not have an impact on the restarting of the engine
+the pilot and the front passenger were not wearing their shoulder harnesses	the risk of sustaining greater injuries was increased
+the change to the type design was approved through issuance of the STC	Transport Canada did not notice the fact that these parts , described in the plans , did not comply with airworthiness standards
+fuel starvation	The engine stopped
+the change to the type design was approved through issuance of the Supplementary Type Certificate -LRB- STC -RRB-	Transport Canada did not notice the fact that the fuel senders and triple fuel level gauge did not meet airworthiness standards
+the pilot and the front seat passenger did not wear their shoulder harness	their protection was reduced
+more of the stick	a reading is higher than the real level
+It is probable that using the priming pump , especially in cold weather	the engine to restart
+the low altitude	the time available to carry out the emergency procedure
+The failure of the legs of the second row seats	the occupants
+In fact , the front passenger sustained head injuries	the loss of an eye
+The middle position	fuel flow between the wing tanks
+the non-compliant guard and the angle at which the flapper valves were mounted	their effectiveness
+a lack of fuel to the engine after non-coordinated flight , which could have allowed fuel to end up in the outboard compartment of one of the tanks	earlier engine power losses
+It is possible that earlier engine power losses were caused by a lack of fuel to the engine after non-coordinated flight	fuel end up in the outboard compartment of one of the tanks
+No documentation was	confirming that a certification process for the fuel senders or the triple fuel level gauge had been carried out
+the fuel senders	an incorrect reading
+The engine stopped at low altitude	the time needed to complete the emergency procedure
+The pilot was unable to glide to the lake and made a forced landing on an unsuitable terrain	significant damage to the aircraft and injuries the occupants
+The pilot was unable to glide to the lake	a forced landing on an unsuitable terrain
+practice	the wing tank selector in the middle position , which is contrary to the aircraft flight manual supplement instructions and a placard posted on the instrument panel
+the aircraft interior covering	them inaccessible

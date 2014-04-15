@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+There were no indications that weather or mechanical abnormalities were involved in this occurrence. The pilot was familiar with the site area and was experienced in the operation of the helicopter. The area selected to land the helicopter, although confined, was suitable for the landing. The pilot's decision to approach the landing site by flying the helicopter sideways to his left restricted his view of the approaching guy wires, significantly increasing the possibility of contact between the main rotors and the wires.
+
+
+The structural damage to the main rotor blades rendered the helicopter uncontrollable and it became inverted and entangled on one of the wires during its descent to the ground. It is possible that the wire entanglement reduced the forces during ground impact and prevented further structural damage and injuries to the occupants.
+
+
+The ELT did not activate even though impact forces exceeded the threshold of the G-switch. The type of G-switch used in this ELT was a single-axis, ball and spring-type switch. This type of switch will automatically activate the ELT only if a component of the impact force is in the same direction as the orientation of the switch.
+
+
+During examination of the switch, black powder residue was found and the switch was seized within its casing; thus electrical contact was never established and the ELT failed to activate. The ELT was properly attached and located in the cockpit of the helicopter as per current regulations, but the accident impact forces were in a direction that may not have activated the G-switch even if it had been serviceable. The failure of the ELT did not affect the rescue of the three injured persons because of the availability of phone service at the communications tower.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 069/2007 - Examination of ELT
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The helicopter struck the guy wires supporting the communications tower as a result of being flown in a left sideward direction, which prevented the pilot from viewing the approaching tower guy wires from his position in the right front seat while focused on the somewhat restricted landing area.
+
+
+
+Findings as to Risk
+
+
+The single-axis, ball and spring G-switch in the emergency locator transmitter (ELT) meets current specifications, but it is not effective when the impact forces are at angles that are substantially different to switch orientation. The ELT failed to activate on impact as a result of a faulty internal G-switch. The internal parts of the switch are susceptible to deterioration over time and can prevent switch operation and ELT activation.
+

@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+The diagram at Appendix A illustrates the collision paths of the two objects. Positions for the boat and aircraft are depicted at 25 seconds before impact. Thereafter, speed of the aircraft is depicted as 80 knots for the first 8.33 seconds, 60 knots for the second 8.33 seconds, and 40 knots for the final 8.33 seconds. A uniform speed of 8 knots is depicted for the boat.
+
+
+The collision occurred within the confines of Area Alpha, but the area's dimensions are not well defined. The two occupants of the boat were not aware that they were transiting Area Alpha. The operator's attention, in the few moments preceding the collision, was not directed toward maintaining a good lookout for landing aircraft and he did not see the floatplane. The operator likely did not have the same appreciation for seaplane traffic as do boaters who frequent the Vancouver harbour area regularly.
+
+
+From the pilot's perspective, the boat was located within the area of sun glare on the water during the 25-second period prior to impact. To distinguish the light-coloured boat out of the area of glare would have been difficult. In addition, the cabin structures on the left side likely obstructed the pilot's view of the boat at various stages during the approach. These factors accentuated some of the limitations of the human eye. The obstructions or limitations likely would have been overcome by continually moving the eyes and head, thus changing the location of the blind spots. However, in the moments preceding landing it may not be practical for the pilot to be continually changing his eye and head position in an attempt to clear all the blind spots as attention is focussed on flying the aircraft.
+
+
+The air traffic controller's workload at the time of the collision was assessed as moderate, with normal complexity. When he scanned the area prior to issuing landing clearance, he did not see the boat. Lighting contrast around Canada Place (areas of shadow and bright sunlight) may have degraded his ability to distinguish the boat. When he scanned the manoeuvring area, it is also possible that the boat was shielded from his field of view by the stern of the large cruise ship moored at Canada Place. Using a speed of eight knots for the boat, this would mean that the scan was performed about 34 seconds prior to issuing landing clearance. In the moments preceding the collision, the controller was attending to other aircraft in the area, and he was not watching the landing aircraft.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot did not see the boat in time to avoid the collision. The pilot's ability to see the boat was reduced by sun glare on the water, masking effects of the aircraft's cabin structures, and limitations of the human eye. The operator of the boat was aware that aircraft operated in the harbour area but was unaware that he was transiting the designated landing area. He did not see the aircraft in time to avoid the collision. The controller did not see the boat and therefore did not recognize the potential for collision.
+
+
+
+Other Findings
+
+
+Vancouver Harbour air traffic controllers only control aircraft. They have no control over boats and do not communicate directly with boat operators.
+

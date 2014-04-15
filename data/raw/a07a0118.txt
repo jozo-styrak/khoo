@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+The key to flight safety in the vicinity of uncontrolled airports is good radio communication and visual alertness. It is highly recommended that aircraft operating within an aerodrome traffic frequency (ATF) area follow the mandatory radio reporting procedures outlined in the Canadian Aviation Regulations for operations within a mandatory frequency area. Use of these procedures is at the discretion of the aircraft operators while operating in an ATF. Pilots have sole responsibility for seeing and avoiding other aircraft.
+
+
+No broadcast was heard stating the Bell 206L pilot's intention to take off from the fuel-staging area. Had the Astar pilot known the Bell 206L was intending to take off, he could have possibly taken action in time to avoid a collision.
+
+
+While positioned on the ground facing the fuel tanks, the Bell 206L pilot seated on the right side of the aircraft would have had difficulty seeing the Astar and/or the Tidy tank approaching from above, behind, and to the left. A hover turn to the left prior to departure would have allowed the pilot to see the Astar and its sling load on approach. The reason for not executing this safety check to confirm that his intended flight path was clear of traffic is not known.
+
+
+Although the Astar pilot made two position reports, it is probable that these broadcasts were not heard by the Bell 206L pilot. It is possible that the Bell 206L pilot had not yet donned his headset and/or that he had not yet powered the radios at the time the Astar pilot made his reports. The Astar pilot did not broadcast his aircraft's position closer in on final approach or on short final to the fuel-staging area. Despite the fact that the Astar pilot saw the Bell 206L rotors turning and because the Bell 206L pilot had not broadcast his intentions to take off, the Astar pilot assumed he was not ready to do so or that he was shutting down. Also, the fact that the Bell 206L pilot had not responded to the Astar pilot's position report when he was three nautical miles inbound would have indicated to the Astar pilot that the Bell 206L would not be a conflict.
+
+
+Longline operations require a significant amount of attention from pilots, especially when flying in the vicinity of other objects and/or close to the ground. On short final, just prior to the collision, the Astar pilot's attention was on his sling load. He did not see the Bell 206L take off. Once he saw the Bell 206L appear in his floor sling window, he attempted a rapid climb. However, this evasive action was not successful in preventing the collision.
+
+
+Although a potential risk had been identified with the high level of traffic using the fuel-staging area, the radio reporting procedures were considered satisfactory by the various flight crews operating in the area. Prior to the occurrence, plans to move several fuel tanks to a different location had been discussed. The fuel-staging area was not congested at the time of the occurrence and traffic volume in the area was not considered to have contributed to the event.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+No broadcast was heard stating the Bell 206L pilot's intention to take off and the Astar pilot was not aware that the Bell 206L was about to take off. Although not mandatory to do so, the Bell 206L pilot did not execute a left hover turn prior to taking off to ensure there was no traffic or obstacles in his intended departure path. Without this safety check prior to take-off, the Bell 206L pilot could not see the Astar and its sling load coming from behind and from the left. Although not mandatory, the Astar pilot did not broadcast his position on final approach or on short final. It is likely that the Bell 206L pilot had not yet donned his headset and/or had not yet powered the radios and therefore did not hear either of the Astar pilot's previous position reports.
+
+
+
+Finding as to Risk
+
+
+Uncontrolled airports pose an additional risk for users and although it is good airmanship to communicate on the published aerodrome traffic frequency, it is not mandatory by regulation to do so.
+

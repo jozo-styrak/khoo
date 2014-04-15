@@ -1,0 +1,17 @@
+When the captain diverted the flashlight , the first officer could not see the glide slope indicator pass through one dot above the null position because of the lack of sufficient illumination in the HSI	, the Dot Above cue was missed , and the landing gear and flaps were not lowered and the landing lights were not selected on
+increasing	workload and causing a distraction
+recording the lighting defects had not been followed	Normal maintenance procedures
+the lack of sufficient illumination in the HSI	When the captain diverted the flashlight , the first officer could not see the glide slope indicator pass through one dot above the null position
+the captain diverted the flashlight	the first officer could not see the glide slope indicator pass through one dot above the null position because of the lack of sufficient illumination in the HSI
+the throttle positions were above the gear warning horn activation range	It is likely that the gear warning horn did not sound
+the high workload , the landing gear warning horn not sounding	The crew did not detect that the landing gear was up
+The intent of the design specification rule CAR 523.1381 is	each instrument
+The operating rule is not as stringent in its requirements	operation of the aircraft with lighting deficiencies
+a flashlight , degraded crew performance during the approach by increasing workload	a distraction
+the aircraft 's configuration -LRB- gear up -RRB- was	a low-drag profile
+the crew	power more than normal
+The higher-than-normal flap setting increased drag	the crew
+The higher-than-normal flap setting	drag
+Flying IFR at night , with inoperative instrument lighting and in challenging weather conditions	the crew in a high-workload environment
+This would have directed the captain 's attention outside the aircraft	the likelihood of detecting the gear-up configuration
+The operating rule CAR 605.16 -LRB- 1 -RRB- -LRB- I -RRB-	operation of aircraft with lighting deficiencies

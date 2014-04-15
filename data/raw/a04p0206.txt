@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+High cycle fatigue fracture was confirmed for one of the 2nd stage rotor blades, and separation of this blade is considered to be the lead event in the compressor failure. This is consistent with the damage pattern observed in the compressor, including the shedding of all of the 2nd and 3rd stage rotor blades, and the major penetration observed in the case halves in the 2nd stage rotor path. Failure analysis of the stator vanes did not reveal any indications of premature failure, and the vane failures were all considered to be secondary in nature, resulting from the initial 2nd stage rotor blade failure. This was supported by a review of several other compressor failures for this engine type, which showed that in all cases where a compressor stator vane failure was identified as an initial cause of failure, there was no associated shedding of the compressor rotor blades such as occurred in this incident.
+
+
+The possibility of FOD as a precursor to the compressor rotor blade failure was considered. But, for a number of reasons, it could not be concluded positively that FOD was a precursor. On this installation, a particle separator was installed; however, there appears to have been impingement by a small foreign particle on one of the 1st stage rotor blades, as evidenced by what appeared to be a recent impact mark and a particle of aluminum metal transfer. The engine had continued to run for a short time after ground impact, and it is possible that something was ingested into the compressor at that time, leaving the mark observed on the 1st stage blade. On the other hand, the mark on the leading edge of the front support vane was oxidized, indicating that it had been present for some time. Since the debris in which the piece of aluminum rivet was found was collected among general debris found in the engine cowl area after the accident, it cannot be positively linked to the presence of the small particle of aluminum in the impact mark. Given these observations, FOD cannot be ruled out. However, the absence of any fractographic evidence near the fatigue initiation zone makes its influence as a probable fatigue crack initiator in the 2nd stage rotor blade inconclusive.
+
+
+The following TSB Engineering Laboratory Report was completed:
+
+
+LP 082/2004 - Compressor Failure
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The compressor failure resulted from the separation of a 2nd stage rotor blade due to high cycle fatigue, which had initiated at or near the leading edge of the blade. Post-fracture mechanical damage in the origin area prevented determination of the cause of fatigue initiation.
+
+
+
+Other Finding
+
+
+Indications of foreign object damage (FOD) were observed, but the significance of FOD as a precursor to the 2nd stage compressor rotor blade fracture initiation was inconclusive.
+

@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+Instrument flight rules and associated procedures are developed to enhance the safety of flight. The air carrier practice of operating some flights in accordance with VFR to save time bypasses these safety defences in the air traffic management system. This places greater responsibility for traffic detection and spacing on the flight crew.
+
+
+Based on the latest Campbell River weather report (0800), the ceiling was well above the VFR minimum. The difference between a scattered and a broken cloud (ceiling) condition may be as little as of total sky coverage, as judged by the observer. When cloud height is near VFR limits, the implication can be significant, whether VFR flight is permitted or not. In the interests of safety, the Nav Canada FSS Manual of Operations, sections 411.9 and 411.10, discusses the airport advisory service and provides for specialists to include weather and other advisory information, as they deem appropriate. Had the crew of PCO909 been advised that the weather may have deteriorated to less than VFR minima, the crew could have formulated an alternate arrival plan, thereby avoiding the resulting conflict.
+
+
+TSB investigations into mid-air collisions have identified ineffective communications as a contributing factor. If an arriving flight does not include all of the prescribed information on initial contact with the FSS, the defence provided by communications on the MF is compromised. Timely and complete reports of position and intentions improve situational awareness for all concerned and provide the opportunity for conflict detection and resolution.
+
+
+Non-adherence to published circuit procedures have also contributed to midair collisions. Although regulations do not define the dimensions of a circuit, the A.I.P. Canada, Section RAC 4.5.2.(a)(vi), describes joining the circuit straight-in on the final leg as an approved technique under prescribed conditions. Reporting on a right base implies that the aircraft will fly a heading perpendicular to the runway and make a right-hand, 90-degree turn onto the final approach course. If the actual flight path flown is not characteristic of the stated or implied procedure, ambiguity and confusion for other airport traffic can result in conflict.
+
+
+When the crew of PCO909 found themselves facing deteriorating weather and traffic closing in on their position, the decision was made to abort their VFR arrival. As there are no established procedures for such a situation and the missed approach briefing conducted by the crew did not include routing and altitude details, as it would have for an IFR approach, there were three abort options available, each with potential consequences: continue straight ahead across the airport; turn to the right; or turn to the left.
+
+
+By continuing straight ahead or turning to the right, the flight crew would have been faced with weather conditions below VFR limits and a possible regulatory infraction for entering the Campbell River MF area under VFR while in instrument flight conditions. A left turn would involve briefly proceeding toward the other traffic. Faced with making this sudden and unanticipated decision and assessing the traffic position, the flying pilot concluded that a left turn presented the lowest risk of adverse consequences.
+
+
+The crew of GLR689 had reduced their speed to remain behind PCO909. Because the aircraft was equipped with TCAS and was being monitored, the crew continued with their approach. When PCO909 aborted the visual arrival by making a left turn, the element of surprise and a TCAS RA resulted in GLR689 deviating slightly to the left and executing the missed approach procedure. In summary, the TCAS RA was the only remaining defence during this risk of collision. It was the catalyst for the evasive action and missed approach by GLR689.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The reported 0800 weather conditions allowed for visual flight rules (VFR) flight at Campbell River. Deteriorating weather conditions went unreported. As PCO909 entered the control zone, the flight encountered weather conditions below VFR minima, resulting in the crew aborting the arrival. The flight encountered a risk of collision in the process. The crew of PCO909 had to unexpectedly abort their planned arrival under VFR. In the flying pilot's judgement of traffic spacing, a left turn was assessed to be the option of least consequence, but it resulted in a risk of collision with GLR689, which was established on final approach.
+
+
+
+Findings as to Risk
+
+
+A delayed and incomplete inbound report from PCO909 reduced situational awareness for all concerned and, thereby, reduced the opportunity for conflict detection and resolution. Deviations from published procedures or stated intentions can create ambiguity and confusion for other airport traffic and result in an increased risk of conflict. Potential delays induced by flight under instrument flight rules (IFR) motivate some air carriers and pilots to fly VFR whenever possible. However, this bypasses some of the safety defences associated with IFR flight in controlled airspace.
+
+
+
+Other Findings
+
+
+The traffic alert and collision avoidance system (TCAS) resolution advisory (RA) was the last defence in this risk of collision and was the catalyst for the evasive action and missed approach by GLR689.
+

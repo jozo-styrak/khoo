@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+Testing and examination of the carburettor and the magnetos revealed defects that may have led to a rough-running engine. However, by themselves, these defects are unlikely to have caused a loss of engine power extreme enough to have required the pilot to force land.
+
+
+The outside air temperature and dew point at the time of the accident are known to have been highly conducive to the formation of carburettor ice, and the use of MOGAS increased the likelihood of this occurring. Based on these conditions, and the problems experienced by the engine test company at about the same time, carburettor icing was almost certainly the major factor in the aircraft's loss of engine power.
+
+
+The pilot was seen to be flying parallel to the highway for some time before the crash occurred. It could not be determined why the pilot did not land on the highway as his aircraft was losing power.
+
+
+Examination of the aircraft did not reveal any defect that would have led to a loss of aircraft control. It is concluded that the abrupt wing-drop and left turn immediately before impact were probably the result of an aerodynamic stall resulting from low airspeed. The pilot would not have had time to recover from a stall at such a low height before the aircraft struck the ground.
+
+
+The severity of injury resulting from the crash was increased because the shoulder harness was not worn. Transport Canada regulations do not require the use of a shoulder belt or a harness for aircraft in this category.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Carburettor icing almost certainly contributed to engine loss of power, which led the pilot to attempt a forced landing. The aircraft stalled at a height above the ground that was too low for the pilot to recover.
+
+
+
+Findings as to Risk
+
+
+The pilot did not wear the available shoulder harness, greatly increasing the risk of injury. Environmental conditions at the time of the accident presented a serious risk of carburettor icing. The aircraft was being operated on automotive gasoline, which is known to exacerbate carburettor icing problems. The model of carburettor used on the accident engine is known to have caused rough-running engines. As well, the accident aircraft's carburettor and magnetos had defects that may have led to a rough-running engine. The faulty left magneto may have caused the engine to run rough at lower rpm.
+

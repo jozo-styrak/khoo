@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+Several factors might have increased the Nunavut NSiT controller's workload and distracted him such that he omitted the 60N110W waypoint when issuing the clearance to Arctic radio and did not realize the omission in the readback. The louder call from an aircraft on VHF during the readback might have distracted the controller. The replacement of the original ACA845 strip with a revised strip at the time of the readback interrupted the controller's normal practice of visually and physically following the printed information on the strip while listening to the readback. Compounding these two factors around the time of the occurrence was the extensive activity to develop revised routes.
+
+
+The Franklin data controller who received the first position report from ACA845 was not seated directly in front of the strips and, therefore, had to view the flight progress strip from an acute angle. He also had to reach across and in front of the NSiT controller to record the estimates. This made it more difficult to directly view the information on ACA845's flight progress strip. Had the data controller been seated directly in front of the strips during the position report, he would have been able to view the routing and estimate boxes more clearly.
+
+
+ACA845's next position report, to the second Franklin NSiT controller, also did not include the 60N110W reporting point and was not corrected. This controller had been conditioned to expect that the second-to-last box from the left on the flight progress strip often contained NSiT-generated waypoints for which no ETA would be received from the aircraft. The controller, therefore, did not find it unusual not to receive this information from the pilot, although she still expected that the aircraft would proceed via that point. It could not be determined why the second Franklin NSiT controller did not react to the inclusion of the TORON estimate and the mention of ATHLO as the next reporting point. The second Franklin NSiT controller was also in the habit of not checking the estimate boxes against the routing box of the strip while receiving a position report.
+
+
+The NSiT system does not check route conformance. The current position and time, the name and estimate for the next reporting point, and the reporting point following - as received from the flight crew, if included in the information entered in the NSiT - might provide a confirmation that expected and actual routes were in accord. The look and feel of the NSiT display is similar to the radar-based situational display, which may reinforce this accordance.
+
+
+The NSiT flight progress strip printing routine does not differentiate between mandatory reporting points and NSiT-generated waypoints. Each controller must draw upon experience to determine which waypoints are valid. With the wide variety of experience levels in the north high specialty, the potential for confusion exists.
+
+
+The position report is the basis for maintaining separation in procedural controlling. How that position report is communicated from the flight crew to the controller is essential to the accuracy of the information received. HF blackouts, time-consuming communication transfers through third parties, and sparse VHF coverage all contribute to less-than-ideal methods of communicating position reports. As a result, controllers encounter delays in receiving position reports and are sometimes inundated with late reports, shown as highlighted or flashing warnings on the NSiT. These delays can add to the workload and distract the controller.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+It could not be determined why the Nunavut controller did not include the 60N110W position in the clearance read to the Arctic radio specialist. When ACA845 passed the position report at 1840, the Franklin data controller did not question that the reporting point after 6530N100W was given as TORON instead of the required reporting point of 60N110W. Neither did he confirm whether the stated route corresponded to the NSiT (northern airspace display system [NADS] situational display) flight-planned route. The controller thereby missed the opportunity to correct the planned route. When ACA845 passed the position report at 1915, the second Franklin controller did not question that the next reporting point would be TORON with ATHLO next instead of the required reporting point of 60N110W with TORON next. The controller thereby missed the opportunity to correct the planned route.
+
+
+
+Findings as to Risk
+
+
+The Polar and Nunavut sectors do not have a route-planning position. The workload of the controller responsible for separating aircraft is therefore increased, which may result in the controller's attention being divided among several critical tasks. The voice switching communication system equipment is not able to control the volume levels of all incoming communications. The need to continually adjust the volume between radio and landline calls adds to the controller's workload. This may result in some transmissions being masked by others coming in at a higher volume. The lack of continuous, direct controller-to-pilot communications in procedurally controlled Canadian northern airspace results in delays in receiving position reports. Warnings generated by the NSiT increase the distraction to controllers. The NSiT does not check route conformance and alert controllers that an aircraft is following a route other than what is expected, increasing the risk of a loss-of-separation incident. The NSiT does not differentiate, graphically or otherwise, between mandatory and computer-generated waypoints on the flight progress strips. Controllers may therefore not be aware that an aircraft is flying a route different from that intended by the controller.
+

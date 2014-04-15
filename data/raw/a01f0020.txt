@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+Modern jet engines are extremely reliable, and in-service failures are rare. This reliability is the basis of the extended range twin-engine operations (ETOPS) approval. When two engines on the same aircraft fail for the same mechanical reasons in such a short time, this reliability is brought into question. In this case, both engine failures were the result of stress corrosion cracking of the second-stage turbine blades, a failure mode that Pratt and Whitney has been actively trying to control through the use of sacrificial corrosion protection coatings. The focus of this investigation analysis was to identify the underlying causes of these two engine failures.
+
+
+These two engines were manufactured at approximately the same time. Neither had a corrosion protection coating on the second-stage turbine blades. The engines were installed and operated on the same aircraft, exposed to the same environment under the same operating conditions, and maintained with the same procedures. Therefore, it is expected that internal engine condition and wear patterns would be similar. In fact, both engines exhibited similar corrosion damage to the second-stage turbine blades when they were dismantled for overhaul. This damage indicates that the corrosion mechanisms were in place and operating at similar rates in each engine before the overhauls.
+
+
+The rate of corrosion in both engines increased dramatically after their overhauls, in spite of both engines having corrosion protective coatings applied to the second-stage turbine blades. The service life of the second-stage turbine blades of engine P733336 with the PWA545 coating was expected to be considerably longer than the original, uncoated blades that had been removed from service after approximately 4000 cycles; however, the coated blades failed at only 1306 cycles. The second-stage turbine blades of engine P733335, with the more advanced corrosion protection coating on new blades, were expected to last twice as long as the blades of engine P733336, but these blades failed at only 1020 cycles.
+
+
+The corrosive environment in the under-platform cavity results from the leakage of hot gas path air past the rim seal, carrying dirt (dolomite) and sulphur, which is deposited on the surface of the blade root under the platform. The calcium and sulphur then mix in a hot environment and form anhydrite. The anhydrite attacks the surface of the turbine blade and forms pits, which are the stress concentration points that become the crack initiation sites. The cracks develop by fatigue until they reach the point of failure. Neither the corrosion nor the cracks are detectable without dismantling the engine. This situation was developing in both engines before they went in for overhaul, an indication that the rear side plate seals were no longer fully effective. That the corrosion became worse after the overhauls indicates the repair work on the seals did not restore them to their original effectiveness. The difference between the two engines was the more pronounced leaking of the rear side plate seal of engine P733335, which allowed greater airflow thus more dirt contamination into the under-platform cavity, thereby increasing the rate of corrosion attack.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Both engine failures resulted from stress corrosion fractures of second-stage turbine blades. The corrosion was due to the reaction of the coated PWA1484 alloy of the second-stage turbine blades to the anhydrite that had formed on its surface. The resultant corrosion pits were the initiation sites of the fatigue cracks, which progressed to the point of failure. Neither engine had a good fit between the rear side plate seal and the aft face of the second-stage turbine blades. The subsequent air leaks resulted in an increased rate of corrosion attack in both engines. The increased corrosion protection provided by the coatings did not offset the increased rate of corrosion attack resulting from the leaking air seals.
+
+
+
+Other Findings
+
+
+The flight management, guidance, and envelope computer (FMGEC) software did not recognize that the engine had been shut down and therefore did not authorize auto thrust for the remaining engine.
+

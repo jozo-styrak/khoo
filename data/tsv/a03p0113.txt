@@ -1,0 +1,17 @@
+Radar scanning of Class E airspace to detect conflicting VFR traffic is not supported by aides , such as flight data strips , and these targets may only display as a splat without associated data tags	, determination of conflicting traffic requires an additional effort delegated to the controller 's memory
+Transponders are required within Class C airspace , but are not required within basic Class E airspace	The safety advantage that might be gained with TCAS equipment installed in aircraft is limited within Class E airspace since TCAS systems operate on transponder signals
+neither crew had been advised of the traffic	only the defence of un-alerted visual scanning remained
+the helicopter received the descent clearance	the defence of altitude separation was removed
+the Otter pilot intended to operate within Class C airspace	the transponder was turned on
+either aircraft been equipped with TCAS	this incident
+his attention was divided between numerous tasks related to his plan , causing his radar-scanning technique to deteriorate	The Victoria terminal controller did not detect the Otter 's presence , possibly
+transponders are not required within basic Class E airspace	the safety advantage that might be gained with TCAS equipment installed in aircraft is limited
+In this occurrence , the controller 's attention was divided between numerous tasks related to his plan	his radar-scanning technique
+The VFR traffic was displayed on ATC radar ; however	scanning alone
+time	a risk of collision between the helicopter and the Otter
+The altitude deviation by the Otter	the risk of collision
+Weather conditions	the difficulty of visual detection
+The Victoria terminal controller did not detect the Otter 's presence , possibly because his attention was divided between numerous tasks related to his plan	his radar-scanning technique
+the controller 's workload permits	this additional service
+Weather conditions	the difficulty of visual detection
+The altitude deviation by the Otter	the risk of collision

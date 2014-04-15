@@ -1,0 +1,12 @@
+The conditions listed as being shimmy initiation factors appear to be normal landing conditions for this class of aircraft	, it would appear that the problem relates to the overall landing gear design
+The original excitation of the oscillations	the shimmy could not be determined , but it would appear that two factors allowed the oscillations to continue and amplify
+two factors	the oscillations continue and amplify
+The additional clearances in the T/L pins and bushings which reduced the dampening capability of the T/Ls ; and The excessive nitrogen pressure in the oleo	the oleo compressing immediately at touchdown
+bushings	the dampening capability of the T/Ls
+The aircraft had not been in service for a sufficient length of time to require this operator 's mid-life inspection on the gear	the excessive clearances
+Changes in tolerances , whether from wear , overhaul , servicing , etc. , compromise the margin of shimmy control	torque link failure
+Changes in tolerances , whether from wear , overhaul , servicing , etc. ,	the margin of shimmy control , which can lead to torque link failure
+The left main gear began to shimmy immediately after touchdown	failure of the upper torque link and eventual separation of the wheels from the axles
+The aircraft landing configuration and other landing conditions were	the initiation of landing gear shimmy
+the previous overhaul	the torque links controlling and eliminating the shimmy
+The nitrogen pressure in the oleo exceeded the pressure specified in the maintenance manual	the oleo 's stiffness

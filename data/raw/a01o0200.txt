@@ -1,0 +1,31 @@
+
+
+Analysis
+
+
+When the balloon initially landed, it was approximately 600 feet upwind of the power lines, somewhat short of the 700 feet recommended in the flight manual for the existing winds. The balloon was then brought into equilibrium and walked to a second landing site approximately 240 feet upwind of the power lines. Information gathered during the investigation revealed that, after landing, balloons are commonly walked to a position more favourable for recovery. This procedure must be completed with regard for obstacles, especially power lines. The existing weather conditions, particularly the winds, must also be considered. Information from previous flights recovered from the on-board global positioning system indicated that some of these flights were successfully landed near roadways or were walked closer to roadways after landing. Since it was standard practice for the pilot to land or position the balloon near a road, he likely did not adequately consider the risk posed by the proximity of power lines. The pilot's decision-making process and judgement were likely influenced by the routine nature of the procedure. Formalized pilot decision-making training is not available for balloon pilots, but a multimedia educational package on pilot decision-making is available from Transport Canada.
+
+
+No anomalies were found with the balloon system that might have contributed to the accident. Immediately after the pilot began opening the spring top, an unexpected gust of wind lifted the balloon, with its occupants and one ground crew member, into the air and caused it to drift toward the power lines. The pilot immediately assessed the situation and concluded that the balloon would contact the wires unless he was able to climb over them. Rather than effect a rate-of-descent for immediate landing by venting or opening the deflation panel in accordance with the flight manual, he decided to light the burners and attempt to climb over the wires.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Given the known weather conditions, the final landing area was too close to a power line to allow the pilot time to react safely to the gust. The balloon struck electrical power lines, causing an electrical arc and fire that destroyed the balloon and resulted in serious and fatal injuries.
+
+
+
+Findings as to Risk
+
+
+When the pilot realized that the balloon was heading for the power lines, he tried to climb the balloon over the power lines rather than land immediately. This action was not in accordance with procedures in the flight manual. There are no flammability standards for materials used in the construction of balloons. The occupants were not wearing helmets during the accident flight, increasing the risk of injury.
+
+
+
+Other Findings
+
+
+Formal pilot decision-making training is not available for balloon pilots.
+

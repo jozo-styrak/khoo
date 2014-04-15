@@ -1,0 +1,73 @@
+In this occurrence , a series of actions and decisions made by the crew gradually increased the risk to which the flight was exposed until the aircraft reached a point where it was impossible to re-establish the safety of the flight	, this analysis will concentrate on the actions and decisions of the crew and the manner in which they served to bypass the defence mechanisms put in place to reduce the risks related to operation
+Considering the pilot shortage , it can be expected that pilots who join a company may have relatively little experience	companies need to consider greater monitoring of their knowledge of basic IFR procedures through more detailed SOPs and a training program
+The first approach had been carried out with greater accuracy ; the aircraft was closer to the runway 's centreline	, the turns required to realign the aircraft with the centreline would have been less pronounced , thereby reducing the risk of stalling
+The workload of the PNF was increased and the PNF 's attention was focused on tasks that should have been completed before the FAF	, several verbal calls and radio communications were not done
+This could have caused confusion regarding the altitude at which it was permissible to descend	, on its return for a second approach , the flight crew did a race-track pattern using the CHIBOO beacon and descended to 400 feet below the safe obstacle clearance altitude , increasing the risk of a CFIT
+In addition , the risk of conflict with the other aircraft was increased because the crew of the other aircraft expected the published altitudes to be followed	, the two aircraft passed abeam in opposite directions with a distance of 1000 vertical feet and a horizontal distance of 3.1 nm between them without either crew being aware of this fact
+Because the outbound time was calculated from the time the aircraft passed abeam the beacon , the aircraft 's distance in relation to the runway was reduced when it turned onto the inbound segment	, the aircraft was established on final at less than one mile from the FAF without being configured for the approach
+why the pilot-in-command followed through with the landing remains unknown	The PF put the aircraft in an unstable approach condition for the runway and did not recognize the need for another go-around
+The surface wind was 260 at 6 knots	, the aircraft 's ground speed increased after the right turn and , in the left turn , the aircraft drifted to the outside of the turn and moved away from the runway centreline
+The pilot flying carried out a steep turn at a low altitude , thereby increasing the load factor	, the aircraft stalled at an altitude that was too low to allow the pilot to carry out a stall recovery procedure
+The time spent programming the global positioning system reduced the time available to manage the flight	, the crew did not make the required radio communications on the mandatory frequency , did not activate the aircraft radio control of aerodrome lighting -LRB- ARCAL -RRB- , did not make the verbal calls specified in the standard operating procedures -LRB- SOPs -RRB- , and configured the aircraft for the approach and landing too late
+However , a PPC is a very limited view at a given moment	does not cover all aspects of an IFR flight
+this	companies need to consider greater monitoring of their knowledge of basic IFR procedures through more detailed SOPs and a training program
+Although the crew had received CRM training , it still had little multiple crew experience	little experience in applying the basic CRM principles
+it is essential that pilots actively monitor the MF and that they follow the reporting procedures specified for use when flying in a MF area	improve safety significantly
+they had not tuned the MF in a timely manner	Twice , the crew could not be informed
+the Qu bec FIC wanted to ensure that the crew had clearly received the message from Propair 102 after its position report at 10 miles on final for Runway 05	the message did not include the runway number
+Propair 102 reported at 1.5 miles on final	they did not mention the runway number
+a good understanding of the situation by those receiving the information	ensure
+the other aircraft done a go-around	there would have been a risk of collision
+the crew of the other aircraft expected the published altitudes to be followed	In addition , the risk of conflict with the other aircraft was increased
+the outbound time was calculated from the time the aircraft passed abeam the beacon	the aircraft 's distance in relation to the runway was reduced when it turned onto the inbound segment
+it is assumed that once instrument flight qualifications have been obtained , the pilots are qualified	In general , the training provided by companies does not cover the basic elements of instrument flight
+Nevertheless , when the crew saw the runway , their position required a rate of descent greater than 500 feet per minute and a steep turn at a low altitude	line the aircraft up with the runway centreline
+the crew saw the runway	their position required a rate of descent greater than 500 feet per minute and a steep turn at a low altitude in order to line the aircraft up with the runway centreline
+During the turn , to reduce the rate of descent , the pilot-in-command pulled on the controls , which increased the load factor	the stall speed
+the stall warning horn is adjusted to activate at 4 to 8 knots before a stall and it activated at 100 knots	it can be concluded that the stall speed was between 92 and 96 knots and that the bank angle was greater than 50
+Taking into account the rate of descent , angle of impact , and the time between activation of the horn	, it was established that the aircraft was less than 100 feet agl when the stall warning sounded
+Although the crew had received crew resource management -LRB- CRM -RRB- training , it still had little multiple crew experience	little experience in applying the basic principles of CRM
+circuit board damage its	The emergency locator transmitter -LRB- ELT -RRB- had activated after the impact but
+the fire station is 23 kilometres from the airport	the firefighters arrived at the scene 26 minutes after the accident
+the crew	a series of actions and decisions
+a series of actions and decisions made by the crew	the risk to which the flight was exposed until the aircraft reached a point where it was impossible to re-establish the safety of the flight
+the defence mechanisms put in place	the risks
+The company had	the crew all training required by regulations
+shortcomings in the areas of communication , workload management , and situational awareness all	increasing the risk of an accident
+Propair 102	the radio transmissions
+their high workload	reducing their auditory attention to the radio transmissions made by Propair 102
+This fact , like the non-compliance in communications	the accident
+it did	a situation in which the pilots of both aircraft did not have good knowledge of their respective positions
+both aircraft	the pilots know their positions better in relation to each other and thereby reduce the risk of collision
+relation to each other	the risk of collision
+The crew 's high workload , combined with their level of experience	the deficiencies in radio communications
+the GPS	the time available to manage the flight such that , on the first approach , the crew did not make the required radio transmissions on the MF , did not activate the ARCAL , missed the verbal calls specified in the SOPs manual , and configured the aircraft for the approach and landing late
+Consequently , the turns required to realign the aircraft with the centreline would have been less pronounced	the risk of stalling
+this	the delay in seeing the runway and its environment , thus making a go-around necessary
+However , the lighting was off and this could have contributed to the delay in seeing the runway and its environment	a go-around necessary
+There was enough fuel and the crew had seen the runway	it plausible to believe the second attempt would be successful
+this type of approach was developed	safety in the approach-and-landing phase
+control	procedure
+The workload of the PNF	and
+This	confusion regarding the altitude at which it was permissible to descend
+Consequently , on its return for a second approach , the flight crew did a race-track pattern using the CHIBOO beacon and descended to 400 feet below the safe obstacle clearance altitude	the risk of a CFIT
+The crew 's limited IFR experience	poor interpretation of the IFR procedures , in particular regarding how to carry out a race-track pattern
+companies	the training
+a SCDA NPA	additional defence
+the following factors	his decision
+to the alternate airport	further delay
+the pilot-in-command little time	a decision
+This situation	the pilot-in-command 's stress level
+the pilot-in-command	the bank to correct the drift
+During the turn , to reduce the rate of descent , the pilot-in-command pulled on the controls	the load factor and as a result the stall speed
+During the turn	the rate of descent
+The aircraft was configured late for the approach	an unstable approach condition
+The pilot flying carried out a steep turn at a low altitude	the load factor
+the global positioning system	the time available to manage the flight
+During the second approach , the aircraft did a race-track pattern and descended below the safe obstacle clearance altitude	the risk of a controlled flight into terrain
+The crew 's limited instrument flight rules -LRB- IFR -RRB- experience	poor interpretation of the IFR procedures
+Non-compliance with communications procedures in a mandatory frequency area created a situation in which the pilots of both aircraft had poor knowledge of their respective positions	the risk of collision
+Non-compliance with communications procedures in a mandatory frequency area	a situation in which the pilots of both aircraft had poor knowledge of their respective positions , thereby increasing the risk of collision
+a stabilized constant descent angle -LRB- SCDA -RRB- non-precision approach -LRB- NPA -RRB-	an added defence tool
+This situation	the flight crew
+The standard checklist used by the flight crew	no reference the enhanced ground proximity warning system -LRB- EGPWS -RRB-

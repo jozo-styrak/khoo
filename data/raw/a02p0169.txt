@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+Because the investigation determined that the helicopter was within weight and balance limits, had sufficient fuel to conduct the flight, and weather was not a contributing factor, this analysis focuses on the mechanical issues.
+
+
+The engines were not operating and the main rotor had little or no rpm at impact. Inspection of the engines did not find any anomalies that would have caused the engines to stop operating prior to impact. However, the white smoke coming from the engine exhaust area after the engine sounds stopped suggests that, although the engines were still turning and fuel was being introduced, the fuel was not being burnt. The most likely explanation for these events is an engine overspeed and shutdown.
+
+
+An engine overspeed is possible for a variety of reasons, including a drive train interruption such as an IFWU spit-out4. The overspeed governors operate by cutting off the fuel to the engine if an overspeed is sensed but do not leave any indication that an overspeed has occurred. Once the fuel is cut off, the engine flames out, the rpm decreases and fuel is reintroduced. The engines are not equipped with auto-relight systems and therefore do not automatically relight after fuel is reintroduced to the engine. It is concluded that the engines shut down because of an overspeed condition, probably induced during IFWU spit-out.
+
+
+Inspection of the MGB found that all damage, except that found on the IFWUs, was impact-related. Both right and left IFWUs were found to have similar damage. Metallographic examination of the area around the flat spots on the rollers showed an untempered martensite surface layer. Skidding and spit-out of the rollers is the most likely cause of these metallurgical anomalies. The rollers were not through-hardened to the required specification during their manufacturing process. It is not known what effect this defect may have had on the IFWU's ability to maintain engagement. The wave-shaped areas of raised metal on the camshaft flats on the low (disengaged) side of the roller impressions indicates that the rollers were forced in the disengaged direction with extreme and unusual force. Other damage to the IFWU components - smearing of the roller material, denting and pitting of the gear housing roller path, and breakup of the oilites - is also indicative of damage caused by slipping and spitting out.
+
+
+Damage to the oilites can cause a loss of support to the roller retainer. This in turn can cause a loss of alignment of the rollers, which increases the likelihood of roller spit-out. During normal operation, the oilites are stationary and do not carry a load. However, the quantity of fine bronze particles found would indicate that the oilites were subject to repeated small loads and motion, such as would occur as the result of vibration. Contamination of the roller path with oilite material increased the likelihood of roller spit-out.
+
+
+It is likely that when the first IFWUs spit-out, the affected engine oversped and shut down. As the other engine/IFWU took up the full load of the rotor, that IFWU spit-out and its associated engine oversped and shut down. The IFWUs disengaged one after the other, with so little time between the disengagements that the disengagements could be considered simultaneous. It is unlikely that the helicopter entered fully-developed autorotative descent because of the loss of rotor rpm, the height available, and the manoeuvring required.
+
+
+A history of accidents shows that when one engine or one IFWU fails on a Sikorsky S-61, a significant risk exists that the second IFWU will also fail, causing a dual engine power loss. It is reasonable to conclude that an aircraft with two components prone to failure is twice as likely to have that failure as an aircraft with only one such component. Pilots of dual engine helicopters reasonably expect that in the event of a power loss from the first engine, the second engine would be available. In part, this expectation forms the basis for the pilots' acceptance of the level of operational risk. Unlike helicopters that operate the majority of the time in cruise flight, a helicopter working in a high risk flight regime (such as heli-logging) is unlikely to be able to carry out a successful autorotation in the event of a total drive train power loss.
+
+
+The TSB is aware of numerous Sikorsky S-61 IFWU slips. As well, the TSB has investigated several Sikorsky S-61 accidents prior to this investigation, including A01P0003, A00P0182 and A93P0051, in which the IFWU spit-out.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The oilite bushings in the IFWUs deteriorated, causing instability of the rollers and bronze contamination in the roller path resulting in reduced ability of the IFWU to maintain engagement. Both IFWUs malfunctioned in rapid sequence, causing the engines to overspeed and subsequently shut down. Following the loss of power of the engines, drive to the main rotor was lost, leading to rotor rpm decay and loss of control of the helicopter.
+
+
+
+Findings as to Risk
+
+
+In the event that one engine or one IFWU fails on a Sikorsky S-61, a significant risk exists that the second IFWU will also fail. Helicopters used in high risk operations such as heli-logging are often flown in an area of the flight envelope where a successful autorotation is unlikely in the event of a total drive train power loss. The IFWU rollers were not through-hardened to the required specification during the manufacturing process.
+

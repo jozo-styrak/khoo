@@ -1,0 +1,45 @@
+
+
+Analysis
+
+
+The aircraft was serviceable for the flight and there were no environmental factors that were considered contributory. The analysis will therefore focus on the safety defences that were not effective in preventing the crew from attempting to take off using incorrect take-off performance references.
+
+
+During the initial performance calculation, an error in the weight of fuel on board (FOB) for take-off was introduced. Therefore, the performance data generated was not correct. This resulted in the use of a lower-than-required thrust setting for take-off, V speeds that were inappropriate for the weight of the aircraft, and less-than-optimum performance and handling characteristics.
+
+
+The turn-around time scheduled for the flight in CYEG was 45 minutes. During the course of a normal day, flight crews expect to have to deal with unforeseen or changing circumstances. The requirement to power down the aircraft on arrival and the EFB power source anomalies were particularly significant. In this case, the situation created an increased workload, particularly for the captain, and disrupted the normal procedural flow. While readying the aircraft for departure, both crew members deviated from SOPs. Whenever there is a deviation from normal procedures, there is more vulnerability to errors. Other non-standard events that would have added to the crew's overall workload management were the defective laptop cord, the absent flight service director, the overflowing coffee maker, the late change to departure runway, communication difficulties with ATC, and the later-than-scheduled gate departure.
+
+
+SOPs are the primary safety defence to ensure that there is a correct, standard, and safe outcome for each phase of flight. To achieve this, the procedures must be sufficiently robust to withstand the daily challenges that crews face during normal operations. SOPs must be effective in circumstances where the crew is working under pressure, interrupted or distracted, facing non-standard situations, and in periods of high workload. Consequently, there must be human performance considerations during the design, development, and use of these critical defences. In this occurrence, the procedures in place failed to ensure that correct generation and use of take-off performance data occurred.
+
+
+SOPs required the PNF to calculate the take-off performance data and the PF to verify the data before transcribing the data to the operational flight plan. These data could then be entered into the FMS. However, on this day, this was not done because both pilots deviated from SOPs and the PF calculated the take-off data.
+
+
+Had the verification of the preliminary performance calculations been accomplished correctly, the discrepancy likely would have been identified at this point. The FOB field would have indicated 3700 kg instead of 10 200 kg and the estimated take-off weight (ETOW) field would have indicated 41 700 kg instead of the operational flight plan ETOW of 47 780 kg.
+
+
+Although the SOPs required that the crew transcribe the EFB performance generated data to the operational flight plan, there was no specific location on the operational flight plan to transcribe the take-off performance figures. Therefore, the crew wrote them down on the top right corner of the page. Since the planned figures were located in the opposite corner, at the bottom left of that same page, it was difficult to compare the calculated performance figures and the planned figures. Had there been a specific area, adjacent to the planned figures, to transcribe the calculated performance data, the discrepancy between the planned take-off weight and the take-off weight used for generating the performance figures would have been easier to identify. It is more likely that the six-ton difference between the planned and calculated take-off weight would have caught the attention of the crew.
+
+
+The fuel check was then completed. No discrepancies were noted since, by that time, the aircraft had been refuelled and the fuel gauge indication of 10.2 tons matched the operational flight plan required fuel of 10.15 tons. There were no specific requirements to verify the actual FOB against the FOB entry on the EFB take-off page during the fuel check procedure or the pre-flight procedure.
+
+
+In this occurrence, the crew took off using incorrect take-off performance references. This was a result of a combination of the crew deviating from SOPs and the operational flight plan form design that prevented easy identification of discrepancies. The procedural defences that were in place did not function effectively and this could have resulted in substantial aircraft damage and loss of life.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The normal flow of activities to prepare for the outgoing flight was interrupted, and the flight crew deviated from the standard operating procedures (SOPs) while readying the aircraft for departure. An incorrect aircraft weight was used to calculate take-off performance data. This error was not detected, and resulted in the crew conducting the take-off with lower-than-required thrust and speed references. There is no area on the operational flight plan for transcribing calculated performance data. This prevented easy identification of the take-off weight discrepancy.
+
+
+
+Other Finding
+
+
+A take-off performance monitoring system could have provided the crew with an accurate and timely indication of inadequate take-off performance.
+

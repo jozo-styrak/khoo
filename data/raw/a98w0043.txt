@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+Although the terminal forecast did not indicate that the ceiling and visibility at Grande Prairie would decrease to 100 feet and of a mile, conditions were IFR and below landing limits for the morning. Prior to the departure from Calgary, the ceiling was down to 200 feet and the visibility was of a mile. The pilot did not request an update of the current weather during the flight north. Both the air traffic controller and the FSS specialist asked the pilot if he had the ATIS before he commenced the approach, and the controller confirmed what the pilot intended to do in the event of a missed approach. The responses would indicate that the pilot had the weather, and that the missed approach would be as described on the approach plate for runway 29.
+
+
+The fact that two aircraft had made approaches earlier and both had to overshoot and proceed to alternate airports was not relayed to the occurrence pilot. There is no requirement to pass on this type of information. The pilot had not asked for the weather when he revised the departure time, therefore, he was not aware that conditions had deteriorated. On the flight north, a weather update could have been obtained from the controller or the FSS specialist. In light of the weather conditions that existed and the forecast that was provided, experienced pilots would normally ask for an update at every opportunity to help them in making decisions. It could not be determined why the pilot did not take advantage of the services available.
+
+
+The information provided the pilot when he called FSS indicated that the visibility at Grande Prairie was 2 miles and the ceiling 400 feet overcast, with conditions to improve by the afternoon. The pilot did indicate a concern about icing conditions in cloud that had been reported in the Calgary area. Snow was reported at Red Deer and Whitecourt, but at 8 000 feet asl, the forecast cloud tops suggested that the flight north would be between layers. Based on guidelines issued by the company, the flight should not have departed Calgary until later in the day.
+
+
+Entries in the pilot's logbook indicate that the approach to Grande Prairie was his first approach in IMC. The aircraft likely entered cloud at about 900 feet agl, just inside the outer marker for the approach to runway 29. The radar data show the aircraft turning left and right during the descent, as the pilot attempted to follow the localizer for the runway centre line. The rate of descent appears to be constant. The aircraft continued to descend, through the decision height of 200 feet agl,until it struck the lamp standard. It could not be determined why the pilot continued his descent below decision height, or why he carried out the approach in the weather conditions that existed.
+
+
+After striking the lamp standard, the aircraft entered a steep left turn due to the drag on the left side as a result of the lamp standard contacting the left engine and the thrust produced by the right engine. The phase of flight was not clearly determined, although indications are that the undercarriage was up, and the sudden left turn suggests that there was ample power being developed by the right engine; it is likely that just prior to striking the lamp standard, the pilot was initiating an overshoot.
+
+
+The MAYDAY call transmitted by the pilot, about five seconds before the ELT was heard, is believed to have been sent after the aircraft struck the lamp standard.
+
+
+
+Findings
+
+
+The pilot was certified and qualified for the flight in accordance with existing regulations. The weather at Grande Prairie was below the published minima for the ILS approach to runway 29. This was the pilot's first approach in instrument meteorological conditions. The pilot did not arrest the descent when the aircraft reached the decision height of 200 feet agl. The aircraft struck a lamp standard at about 18 feet agl. Control of the aircraft was lost after the collision with the lamp standard. The pilot was likely attempting to overshoot before contact was made with the lamp standard.
+

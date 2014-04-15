@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+Because of the conflict in written tasks between the job board and the aircraft logbook, combined with the technicians not using the TSM to resolve the problem, the LP fuel line to the fuel/oil heat exchanger was unnecessarily disconnected. Once the LP fuel line was disconnected, the technicians did not refer to or follow all of the reinstallation procedures in the available AMM. During the time it took for the replacement seal rings to arrive, the retainer, which cannot be removed from the fuel line, slid down the fuel line and became obscured from view. The LP fuel-line coupling was then reassembled without the retainer in place.
+
+
+During the required idle engine run, the fuel pressure and low fuel-flow rate, combined with minimal engine vibration, were insufficient to simulate in-flight conditions. Therefore, the LP fuel line did not detach from the fuel/oil heat exchanger, despite the missing retainer. After the idle engine run, the reconnected components were inspected for leaks, but none were found. The fuel/oil heat exchanger was inspected from the ground and not from an elevated position, as required by the Airbus AMM, where a thorough inspection could be completed. Also not used was a developer that would have made detecting fuel leaks easier. Given that the LP coupling can appear secure without the retainer in place, along with the technicians unfamiliarity with this particular fitting, it would have been difficult to detect whether the retainer was missing, even from an elevated position. The seal rings on the LP fuel line had been compressed sufficiently to prevent any leaks, rendering the developer, if it had been used, ineffective in detecting the missing retainer.
+
+
+As the engine power levers were advanced for take-off, an increase in fuel pressure, flow rate, and, perhaps, engine vibration caused the LP fuel line to detach from the fuel/oil heat exchanger because the retainer was missing. The fuel leak resulted in a large vapour trail, noticeable to other aircraft crew and observers on the ground (see Appendix A). A high-power ground run performed after the maintenance work had been completed would have greatly increased the probability of detecting the incorrect installation.
+
+
+The vapour trail was brought to the attention of the crew, and they took appropriate action. Without this alert, it could have taken some time for the pilots to detect that the fuel was disappearing, since there was no indication of a fuel problem from on-board equipment, and the differential fuel remaining may not have been noticed in a timely manner. Air Canada had not implemented Airbus SB A330-28-3080, which alerts pilots to a potential fuel leak once there is a loss of 3500 kg of fuel. Implementation of this SB would reduce the risk of fuel exhaustion, engine shutdown and fire. On this flight, a fuel loss totalling 3500 kg occurred in fewer than five minutes following departure.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Because of an incorrect entry on the maintenance office duty board and because technicians did not follow the TSM, they unnecessarily removed the LP fuel line from the fuel/oil heat exchanger. Because the technicians were unfamiliar with the coupling, because the retainer was hidden from view, and because they did not refer to the AMM, the technicians did not properly reconnect the LP fuel line. Upon the application of take-off power, the fuel pressure, the fuel flow rate, and engine vibration caused the fuel/oil heat exchanger LP fuel line to detach, causing a substantial fuel leak from the number 2 engine.
+
+
+
+Findings as to Risk
+
+
+A high-power engine run was not performed by the operator (nor was one required by the engine manufacturer), which would have produced conditions similar to those that caused the LP fuel line to detach from the fuel/oil heat exchanger on take-off. A high-powered engine run could decrease the risk that a leak or mis-installed component would go undetected. Correct inspection of the fuel/oil heat exchanger would require the use of an elevated platform both prior to and after the actual engine run-up. A proper inspection of the LP fuel line connection was not accomplished after the engine run-up, increasing the risk that a leak or mis-installed component would go undetected. Air Canada had not implemented Airbus SB A330-28-3080. Implementing this SB would reduce the risk that a fuel leak could go undetected, leading to fuel exhaustion, engine failure, or fire.
+
+
+
+Other Findings
+
+
+The removal and reinstallation of the fuel/oil heat exchanger LP fuel line was not documented, as required by Air Canada's maintenance policy manual and Transport Canada regulation.
+

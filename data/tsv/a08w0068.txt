@@ -1,0 +1,29 @@
+speed indicates that the pilot was maintaining a high cruise speed for several minutes as he attempted to maintain control before entering the spiral , thus reducing the margin before the speeds and aerodynamic loads exceeded structural limits	Any nose-down divergence from level flight would continue to increase the angle of dive or spiral , leading to a very high airspeed excursion within a very short period of time
+an over-reading gauge	The vacuum system appeared to have been operating normally , although possibly at a lower setting than specified by the manufacturer
+the problems with the KI256 gyro/horizon noted on previous flights , such as the unstable autopilot outputs from the gyro/horizon and noisy bearings	the instrument shop recommended that it be replaced or overhauled
+the aircraft would not easily maintain its trimmed airspeed	This decrease in stability would have resulted in an increase in pilot workload
+The pilot normally would not hand-fly the aircraft other than for take-off and landing	would not likely be prepared to deal with an unserviceable autopilot as well as a primary attitude indicator failure in instrument meteorological conditions
+TC was previously	inspections and audits of POC holders until the POC program was transferred to the CBAA
+the auditing interval being set at the maximum allowed of three years	Subsequent monitoring of the developing SMS program of this new POC operator was ineffective
+effective oversight of POC holders is not exercised by the regulator or its delegated organization	there is an increased risk that safety deficiencies not be identified and properly addressed
+a vacuum system that was possibly not at minimum operating requirements for the instrument	The gyro/horizon failed due to excessive wear on bearings and other components , resulting from a lack of maintenance and
+excessive wear on bearings and other components , resulting from a lack of maintenance and due to a vacuum system that was possibly not at minimum operating requirements for the instrument	The gyro/horizon failed
+an increase of the aircraft 's pitch control sensitivity	These two factors made the aircraft more difficult to handle
+effective oversight of private operator certificate -LRB- POC -RRB- holders is not exercised by the regulator or its delegated organization	there is an increased risk that safety deficiencies not be identified and properly addressed
+The lack of maintenance on the KI256 gyro/horizon	considerable internal component drag from the deteriorated bearings
+This drag , possibly in combination with the system vacuum that was not operating at the minimum required	the attitude gyro
+the subsequent toppling of the gyro	the pilot attitude information
+possibly in combination with the system vacuum that was not operating at the minimum required , would have resulted in the attitude gyro spinning at a speed considerably below the value required for proper stabilization	the autopilot to become unusable , while the subsequent toppling of the gyro deprived the pilot of attitude information
+The extreme aft C of G loading of the aircraft	the elevator sensitivity of an aircraft known for its light elevator control forces
+The extreme aft C of G loading of the aircraft increased the elevator sensitivity of an aircraft known for its light elevator control forces	the aircraft 's longitudinal stability
+This decrease in stability	an increase in pilot workload
+Any nose-down divergence from level flight would continue to increase the angle of dive or spiral	a very high airspeed excursion within a very short period of time
+The constant ground speed indicates that the pilot was maintaining a high cruise speed for several minutes as he attempted to maintain control before entering the spiral	the margin before the speeds and
+this	the in-flight breakup
+In this occurrence , there were several organizational and human performance deficiencies	the occurrence chain of events
+The pilot had not practised partial panel instrument flying for a number of years	transition a partial panel situation
+These two factors	the aircraft more difficult to handle due to an increase of the aircraft 's pitch control sensitivity and a reduction of longitudinal stability
+this	the in-flight breakup
+this	the risk a hazard could go undetected
+Lack of adequate instrument	the risk of loss of control in single-pilot instrument flight rules -LRB- IFR -RRB- aircraft operations
+a lower speed	a greater margin maximum operating speed -LRB- Vmo -RRB- while manoeuvring

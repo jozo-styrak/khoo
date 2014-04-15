@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The pilot was aware that the engine could decelerate if flight loads reduced the engine rpm to below 99% and the engine began operating on the acceleration schedule. Because the pilot had his head out of the side window, he did not see the engine rpm indicated on the gauge. The helicopter engine should have been operating at greater that 99% rpm and should not have been operating on the acceleration schedule because the helicopter was in a stable hover and it was not lifting a heavy load.
+
+
+Because the fuel supply for the helicopter and the fuel in the fuel line to the engine-driven pump were found to be uncontaminated, it is unlikely that the engine power loss resulted from fuel contamination. The fact that other aircraft fuelled from the same source operated without fuel-related problems indicates that it is unlikely that fuel quality was a factor in the occurrence. The information as to the fuel quantity in the helicopter makes it unlikely that the power loss resulted from fuel starvation.
+
+
+As the electrical system was active and running when the helicopter became submerged, the electrical system was not analyzed. While it is possible that arcing in the electrical control system could cause a loss of engine rpm, it would be extremely difficult to differentiate between pre-impact and submersion-related arcing. Therefore, the electrical system was not investigated further.
+
+
+There was no evidence of catastrophic engine failure. Despite being subjected to thermal shock and submersion, the engine was free-turning without grinding or binding and the accessory drives were intact. The shock loading precluded ground running or engine-stand running of the engine. The engine's free-turning condition after recovery suggests that the engine did not suffer a pre-impact internal failure.
+
+
+Testing of the fuel control, the Tt2 sensor, the fuel pump, and the flow divider valve at their respective manufacture facilities did not disclose conditions that would have caused a loss of engine power. Several minor anomalies were noted during testing, but it was not determined whether these anomalies were present prior to the occurrence or if they resulted from the effects of the immersion of the helicopter. Even if the abnormalities existed before immersion, none of these individual anomalies should have resulted in an uncommanded loss of engine power. In addition, it is unlikely that their combined effect would have resulted in a complete loss of engine power. However, because the engine could not be ground run or test run with the components in place, it was not feasible to assess the combined effect of these anomalies.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+LP 90/99 - Engine Fuel Delivery Components.
+
+
+
+Findings
+
+
+The pilot was experienced on type and certified and qualified for the occurrence flight. Records indicate that the aircraft was maintained and certified in accordance with existing standards and procedures. The weather conditions were not a factor in the occurrence. The operating parameters at the time of the occurrence did not contribute to the cause of the loss of engine power. Neither the fuel quality nor the fuel quantity was a likely factor in the occurrence. The effects of submersion of the helicopter precluded post-occurrence engine run testing. Component testing did not identify a cause for the deceleration of the engine.
+

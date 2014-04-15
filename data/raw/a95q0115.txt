@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+Although the operator had machined the propeller hub down 0.010 inch to apply greater torque to the blade roots, the non-fractured blade presented a crack at the root at the same location as that observed in the fractured blade. This shows that the two blades were subjected to the same failure mechanisms.
+
+
+Given that the propeller was fabricated with sufficient static load strength, and that the blade did not fail as a result of engine overspeed, pre-existing damage could be at the origin of the progressive failure and in-flight loss of the propeller blade.
+
+
+The origin of this pre-existing damage could not be precisely determined, but it is plausible that it occurred when the blades struck a soft object such as water or snow, or as a result of insufficient or excessive torquing of each blade root in the hub.
+
+
+The failures of this type reported by the manufacturer were due to factors external to the operating standards of the propellers.
+
+
+The following laboratory report was completed:
+
+
+LP 115/95--In-Flight Propeller Blade Separation
+
+
+
+Findings
+
+
+The hub of the fractured propeller had been machined down 0.010 inch. The non-fractured blade was cracked at the root, at the same location as in the fractured blade. The propeller was fabricated with sufficient static load strength. Failure of the blade was the result of a progressive failure caused by undetermined pre-existing damage. Contact with a soft object or insufficient or excessive torquing can cause this type of damage.
+

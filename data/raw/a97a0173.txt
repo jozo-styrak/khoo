@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The cause of the apparent engine failure could not be determined. After the left propeller was feathered and the landing gear and flaps retracted, the aircraft should have been able to climb at a rate of 495 feet per minute. The analysis will focus on human performance elements that contributed to the accident and on the single-engine performance demonstrated by the aircraft.
+
+
+The pilot was aware that it would be dark and that the forecast included the possibility of ceilings of 500 to 1,000 feet asl with visibilities of two to five statute miles in fog at the time of his return to Grand Manan. The weather conditions were marginally acceptable for VFR flight in uncontrolled airspace, and the pilot's decision to undertake the flight, given the weather and light conditions, was considered reasonable.
+
+
+When the pilot turned final for runway 24 during his first approach, he could not see any sign of the airport or its lighting, believing that he was flying above a cloud layer which was obscuring his view of the airport. During his second attempt, the pilot never had visual reference with the airport or with any of the associated lighting. Notwithstanding the poor weather conditions, the pilot continued with the approach relying on ground features to align himself with the runway, which he could not see. He was skimming the top of the cloud or fog layer at night, close to the ground, and at an airspeed below the recommended final approach speed. This allowed little or no safety margin in the event of an aircraft malfunction. Continued VFR flight into IMC conditions is a leading cause of Controlled Flight Into Terrain (CFIT) accidents.
+
+
+By the time the pilot diagnosed that he had an engine problem, the aircraft was in a shallow descent into cloud, relatively close to the ground, and the airspeed had decreased to 80 KIAS or less. Given the low altitude and airspeed, the pilot had to take immediate action in order to reduce the drag caused by the windmilling propeller. However, once the propeller was feathered, the pilot lost the opportunity to troubleshoot the engine problem and was committed to handling an engine-out situation under less than ideal weather and light conditions. An approach airspeed of 100 KIAS or more is recommended in the POH to provide more time, in the case of an emergency, for analysing problems and taking corrective actions before the aircraft reaches a state where it can no longer be flown safely.
+
+
+It could not be determined why the aircraft would not climb or accelerate after the left propeller was feathered. The manufacturer's calculations indicate that the aircraft should have been able to climb; the fact that it did not climb may have been due to the low airspeed at which the approach was attempted, the pilot's actions in raising and lowering the nose of the aircraft, and the pilot not applying five degrees of bank into the good engine.
+
+
+The pilot distinctly recalls that he had only flown one hour on the outboard fuel tanks and, based solely on this recollection, the possibility of fuel exhaustion would appear unlikely. However, the engine failure described by the pilot is consistent with an engine stopping because of fuel exhaustion. After the aircraft had been fuelled to capacity, it had been flown for approximately two hours. The pilot considered the fuel consumption rate of each engine to be approximately 100 pounds per hour. Given that the fuel capacity of each outboard tank is 233 pounds, and assuming the pilot had flown with the outboard tanks selected for the two hours, approximately 33 pounds of fuel would remain in each of the outboard tanks. Based upon this approximation of fuel remaining, the possibility of fuel exhaustion in the outboard tanks cannot be ruled out.
+
+
+
+Findings
+
+
+The pilot was certified for the flight in accordance with existing regulations. The aircraft's weight and centre of gravity were within the prescribed limits. For undetermined reasons, the left engine lost power during the approach. Because of the low airspeed and height at which the pilot was flying the approach, he had no time to analyse the engine malfunction before feathering the engine. After feathering the left engine, the pilot was committed to conducting a single-engine overshoot, at night and in cloud. The airspeed was then 80 KIAS, 20 knots below the recommended approach speed. After the apparent engine failure, the pilot did not follow the recommended emergency procedure as outlined in the POH. For undetermined reasons, the aircraft would not accelerate or climb despite full application of power on the operative engine.
+

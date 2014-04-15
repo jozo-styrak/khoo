@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The weather at Ugly Lake was suitable for VFR flight and the pilot made the decision to depart for Goose Bay. En route weather that included rain and snow showers with reduced visibility was reported by other pilots who were airborne about the same time as C-FFHF, and these conditions were also predicted in the terminal forecast for Goose Bay. If the pilot of C-FFHF had a mechanical problem with the aircraft, it is likely that he would have communicated this information to the overflying aircraft. Since there is no evidence that there was a mechanical problem with the aeroplane, it is likely that the pilot flew C-FFHF into deteriorating weather conditions as he approached Goose Bay from the north, and that he landed on the pond to wait for improving weather conditions.
+
+
+The last radio transmission from the aircraft was at about 1725, when the pilot relayed his intention of departing the pond momentarily. Any extended delay in departure from the pond would have required the pilot and passenger to spend the night there due to inadequate daylight time remaining to complete the trip to Goose Bay. It is probable that the pilot, aware of the strong winds, rough water conditions, and impending darkness, departed the pond hoping that the visibility to the south was sufficient to complete the flight, rather than spend the night on the pond.
+
+
+The 2,000 fpm (minimum) descent rate and the airspeed indication between 100 and 110 mph suggests that the aircraft was in a phase of flight other than take-off at the time of the accident. The MAP gauge indication was consistent with an engine operating within the cruise power setting range. The same indication would also be present if the engine was not operating, because the MAP gauge would then indicate field barometric pressure. However, the engine teardown analysis indicated that the engine was capable of producing power. Since the aircraft flaps were set to 28 degrees, with MAP between 28 and 31.5 in. Hg, and the propeller blade angle at low pitch, it is likely that the aircraft was configured for slow flight, because of the poor visibility.
+
+
+Although it is difficult to determine if shoulder harnesses would have provided increased protection for the occupants in this occurrence, they still provide more protection than lap belts alone.
+
+
+It is probable that the pilot was unable to maintain visual reference with the surface sometime after take-off from the pond. The aircraft struck the water either during the pilot's attempt to regain visual reference or because the pilot lost control of the aircraft in reduced visibility.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 153/96 - Instruments Examination; LP 157/96 - Engine Disassembly Examination; LP 158/96 - Propeller Examination; and LP 170/96 - Exhaust Stack Temperature Analysis.
+
+
+
+Findings
+
+
+The pilot held a commercial licence with 894 hours total flight time. There was no evidence to suggest that the pilot landed on a pond north of Goose Bay because of mechanical problems. The weather in the area at approximately the time of the occurrence was reported as reduced visibility in snow showers with high winds. Both the pilot and passenger were found in their seats with their seat-belts secured. The body of the passenger and the passenger seat fell out of the wreckage during the salvage operation and were finally recovered on 8 July 1997. Autopsy results determined that both the pilot and the passenger died from injuries sustained at impact. Records indicate that the aircraft was maintained in accordance with existing regulations. The aircraft struck the water in a nose-down, right-wing-low attitude with a rate of descent of at least 2,000 feet per minute, an airspeed of 100 to 110 knots, and a manifold pressure of 28 to 31.5 in. Hg. The engine was capable of producing power, and there was no evidence of a mechanical malfunction. The propeller was at the low-pitch blade setting when the aircraft struck the water.
+

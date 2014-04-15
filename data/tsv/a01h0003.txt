@@ -1,0 +1,20 @@
+for the engine power loss , or roll-back , was a loss of vacuum of the fuel control unit -LRB- FCU -RRB- acceleration bellows , which resulted in the FCU reducing fuel going to the engine to minimum flow	For this occurrence there was an area available for a forced landing and the aircraft was landed without damage , and with no injuries to the five passengers on board
+The FCU Light Overhaul carried out three months prior to the occurrence did not call for the inspection of the acceleration bellows and this was not done	, the acceleration bellows had not been inspected for nearly 15 years
+The FCU light overhaul procedure did not provide enough direction as to when the procedure may be used	those using the light overhaul procedure may not detect , in sub-components such as the acceleration bellows , flaws that can be beyond safe limits
+a breach of the bellows material at a corrosion site , at a time when the compressor discharge air was at its highest pressure -- under take-off power conditions	The loss of the bellows vacuum was
+the presence of high-temperature , high-pressure compressor discharge air in the chamber housing the acceleration bellows	The operating environment of the FCU bellows is corrosive
+these full inspection intervals are not always mandatory	However ,
+the fuel control unit -LRB- FCU -RRB- bellows was breached , causing the fuel flow to the engine to be limited to minimum flow	The engine power loss occurred
+corrosion , initiated during in-service use and exacerbated by long-term , un-preserved storage	The FCU bellows was breached
+a complete inspection of the FCU components was not carried out during overhaul	The corrosion was not detected
+an absence of operating and storage history of such components	Overhaul scheduling for engine accessories such as FCUs is difficult to calculate
+the light overhaul provisions are contained within the same Service Manual used for the full overhaul of the FCU	The FAA Airworthiness Approval Tag -LRB- FAA Form 8130-3 -RRB- description of the FCU overhaul did not indicate that the FCU underwent less than a full overhaul , occurring , in part ,
+The reason for the engine power loss , or roll-back , was a loss of vacuum of the fuel control unit -LRB- FCU -RRB- acceleration bellows	the FCU
+in the FCU	fuel going to the engine to minimum flow
+the FCU acceleration bellows control function	engine operation
+Careful inspection of the bellows at the 8-year point would likely detect areas where corrosion was developing	its replacement during overhaul at the recommended interval
+However , because these full inspection intervals are not always mandatory , and component maintenance records may be lacking , defective FCU bellows can be in service	the potential for power loss at critical stages of flight
+those carrying out maintenance activities	the opportunity to better evaluate the serviceability of an FCU
+The engine power loss occurred because the fuel control unit -LRB- FCU -RRB- bellows was breached	the fuel flow the engine to be limited to minimum flow
+long-term , un-preserved storage	in-service use
+This option	restoration of sufficient engine power continue flight for instances where the FCU acceleration bellows is breached or other compressor discharge air problems occur

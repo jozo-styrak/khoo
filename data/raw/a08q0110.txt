@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+Weather conditions for the planned route were not checked prior to departing Lac des Neiges. Although the forecast was for mainly VFR weather, low patchy ceilings and precipitation were forecasted for the area. The flight was to take place in a mountainous area where the cloud level would likely, at times, restrict free passage in some areas, especially over the elevated terrain. The pilot encountered unexpected conditions of reduced visibility in moderate to heavy rain showers in the vicinity of Lac l' paule that forced him to find a safe landing spot to wait for the weather to improve.
+
+
+The pilot chose to execute the approach over the water. This allowed for a shallower approach and kept the helicopter away from any obstacles that might have been difficult to detect. It is not unusual to fly over a river or lake in conditions of low visibility. However, in the event of an unforeseen problem (such as an engine failure), the helicopter may not be within gliding distance from shore, thereby posing a risk to the aircraft and its occupants. Even if there was no place to land along the shoreline, if the helicopter had been flown closer to it, the risk associated with swimming long distances in cold water would have been reduced.
+
+
+When the pilot selected demist hot air to clear the windshield, the warm air from the ceiling ventilation ducting was instantly cooled when it hit the relatively cooler windshield. This rapid cooling caused the air to condense and fogged the windshield and front side windows. The immediate fogging of the windshield and front side windows, combined with the heavy precipitation, restricted the pilot's ability to maintain outside visual references. He did not have time to open the bad weather window, which could have given him some outside visibility. Without any outside visual cues, the pilot did not perceive that the helicopter was descending from 100 feet agl; it struck the surface of the water at low airspeed.
+
+
+Warm air can hold more moisture than cold air. Therefore, with time, the warm air entering the cabin via the ceiling diffusers would have allowed the temperature of the windshield to rise to a point where the water vapour contained in the warm air from the ducting would not transform into water droplets. At this point, the windshield would then start to clear. Therefore, had the demist been selected while flying at a higher altitude, it is likely that the fogged windshield would have cleared in enough time for the pilot to notice and to correct the descent prior to striking the water surface.
+
+
+No documentation cautions EC 120 flight crews about the risk associated with the selection of demist during certain critical phases of flight, which can, under certain weather conditions, cause a temporary loss of outside visibility and a loss of control of the aircraft.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Weather conditions for the planned route were not checked prior to departing Lac des Neiges. The pilot encountered unexpected conditions of reduced visibility in moderate to heavy rain showers and low ceiling conditions which forced him to land. The windshield fogged up immediately after the pilot had selected demist hot air. This, combined with the heavy precipitation encountered, restricted the pilot's ability to maintain outside visual references. With the loss of visual references, the pilot did not perceive that the helicopter was descending from 100 feet above ground level (agl) and the helicopter struck the water. He did not have time to open the bad weather window, which could have given him some outside visibility.
+
+
+
+Findings as to Risk
+
+
+The approach for landing took place beyond gliding distance from the shore, which put the aircraft and its occupants at risk in the event of an unforeseen problem. No documentation cautions EC 120B flight crews on the risk associated with activating the demist during certain critical phases of flight and under certain weather conditions; activating the demist system can cause a temporary loss of outside visibility.
+
+
+
+Other Finding
+
+
+Selection of the demist while flying at a higher altitude would likely have allowed the windshield to clear sufficiently in time for the pilot to notice and correct any undesired change in the aircraft's flight parameters.
+

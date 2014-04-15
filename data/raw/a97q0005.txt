@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+During take-off, the flight crew of Flight ICN 1628 saw snow removal vehicles on the runway. The crew had not been informed of the presence of these vehicles because of the information available to the controllers on duty.
+
+
+Personnel in the tower, and snow removal personnel were certified and qualified for the duties being performed, and they were current with existing procedures. In addition, the communication equipment used was operating properly, although the maintenance frequency was sometimes congested, as it was used by all airport vehicles. The frequency congestion was also made worse by use of the ground frequency.
+
+
+When the vehicle convoy first proceeded onto runway 06 to begin snow removal, permission to proceed was requested and given in accordance with existing procedures. As the vehicles had to clear the runway to allow an aircraft to land, they proceeded onto the apron, where they continued snow removal work. When the ground controller shortly thereafter told the maintenance supervisor in charge of the convoy (Staff 22) that the runway was available, the six vehicles immediately proceeded onto the runway via taxiway Alpha, but without obtaining permission to proceed. The apron and the runways could not be seen from the control tower because of the restricted visibility.
+
+
+The orders agreed on at the snow removal meeting prior to the winter season (in effect, that air traffic personnel were to advise maintenance personnel when the runway was available, and that everyone was to take care to confirm an authorization to proceed along the whole length of the runway, or with restriction) seemed clear and precise. In the incident, however, Staff 22 interpreted runway available as permission to proceed, because he had just cleared this runway. He also thought that he could use the whole length of the runway without restriction. These orders therefore caused confusion, because, before proceeding onto manoeuvring areas on a controlled airport, as stated in TP 2633, vehicle operators are to obtain permission to proceed to a specific location by a specified route.
+
+
+While the vehicles were entering the active runway without permission, the shift supervisor, who was temporarily acting as ground controller, cleared ICN 1628 to proceed onto runway 06. The controllers on duty thought that the vehicles were still on the apron, because the lights indicated that runway 06/24 was clear and the progress strips indicated that the six vehicles were still at that location. However, as stressed in the MANOPS, because visibility was restricted, the ground and air controllers could have asked for the location of the vehicles before clearing ICN 1628 to proceed and take off, although that was not mandatory. Further, an ASDE might have detected the situation.
+
+
+Two vehicle operators heard the communication for ICN 1628, but they were under the impression that the controller would warn them, if necessary, to clear the runway. The congestion of the maintenance frequency might also have contributed to the fact that Staff 22 did not hear this communication.
+
+
+Subsequently, the snow removal convoy headed towards the right side of runway 24, without the controllers' being aware of their movements. In the middle of the runway, to the great surprise of everyone concerned, the aircraft in climb-out flew over the vehicle convoy. After the incident, the local authorities immediately took action to prevent a similar occurrence from happening again.
+
+
+
+Findings
+
+
+The air traffic and snow removal personnel concerned were certified and qualified to perform their duties. The apron and the runway could not be seen from the control tower, because of the weather conditions. The airport is not equipped with Airport Surface Detection Equipment (ASDE). The maintenance frequency is used by all vehicles operating on the airport. The maintenance supervisor (Staff 22) and the snow removal vehicles left the apron and entered taxiway Alpha and the active runway without requesting permission to proceed. Both the strips used in the control tower for vehicles, and the warning lights, indicated that the vehicles were on the apron and that the active runway was clear. The air and ground controllers did not ask for the location of the snow removal vehicles before clearing ICN 1628 to proceed and take off. The air controller did not know that there were snow removal vehicles on the active runway when he cleared ICN 1628 for take off. The expression "runway available", from a local order, caused confusion and contributed to the fact that the snow removal vehicles were on the active runway without permission when an ATR 42 aircraft was taking off.
+

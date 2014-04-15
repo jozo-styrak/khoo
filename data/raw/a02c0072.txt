@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+During their approach into Winnipeg, the crew encountered increasingly adverse weather conditions of rain, low visibility, wind shear, and turbulence. The crew anticipated a visual approach to land on Runway 36, because they were in visual contact with the ground and ATIS indicated that the active runway was Runway 36. They had not completed an instrument approach briefing when they received a short-notice clearance for an ILS approach to Runway 13. The approach change and the adverse weather conditions increased the crew's workload during the approach and made it more difficult for the crew to properly position the aircraft for landing. The crew continued the approach in deteriorating weather conditions and without the benefit of an instrument approach briefing. Because the captain flew the approach and did not initiate a pilot-monitored approach, he lost some supervisory overview of the situation. The aircraft landed on a wet runway with a crosswind, at a speed well above the minimum speed at which hydroplaning would be likely.
+
+
+The weather radar display in the aircraft was attenuated and the air traffic controllers' radar displays contained limited weather information. As a result, the crew, and the air traffic controllers who were directing them, did not have an accurate picture of the severity of the weather in the terminal area. Doppler radar, which could have provided this information, was available for the Winnipeg area but not available to the controllers. The airport was not equipped with windshear detection equipment, and the controllers, therefore, did not have a direct indication of the windshear which accompanied the arrival of the storm cell over the airport.
+
+
+The aircraft landed to the right of centre line, which increased the likelihood that it would depart the runway under the prevailing crosswind conditions. The amount of rain which had fallen likely provided a sufficient moisture film for aircraft hydroplaning, and the aircraft landed well above the speed at which hydroplaning can develop. It is likely that the crew lost directional control as the aircraft hydroplaned and moved off the side of the runway under the influence of the crosswind.
+
+
+When weather conditions precluded instrument approaches for Runway 36, the airport controller arranged to use Runway 13. The tailwind at touchdown likely exceeded the MANOPS guidelines for operations on a wet runway, and the crosswind at touchdown approached the limit in those guidelines. However, the approach controller and the airport controller broadcast the changing wind conditions to the crew during the approach in accordance with the MANOPS. The crosswind and tailwind conditions increased the likelihood that the aircraft would hydroplane after touchdown on Runway 13.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft landed during heavy precipitation on a wet runway, and it likely hydroplaned, resulting in a loss of directional control and runway excursion. The aircraft was cleared, on short notice, for an approach to a runway with a tailwind that exceeded the Air Traffic Services Manual of Operations (MANOPS) guidelines for operations on a wet runway, and was cleared to land with a crosswind that approached the limit in those guidelines. The crew continued with an instrument approach in rapidly deteriorating weather conditions characterized by heavy rain, low visibility, wind shear, turbulence, and tailwind and crosswind components.
+
+
+
+Findings as to Risk
+
+
+Air traffic controllers at Winnipeg International Airport have limited access to weather information for the terminal area and runway environment. Doppler weather information was available for the Winnipeg area but it was not displayed by the systems available to the controllers. Windshear detection equipment was not installed at Winnipeg International Airport: this was not a requirement.
+

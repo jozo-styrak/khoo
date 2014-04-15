@@ -1,0 +1,12 @@
+occurrence	this
+the throttle was rolled full open at take-off there could be a slight rotor rpm drop during climb out ; however	the fuel control/governor sense the drop , increase the fuel schedule and restore the rpm
+an abrupt input to the anti-torque pedals was applied	Information gathered from past occurrences has indicated that the helicopter roll towards inverted
+the helicopter was configured on fixed floats	The roll rate be greatest at high airspeeds , and
+inappropriate anti-torque pedal input	Abrupt helicopter attitude changes
+If the throttle was rolled full open at take-off there could be a slight rotor rpm drop during climb out ; however , the fuel control/governor would sense the drop	the fuel schedule
+No mechanical deficiencies were identified	the rotor rpm decay in flight
+the pilot	collective pitch in an attempt to reduce the descent rate just prior to impact with the ground
+attempt	the descent rate
+It is possible that the equipment or cord could have fallen on , or become entangled in , the exposed flight control stub shafts or the anti-torque pedals	pilot input those controls
+A distraction-causing event , such as the strobing equipment or the note pad falling off the AME 's lap during the flight , and a subsequent attempt to grab the falling item	a leg being unintentionally extended and striking one of the anti-torque pedals with sufficient force to initiate a severe yaw
+A loss of control at low altitude	little time the pilot to arrest the descent before striking the ground

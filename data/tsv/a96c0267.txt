@@ -1,0 +1,17 @@
+The magnitude of the engine surge that was observed during the initial engine run in the test cell likely duplicated the reported engine surge experienced during the occurrence	, it is likely that the engine was producing partial power during the take-off
+no other fault could be found in the engine to explain the surge	it is possible that the loose clamps allowed an unsealing of the duct , thereby producing an instantaneous change in the turbocharger discharge pressure which then resulted in the engine surge
+it was not feasible during the test cell run to reproduce an instantaneous change in the turbocharger discharge pressure	it was not possible to directly link the loose ducting to the engine surge
+such a leak had occurred ,	the engine have momentarily reverted to the normally aspirated mode
+the engine was	partial power during the take-off
+Because no other fault could be found in the engine to explain the surge , it is possible that the loose clamps allowed an unsealing of the duct , thereby producing an instantaneous change in the turbocharger discharge pressure	the engine surge
+no other fault could be found in the engine to explain the surge , it is possible that the loose clamps allowed an unsealing of the duct	an instantaneous change in the turbocharger discharge pressure
+the loose clamps	an unsealing of the duct
+as much as 25 % , producing a surge in the engine	the engine power
+However , if such a leak had occurred , the engine could have momentarily reverted to the normally aspirated mode , and the engine power would have been reduced by as much as 25 %	a surge in the engine
+the loss of thrust when the engine surged	the left wing
+the right engine	full power
+the pilot 's unawareness of his actual airspeed and aircraft attitude during the event and his maintenance of full aft pressure on the control yoke	the aircraft in an abnormally high pitch attitude
+The higher-than-normal pitch attitude , coupled with the available engine power	the higher-than-normal departure path of the aircraft as observed by the company pilot waiting on the taxiway
+the engines were	sufficient power to continue the take-off
+the higher-than-normal pitch attitude , the slow speed regime , and the high drag configuration of the aircraft combined	the airspeed of the aircraft
+A sudden leak at this location	the engine surge

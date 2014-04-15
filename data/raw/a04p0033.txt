@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The wreckage debris trail, the damage to the trees, the resting location of the pilot's body, and the damage to the helicopter were indicative of an in-flight breakup.
+
+
+All indications are that the accident helicopter and pilot encountered quite severe turbulence. The turbulence, specifically a down draught, caused the rotor system to unload, evident by the droop stop and teeter stop/bumper damage. Because stops and bumpers from both blades were damaged, it was concluded that some of this damage occurred before one of the main-rotor blades separated.
+
+
+When the down draught unloaded the rotor system it was sufficient to allow the main-rotor blades to flap and teeter enough to shear the droop stops and damage the aluminium brackets. At some point, the elastomeric bumpers fell out allowing the main-rotor to teeter excessively and overload the pitch change rod associated with the separated main-rotor blade. The pitch change rod broke, resulting in loss of control of the rotor system and the helicopter. The blade likely pitched down allowing aerodynamic forces to bend it. The uncontrolled behaviour of the rotor blades likely loaded the rotor system beyond its design strength, and one of the coning hinge bolts broke. The loads would have been immediately relaxed from the opposing blade and the coning hinge bolt; so while it showed signs of impending failure, it did not break. The blade associated with the broken bolt separated as that bolt served to attach the blade to the main-rotor head.
+
+
+The imbalance resulting from the loss of one of only two main-rotor blades shook the helicopter violently. The main-rotor transmission tilted forward, port, aft, and starboard as the top of the mast was pulled away from its centre of rotation. The tube-frame main structure was deformed and broken, and the aft cabin fire wall was deformed forward. The deformation of the cabin fire wall allowed the pilot restraint system to loosen, and the pilot's body was ejected through the windshield into the path of the remaining main-rotor blade.
+
+
+The illumination of the MR CHIP detector caution light was likely caused by the in-flight break-up, illuminating before impact.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The helicopter encountered turbulent air that unloaded the main-rotor system resulting in damage that led to the helicopter becoming uncontrollable. Subsequent forces overloaded and broke one of the main-rotor blade attachment bolts, and the blade separated. Gross imbalance resulted in deformation of the attachment area of the main-rotor transmission, and the helicopter broke up in-flight.
+
+
+
+Findings as to Risk
+
+
+There was extensive wear and tear on the freewheel unit sprag clutch, likely because it had remained in operation for more than 700 hours beyond its time limit before removal. The operator continued to operate the helicopter after some component life limits had been exceeded. The operator did not incorporate SB 78 nor was he required to. There was a risk that the teeter stops would fail during flight in severe turbulence, though not referenced in the bulletin.
+

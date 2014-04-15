@@ -1,0 +1,12 @@
+for the failure to climb away after the forced landing exercise is insufficient engine power available	If normal engine power had been available to climb out after the practice glide manoeuvre , it is unlikely that the instructor would have intentionally flown the aircraft at low airspeed at a low altitude
+Fuel was available and there was no apparent pre-existing mechanical fault with either the carburetor or the engine	, the most probable reason for the reduced engine power is carburetor icing
+normal engine power had been available to climb out after the practice glide manoeuvre	it is unlikely that the instructor have intentionally flown the aircraft at low airspeed at a low altitude
+carburetor heat was not used , or if the engine was not cycled as recommended to produce sufficient exhaust heat for the carburetor heat muff	Carburetor ice have formed during the glide descent
+a stall	It is likely that the reduced power prevented a climb and led to the subsequent low-level flight at reduced airspeed ; eventually the aircraft struck the ground , perhaps
+a stall	The aircraft subsequently struck the ground , perhaps
+the flight encountered	flight visibility
+The lower ceiling to the southwest of the airport	that the entry into the practice glide have been initiated 1000 feet lower than normal , restricting the time available in the glide for instruction
+the application of carburetor heat at low altitude	the rpm to the extent level flight was not possible
+the reduced power prevented a climb	the subsequent low-level flight at reduced airspeed
+the reduced power	a climb
+conditions	serious carburetor icing at any engine power setting

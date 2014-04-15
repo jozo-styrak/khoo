@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+The pilot had extensive flight experience and had flown the Pitts S1S for 160 hours over the previous seven years. He was also experienced at flying low-level aerobatics. There was no indication that the roll was anything other than an intentional aerobatic man uvre. The fact that the aircraft struck the ground in a wings-level attitude immediately following the completion of a roll indicates that the pilot was probably controlling the aircraft throughout the man uvre, and that the rudder and aileron control systems were functional.
+
+
+It could not be determined why the aircraft struck the ground. There were no identifiable problems with the aircraft, the pilot was fit for the intended flight, and the autopsy did not reveal any pre-existing medical conditions that would have contributed to the accident. As well, it was considered that weather did not play a part in the accident. The analysis will therefore focus on physiological aspects of this flight.
+
+
+The setting sun to the west was bright and would tend to illuminate the countryside in that direction. It was significantly darker to the east, which would make the horizon more difficult to distinguish in that direction.
+
+
+The pilot departed to the west and completed at least one turn to the east and two 360-degree turns before beginning the roll man uvre on an easterly heading. Each time the pilot turned past the setting sun, his eyes would be subjected to the bright light of the sun, and each time he headed in an easterly direction, he would be looking at a relatively dark horizon. Each time the pilot's eyes were exposed to the bright light, the process of dark adaptation would have to begin again. Since there is no way to determine where the pilot was looking as he turned toward the setting sun, the amount of dark adaptation required cannot be quantified. However, each time the aircraft turned from west to east, the eastern horizon would be more difficult to pick up.
+
+
+Two factors that likely contributed to the accident were the light conditions and the low altitude at which the roll man uvre was initiated. The low light conditions would have made it more difficult for the pilot to identify the exact attitude of the aircraft in a dynamic man uvre such as a roll. The horizon to the east was darker than the horizon to the north or south. Thus, while it would be relatively easy to identify that the wings were level, it would be more difficult to identify whether the nose was in a level-flight attitude. The low altitude is significant because it minimized the amount of time that the pilot had to recognize and correct any errors as he completed the roll. It is probable that the pilot did not recognize that the aircraft was descending and flew it into the ground.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 008/2007 - GPS and Instruments Analysis.
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+As the pilot was completing a roll at low altitude, the aircraft descended. It is probable that the pilot did not recognize that the aircraft was descending and flew it into the ground. The varying light conditions during man uvring could have made it difficult for the pilot to detect that the aircraft was descending.
+
+
+
+Finding as to Risk
+
+
+The pilot of the Pitts aircraft flew in close proximity to another aircraft without having discussed his plans with the other pilot.
+

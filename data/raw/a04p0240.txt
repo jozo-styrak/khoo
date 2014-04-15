@@ -1,0 +1,48 @@
+
+
+Analysis
+
+
+No mechanical conditions were identified as contributing to this accident, therefore, this analysis focuses upon the operational factors surrounding the flight.
+
+
+
+Down-Flow Wind
+
+
+In the area of the accident, the topography and location are conducive to the formation of down-flowing winds, the velocity of which can change quickly. Unpredictable down flows are challenging for a helicopter pilot and can lead to uncommanded descent from which the helicopter may not have sufficient power to recover. In this accident, because of the down-flowing air in the area, the pilot may have unwittingly applied more collective pitch than he had intended to maintain his turning hover-climb, thus precipitating the rapid rotor rpm decay. Once the helicopter began to turn left and the tail rotor entered into the down-flowing air the situation would have worsened. Specifically, the controlled rate-of-turn that the pilot was trying to maintain may have accelerated to the left. To counter this increased rotation, the pilot would have had to apply right pedal, which would have reduced the engine power available to the main rotor system. Such operations in a near-maximum weight helicopter leaves slight margin for error, especially in mountainous terrain and at rudimentary landing sites.
+
+
+Vertical performance calculations reveal that the helicopter could have achieved a maximum rate of climb of nearly 820 feet per minute under ideal conditions. Had the helicopter encountered down-flowing air, this rate would have been reduced proportionately until neutralized by a wind of 820 feet per minute or in the order of eight knots. Winds of at least such strength were reported at the accident site, and it is likely that the vertical performance was eroded by the down-flow wind, preventing the helicopter from climbing as required.
+
+
+
+
+Rotor RPM Decay and Landing
+
+
+The pilot turned left during the climbing take-off, allowing the transmission torque to assist the turn, thereby delaying the power demand by the tail rotor. This situation would have permitted the rotor system to absorb the maximum power available. Since reducing or stopping a left turn, which is the aerodynamic equivalent of making a right turn, demands more power from the engine and rotor system, had the power available reached its limit during the take-off climb, the pilot would have had insufficient power to reduce or stop the left turn. A demand for more power than available, in combination with the high collective pitch, would have resulted in rotor rpm decay and a descent with the rotor system in an overpitched condition. In contrast, had the pilot turned right and then reached the same maximum power situation, slowing or reversing the right turn would have reduced the tail rotor power demand and made it available to the main rotor, thus permitting the helicopter to recover or maintain rotor rpm and height, and to return to the pad in a more controlled manner.
+
+
+The size, slope, construction, and orientation of the landing pad did not permit the accident helicopter to return and land successfully following the rotor rpm decay and the resulting uncommanded descent. Therefore, once the helicopter began its vertical, climbing turn from the hover, and the full power condition was reached, it was impossible to successfully land on the sloping pad.
+
+
+In this circumstance, once the rotor system became overpitched, it was a rapidly degenerating condition from which the pilot was unable to recover, considering the adverse surface conditions beneath the helicopter. Once the rotor rpm decayed and the warning horn sounded, it was inevitable that the helicopter continued to descend in an overpitched condition, continuously losing rotor rpm, until the helicopter struck the terrain.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+LP 098/04 - Throttle Cable Examination
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The helicopter climbed vertically out of the hover at near-maximum gross weight, it encountered down-flowing air, which resulted in a situation in which there was insufficient power to maintain controlled flight. As a result, the rotor rpm decayed rapidly, and the helicopter descended in an overpitched condition until it struck the terrain. The physical characteristics of the landing area did not allow a successful landing following the rotor rpm decay and uncommanded descent.
+

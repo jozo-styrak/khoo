@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+The solo flight had been scheduled as a logical sequence to three dual-training missions following a year-long break from flying. The student was qualified and authorized to complete the occurrence flight in accordance with CARs and the FTU practices.
+
+
+During the solo training flight, the aircraft entered a spiral dive from which the student did not recover. The reason the aircraft entered the spiral dive and the student's inability to recover from the dive are not known.
+
+
+The initial roll manoeuvre, as observed on radar, and the subsequent stabilization of pitch and bank at constant angles support conclusions that the aircraft's control system was operating and that the pilot was conscious and manipulating the controls throughout the manoeuvre. Based on the described aircraft motion, it is likely that the student was applying a neutral aileron input and a forward control pressure to counter the progressive aft-movement of the control column, brought on by the increasing speed descent. Based on this analysis, it is likely that the student was attempting to centralize the controls as a element of his recovery procedure.
+
+
+A review of all the available medical records and reports revealed no indication of any pre-existing medical issue that would have adversely affected the pilot's ability to control the aircraft. However, the five-year medical validity period for the student pilot permit reduces the possibility of on-going early monitoring of a student pilot's medical status that a more frequent medical examination would permit.
+
+
+Although this student's ability to perform steep turns had been initially documented as weak, additional remedial dual instruction had been given to ensure the student's safe performance of the upper air sequences during solo practice. More recent review and evaluation of steep turns, stalls, and spiral dive recoveries re-affirmed the student's ability to perform these manoeuvres in a safe manner while recognizing that further practice would be necessary to improve the steep turn sequence up to the performance standards required of a private pilot license.
+
+
+Control continuity and pilot incapacitation have been eliminated as potential causes for this occurrence based on the witness descriptions of constant bank and pitch angles throughout the manoeuvre. Additionally, evaluations of broken control wheel components revealed that internal manufacturing voids identified throughout the plastic Piper control wheels do not appear to compromise the integrity of the component when subjected to FAR 23 testing. Although not related to this accident sequence, the SDR database shows that at least five control wheel breaks have occurred during aircraft operations; some of these breaks occurred outside the area that is being inspected as a result of AD 69-22-02. Transport Canada's effort to improve this AD have been added to the Safety Action Taken section of this report.
+
+
+The Following Engineering Branch report was completed:
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+During a student solo flight, the aircraft commenced a descending turn to the left and entered a spiral dive from which there was no recovery. The reason the aircraft entered the spiral dive and the reason that the student did not recover from it were not determined.
+
+
+
+Findings as to Risk
+
+
+A five-year medical validity period for the student pilot permit reduces the ongoing early monitoring of student pilot medical status. Although not causal in this accident, the TC SDR database shows that at least five control wheel breaks have occurred during aircraft operations; some of these breaks occurred outside the area being inspected as a result of AD 69-22-02.
+
+
+
+Other Findings
+
+
+Manufacturing voids identified throughout the plastic Piper control wheels do not appear to compromise the integrity of the control wheels when subjected to FAR 23 testing.
+

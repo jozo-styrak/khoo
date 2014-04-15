@@ -1,0 +1,45 @@
+
+
+Analysis
+
+
+The investigation first focussed on the failure of the input drive coupling between the engine and the main-rotor transmission. Close examination of the coupling indicated that it had been compressed and pulled apart. The extent of transmission and/or engine movement to facilitate this disconnect was not possible under any flight conditions. Furthermore, damage from the hard landing showed that the main rotor transmission rocked fore and aft, deformed its mounts, and allowed the transmission to tilt forward enough to pull the coupling apart. It was, therefore, concluded that all of the damage to the helicopter, excluding the engine, was the result of the hard landing and rollover. The following analysis focuses on the engine.
+
+
+The vibrations experienced when the engine was run in the test facility were extreme enough that they would have been detected by the pilot had they been present before the occurrence. Also, because the engine did not appear to suffer any damage from the hard landing, it was concluded that the imbalance occurred at about the time the smoke came into the cabin. This imbalance was determined to have been caused by the separation of parts of the GP turbine blades.
+
+
+There were no periodic power checks carried out, or required, by the operator to detect a power loss, nor maintenance inspections required by the manufacturer or the operator for sulfidation corrosion. It is suggested that either power checks or maintenance inspections would have led to the discovery of the corroded turbine components. The identified sulfidation weakened the GP turbine blades, fatigue cracks occurred on many of the blades, and one of the blades separated. Parts of other GP turbine blades broke off and engine power was lost.
+
+
+The loss of the blade and other blade sections caused an imbalance, which then likely resulted in damage to the turbine seals. It is likely that the seal damage allowed the release of oil onto hot engine areas, resulting in the soot in the turbine at the joint between the turbine nozzle and the number 1 GP turbine and the smoke in the cabin. Another scenario is that the smoke came from the burnt boot for the input drive coupling. This scenario, however, is not supported by the information gathered during the investigation, which clearly indicates that the coupling failed during the hard landing.
+
+
+The pilot reacted immediately to the smoke by lowering the collective. The helicopter was operating in a hover, about 150 feet above the ground at a relatively high density altitude, and at a weight near the maximum allowable. Regardless of the reason for the smoke or when power was lost, a successful landing with reduced power was unlikely. As the pilot tried to arrest the helicopter's descent, rotor rpm decayed, and not enough thrust was available to cushion the landing.
+
+
+When the landing gear skid tubes and forward cross tube broke, the cross tubes rotated aft and up. The after-market step that was attached to the cross tubes came up against the pilot door and the rotated cross tubes caused the step to be jammed against the door, preventing it from opening normally, and there was no emergency release system for the doors or windows. Because the helicopter was on its side, the other door was not usable, and the pilot and front passenger were trapped inside the helicopter.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 037/04 - Gas Producer Wheel, Bell Helicopter 206B, C-GPOS
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Periodic power checks or inspections for sulfidation corrosion, which most likely would also have detected a power loss and the corroded turbine components, were not undertaken, nor were they required. A blade in the number 1 GP turbine failed as a result of fatigue, which resulted from sulfidation corrosion; the engine lost power as a result of the blade failure. The helicopter was operating in a high hover when the engine lost power. The ensuing forced landing was hard, the landing gear broke, and the helicopter rolled over.
+
+
+
+Findings as to Risk
+
+
+The after-market step that was attached to the landing gear cross tubes blocked the pilot's door and trapped the pilot and passenger in the wreckage. Bell 206 series helicopters are not normally equipped with doors or windows that have emergency release systems.
+

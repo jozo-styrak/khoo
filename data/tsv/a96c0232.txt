@@ -1,0 +1,8 @@
+the components involved are on condition with no mandatory replacement interval	inspection of the area is unlikely to occur under the existing inspection program until a component fails
+following the listed procedures	are ambiguous and reduce the effectiveness of the inspections
+time	it likely the aircraft 's weight was substantially on the landing gear before the gear retracted after landing
+The serviceability of the landing gear weight-on switches and oleo extension	it unlikely the hydraulic power pack received an up signal from the landing gear selector in the cockpit after the aircraft touched down
+The most likely accident scenario is that the hydraulic power pack received an electrical up signal and lost its normal electrical down signal	the retraction of the landing gear
+the electrical circuitry	the terminal strip indicate that the most likely source of the electrical up signal was the area between the terminal strip and the hydraulic power pack containing bare electrical wiring for the landing gear and flap systems
+The oily condition of this wiring , together with the wet , slushy runway conditions at Winnipeg and Regina and the use of chemical de-icing fluids	the likelihood of electrical short circuits in the area of the terminal strip and the power pack connectors
+The wet , slushy conditions at the departure and landing runways and the oily condition of the wiring harnesses were	electrical faults in unprotected wiring

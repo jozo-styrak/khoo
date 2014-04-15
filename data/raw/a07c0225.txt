@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+The aircraft had been fuelled from a commercial fuel supplier approximately 2 months before the occurrence and was stored in a warm hangar. On the day of the accident, the sumps were drained and no visible water was noted. Fuel samples were taken from the sumps of three other Aero Commander aircraft that had been stored in the hangar for an extended period of time. No visible water was noted. The higher fuel temperatures associated with the inside storage of the aircraft would have increased the fuel's saturation level, resulting in a higher amount of water held in suspension. The water held in suspension would not have been visible during fuel sampling.
+
+
+The location of the fuel distributor valve on the IO-540-B1A5 Lycoming engine, in conjunction with the Aero Commander 500B engine cowling configuration, exposes the valve directly to the cooling blast of the outside air. Generally, cooling of the fuel distributor valve is desired in warm ambient operations. However, in extremely cold conditions, the exposure of the valve directly to the cold airstream can lead to the freezing of super-cooled water droplets present in the fuel stream. The high altitude testing of piston engines conducted in the early 1970s identified the risk of ice accumulations in the fuel distributor valve associated with cold weather operations. The use of a fuel additive icing inhibiter mitigated the risk by bonding with and reducing the freezing point of the water.
+
+
+The operator's fleet of Aero Commander aircraft is used primarily for summer operations with limited winter usage. The operator did not have procedures to describe how a fuel additive icing inhibiter should be used during winter operations. The use of fuel additive icing inhibiters is approved both by the airframe and engine manufacturer, and is referenced in the Airmanship section of the Transport Canada Aeronautical Information Manual (TP 14371E). The use of a fuel additive icing inhibitor would have mitigated the risk of fuel system blockage.
+
+
+The flight was conducted under extremely cold ambient conditions with temperatures at altitude near -33 C. The fuel contained water that was held in suspension. As the flight progressed and the fuel cooled, water precipitated out of solution and froze in the fuel distributor valve. This blocked the fuel supply to the fuel nozzles and led to the loss of engine power.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Suspended water in the fuel system precipitated out of solution and froze in the fuel distributor valve. This blocked the fuel supply to the fuel nozzles and led to the loss of engine power. The aircraft was being operated without a fuel additive icing inhibiter. Use of such an additive would have inhibited ice formation in the aircraft's fuel system and would likely have prevented the fuel system blockage.
+
+
+
+Findings as to Risk
+
+
+The fuel distributor valve on the Aero Commander 500B is exposed directly to the cooling blast of the outside air, which under extremely cold conditions, can lead to the freezing of super-cooled water droplets present in the fuel stream. The operator did not have procedures to describe how fuel additive icing inhibiter should be used during winter operations.
+

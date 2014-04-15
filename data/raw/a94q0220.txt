@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+At the time of the occurrence, the three controllers were alert at their stations and were not disturbed by other environmental factors. Due to meteorological conditions, the controllers could not see runway 06 or the 06 threshold. Consequently, they could not observe the movements of the three aircraft involved. However, the progress of the Dash 8 could be observed on the RAMP radar screens.
+
+
+The controller trainee's first action plan was to allow the Beechcraft to land, the Fokker to line up on the runway and take off as soon as the Beechcraft was off the runway, then the Dash 8 to land. But because the Beechcraft crew were unfamiliar with the airport and visibility was reduced by fog, they took more time than expected to clear the runway. This changed the controller trainee's original action plan: the Fokker at the runway threshold could not take off, and the Dash 8 on final could not land.
+
+
+The new plan of action was to have the Fokker exit the runway as quickly as possible. This plan did not work because another aircraft was already on taxiway Golf. The Fokker crew then specified that they were taxiing to taxiway Hotel, which is 1,600 feet from the 06 threshold, and that they would call back when they were clear of the runway. The controller trainee confirmed this information. However, although he confirmed this information, it appears that he did not assimilate it correctly, because the Dash 8 was less than one minute from landing and the Fokker needed a similar length of time to move to taxiway Hotel. A new action plan was needed.
+
+
+It does not appear that the controller trainee correctly processed the information received from the Fokker. In addition, during that period, the attention of the controller trainee and controller-instructor was focused on the Beechcraft. Convinced that the Fokker had exited the runway, the controller trainee cleared the Dash 8 to land. The alertness of the Dash 8 pilot-in-command as well as the crew of the Fokker prevented a serious accident.
+
+
+
+Findings
+
+
+Meteorological conditions hampered the visual monitoring of traffic on runway 06. Radar information permitted monitoring of the Dash 8. The delay caused by the Beechcraft altered the sequence of events planned by the controller trainee. The controller trainee did not correctly visualize the manoeuvre contemplated by the Fokker crew. The attention of the three controllers was on the Beechcraft. The controller trainee cleared the Dash 8 to land while the Fokker was on the runway.
+

@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+The reports of the windmilling and then stopped propeller, the damage to the propeller, and the sudden loss of engine sound, combined with the evidence provided by the exhaust pipe damage and engine tachometer markings, are all consistent with a loss of engine power before impact. However, the reason for the power loss could not be determined.
+
+
+The loss of engine power causes neither an aircraft to stall, nor a pilot to lose control of the aircraft. The accident aircraft, however, was operated at a low height above ground when the power loss occurred, and it likely stalled when the pilot tried to prevent the aircraft from descending any lower. Without sufficient height above the houses, the pilot could not recover from the stall.
+
+
+Had the aircraft been higher above the ground when the engine lost power, the pilot would have had greater opportunity to recover from the stall, and to attempt an engine restart or to carry out a forced landing in a more suitable area.
+
+
+The following TSB Engineering Branch reports were completed:
+
+
+LP 106/96 - Tachometer Examination; and LP 107/96 - Exhaust Stack Temperature.
+
+
+
+Findings
+
+
+The pilot was licensed and qualified for the flight in accordance with existing regulations. The aircraft was certificated, equipped, and maintained in accordance with existing regulations and approved procedures. The weight and centre of gravity were estimated to have been within the prescribed limits. There was no evidence of any pre-existing mechanical defects which could have contributed to the accident. The aircraft was operated at a low height above ground when the engine lost power for undetermined reasons. The aircraft stalled, likely as a result of the pilot attempting to maintain height.
+

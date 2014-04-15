@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+The aircraft was serviceable, and the meteorological conditions were favourable for flight training; however, the lack of communication between the instructor and student was problematic. The informal pre-flight briefing did not prepare the student for an engine failure shortly after take-off and, contrary to the recommendations in the Flight Training Manual, did not provide full consideration of the factors essential to making a successful turn back. The Flight Training Manual does not address forming a hard rule for the predetermined safe turn-back altitude recommended in TP13748E. If such a hard rule had been formulated prior to the simulated engine failure, the student would not have to analyse the factors after the simulated engine failure to determine if turning back was a feasible option.
+
+
+The exact altitude of the aircraft when the engine failure was simulated could not be ascertained; however, the student pilot was able to complete the 180-degree turn which put the aircraft in a downwind approach to the lake. At this point the aircraft was both low enough and slow enough that a successful forced landing was not assured, and it was necessary for the instructor to take control of the aircraft. Due to the lack of pre-flight planning for this exercise, the instructor was not prepared for the dangerous situation which had quickly developed and, as a consequence, tried to salvage the forced landing rather than apply power to execute an effective abort procedure.
+
+
+The student sustained serious head injuries during the crash. It is highly probable that the injuries would not have been so severe had the available shoulder harness been worn. The instructor suffered loss of memory as a result of head trauma during the occurrence. It is likely that this injury would have been less severe had the shoulder harness been worn.
+
+
+
+Findings as to Risk
+
+
+Although the Transport Canada Flight Training Manual, 4th Edition (Revised), recognizes the inherent dangers associated with a 180-degree turn following an engine failure, it does not provide sufficient guidance for a student or an instructor to determine the minimum safe altitude for a 180-degree turn back to the take-off area in the event of an engine failure or simulated engine failure after take-off. The training flight was conducted without a detailed formal pre-flight briefing. Therefore, the student was not fully aware of the expected actions following a simulated engine failure at low altitude, increasing the risk that errors could be made.
+

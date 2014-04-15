@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+New flight crew members take time to adjust to operating procedures and the flow of task completion. Therefore, the experienced crew member must be rigid in adherence to procedures and vigilant to all operations in the cockpit, all of which increase the workload on the experienced member. In this occurrence, the combination of the co-pilot's low flying experience, his lack of experience in instrument conditions, and the relatively high speed to the Ottawa NDB resulted in a high workload situation. This is supported by the co-pilot's statement that the operation became busy after the aircraft crossed the NDB. Concurrently, by simulating an instrument approach, the pilot was not only required to carry out routine duties but also had to concentrate on the actions of the co-pilot. When the co-pilot became overwhelmed, the pilot's already demanding workload was unexpectedly increased as he was required to take control of the aircraft.
+
+
+Typically, the before landing check is carried out prior to or at the FAF. However, for this crew, the focus prior to the NDB was on the simulated instrument approach, and, immediately after, on the need to reduce speed and altitude. In attending to those immediate demands, the crew forgot to complete the before landing check. Each crew member recalled considering some elements of the checklist, but neither can recall carrying out the checklist in a challenge and response manner, and the aircraft was landed with the landing gear retracted.
+
+
+Several factors point to the possibility that neither crew member had a full appreciation of the developing situation: the pilot did not take control until the aircraft was over the threshold of the runway; neither crew member related the excess aircraft speed to the fact that the landing gear had not been lowered; the pilot continued with the landing, despite the aircraft's altitude and speed over the threshold; and the pilot was surprised when the aircraft hit the runway just as he was about to initiate an overshoot.
+
+
+The addition of impromptu instrument training exacerbated the co-pilot's workload and subsequently that of the pilot. The increased workload contributed to the breakdown in coordination and communication and resulted in the before landing check not being completed. While practising approaches during favourable weather conditions on operational flights provides the opportunity to develop and maintain proficiency, appropriate planning is necessary to ensure all contingencies have been considered.
+
+
+The pilot's habit of checking for landing light activation to connote completion of the before landing check is an unsafe practice; checking the landing lights does not ensure that all items on the checklist list have been completed. The final link in the chain of events which led to the occurrence was the failure of the landing gear warning horn to warn the pilots that the landing gear was not locked down.
+
+
+
+Findings
+
+
+The flight crew were certified and qualified for the flight in accordance with existing regulations. The simulated instrument approach training was not planned nor discussed prior to its undertaking, and resulted in an increased workload for both crew members. The company standard operating procedures were not followed. The before landing checklist was not completed, and the aircraft's landing gear was not selected down for landing. The landing gear warning horn did not function because of the failed electric diode. The aircraft contacted the runway with the landing gear in the retracted position.
+

@@ -1,0 +1,16 @@
+of the apparent engine failure could not be determined	The cause of the apparent engine failure could not be determined
+the pilot turned final for runway 24 during his first approach	he could not see any sign of the airport or its lighting , believing that he was flying above a cloud layer which was obscuring his view of the airport
+Flight Into Terrain -LRB- CFIT -RRB- accidents	Controlled
+Given the low altitude and airspeed , the pilot had to take immediate action	reduce the drag caused by the windmilling propeller
+the low altitude and airspeed	the pilot had to take immediate action in order to reduce the drag caused by the windmilling propeller
+analysing problems and taking corrective actions before the aircraft reaches a state where it can no longer be flown safely	An approach airspeed of 100 KIAS or more is recommended in the POH to provide more time , in the case of an emergency ,
+the low airspeed at which the approach was attempted , the pilot 's actions in raising and lowering the nose of the aircraft , and the pilot not applying five degrees of bank into the good engine	The manufacturer 's calculations indicate that the aircraft should have been able to climb ; the fact that it did not climb may have been
+fuel exhaustion	However , the engine failure described by the pilot is consistent with an engine stopping
+the low airspeed and height at which the pilot was flying the approach	he had no time to analyse the engine malfunction before feathering the engine
+The analysis will focus on human performance elements	the accident and on the single-engine performance demonstrated by the aircraft
+The weather conditions were marginally acceptable for VFR flight in uncontrolled airspace , and the pilot 's decision to undertake the flight	the weather and
+When the pilot turned final for runway 24 during his first approach , he could not see any sign of the airport or its lighting , believing that he was flying above a cloud layer	his view of the airport
+This	little or no safety margin in the event of an aircraft malfunction
+the windmilling propeller	the drag
+the pilot had to take immediate action in order	the drag caused by the windmilling propeller
+in the POH	more time

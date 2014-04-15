@@ -1,0 +1,52 @@
+
+
+Analysis
+
+
+The aircraft was equipped and maintained in accordance with existing regulations. The pilot was certified and qualified for the flight. People close to the pilot had often seen him perform simple aerobatic manoeuvres like the wing-over, the loop, and the roll. But this was the first time the pilot was seen doing a Lomcevak. Although the aircraft had been put through simple aerobatic manoeuvres before, and it could have met the criteria for performing these manoeuvres, they had not been documented, and no procedures had been initiated to obtain an airworthiness certificate authorizing such manoeuvres.
+
+
+The aircraft weight and centre of gravity were within the prescribed limits. The loading limit established for the original aircraft was at least 6 g at a weight of 1930 pounds. Any increase in maximum weight or any reduction in the strength of the structure, such as that resulting from replacing the wing attachment bolts with bolts of a lower diameter and strength, had the effect of decreasing that limit. Assuming that, at full load (2400 pounds), the wings could withstand an ultimate load of 7.2 g, and that this value was reduced by between 61 and 72 per cent by replacing the bolts, the ultimate load was therefore between 4.4 g and 5.2 g at full load (2400 pounds) or between 4.9 g and 5.8 g at the time of the accident, since the weight of the aircraft was estimated at 2125 pounds. However, when the 1.5 safety factor is taken into account, the maximum load is reduced to between 2.9 g and 4.3 g, which is below the 4.4 g level prescribed in CAR Section 523.337 for aerobatics.
+
+
+The aircraft had often been used for simple aerobatic manoeuvres. Frequent incursions into the zone between the maximum load and the ultimate load are inclined to induce fatigue. Since no fatigue was found, it appears that all manoeuvres executed during the 205 flying hours preceding the accident were done at load factors not exceeding 3 g. Only indications of instantaneous failure were found, which indicates that at the time of the wing failure the aircraft was subjected to loads exceptionally higher than previously experienced.
+
+
+Following the dive, the recovery could have generated high loads. Using the calculated ultimate load as a reference, loads exceeding a factor between 4.9 g and 5.8 g were necessary to break the wing. These loads could cause a blackout, as well as the beginning of brain hypoxia. A loss of situational awareness could have caused the pilot flying to continue applying elevator to the point where the maximum strength of the wings was exceeded, while the aircraft was still at an altitude that would have allowed the pilot to follow a less pronounced recovery curve, which would have generated lesser loads.
+
+
+Theoretically, the two wings should have been equally strong and, therefore, should have separated at the same time. However, the aerodynamic stresses on different areas of the aircraft can be different if the flight is not in a perfectly straight line. Given the major deformation observed on the bolt from the lower left spar, the bolt was about to fail, which would have resulted in separation of the left wing as well. However, the separation of the right wing instantaneously removed loading from the left wing.
+
+
+According to the wording of Chapter 549, the amateur-builder, who by definition must design and build at least 51 per cent of the project, can also modify parts that he or she buys that are already manufactured. Since all modifications were done prior to the last inspection and prior to the issuance of the special airworthiness certificate, there were no other regulatory requirements in this regard. Reducing the strength of the front fitting had no adverse impact because the resulting strength was greater than the maximum loads that could be applied in flight. However, replacing the attachment bolts of the main spars reduced the capacity of the wings to react to loads as great as those estimated by the builder-pilot.
+
+
+The following laboratory report was completed:
+
+
+LP 064/2002 - In-flight Wing Separation Engineering Analysis "Super Chipmunk"
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was subjected to stresses exceeding its structural envelope, and the bolt securing the right lower spar failed in overload. The four bolts securing the main spars to the fuselage had been replaced with bolts of lesser diameter and strength. The strength of the replacement bolts was approximately 61 per cent to 72 per cent of that of the original bolts.
+
+
+
+Finding as to Risk
+
+
+The same load factors were retained despite an increase in allowable weight and a decrease in the diameter of the attachment bolts.
+
+
+
+Other Findings
+
+
+The aircraft was not authorized to execute aerobatic manoeuvres. The damages around the fractures showed signs of deformation consistent with failure caused by excessive tension; there were no signs of fatigue.
+

@@ -1,0 +1,30 @@
+for the airfoil liberation from the disk could not be determined	However , it is unlikely that the airfoil was dislodged for the entire 3.5 hours of engine operation following the original compressor surging
+is that the airfoil retaining pin failed	Also , the reason for the airfoil liberation from the disk could not be determined
+Airflow instabilities resulted in vibratory excitement of the 3rd and 8th stage rotors leading to widespread fatigue cracking in the rotor airfoils	of the compressor airfoil fatigue cracking , either a 3rd or 8th stage rotor airfoil was liberated during the initial climb , resulting in severe engine damage and loss of engine power
+The Pratt and Whitney JT8D Maintenance Manual does not have a warning about potential compressor airfoil fatigue cracking that may develop as a result of compressor stall or surge	, maintenance personnel may be unaware that compressor airfoil fatigue cracking can occur as a result of a compressor surge
+the extensive mechanical damage to the engine and compressors	the origin of the engine failure and an accurate assessment of the engine condition prior to the occurrence could not be established with certainty
+its small size , could follow the gas stream and exit the engine	The retainer ,
+In this scenario , this fatigue cracking would be secondary to	of , the failure of the 8th stage rotor
+a minimum	the compressor stalls were symptoms of an existing gas path inefficiency
+its slightly different operating characteristics and the inaccuracies in the JT8D troubleshooting flowchart	The replacement PRBC valve ,
+a boroscopic inspection been performed	it is possible that missing or damaged compressor hardware would have been detected
+the compressor airfoil fatigue cracking	either a 3rd or 8th stage rotor airfoil was liberated during the initial climb , resulting in severe engine damage and loss of engine power
+compressor stall or surge	The Pratt and Whitney JT8D Maintenance Manual does not have a warning about potential compressor airfoil fatigue cracking that may develop
+a compressor surge	Consequently , maintenance personnel may be unaware that compressor airfoil fatigue cracking can occur
+with a disruption in airflow from the compressor	increased exhaust temperatures beyond the limits of the turbine components
+The conclusions of independent analyses -LRB- by Pratt and Whitney and by the TSB Engineering Laboratory -RRB- differ regarding the origin of the damage	two
+airfoils in the downstream path	compressor surging
+This surging	cyclic loading of the 8th and 9th stage rotor airfoils
+some of the LPC stages experienced conditions	a widespread fatigue cracking of the airfoils
+damage to subsequent compressor stages	reduced compressor stability
+Prior to the engine failure , a liberated piece of material , either just preceding or just following the 3rd stage , could travel aft	damage to subsequent compressor stages and
+the material transiting the compressor sections	excitement
+The vibratory excitement caused by the material transiting the compressor sections	the failure of a 3rd stage rotor airfoil and the subsequent engine failure
+However , it is unlikely that the impending failure could have been predicted	the intended purpose of the ECM program
+damage from loose compressor hardware	a marginally compromised compressor
+compressor surging and vibratory excitement	the ultimate failure of the engine
+The compressor gas path was	either
+Airflow instabilities	vibratory excitement of the 3rd and 8th stage rotors
+Airflow instabilities resulted in vibratory excitement of the 3rd and 8th stage rotors	widespread fatigue cracking in the rotor airfoils
+As a result of the compressor airfoil fatigue cracking , either a 3rd or 8th stage rotor airfoil was liberated during the initial climb	severe engine damage and loss of engine power
+This omission , combined with a PRBC valve with slightly different operating characteristics	the compressor appearing to be stable when it is not

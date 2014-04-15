@@ -1,0 +1,48 @@
+The helicopter was well below maximum certificated gross weight and the longitudinal CG was near the aft limit	of the relative light weight of the helicopter , a lesser amount of collective pitch application would have been necessary for the helicopter to become airborne
+The hydraulic servo actuator has a time between overhaul -LRB- TBO -RRB- of either 1800 or 3000 hours in service and is therefore subject to periodic overhaul and specification adjustment , whereas the accumulator unit is an on-condition item and is not subject to overhaul	, an accumulator with undetected marginal performance could remain on an airframe for an indefinite period
+the collective lock in place	it is clear that the helicopter flight controls behaved in a predictable manner
+the lateral accumulator -LRB- s -RRB- exhausting and causing the flight controls to move to the non-hydraulic-powered position	Once the pilot continued testing , it was only a matter of time before the collective stick rose up
+the relative light weight of the helicopter	a lesser amount of collective pitch application would have been necessary for the helicopter to become airborne
+The aft CG condition would have required the pilot to maintain more forward cyclic input in flight than normal	reduced the available forward cyclic stick travel
+circumstances leading to the accident was the procedural requirement to establish full flying rotor rpm -LRB- revolutions per minute -RRB- for the pre-flight hydraulic test procedure	the
+the servos always leave the overhaul/manufacturing facility well within the required specification tolerances	it is clear that , in some cases , a servo can deteriorate in service
+function of the flight control system in flight	the proper
+the pilot interrupted his pre-flight hydraulic test sequence	the collective stick lock released without his knowledge
+the lateral accumulator -LRB- s -RRB- exhausted	the unlocked collective stick rose up sharply and caused the helicopter to become airborne
+in-service monitoring is not done , nor is it required by regulation	There is no meaningful data concerning the effect of in-flight conditions upon the specification performance of the hydraulic servo actuators
+the pilot was	the helicopter from becoming airborne
+pre-flight procedures are in place	it
+This analysis will therefore focus on the reasons behind the chain of events	the collective move and cause the accident
+Also , several physical and procedural anomalies were discovered that had an impact on the safety defences that are built into the flight control system and its operation , including those	TSB safety action
+This	a situation
+centralized the flight controls	the AME under the rotor disk
+Such pressure was	the improperly engaged lock
+accumulator -LRB- s -RRB- exhausting	the flight
+The aft CG condition would have required the pilot to maintain more forward cyclic input in flight than normal	the available forward cyclic stick travel
+ability	the nose of the helicopter rapidly rising
+this reduction in forward cyclic stick travel	the helicopter vulnerable to nose-high attitudes
+inconsistent interpretation of the procedures promulgated in the RFM	doubt
+this subjective factor	the recharging element of the pre-flight test an insensitive method of assessing the integrity of the accumulator
+Another factor in the circumstances	the accident was the procedural requirement to establish full flying rotor rpm -LRB- revolutions per minute -RRB- for the pre-flight hydraulic test procedure
+the flying rotor rpm	the helicopter in a condition to certainly become airborne
+the inconsistent servo travel rates	the accident , there is doubt that such servo behaviour is always benign
+It is possible that a combination of servo performance tolerance limits , though individually insignificant , could act synergistically in a manner	the servo malfunction
+that asymmetric lateral servo accumulator depletion	uncommanded servo movement
+These modifications	pilots shut off the hydraulic system pressure and exhaust the accumulators simultaneously , thus providing a controlled transition into non-hydraulic-assisted flight
+These modifications allowed pilots to shut off the hydraulic system pressure and exhaust the accumulators simultaneously	a controlled transition into non-hydraulic-assisted flight
+the pilot be	to manipulate the flight controls with reasonable feedback forces in the event of a hydraulic system failure
+The hydraulic accumulators are the sole approved mechanical devices	that guarantee
+There is still the risk that flight in the AS 350 helicopter could commence with one or more marginally serviceable hydraulic accumulators	the level of defence against hydraulic system failure
+The design of the lock button on the collective stick allowed improper engagement with the locking plate	premature release of the collective stick during the hydraulic test procedure
+The design of the lock button on the collective stick	improper engagement with the locking plate
+the unlocked collective stick rose up sharply	the helicopter
+the collective stick	the helicopter becoming airborne , nor could control of the helicopter be regained before it struck the ground
+the pilot was	the collective stick
+this situation	the nose-up attitude
+such rpm	the helicopter to become airborne inadvertently
+the condition of significant pressure differential in the main rotor accumulators	unequal depletion of the reserve of pressurized hydraulic fluid , thereby causing asymmetric servo actuator movement , high and unpredictable flight control forces , and a potential loss of control in flight
+In the event of a hydraulic system pressure loss in the AS 350 B2 helicopter , the condition of significant pressure differential in the main rotor accumulators leads to unequal depletion of the reserve of pressurized hydraulic fluid	asymmetric servo actuator movement , high and unpredictable flight control forces , and a potential loss of control in flight
+The risk is that flight in the AS 350 helicopter could commence with one or more marginally serviceable hydraulic accumulators	the level of defence against subsequent hydraulic system failure
+An earlier airworthiness directive from Transport Canada required the cyclic to be moved to exhaustion	a more meaningful assessment of accumulator condition
+the exhaustion of the hydraulic accumulators	movement
+Functional tests with the servo actuators	inconsistent travel rates were beyond the manufacturers ' specifications

@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+Records indicate that the pilot was certified and qualified for the flight. Examination of the occurrence helicopter revealed that the locking plate disengaged readily when pressure was applied on the collective lever. However, the pilot was unable to disengage the lock. The pilot discovered he was in a critical situation at an altitude of about 800 feet agl when he realized that the collective lever was locked. The helicopter's high rate of closing with the ground allowed him little time to locate the cause of the problem and take appropriate action. The stress of the situation and his heavy workload may have hindered his concentration and limited his ability to convey the urgency of the situation to the passengers. The pilot had to press on the collective lever to disengage the plate, then pull it back to arrest the descent. It is possible that incorrect timing of the pilot's actions to free the collective stick prevented him from disengaging the plate.
+
+
+Autorotation rpm was low, and the in-flight checks were intended to correct that problem. When doing these checks, the pilot did not follow published procedures when he reduced engine power instead of leaving it at full as specified for a descent to check autorotation rpm. The procedure he had elected to use required more pilot inputs, thereby complicating his task.
+
+
+Examination of the occurrence helicopter also revealed that some work had not been completed by the AMO. The stop screw was in an inverted position, and the connecting rods were shorter than those prescribed by the manufacturer, which allowed the collective control to overtravel down. This condition, combined with the down setting of the collective lever and the collective locking plate setting, contributed to the locking of the collective control by reducing the space between the electrical console and the collective lever.
+
+
+Supervision by Transport Canada was inadequate before, during and after the rebuild and conversion of C-FPOO. The investigation determined that Transport Canada authorized the conversion of an AS 350 B into an AS 350 BA without regard to the effectivity limitation prescribed by Eurocopter; that supervision by Transport Canada did not detect the deficiencies in the work performed by the AMO; and that these deficiencies are not noted in the Transport Canada approval documentation for the aircraft. Consequently, Transport Canada should not have issued a certificate of airworthiness for this aircraft.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The collective lever locking plate accidentally engaged, and the pilot was unable to free the collective and slow his descent sufficiently before touching down. The stop screw was in an inverted position, and the connecting rods were shorter than those prescribed by the manufacturer, which allowed the collective control to overtravel down. This condition, combined with the down setting of the collective lever and the collective locking plate setting, contributed to the locking of the collective control by reducing the space between the electrical console and the collective lever.
+
+
+
+Findings as to Risk
+
+
+Transport Canada authorized the conversion of an AS 350 B into an AS 350 BA without regard to the effectivity limitation prescribed by Service Bulletin 01-00-35. Transport Canada did not detect the deficiencies in the maintenance work related to the repair and conversion of the aircraft. Transport Canada issued a Certificate of Airworthiness although the helicopter was not airworthy.
+

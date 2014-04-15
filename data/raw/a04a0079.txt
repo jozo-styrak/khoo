@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+Because of the severity of the breakup, it is unlikely that use of the shoulder harness straps would have reduced the severity of the injuries. The failure of the lap belt attachments at the airframe was likely due to both the destruction of the fuselage in the area of the attachments and the extra load created because the shoulder harnesses were not latched.
+
+
+As there were no mechanical anomalies found with the glider, it is not likely that the steep climb was due to a mechanical failure. The possibility that the steeper-than-normal climb attitude was caused by the pilot sliding rearward during the launch, because he did not have his shoulder harness attached, was considered. However, the HP-18 seat position restricts rearward movement even if the shoulder harness is undone. The lack of shoulder harness restraint likely did not result in the pilot moving rearward during the launch.
+
+
+The same winch launch speed was used on the earlier flight, and it is therefore unlikely that the steep climb was due to a change in the winch speed. The previous unsuccessful flight may have prompted the pilot to attempt to gain more altitude from the second launch to increase the likelihood of finding thermal activity. Although it is likely that the pilot initiated the steep climb, this could not be shown conclusively.
+
+
+The steep climb angle followed by the wing drop is consistent with a wing stall due to excessive angle of attack. Once the wing stalled and the roll commenced, there was insufficient altitude remaining for the pilot to effect a recovery.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Shortly after lifting off, the aircraft entered a steep climbing attitude and a wing stall ensued; there was insufficient altitude for the pilot to effect recovery.
+
+
+
+Findings as to Risk
+
+
+The shoulder harness straps were not latched prior to take-off; however, it is unlikely that their use would have lessened injuries in this accident.
+

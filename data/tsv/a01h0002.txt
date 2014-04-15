@@ -1,0 +1,21 @@
+The controllers did not apply standard procedures in the Gander high west domestic sector	, the controller who took over the consolidated sector ` A/C ' did not have an accurate mental picture of the traffic situation
+Neither controller referred to the checklist before or during the handover briefing , nor were they in the habit of doing so	, critical information regarding the altitude and converging flight paths of the two flights was not specifically mentioned
+The combination of low traffic levels and the lack of information from the handover briefing likely lulled the sector ` A/C ' controller into thinking that everything was proceeding without problem	, the controller felt comfortable setting up the RSiT display rather than conducting a detailed review of the FPS and the status of the aircraft under his control
+In a radar environment such as in the Gander ACC high west area , controllers concentrate on the radar display and rely much less on information contained on FPSs to detect conflicts	, FPS marking may be seen as less important for detecting conflicts than observing information displayed on the radar
+Neither aircrew advised the controller that the evasive manoeuvres were in response to a TCAS RA until after the aircraft had passed each other and were no longer conflicting	, the controller was caught completely by surprise
+it was felt that the checklists are either too long , not always applicable in particular situations , or not required during low traffic levels	Handover briefing checklists were available at each control position ; however , the prevailing culture among controllers has been to avoid the use of checklists
+marking FPSs to assist the controller in maintaining situational awareness of the traffic situation and to ensure action is taken to maintain the required minimum separation between aircraft	Written procedures have been developed
+detecting conflicts than observing information displayed on the radar	As a result , FPS marking may be seen as less important
+highlighting conflicts on the RSiT displays	Controllers can and have developed personal work practices
+standards been in place to mark radar-displayed aircraft in specific ways to highlight conflicts or indicate wrong-way altitudes	the sector ` A/C ' controller might have noticed the conflict in time to take appropriate corrective action
+the short notice of the conflicting traffic	The method employed by the crew to notify ATC of avoidance action was likely not a factor in this occurrence
+highlighting a radar target on the radar situational display to indicate potential conflicts requiring control action to resolve	Nav Canada has not developed standards
+part	COA18 and IBE6283 would be provided with the required separation
+FPSs to assist the controller in maintaining situational awareness of the traffic situation	action is taken to maintain the required minimum separation between aircraft
+These unstandardized practices	the likelihood one controller will notice a problem highlighted by another controller
+he	additional traffic information on other aircraft in the vicinity
+The use of consistent and clear phraseology , including key words such as TCAS	controllers recognize the problem more quickly and be in a better position to offer appropriate assistance
+The incomplete briefing	incomplete situational awareness on the part of the relieving controller
+The controller being relieved had not marked the flight progress strip -LRB- FPS -RRB- in accordance with published procedures	the possibility the conflict would be detected from a scan of the FPSs
+the information	the receiving controller
+the controller was not able to respond effectively	additional traffic information had it been required

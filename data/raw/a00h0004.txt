@@ -1,0 +1,49 @@
+
+
+Analysis
+
+
+Post-occurrence examination of the aircraft and its systems revealed that the braking system was serviceable, and it is concluded that the aircraft did not hydroplane. The brakes were operating, as shown by the skid marks in the last 75 feet of the runway. At the correct threshold crossing height and speed, the aircraft could easily have been stopped on the wet runway. Considering the actual threshold crossing height and speed, the aircraft could have been stopped on the runway with autobrakes set to medium.
+
+
+The manner in which the descent and the approach were conducted contributed to the approach being unstable. A go-around was not conducted. The unstable approach resulted in the aircraft being high and fast over the runway threshold. The aircraft's excessive altitude and speed over the threshold, combined with the lack of a more aggressive landing technique, resulted in the long landing and the high touchdown speed. The long landing and the high touchdown speed, combined with the lack of immediate and sustained aggressive application of braking and reverse thrust, resulted in the overrun.
+
+
+The flight crew had a number of opportunities to correct for the aircraft's high speed and altitude during the approach and landing. The method in which they were using the autopilot to conduct the approach was inefficient, particularly with the two inadvertent level-offs. The captain attempted to slow the aircraft by applying the spoilers, but when the configuration warning horn sounded, he retracted the spoilers. The aircraft's approach, as it crossed the outer marker, was not stabilized in accordance with the requirements of the flight operations manual's section on normal descent and approach operations. Although that section of the manual does not provide direction to flight crews on commencing a missed approach or a go-around if the approach is not stabilized, that option was available to the flight crew until landing. Also, the captain elected to extend the flare to provide for a smooth landing. At the higher-than-normal landing speed, the aircraft would float for considerable distance.
+
+
+The tower controller did not conform with the Ottawa airport emergency response plan checklist for an aircraft crash on the airport. The controller first initiated the alarm then talked to the flight crew but did not ask them about the number of passengers, the amount of fuel on board, or any dangerous goods. As the ERS vehicles were approaching the aircraft, they needed to know that information, but the controller was unable to provide it. For the safety of the passengers on board an aircraft and the ERS personnel, ERS should be informed of potential hazards as soon as possible.
+
+
+During the approach into the Ottawa airport, a special weather observation had been issued.
+
+
+The flight crew were not informed of the weather change, and the weather was significantly different from that which had previously been provided to them. The tower controller, who was responsible for informing the flight crew of the new weather, was not aware that new weather had been issued. The change in the weather did not contribute to this occurrence. The air traffic control environment has no standard, reliable method to alert controllers that new weather sequences have been issued. Consequently, controllers may not be aware of new weather information that should be passed to flight crew.
+
+
+The following TSB Engineering Laboratory Report was completed:
+
+
+LP 96/2000__Anti-skid Brake Control Unit
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The manner in which the descent and the approach were conducted resulted in the approach being unstable, and a go-around was not conducted. The unstable approach resulted in the aircraft being high and fast over the runway threshold. The aircraft's excessive altitude and speed over the threshold, combined with the lack of a more aggressive landing technique, resulted in the long landing and the high touchdown speed. The long landing and the high touchdown speed, combined with the lack of immediate and sustained aggressive application of braking and reverse thrust, resulted in the overrun.
+
+
+
+Findings as to Risk
+
+
+The emergency response services (ERS) vehicles approached the aircraft with no knowledge of the number of passengers, the amount of fuel on board, or whether any dangerous goods were on board. The tower controller did not have that information to pass on to the ERS personnel, potentially delaying or slowing ERS operations and therefore jeopardizing ERS and passenger safety. The air traffic control environment has no standard, reliable method to alert controllers that new weather sequences have been issued. Consequently, controllers may not be aware of new weather information that should be passed to flight crew.
+
+
+
+Other Findings
+
+
+The aircraft's braking system was serviceable. The overrun was not a result of hydroplaning.
+

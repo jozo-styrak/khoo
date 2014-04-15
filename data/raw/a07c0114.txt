@@ -1,0 +1,67 @@
+
+
+Analysis
+
+
+The pilot was able to fly to the fuel cache earlier in the day and then conduct a survey flight. Additionally, search helicopters were able to fly along the route to the fuel cache in visual flight conditions after the accident. Consequently, it is likely that the weather was substantially as forecast along the route flown and was not a factor in the accident.
+
+
+The engine's number three bearing failed, resulting in a rearward movement of the power turbine shaft which cut the engine's Py line. As a result, the engine's rotational speed decreased to about ground idle speed, which is insufficient to sustain flight. Since there was no message from the helicopter by the survey technician indicating any emergency condition, it is likely that the power loss occurred quickly and that there was little advance warning of the impending bearing failure.
+
+
+The burnishing and plastic deformation of the corrosion pit edges on the number two bearing indicate that the number two bearing was operated subsequent to the formation of the corrosion pits. Consequently, the corrosion pitting of the number two bearing occurred prior to the engine being submerged in the lake. Since the number two and number three bearings are located close to each other and share the same lubrication system, the number two and number three bearings would have been exposed to the same environmental conditions. Consequently, since the corrosion pitting of the number three bearing is similar, the corrosion pitting of the number three bearing also occurred prior to the engine being submerged in the lake. Therefore, it is likely that corrosion pitting caused the failure of the number three bearing.
+
+
+The corrosion had to occur when the engine was idle for a period of time and was not stored in accordance with the manufacturer's procedures. Because both bearings were installed in the engine and as there are no records indicating that the engine had been preserved in accordance with the maintenance manual from 28 May 2004 to 06 June 2007, the corrosion likely occurred during this period.
+
+
+While information from the survey flight indicated that the pilot was accustomed to flight at 500 feet agl or below, there was no information to indicate how the pilot flew the route from the fuel cache to Bernick Lake. As the pilot was respected for his businesslike approach to flying and was known to have refused requests to deviate for sightseeing, it is likely that he would have adjusted his flight path and altitude at Bernick Lake to remain within safe autorotational distance from shore. The judgement of the autorotational distance required by the helicopter from a given altitude by an experienced pilot accustomed to low-level flight would be expected to be adequate. However, the possibility that the pilot misjudged the height required for autorotation to shore could not be ruled out. It is also possible that the pilot, in responding to the first indication of the impending bearing failure, attempted to land near the shoreline in shallower water and was in the process of manoeuvring to land when the power loss occurred.
+
+
+When the rapid power loss occurred, the pilot was required to follow the emergency procedures as outlined in the basic flight manual and the supplement for the Honeywell engine. To comply with those procedures, the pilot should have immediately entered an autorotation, turned towards the shoreline, closed the fuel control lever to shut down the engine, and completed an autorotational landing to shore. There are two possible scenarios in which the fuel control lever would not be moved to the closed position: either the pilot did not follow the procedure or the pilot was rushed and did not have time to do so. In either case there was no adverse consequence to not closing the fuel control lever because the helicopter landed in the lake so any post-impact fire would be quickly extinguished.
+
+
+If the pilot was rushed, this could indicate that the helicopter's height above the lake was low at the time of the engine power loss, because time in autorotation reduces as height is reduced. This could have occurred either en route at too low an altitude over the lake or while manoeuvring to land near the shoreline.
+
+
+If the pilot judged the required en route altitude to overfly the lake correctly and had sufficient time to complete the procedure, the position of the fuel control may indicate that the pilot's response to the emergency was incorrect. After the power loss, engine rpm would have stabilized at a low rpm value. This condition is not described in the Honeywell supplement and may have been confusing to the pilot; this may have distracted the pilot and slowed recognition of the engine condition. This distraction could have reduced the effectiveness of the turn towards the shore. The 950-foot distance from shore was equivalent to nine seconds of flight time in autorotation and the time could easily have been lost if the pilot was distracted during a critical flight manoeuvre.
+
+
+Judgement of height above a water surface is difficult even for experienced pilots. Examination of the helicopter indicated that the aircraft should have been controllable during the autorotation. However, the low kinetic energy of the main rotor blades coupled with the high descent rate, forward speed, and bank on impact indicate that the pilot likely misjudged his height above the surface of the lake during the flare for landing. Initiating either the flare or collective pitch increase or both at higher-than-recommended heights would result in the loss of the kinetic energy of the main rotor blades. Without sufficient kinetic energy in the main rotor blades, the pilot would have been unable to control the water landing.
+
+
+The pilot would have had an aural warning of the reduction in rotor rpm but because the same aural warning occurs for hydraulic pressure, the pilot would have had to differentiate between the two possibilities. This may have delayed the pilot's response and caused the pilot to be rushed. A delay in responding to the audible warning may have resulted in a large drop in rotor rpm, excessive altitude loss, or loss of control.
+
+
+The severity of the impact likely contributed to the inability of the occupants to egress as the helicopter sank. The distance from shore would have decreased the occupants' chances of survival had they exited the aircraft.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP081/2007 - Engine Tear-Down and Analysis; LP090/2007 - Tail Rotor Shaft Failure; LP093/2007 - Instrument Examination; LP094/2007 - Jet B Fuel Analysis; and LP099/2007 - Servo Actuator Testing.
+
+
+These reports are available from the Transportation Safety Board upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The number three bearing of the engine's power turbine failed and engine power was automatically reduced to about ground idle, requiring the pilot to conduct an autorotation. The bearing likely failed when corrosion pitting occurred during a period where the required storage procedures were not followed. The pilot conducted a forced landing into the lake because the en route altitude selected was too low to permit an autorotation to shore, because the pilot's response to the engine power loss slowed the establishment of an effective autorotation toward the shore, or because he was attempting to land near the shoreline of the lake in response to the first indication of the impending bearing failure. The pilot likely misjudged the height of the helicopter above the water and executed the flare and landing prematurely. Premature initiation of the flare would result in the loss of the kinetic energy of the main rotor blades at a height from which the pilot would have been unable to control the water landing.
+
+
+
+Finding as to Risk
+
+
+Although regulations require pilots to fly the helicopter at a distance and height that would enable an autorotation to shore, there is no information provided in the basic flight manual with respect to glide ratios.
+
+
+
+Other Finding
+
+
+Although not a factor in this occurrence, the pressure in the hydraulic accumulators was below specification.
+

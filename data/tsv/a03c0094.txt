@@ -1,0 +1,15 @@
+At the time of the occurrence , the crew were operating the aircraft within normal parameters and had completed the required checks	, crew actions , weather conditions and navigational aids were not considered to be factors in the occurrence
+The confined space of the installation area and the shape of the components , which complicate the installation , also made it very difficult to inspect the installation	, the incorrect installation went undetected
+the time of the occurrence	the crew were operating the aircraft within normal parameters and had completed the required checks
+occurrence	the
+the actuator is moved rearwards and against the bulkhead	the bolts not be inserted
+the bolts were not correctly installed	The installer expect that the actuator would simply fall free
+one upper mounting lug is correctly placed within the airframe attachment structure	the geometry of the actuator ensures that the second lug will be correctly positioned
+one mounting lug , the weight of the actuator could be suspended from that pin while a close-tolerance bolt was installed at the other mounting lug	During installation , if a small-diameter pin were inserted through the attachment structure
+arrows were marked on the sides of the actuator	in line with the holes in the spherical bearings -LRB- see Appendix A -RRB- , the correct positioning of the actuator be easily determined
+the actuator is constantly under compression when the aircraft is on the ground	the required functional testing of the horizontal stabilizer system did not identify the improper installation of the actuator
+During flight , the horizontal stabilizer trim actuator worked free of the mounting structure	, the flight crew lost pitch control of the aircraft
+The weight of the actuator is suspended	the installer to believe that the bolts have been successfully installed
+procedures outlined	the correct installation of the high-tolerance bolts
+The confined space of the installation area and the shape of the components , which complicate the installation	it very difficult to inspect the installation
+the weight of the actuator	the false impression the bolts had been correctly installed

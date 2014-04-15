@@ -1,0 +1,24 @@
+
+
+Analysis
+
+
+The rotor of a helicopter with a low-inertia rotor system loses energy quickly as the collective is raised and the engine is not producing adequate power. Without corrective action, this leads to an aerodynamic stall of the rotor blades. As the occurrence helicopter was sinking, the upward rushing air continued to increase the angle of attack on the slowly rotating rotor blades, making recovery virtually impossible, even with the collective fully down. When the low-rotor-rpm warning horn sounded and the throttle was opened, the engine did not respond because the main rotor was fully stalled. The aerodynamic drag induced by the stalled rotor blades acted as a brake further decreasing the rotor rpm. Because of the low altitude, the pilots were unable to recover before the helicopter struck the ground.
+
+
+Transport Canada's Helicopter Flight Instructor's Guide, TP4818E, outlines safety precautions for autorotation. It directs instructors that this exercise should only be practised in areas known to be safe and suitable for landing. Consideration should be given wherever possible to using an area where crash facilities are available. The guide also states a law of learning: learning can be enhanced through the use of dramatic, realistic, or unexpected things (the law of intensity). The instructor wanted to deepen the student's understanding of a poor emergency landing field; however, he allowed the exercise to continue beyond the point from which a safe recovery could be achieved.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+During a practice autorotation, the helicopter's main-rotor rpm was allowed to drop below safe limits, leading to an aerodynamic stall of the main-rotor blades. The instructor pilot allowed the student pilot to conduct a practice forced approach and autorotation into a field that was inappropriate for the exercise.
+
+
+
+Findings as to Risk
+
+
+Before the exercise, the instructor placed inadequate emphasis on the dangers of low main-rotor rpm and rotor-blade stalls.
+

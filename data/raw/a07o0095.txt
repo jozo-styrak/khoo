@@ -1,0 +1,14 @@
+
+
+Analysis
+
+
+No faults were found with the aircraft that would indicate any mechanical failure or improper rigging of the landing gear. Retraction of the landing gear can only be accomplished if the down locks are removed during the retraction sequence. Therefore, due to the play in the landing gear handle, and the ease with which it could be bumped up, it is likely that the landing gear handle was inadvertently positioned above the locking solenoid before weight on wheels was achieved, and that during the landing roll the handle was inadvertently bumped up far enough to begin the retraction sequence.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The spring in the landing gear handle was broken and allowed easy movement of the landing gear handle past the neutral stop. During the approach, the landing gear handle was most likely placed in a position that bypassed the anti-retraction system. The landing gear handle inadvertently moved to an "UP" selection during the landing roll, which activated the gear warning horn and retracted the landing gear.
+

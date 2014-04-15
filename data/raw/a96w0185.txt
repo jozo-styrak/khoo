@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+The information gathered indicates that the pilot experienced a flame-out and an automatic relight while climbing after lift-off. This would have caused a loss of main rotor rpm, and would have resulted in the cyclic control response problem reported by the pilot. Although the engine compressor contamination observed could result in decreased power output, it would not be expected to cause a flame-out. The most likely cause of engine flame-out in this occurrence would be the sudden dislodging of an accumulation of snow in the air intake plenum, which is consistent with the experiences of other operators of this model helicopter. The successful elimination of snow-induced flame-outs on other similar helicopters following installation of an air deflector kit, indicates that the installation of such a kit on this aircraft probably would have prevented the occurrence.
+
+
+The pilot made the decision to attempt a forced landing on the slope because he believed that any problems with the flight controls may have become more critical if he tried to fly downslope to flatter ground. The pilot's helmet was effective in reducing the severity of his head injuries during the forced landing. The unsecured passenger would probably have sustained fewer injuries if he had been wearing his lap belt.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 138/96 - Compressor Contamination LP 139/96 - Engine Investigation
+
+
+
+Findings
+
+
+The helicopter had been operating in light falling snow during the day. The helicopter was not fitted with an optional engine air inlet deflector kit. The sudden loss of engine power (flame-out) was most likely the result of snow ingestion. The engine compressor was contaminated with bentonite, but this would not be expected to cause a flame-out. The passenger was not wearing his seat-belt, and was thrown out of the helicopter during the forced landing. The pilot's helmet was effective in reducing head injury. The pilot had not selected the engine anti-ice ON, as required by the flight manual.
+

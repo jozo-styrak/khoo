@@ -1,0 +1,36 @@
+Because the average fuel burn rate on segments of the first two flights of the day was calculated to be close to the stated aircraft flight manual rate of 25 US gph , a fuel burn rate of 44 US gph was unlikely	, illumination of the fuel pressure warning light and subsequent loss of engine power was not a result of the centre fuel tank running dry
+This area of the compartment was subjected to high temperatures during this flight , as the oil cooler would have been flowing at high capacity to dissipate heat from the hot engine oil	would have been heating of the fuel line and the fuel flowing through it
+the average fuel burn rate on segments of the first two flights of the day was calculated to be close to the stated aircraft flight manual rate of 25 US gph	a fuel burn rate of 44 US gph was unlikely
+the additional routing and check valves	However , the path would have resulted in additional line losses
+the location of the fuel tanks	there is very little head pressure in the tank to force the fuel forward
+the adjustment to the engine-driven fuel pump	As well , suction in the fuel line was lower than normal
+the drop in pressure caused by the venturi effect	The boiling point of the fuel at the location of the kink would have been lowered
+the severity of the kink	it is unlikely that the aircraft had been operating for very long in this condition , because a power loss would likely have happened earlier under similar conditions
+the degraded performance and the pilot 's concern about the engine operating temperature	the pilot was forced to level off at a lower than normal cruising altitude
+carriage of external loads on the Beaver aircraft is governed by the information in the aircraft Type Certificate	The exemption to CAR 703.25 was not applicable to the de Havilland Beaver
+it was common practice by the company to carry external loads with passengers , the pilot believed that it was acceptable expected of him	to do so
+CBAAC 0209 contains no quantity and dimensional limitations	there is no regulatory defence in place to prevent an operator from attempting to carry large , non-aerodynamic external loads and subsequently exceeding the performance capabilities of their aircraft
+The fuel check valve not only presented a restriction in the fuel delivery to the engine , but was equipped with a stiffer valve plate return spring , which could delay the restarting of the engine	a fuel tank be run dry
+The company was operating as if the exemption to CAR 703.25 was in effect for the company , although it was not	, the pilot thought that his aircraft was approved to carry the load involved , which resulted in a decreased level of aircraft performance
+in use	could have prevented a vapour lock situation , or , once selected on , have cleared a vapour lock
+A restriction in the check valve at the wobble pump location would probably not result in an engine power loss , as fuel can still be drawn through the internal check valves in the wobble pump	an additional path of fuel the engine
+the path	additional line losses due to the additional routing and check valves
+through the wobble pump	the restriction
+the flow of fuel through the line	a localised drop in fuel pressure at the narrowest point -LRB- venturi effect -RRB-
+the tank level	and
+the venturi effect	the drop in pressure
+The kink , located at a bend in the line	a turbulence in the fuel
+With the vaporization of the fuel , the engine-driven pump would have eventually cavitated	illumination of the fuel pressure warning light and loss of engine power
+A stiffer-than-normal return spring in the inline fuel check valve	the repriming of the pumps
+This	the likelihood of a successful forced landing and the time available to restart the engine after it stopped
+The ambiguous wording , and the degree of variance in how it is interpreted by Transport Canada inspectors	an operator 's inadequate understanding of its requirements and application
+there is no regulatory defence in place	an operator attempting to carry large , non-aerodynamic external loads and subsequently exceeding the performance capabilities of their aircraft
+The damage to the fuel line was not discovered during regular maintenance inspection checks of the aircraft	a potentially serious problem go unchecked
+a fuel vapour lock situation	a loss of engine power
+The area of the kink in the fuel line was in a hot area behind the engine oil cooler	a fuel vapour lock situation resulting in a loss of engine power
+The fuel check valve not only presented a restriction in the fuel delivery to the engine , but was equipped with a stiffer valve plate return spring	the restarting of the engine
+This	the likelihood of a successful forced landing and the time available to restart the engine after it stopped
+Commercial and Business Aviation Advisory Circular -LRB- CBAAC -RRB- 0209 does	any finite restrictions for the carriage of external loads
+the absence of an ELT	the occupants ' chances of a prompt rescue
+The company was operating as if the exemption to CAR 703.25 was in effect for the company , although it was not ; thus , the pilot thought that his aircraft was approved to carry the load involved	a decreased level of aircraft performance
+A boost pump , if in use	a vapour lock situation

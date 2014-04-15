@@ -1,0 +1,117 @@
+
+
+Analysis
+
+
+
+General
+
+
+The examination of the helicopter did not reveal any technical anomalies. Therefore, this analysis will focus on environmental factors, the pilot's decision to conduct the final trip to Go By Point and return, and the survival and organizational factors.
+
+
+The weather encountered during the day's flying was generally consistent with the GFA. There were VFR conditions throughout most of the period, but with scattered towering cumulus clouds (TCUs) giving areas of sm visibility in snow showers; conditions that were below the operator's VFR limit of 1 sm. On two occasions before the accident flight, the pilot had encountered brief but heavy snow showers. On both occasions, the pilot complied with instructions in the OM and took appropriate alternate action. The first occasion required a landing near Marystown, and the second required a ground delay at the Winterland Airport.
+
+
+
+
+The Accident Flight
+
+
+There is no direct information about the pilot's decision making related to the final flight of the day from Marystown to Go By Point and return. Although there were still TCUs in the area, the weather at Marystown before the departure was suitable for visual flight, and Go By Point was only a few minutes of flying time away with sunny and clear weather. The pilot, who was highly experienced in these operations, had earlier dealt successfully with a snow squall in Mortier Bay. It is likely that the pilot believed that the trip to Go By Point and the return to Marystown could be completed safely and before dark.
+
+
+The weather encountered by HMCS Goose Bay and the images from the security camera near Cow Head indicate that the weather in the northern part of Mortier Bay worsened considerably shortly after CG352 landed at Go By Point. Conditions in the northern part of the bay were, at times, well below sm. While on the landing pad at Go By Point, the pilot would have had only a limited view of the sky to the northwest, the direction from which the worsening weather conditions were approaching.
+
+
+When the helicopter departed Go By Point to return to Marystown, only light snow was falling. It appears that the weather conditions prevented a direct flight to Marystown and that the pilot chose to fly the slightly longer route around the northern perimeter of Mortier Bay (see Appendix A). However, the helicopter would have gradually encountered heavier snowfall as it flew north and then west over the coast towards Marystown. Once established on a westerly heading towards Marystown, it would have been difficult to turn around when severely reduced visibility was encountered because a turn to the right would have required flight into rapidly rising terrain with a possibility of encountering whiteout conditions. A turn to the left would have placed the helicopter out over the water and caused the pilot to lose visual contact with the coast.
+
+
+With the need to maintain constant attention to outside visual cues, the pilot would have been experiencing an increased workload. This may have distracted him from selecting the particle separator, engine anti-ice, and continuous ignition switches that are required for flight in snow, and from arming the pop-out floats as he reduced airspeed below 60 knots in reduced visibility over the water. The helicopter continued along the northern coast until Mortier Bay narrowed, then executed a left turn towards the east (downwind), likely in an attempt to return to the better weather conditions at Go By Point.
+
+
+Maintaining a reduced groundspeed in lowered visibility, as prescribed in the OM, would have been difficult in the gusty downwind (30 knots) conditions over the water. The pilot may have lost sight of land as the helicopter flew across the opening to Little Bay. Reduced visibility in darkness and re-circulating snow, lack of fixed visual references over the water, and turbulence may all have contributed to pilot disorientation. It is likely that the pilot flared rapidly to slow the helicopter. The tail contacted the water heavily, breaking off and causing the subsequent loss of control.
+
+
+
+
+Survival Equipment Installations
+
+
+Because there was no emergency signal to notify SAR of the accident, rescue efforts were not initiated until one hour after the flight planned estimated time of arrival. Without a liferaft, the pilot and passenger were not equipped to survive prolonged cold water immersion. In the absence of an ELT signal, initiation of a SAR response relies on either witness action or the flight plan notification time.
+
+
+The survival equipment installed on the accident helicopter exceeded regulations. However, it was not available to assist the survivors after the accident. The existing regulations may be appropriate in the event of a successful controlled ditching, but they do not ensure protection during a capsizing event. Had electronic SAR signalling been available, a search could have begun immediately.
+
+
+
+
+Lifejackets
+
+
+The direct flight from Marystown to Go By Point was short and was likely conducted almost entirely over land. The passenger may have been anticipating a similar routing back. This could explain why he was not wearing a lifejacket during the return trip. It is also possible that it was an oversight. If he had worn a lifejacket, he may not have drowned; however, even if he had used a lifejacket, hypothermia would have been an immediate threat to his survival.
+
+
+
+
+Immersion Suits
+
+
+Most CCG helicopter operations occur near shore. Therefore, even though the helicopters may be operating over water, immersion suits are not required by either the CARs or the OM because they are typically well within the distance-from-shore requirements. It is common practice during CCG flights for immersion suits to be worn only when mandatory. As a result, pilots and passengers are often exposed to prolonged periods of operations over sometimes frigid water without appropriate protection.
+
+
+The OM requirements for immersion suit use are more stringent than CAR requirements, but are also based on distance-from-shore criteria that are inadequate to ensure proper protection. For survivors in frigid water, the distance from shore is not relevant. Survivors may be injured or suffering from cold shock, which can severely limit mobility. The immediate concern for survivors who are immersed in frigid water is to survive long enough to inflate and enter their liferaft, or to stay alive in an immersion suit until help arrives. Using immersion suits and aviation lifejackets would have increased the chance of survival.
+
+
+
+
+Liferaft Mounting Bracket Failure
+
+
+The liferaft was unavailable after the impact because it was pinned against the centre rear passenger seat. If a passenger had been in the centre rear passenger seat, it is possible that the passenger could have been pinned between the liferaft and the seat. There was an increased risk to those on board because the liferaft mounting bracket was not able to withstand a survivable rearward impact.
+
+
+
+
+Organizational Issues
+
+
+Safety deficiencies identified during the TSB investigations in 2000 continue to exist in TC ASD operations. The non-use of shoulder harnesses, lifejackets, and immersion suits continue.
+
+
+At the time of this accident, the liferaft mount head strike hazard identified in May 2005 had not been addressed. BO105 pilots were unaware of the hazard, and passengers continued to be carried in the front seat without head protection.
+
+
+The frequency of accidents and serious occurrences, the recurrence of identified operational shortcomings, and the lack of progress in mitigating several identified deficiencies are matters of concern that suggest organizational shortcomings at TC ASD.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 136/2005 - ULB Analysis; LP 001/2006 - Instrument Examination; LP 003/2006 - Examination of Tail Rotor Short Shaft.
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The helicopter encountered a heavy snow shower and, while attempting to fly out of the snow, the pilot likely became disoriented. The pilot lost control of the helicopter when the tail broke off after contacting the water during a rapid flare. The survival equipment fitted to the helicopter sank with it, and was not available to aid the survivors after the accident. The occupants of the helicopter were not wearing sufficient personal survival equipment to enhance their potential survival in the frigid water.
+
+
+
+Findings as to Risk
+
+
+Although the liferaft mount had been previously identified as a potential head strike hazard, the passenger was seated in the front seat without head protection. At the time of the occurrence, Transport Canada Aircraft Services Directorate management had not taken steps to mitigate the liferaft mount head strike hazard. The liferaft mount failed, pinning the liferaft against the centre rear passenger seat. The emergency locator transmitters on board sank to the bottom and were not able to signal search and rescue of the accident. Therefore, search and rescue efforts did not begin until one hour after the flight's planned estimated time of arrival. The pilot's egress was impeded by a direct-to-airframe helmet cord connection. None of the passengers flown on the day of the accident were provided with immersion suits, nor were such suits required by the regulator (Transport Canada) or the operator (Transport Canada Aircraft Services Directorate). None of those who flew on CG352 on the day of the accident had received helicopter emergency egress/water survival training, nor was such training required by the regulator (Transport Canada) or the operator (Transport Canada Aircraft Services Directorate). At the time of the accident, the operator had not adequately addressed several identified operational shortcomings. The frequency of accidents and serious occurrences, the recurrence of identified operational shortcomings, and the lack of progress in the mitigation of several identified deficiencies are matters of concern that suggest organizational shortcomings at Transport Canada Aircraft Services Directorate.
+
+
+
+Other Finding
+
+
+The underwater locator beacon did not transmit a detectable acoustic signal.
+

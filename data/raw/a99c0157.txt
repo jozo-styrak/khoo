@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The engine rpm indicator found on the tachometer dial face and impact information indicate that the aircraft experienced a power loss before impact with the terrain. The observed level-off of the aircraft at about 340 feet agl indicates that the power loss likely occurred after the aircraft turned on crosswind. There was insufficient information to determine whether a complete or partial power loss occurred; however, the power remaining was inadequate to maintain altitude and flying speed. Because the aircraft remained in level flight, the airspeed would have reduced rapidly by aerodynamic drag. When the pilot did not stop the airspeed reduction and establish a safe glide speed, the aircraft reached aerodynamic stalling speed, stalled, and entered a spin. It could not be determined why the pilot did not stop the reduction in airspeed and whether the pilot attempted to recover from the spin; however, recovery from a spin entered at 340 feet agl is unlikely because of the rapid altitude loss. The tone heard on the radio indicated that the aircraft stall warning system functioned and should have alerted the pilot to the immediate need to maintain flying speed. However, on crosswind, the aircraft was at low level and subject to a tailwind. While the apparent ground speed of the aircraft would have increased due to the tail wind, the airspeed was reducing as a result of the engine power loss. The resultant effect may have created the illusion of adequate speed and masked the rapid reduction in airspeed.
+
+
+While the engine-driven fuel pump was found to be contaminated and may have malfunctioned, the impact marks on the face of the fuel-pressure gauge indicate that the fluid in the fuel system was being delivered to the engine at an adequate pressure. The pressure may have been produced by a combination of the engine-driven pump and the electrical boost pump. The complete dispersal of water throughout the fuel-system components indicates that the fluid pumped to the engine was a mixture of water and fuel. The water in the fuel likely caused the power loss.
+
+
+Because the fuel-cap seals had recently been replaced and were in good condition, it is unlikely that water entered the fuel tanks from leakage past the fuel-cap seals. This may have occurred before the fuel-cap seals were replaced or may have resulted from condensation during periods of inactivity. The last refuelling source was free of water contamination and the possibility of water contamination from fuel sources used in the previous 30 days is unlikely. Thus, water contamination present on the occurrence flight may have originated primarily from condensation in the fuel tanks when the aircraft tanks were less than half full for several days between June 23 and 30.
+
+
+Because the oval drain holes in the rib at wing station 59.25 were blocked, the water found trapped in the left fuel tank could not have been removed by following the purging procedures specified in the POH. Consequently, it is not possible to conclude, from the water found throughout the fuel system, whether the pilot correctly followed the POH purging procedures for the fuel system. The blocked drain holes also indicate that AD 85-24-03 was not followed. Water trapped outboard the rib at wing station 59.25 can move over the rib during manoeuvring in flight and contaminate other areas of the fuel system.
+
+
+The corrosion found in the engine fuel pump may have occurred because of water contamination in the fuel or from condensation within the pump itself. The corrosion found on the camshaft was likely as a result of condensation within the engine crankcase and likely not related to the water contamination in the fuel.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 79/99--ATC Transmission Analysis LP 84/99--Contamination Analysis LP 85/99--Camshaft Examination LP 86/99--Instrument Analysis
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The engine lost power, likely as a result of water contamination. For reasons undetermined, the pilot did not maintain sufficient airspeed after the engine lost power, and the aircraft stalled and spun; the aircraft stall warning horn sounded before the stall. The pilot may have been subject to an illusion because of a change in apparent ground speed, which resulted from the tail wind after the turn to crosswind.
+
+
+
+Other Findings
+
+
+The pilot held a valid private pilot's licence and medical certificate and was qualified to fly the aircraft type while carrying passengers. The pilot was likely wearing glasses, as required by his licence restriction. AD 85-24-03 had not been followed, and water could be trapped behind the rib at wing station 59.25 in both the left and right fuel tanks. Water contamination could not be eliminated from the fuel system by following the procedure in the POH because AD 85-24-03 had not been followed. Water was trapped behind the rib at wing station 59.25 in the left fuel tank. The water in the fuel tank and the fuel line may have entered the system by condensation occurring during the period the aircraft tanks were likely less than half full after the flight on June 23. There was insufficient information to determine if the pilot purged the fuel system as required by the POH. However, even if the procedure was followed, water trapped behind the rib at wing station 59.25 would have remained in both tanks. Recovery from a spin entered at 340 feet agl is unlikely due to the rapid altitude loss. Corrosion was found in the engine fuel pump and on the engine camshaft.
+

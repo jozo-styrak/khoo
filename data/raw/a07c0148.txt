@@ -1,0 +1,49 @@
+
+
+Analysis
+
+
+The damage to the helicopter engine and rotor assemblies indicates that the damage was sustained while the drive-train was operating under power. The damage to the skid gear and tower structure was consistent with flailing damage sustained from an uncontrollable state of rotation after the helicopter became entangled in the cable and tower structure.
+
+
+The nature of the damage to the skid gear attachment point indicates that the helicopter was hovering when it became entangled in the tower structure. The reason why the helicopter was hovering so close to the tower was not determined.
+
+
+The VFR weather conditions that existed at the time of the occurrence (visibility 15 miles and a ceiling of 1500 overcast with the possibility of light rain) would not have affected the pilot's perception of his position or complicated the task of hovering near the tower.
+
+
+The passenger's injuries and the location of his body indicated that he fell from or was ejected from the helicopter during the accident sequence. The reason for the fall or ejection was not determined.
+
+
+Although there are hazards specific to helicopter operations near power lines, Manitoba Hydro did not have an audit process to ensure that safety standards and quality of services provided by contract aviation services were met. Such an audit procedure could have helped identify the need for specialized training to reduce risks in operations near power lines.
+
+
+The operator did not offer or require its pilots to take any specialized training to identify and reduce exposure to power line hazards. It also had no procedure for line pilots to report hazardous operating conditions. Such programs could have reduced the risks associated with helicopter power line operations.
+
+
+The following Engineering Laboratory report was completed:
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The helicopter was hovering close to the power line tower structure and became entangled in the upper (non-energized) cable span. As a result, the helicopter became uncontrollable, collided with the tower structure, and crashed.
+
+
+
+Finding as to Risk
+
+
+The operator did not have training procedures specific to helicopter operations in the vicinity of power lines and did not have a procedure for reporting hazardous operating conditions. Such programs could have reduced the risks associated with helicopter power line operations.
+
+
+
+Other Finding
+
+
+Manitoba Hydro did not have an audit procedure in place that might have identified the need for specialized training for helicopter operations specific to their contract requirements.
+

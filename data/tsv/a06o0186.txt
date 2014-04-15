@@ -1,0 +1,30 @@
+Taking into account the distance used for the before-take-off checks , the distance available to clear the trees was considerably in excess of that predicted by the floatplane supplement for take-off and obstacle clearance	, the investigation focused on performance of the aircraft and pilot technique
+This was not appreciated either by the Federal Aviation Administration -LRB- FAA -RRB- or by Bonaire Aviation Company , the original STC applicant	, the STC was approved for land and floatplane configurations of the Cessna 180 without indicating that there was a performance penalty associated with the floatplane configuration
+In approving the supplemental type certificate for the three-blade propeller , the Federal Aviation Administration did not recognize that the performance analysis provided by the applicant was not valid for the floatplane version or that there would be an associated performance reduction	of the performance reduction , the aircraft could not achieve the published take-off and climb performance specifications ; this contributed to its inability to clear the obstacles at the end of the lake
+The type certificate data sheet for the Cessna 180 indicates that a wide variety of propellers may be installed on the Cessna 180 but does not define which propellers are approved only for the landplane and therefore are not suitable for the floatplane	, maintenance organizations and aircraft owners may unknowingly install propellers that do not satisfy the airworthiness standards for the aircraft
+The 1969 Cessna 180 floatplane , amphibian , and skiplane owner 's manual supplement does not indicate either in the limitations section or the required equipment section that the airworthiness standards for the aircraft require that an 88-inch propeller be installed	, pilots and operators will be unaware that shorter-diameter propellers are not approved for use on the floatplane version of the aircraft
+accident	this
+the propeller and floats were installed	neither of the supplemental type certificates -LRB- STCs -RRB- contained information that indicated a performance penalty
+accident	this
+The three-blade , 78-inch propeller would not provide performance equivalent to the two-blade , 88-inch propeller that was the basis for the floatplane version	, a floatplane equipped with the three-blade , 78-inch propeller could not achieve the performance specifications depicted in the Cessna floatplane supplement
+mentally	acknowledging an equivalent weight penalty and adopting the non-standard procedure of raising the flaps to 10 as soon as airborne to facilitate acceleration and climb
+the expected performance was not achieved	the reduced length shortened the time available to recognize the situation and respond accordingly
+the performance reduction	the aircraft could not achieve the published take-off and climb performance specifications
+The type certificate data sheet for the Cessna 180 indicates that a wide variety of propellers may be installed on the Cessna 180 but does not define which propellers are approved only for the landplane	are not suitable for the floatplane
+Rather , the absence of information regarding the degradation of take-off performance for the model 180H floatplane incorporating a three-blade propeller , in accordance with STC SA00852AT	both the installer of the STC and the aircraft owner
+installation of the three blade propeller	a reduction of take-off capability
+It	operation at a higher gross weight than was provided for by the Cessna performance charts for the equivalent float
+The pilot , unaware of the idiosyncrasies of N720CS , relied on his previous experience and that of the previous day 's check flight to make judgments during the take-off	the accident
+The pilot , unaware of the idiosyncrasies of N720CS , relied on his previous experience and that of the previous day 's check flight	judgments during the take-off that led to the accident
+the take-off	appropriate advice the pilot
+The pilot 's decision to lower full flap while maintaining full power after initial contact with the tops of trees was intended	the severity of the impact
+flap	a lower nose attitude at the stall and it
+Full flap results in a lower nose attitude at the stall and it	a nose-down trim change , which may have an effect opposite to the pilot 's intent
+the drag increase with full flap	the aircraft performance degradation
+The high power setting of the aircraft on contact with the trees	the risk of damage and post-impact fire
+the applicant	the performance analysis
+this	its inability to clear the obstacles at the end of the lake
+the take-off procedure developed by the owner of the aircraft	the performance degradation
+the take-off	appropriate advice the pilot
+The pilot did not use the full length of the lake for take-off	the time available to assess the aircraft 's performance and
+the aircraft was committed to descending into the trees	the risk of damage and post-impact fire

@@ -1,0 +1,38 @@
+
+
+Analysis
+
+
+No mechanical discrepancies were found with the aircraft that could have contributed to the occurrence. Also, there was no evidence to indicate that the flight crew members were under any external pressure to attempt the landing. This analysis will focus on the general lack of complete and explicit communications, the flight crew decisions and actions, and the lack of company guidance and aircraft performance information for contaminated runways available to the flight crew.
+
+
+When the flight crew made their decision to continue with the landing, their assessment of the suitability of the runway was based on incomplete and inaccurate information. There had been numerous opportunities for more complete and accurate information to be collected and passed on; however, for the most part, these opportunities were negated by poor communications. Also, the flight crew did not appreciate that, given that there was a constant snowfall with the temperature near the freezing point, contamination with wet snow or slush was a distinct possibility. There were several instances where poor communications contributed to this occurrence. When the Moncton ACC controller passed the braking action reports to the flight crew 26 minutes before the occurrence, he did not provide the landing times for the DC-9 and the B737. These aircraft had reported the braking action as poor. Even though these aircraft had landed three to four hours earlier, their assessment of the braking action should have been more applicable to the incident crew than the assessments of aircraft that landed later, particularly given their similarity to the incident aircraft in size and weight, and given that the weather and runway clearing efforts had not changed appreciably in the interim. The low-key manner in which the information from these two aircraft was passed to the flight crew contributed to their dismissing the information as not applicable, so much so that, after the occurrence, they did not even remember these aircraft being mentioned by the controller.
+
+
+The second Convair 580 that was reported to the flight crew as having landed "about an hour ago" had passed information to the tower controller about very poor braking action and icy patches on the runway where it was extremely slippery. Once again, poor communications kept vital information from reaching the incident flight crew. The information that eventually was relayed to the incident flight crew concerning the Convair 580 (fair for the type) did not accurately reflect either the actual runway conditions or the intent of the message given to the tower controller by the Convair 580 flight crew. What the Convair 580 flight crew had intended to reflect was that they had used only minimal braking and, therefore, could not provide an accurate assessment of braking action, and that the runway was extremely slippery in spots.
+
+
+Fourteen minutes prior to touchdown, the tower controller attempted to ensure that the incident flight crew had the most current and accurate information possible by having them monitor a report directly from the maintenance foreman who was working on the runway. During this report, the maintenance foreman stated that the runway was covered with up to 1/2 inch of snow, and that it was being swept and ploughed. He then stated that the snow cover was wet snow or slush. This part of the transmission was heard and understood by the tower controller, but the quality of the transmission was such that these key words were not picked up by the flight crew. A review of the tower tape shows that it is unlikely that the flight crew would have realized that they had missed or misunderstood some of the transmission; therefore, they would not have had reason to ask for the information to be repeated.
+
+
+The final information passed to the flight crew prior to their landing (braking action "fair" reports from the G159 and the Navajo) served to reconfirm to them that they were landing on a suitable runway. In fact, neither of these reports should have had any relevance to the incident flight crew. In the case of the Navajo, a braking action report had never been made, and in the case of the G159, the braking action report was simply a one-word afterthought by the pilot, with no mention of whether brakes were even used during the landing.
+
+
+No FDR readout was available to confirm the amount of reverse thrust selected by the flight crew after landing; however, they reported that they used close to maximum, if not maximum, values. By not aggressively targeting to touch down closer to the threshold at the bottom of the glide path (at the 1,000-foot markers), and by taking engines one and three out of full reverse at 70 knots, the flight crew used more runway to stop than they would have had they used all available deceleration devices to their maximum limits. There are no performance charts available for the B727 to accurately determine a landing distance for the runway conditions that were present during the incident landing. Therefore, it could not be determined if a successful landing would have been possible if the flight crew had used a more aggressive landing/stopping technique.
+
+
+The flight crew's intention to test the braking action after touchdown before selecting reverse is not an approved and trained procedure for the aircraft. In this case, it is unlikely that their test of the braking action caused any significant delay in applying reverse thrust. However, by having such a procedure as an "out", flight crews could be influenced to attempt landings on runways of questionable suitability.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 45/96 - Flight Recorder Analysis.
+
+
+
+Findings
+
+
+Available equipment does not allow accurate measurement of braking action in conditions of wet snow or slush. Incomplete and non-standard communications prevented vital information on the runway condition from reaching the flight crew. Previous landing aircraft did not give detailed braking action reports. ATC MANOPS procedures were not followed when braking action reports were relayed to the flight crew. The flight crew did not adequately assess the potential for contamination on the runway, and did not use all information available to them to make an accurate assessment of the runway conditions. The landing technique used by the flight crew was not consistent with the type of landing technique normally associated with landing on a potentially contaminated runway. Aircraft flight manuals for the B727 aircraft do not provide sufficient information for flight crews to be able to calculate landing distances on contaminated runways. The company operations manual did not provide guidance to flight crews concerning operations on contaminated runways. Information was lost to the investigation because the FDR was old and there was a lack of facilities to read it, and because there was no CVR data available.
+

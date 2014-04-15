@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The incorrect sun gear was inadvertently installed in the helicopter's transmission over 10 months prior to the occurrence. As a result of this relatively long time period since its installation, individuals directly involved could not recall specific details concerning the ordering, shipping, and installation of the component. It was evident; however, that at some point during the ordering and shipping process, a breakdown in communications occurred which resulted in the incorrect component being shipped to the operator. The specific time at which this breakdown in communication occurred or its cause could not be determined.
+
+
+The normal supervisory checks and balances in place within the operator's maintenance practices for the reception and installation of the correct components into the operator's aircraft were ineffective in this case. There are two readily identifiable critical points during the events leading to the installation of the component by the operator's maintenance personnel during which the wrong component should have been identified. The first occasion was when the component was initially received at the main base of operations. The records clerk, noting the different part number of the sun gear, amended the part number in the purchase order to correspond with the part number of the part received apparently without consulting with maintenance personnel. The new number appearing on the amended purchase order then took on the appearance of being a legitimate part number for that specific transmission, possibly setting the scene for a later misidentification by the maintenance engineer. The records clerk could not recall amending the purchase order or the reason for doing so.
+
+
+The second occasion at which the error could have been noticed occurred when the AME, and his supervisor, installed the sun gear into the transmission. Had the AME, or the supervisor, physically compared the two sun gears, it would have been apparent that, despite their similar appearances, the replacement sun gear was noticeably shorter than the sun gear which had been removed from the transmission. In addition, had they verified the part number of the replacement sun gear with the part number of the sun gear removed from the transmission or with the part number contained in the parts catalogue, they would have become aware of a discrepancy and the replacement sun gear would likely not have been installed.
+
+
+In any case, the specific reason why the AME and his supervisor installed the replacement sun gear without first verifying its authenticity could not be determined. As previously suggested, they may have been misled by the amended part number on the purchase order, or they may have relied on the maintenance personnel at the operator's base of operations for having verified that the sun gear was in fact the correct component.
+
+
+It was determined that, when the splines of the sun gear and the inner splines of the ring gear failed, the engine essentially became uncoupled from the main rotor. The main rotor rpm then began to decrease; this decrease was checked when the pilot lowered the collective and entered an autorotative descent. It is interesting to note that, since the ring gear was still being driven by the engine, the hydraulic pump and the main rotor tachometer generator were still being driven. In this instance, the main rotor rpm indicator may have produced a momentary indication above 100% but then the rotor rpm indication would have returned to 100% and remained at that reading as long as the throttle was kept in the full open position. Since the low rotor rpm warning light and horn are initiated by the rotor tachometer, there would have been no low rotor rpm warning regardless of the actual rotation speed of the main rotor.
+
+
+The unusual sharpness of the left yaw which accompanied the uncoupling of the engine from the main rotor was a result of two factors: 1) at the time of the sudden failure, the tail rotor was in a trim position for powered flight and there was suddenly no torque; and, 2) the engine, which was still providing power to the tail rotor, surged due to the sudden loss of drive to the main rotor and the tail rotor rpm increased momentarily as a direct result of the engine power surge. The maximum increase in engine speed would have been controlled by the fuel governor.
+
+
+The decrease in main rotor rpm and left yaw reported by the pilot is consistent with an engine power loss. The pilot's reaction to the apparent engine malfunction of lowering the collective was the correct response in this situation. The cause of the Engine Out light illumination observed by the pilot during the autorotative descent could not be determined.
+
+
+
+Findings
+
+
+An incorrect sun gear was installed in the helicopter's main transmission by the operator's maintenance personnel. It could not be determined why the incorrect sun gear was shipped to the operator by the supplier. It could not be determined why the operator's maintenance personnel did not identify the sun gear as being an incorrect component for this helicopter's transmission. The sun gear failed causing the failure of the main transmission after the helicopter had flown 391.0 hours since its installation. The helicopter was substantially damaged during the autorotational landing.
+

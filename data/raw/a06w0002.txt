@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+A vital action with an in-flight fire is to remove the source of fuel immediately. Closing the firewall shutoff valve in accordance with the Engine Fire Checklist did not cut off the flow of fuel to the fire area. When the fuel selector was closed as per the subsequent Engine Securing Checklist, the fuel flow stopped. If the fuel selector had been turned off as part of the initial Engine Fire Checklist, the fire would have been extinguished earlier.
+
+
+The fuel line assembly of metal tubing, rubber hose couplings, and hose clamps increased the possibility of leaks due to the different expansion rates of materials. The sealing characteristics would be more critical when subjected to drastic in-service temperature changes, rubber hose aging, and heat deterioration. The wrapping and fire sleeve would conceal any evidence of minor seepage until the leakage had progressed substantially. The SB and AD that mandated the replacement of the fuel line had not been implemented on C-GXKN.
+
+
+The indication of fluctuating fuel pressure before the occurrence was attributed to an indication fault, and had not been reported to maintenance. Investigation as per the troubleshooting chart in the maintenance manual may have revealed the fuel pressure line leakage.
+
+
+The immediate main gear down indication when the gear was selected down revealed that the main gear had previously deployed, uncommanded and without the crew's knowledge. This would be consistent with the loss of hydraulic pressure in the gear retraction system due to fire damage in the accessory section. Extension early in the occurrence sequence is indicated by the left-hand tires not having burned away as would have been the case if they had remained in the nacelle.
+
+
+Had this aircraft been operating at a higher gross weight, the power loss from two engines, combined with the additional drag from the extended main gear, may have precluded a return to the airport, or resulted in an in-flight loss of control.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Airworthiness Directive AD 48-12-01 mandates the replacement of the potentially hazardous fuel line, but the line had not been replaced on this aircraft. A fuel leak from the main fuel inlet line in the engine compartment of this cargo DC-4 caused an in-flight fire that spread into the nacelle and wing. The fuel-fed fire burned for an extended period of time because turning the fuel selector off is not required as part of the primary Engine Fire Checklist.
+

@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+The engine test runs demonstrated that there were anomalies in the engine controls, specifically the engine rpm governors and the TCU. No other anomalies were found, so this analysis is limited to the engine controls.
+
+
+Because the acceleration and oscillation problems did not appear on the subject governors when the control arms were rigged in the normal range of 85 to 90 , it was concluded that the rigging, prompted by a non-standard TCU, affected the operation of the governors. However, it is recognized that the Nf governors operated for about 150 hours before the engine power delivery problem and accident. This may be explained by the different control arm position elevating the effect of normal deterioration of the governors.
+
+
+The coincidence of the subject governors malfunctioning at the same time, despite their independence, may be explained by their equal time in service. Also, the fact that the substitute governors appeared to operate normally when they were run independently, and that they oscillated when the engines were run-up together, indicate rpm and torque oscillations on each engine may have aggravated the other governor's weaknesses due to wear. Since both engines drive a common transmission, oscillations in one engine would demand the other engine to try and compensate.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The installation of a non-standard TCU required that the engine Nf governors be rigged abnormally. The non-approved rigging amplified the effect of normal-type wear in the governors; the governors did not function properly, resulting in inadequate power from both engines upon pilot demand. Rpm and torque oscillations probably aggravated the opposing engine rpm governors' weaknesses due to wear and caused malfunctions at the same time. The loss of power in both engines occurred at a critical time of flight, resulting in a hard landing.
+
+
+
+Finding as to Risk
+
+
+In-service wear causes the governors to malfunction before reaching their overhaul life of 4500 hours; the average time in service before they are removed for repair is about 1600 hours.
+

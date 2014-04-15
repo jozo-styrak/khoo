@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+As no mechanical discrepancies were found that would explain the reason for the abnormal back pressure experienced by the crew, the analysis will focus on the effects of ice on the elevator control system and how and when the ice may have adhered to the control system in such a way as to affect the operation of the system.
+
+
+When the First Officer rotated the aircraft for take-off by moving the control column aft, this action should have moved the elevator surface upward, and as air loads increased, caused the spring tab to move downward to assist in relieving control forces. If, however, the spring tab was not moveable, then as the airspeed increased the pilot would feel a corresponding increase in backward pressure on the control column. A normal response to this pressure would be to use forward elevator trim to counter-act this force.
+
+
+When control of the aircraft was transferred to the Captain, his response to the back pressure and full forward trim condition was to apply a high breakout force on the trim wheel. When the trim released, the control column moved abruptly and control of the aircraft was restored. This would indicate that the elevator spring tab movement obstruction was also removed.
+
+
+Possible scenarios which could have caused this flight control obstruction were examined. In the absence of any evidence of mechanical failure or obstruction, and that the aircraft was operating in known icing conditions, the obstruction was most probably due to ice and/or frozen snow contamination. Icing of the elevator surface, elevator horns, and the effect of the weight of ice were also examined. None of these latter scenarios would present conditions similar to those experienced by the crew; consequently, it was concluded that the most probable scenario was that spring tab movement was restricted by an ice obstruction.
+
+
+There are two possible explanations for there to be sufficient contamination to obstruct the spring tab movement. First, contamination was caused from freezing precipitation or snow after de-icing could have occurred; and/or second, not all ice or snow was removed during the de-icing process (it can be difficult for the de-ice operator to see between the elevator and the spring tabs because the trailing edge of the elevator tends to be pointed downward when the aircraft is stationary). It is unlikely that contamination subsequent to de-icing would be sufficient in itself to cause and obstruction to the spring tab movement; however, it could have exacerbated the residual ice or snow that may not have been removed during de-icing.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 60/98 Elevator Controls Examination
+
+
+
+Findings
+
+
+The elevator spring tab movement was restricted after take-off, probably due to an obstruction caused by an accumulation of ice and/or frozen snow in the gap between the spring tab and the elevator. When full nose-down trim was applied to counteract the back-pressure on the control column, it jammed in that position. The captain applied a high breakout force to move the elevator trim from the full nose-down position, in accordance with the procedure described in the DeHavilland Safety of Flight Supplement Number 1. The captain did not ask for priority handling until prompted by the ATC unit and until after elevator control operations had returned to normal.
+

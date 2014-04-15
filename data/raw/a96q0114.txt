@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The investigation revealed that the seaplane was maintained in accordance with existing regulations and approved procedures. There was no evidence found of any airframe failure or system malfunction on take-off.
+
+
+The pilot was experienced on this type of aircraft. By all indications, before embarking on the flight, the pilot assigned the passengers seats in the aircraft in an arrangement that he considered most effective and most agreeable for them. However, children were seated near the exit door, and there is a strong possibility that having an adult near the emergency exit would have facilitated evacuation.
+
+
+The pilot gave the passengers a safety briefing, but some passengers were distracted and did not hear it clearly. The emergency exit instructions were on the sign on the cargo door, but the pilot did not demonstrate how to operate the two leaves of the cargo door to ensure that the passengers knew how they operated and to facilitate opening the door in an emergency; however, such a demonstration is not mandatory under the regulations. The pilot did not ask the passengers to wear life jackets for take-off, nor is this mandatory under the aviation regulations.
+
+
+There are no limitations for take-offs in cross-wind conditions because they depend on pilot skill. The pilot took off in strong cross-wind conditions and used 20 degrees of flap, as indicated in the Cessna U206F manual and the Robertson kit supplement. However, the pilot could have used 10 degrees of flap like some pilots with experience on this type of aircraft. The effectiveness of the ailerons, which was diminished by the Robertson kit installed on the seaplane and the use of 20 degrees of flap, did not allow the pilot to maintain roll control during the take-off; the strong right cross-winds lifted the right wing of the aircraft, which then rolled to the left.
+
+
+While the aircraft was overturned in the water, the pilot went to open the rear cargo door. By all indications, the pilot and the other occupants became disoriented in the murky water, and no one was able to find the handle of the cargo door forward leaf to open it. The damage observed on the cargo door forward leaf suggests that one of the adults tried to force it open.
+
+
+The system for opening the two leaves of the rear cargo door is complex and difficult to operate under normal conditions, but opening the leaves is even more difficult if the flaps are extended for a take-off or landing. This makes the rear cargo door practically unusable, and as a result, the left front main door is the only usable emergency exit for all occupants.
+
+
+
+Findings
+
+
+The aircraft was certified, equipped, and maintained in accordance with existing regulations and approved procedures. The weight and centre of gravity of the aircraft were within the prescribed limits. The pilot was certified and qualified for the flight in accordance with existing regulations. The pre-flight briefing given by the pilot was not heard by all passengers. The content of the pilot's briefing could not be determined. The passenger distribution was such that it was not easy for the occupant seated in line with the cargo door to open the door in an evacuation. Opening the leaves of the rear cargo door of a Cessna U206F is complex and difficult if the flaps are extended to 20 degrees; it is even more difficult when the seaplane is submerged and overturned. The damage to the forward leaf of the cargo door suggests that one of the adults tried to force it open. The pilot did not ask the passengers to wear their life jackets during taxiing and take-off, nor is it mandatory to do so under the aviation regulations. The Robertson and Flint Aero flight supplements do not mention the position of the flaps on the Cessna U206F seaplane for a take-off from water in strong cross-wind conditions. The pilot used 20 degrees of flap to take off from water in cross-wind conditions. The pilot was unable to maintain roll control of the seaplane during a take-off from water in strong cross-wind conditions. The pilot was unable to attend the annual optional training on evacuating a submerged aircraft. Service Bulletin SEB91-04, to improve the cargo door latch mechanism, had not been incorporated in this aircraft.
+

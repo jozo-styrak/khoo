@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The investigation into this accident included examination of environmental, technical, human, and operational factors, and an in-depth examination of the mechanical aspects of this helicopter, its component parts, and their service life and history. Extensive examination and testing to date have not found any anomaly or defect that is likely to have contributed to, or caused, the nose-down attitude change on the day of the accident.
+
+
+Although it could not be determined in the case of the co-pilot, it is likely that neither pilot was wearing his shoulder harness. Accident investigation and research carried out by the TSB has consistently shown that the use of the shoulder harness portion of the seat restraint system is effective in reducing or preventing injury during moderate impact forces. While it is unknown if the use of the shoulder harness in this particular accident would have prevented or lessened the co-pilot's fatal injuries, the situation where the left pilot seat shoulder harness was essentially unavailable, is cause for concern. Given that vertical reference flying necessitates upper-body freedom of movement, the universal dismissal of the shoulder harness, in its present configuration, is almost inevitable. However, the practice of restricting the shoulder straps in some manner prevents the pilot from gaining immediate access to them in the event of an emergency. Furthermore, it is likely that the regular non-use of the shoulder harness will diminish the pilot's awareness of its safety advantages, and at the same time reinforce a less-than-ideal safety practice.
+
+
+The following TSB Engineering Branch reports were completed:
+
+
+LP 71 /97 - Hydraulic Fluid Examination LP 105/97 - Trim Diode Adapter Examination LP 107/97 - "D"-pin Connection Failure Examination LP 120/97 - Seat Belt Examination
+
+
+The following additional engineering examinations were completed:
+
+
+CT58-140-1 engines examination - GE Aircraft Engines Primary and Auxiliary hydraulic components examination - HASC X-ray examination of the hydraulic servos and manifolds - Bacon Donaldson Flight Controls examination - Sikorsky Aircraft Corporation Main rotor swash plate examination - Sikorsky Aircraft Corporation Main rotor head spindle bearings examination - ACRO Aerospace Main rotor head examination - HeliPro Hydraulic pumps (2) test and examination - Columbia Helicopters
+
+
+
+Findings
+
+
+The pilots were licenced and qualified in accordance with existing regulations. Records indicate that the helicopter was certificated, equipped, and maintained in accordance with existing regulations and approved procedures. No indication was found of any malfunction or pre-existing mechanical defect with the helicopter, its engines, or its systems, that could have contributed to the accident. The helicopter's weight and centre of gravity were within certificated limits. Neither weather conditions nor operating environment were factors in the accident. The uncommanded nose-down attitude change and loss of rearward cyclic pitch control occurred for undetermined reasons. The pilots were unable to prevent the helicopter from pitching nose-down. Immediately before striking the trees, the helicopter reached a nose-down attitude at a height from which it was impossible for the pilots to recover.
+

@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+Nothing was found to indicate that any mechanical malfunction initiated or contributed to the accident sequence, and there was usable fuel on board; therefore, this analysis focuses on the operational aspects of the flight. Weather is not considered to have been a factor in this accident, except that the conditions were conducive to carburettor icing.
+
+
+Information gathered from the accident site and the examination of helicopter wreckage clearly indicate that the helicopter rotor-rpm decreased, likely to a stop, before the helicopter struck the ground. It is not clear what event or manoeuvre precipitated this condition of low rotor-rpm. However, the wreckage and site signatures, light bulb analysis, and the position of the carburettor heat control (cold) suggests two plausible scenarios that could have led to the final circumstances of this accident:
+
+
+The instructor increases collective pitch before the engine throttle is open enough to power the rotor. Carburettor ice had formed during the power-off descent, and when the instructor increased collective pitch, the engine could not deliver enough power to drive the rotor.
+
+
+The instructor increases collective pitch before the engine throttle is open enough to power the rotor. Carburettor ice had formed during the power-off descent, and when the instructor increased collective pitch, the engine could not deliver enough power to drive the rotor.
+
+
+The instructor increases collective pitch before the engine throttle is open enough to power the rotor. Carburettor ice had formed during the power-off descent, and when the instructor increased collective pitch, the engine could not deliver enough power to drive the rotor.
+
+
+The second scenario is as follows. The R22 helicopter has a record of accidents during flights with students having less than four hours' dual flight instruction, especially on initiation flights. While manipulating the flight controls, the student might have made a large, abrupt collective control input causing the rotor rpm to decay, and the instructor was not able to recover control of the helicopter. This scenario would be consistent with the carburettor heat being found in the OFF position and the information that the helicopter was moving very slowly just before the accident. Since rotor divergence and high-energy rotor/fuselage contact is not consistent with the known facts, mishandling of the cyclic control is not likely part of this scenario.
+
+
+Why the instructor did not immediately recover the rotor rpm when it began to decrease is not clear. The Robinson R22B is susceptible to rapid loss of rotor rpm if mishandled. Quick recovery action is required by the pilot. Considerable airspeed, which can be traded for energy to the rotor system, is also necessary. If rotor rpm significantly decreases at a slow airspeed, rotor stall may be inevitable.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Rotor rpm decayed, for reasons that could not be determined, causing the main-rotor blades to sever the tail boom and, ultimately, to stall.
+
+
+
+Findings as to Risk
+
+
+The Robinson R22B helicopter's low-inertia rotor design is susceptible to rapid loss of rotor rpm if mishandled. If rotor rpm significantly decreases at a slow airspeed, rotor stall may be inevitable. The carburettor heat was OFF, which increased the likelihood that carburettor ice adversely affected engine performance.
+

@@ -1,0 +1,22 @@
+HF blackouts , time-consuming communication transfers through third parties , and sparse VHF coverage all contribute to less-than-ideal methods of communicating position reports	, controllers encounter delays in receiving position reports and are sometimes inundated with late reports , shown as highlighted or flashing warnings on the NSiT
+The Polar and Nunavut sectors do not have a route-planning position	The workload of the controller responsible for separating aircraft is increased , which may result in the controller 's attention being divided among several critical tasks
+the data controller been seated directly in front of the strips during the position report	he would have been able to view the routing and estimate boxes more clearly
+maintaining separation in procedural controlling	The position report is the basis
+accuracy of the information received	the
+ACA845 passed the position report at 1840	the Franklin data controller did not question that the reporting point after 6530N100W was given as TORON instead of the required reporting point of 60N110W
+ACA845 passed the position report at 1915	the second Franklin controller did not question that the next reporting point would be TORON with ATHLO next instead of the required reporting point of 60N110W with TORON next
+separating aircraft is therefore increased , which may result in the controller 's attention being divided among several critical tasks	The workload of the controller responsible
+Several factors	the Nunavut NSiT controller 's workload
+the Nunavut NSiT controller 's workload	him such he omitted the 60N110W waypoint when issuing the clearance to Arctic radio and did not realize the omission in the readback
+The louder call from an aircraft on VHF during the readback	the controller
+This	it more difficult to directly view the information on ACA845 's flight progress strip
+he	the routing and estimate boxes
+The current position and time , the name and estimate for the next reporting point , and the reporting point following - as received from the flight crew , if included in the information entered in the NSiT -	a confirmation expected and actual routes were in accord
+HF blackouts , time-consuming communication transfers through third parties , and sparse VHF coverage	less-than-ideal methods of communicating position reports
+to the workload	the controller
+The workload of the controller responsible for separating aircraft is therefore increased	the controller 's attention being divided among several critical tasks
+The voice switching communication system equipment is	the volume levels of all incoming communications
+This	some transmissions being masked by others coming in at a higher volume
+airspace	delays in receiving position reports
+NSiT	the distraction controllers
+The NSiT does not check route conformance and alert controllers that an aircraft is following a route other than what is expected	the risk of a loss-of-separation incident

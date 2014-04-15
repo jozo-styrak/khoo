@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+The aircraft contacted the ground in a near-level pitch attitude, and the aircraft's floats absorbed much of the impact energy. These conditions likely enhanced the survivability of the accident.
+
+
+There was frost on the aircraft and wings that was not removed. At 0900, about 15 minutes before take-off, frost was reported on the indicator, the dry temperature was minus 3 C, and the dew point temperature was minus 4 C. Other aircraft on the ramp remained frost-covered until late that morning. The detrimental effects of contaminated wings were present in this occurrence, and the aircraft stalled well above the normal stall speed. Based on these indications, it is concluded that the aircraft was contaminated with frost during the take-off, which would have increased drag and reduced the ability of the wings to produce lift. The aircraft was also overloaded, which adversely affected aircraft performance.
+
+
+The decreased performance of the aircraft during the take-off and climb is attributable to the combined effects of aircraft overloading and wing and flight control surface contamination. As well, increased weight and surface contamination both increase the stall speed of an aircraft. When the flaps were retracted, further reducing lift, the aircraft experienced an aerodynamic stall and loss of control from which the pilot was unable to recover before the aircraft contacted the ground. Because the wings were contaminated, the classic stall indicators of aircraft buffet and audible stall warning were likely absent, at least initially.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot took off with frost adhering to the aircraft's lifting surfaces, which increased drag and reduced the ability of the wings to produce lift. At take-off, the aircraft was about 510 pounds in excess of its maximum take-off weight, adversely affecting aircraft performance. The aircraft experienced an aerodynamic stall and loss of control when the flaps were retracted from 10 degrees to zero. Retracting the flaps reduced the amount of lift being produced by the wing, already performing poorly because of contamination.
+
+
+
+Other Findings
+
+
+Appropriate entries were not recorded in the aircraft's journey and maintenance logs, and the weight and balance documentation was not amended. The floats absorbed much of the impact energy and likely enhanced survivability of the accident.
+

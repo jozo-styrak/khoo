@@ -1,0 +1,15 @@
+The main power switch does not remove battery power from the processor board and the 12-volt input trace is not protected	, the over-current condition could not be interrupted , likely extending the duration of the fire
+it had contacted live electrical components	However , the fan assembly did not exhibit signs of pitting or arcing , as it have
+main power was removed from the SMU	the processor board continued to receive electrical energy from the backup batteries , likely contributing to the duration of the fire
+one of the following	condition on the SMU processor board 12-volt trace
+the dislodged CPU fan	A mechanical short
+the SMU power supply	an over-voltage condition sufficient to cause electrical heating on the 12-volt copper trace
+the SMU power supply produced an over-voltage condition	electrical heating on the 12-volt copper trace
+an internal failure of the U18 component on the processor board	an excessive draw of current over the 12-volt trace , which produced excessive heat and caused the processor board to burn
+This investigation concluded that an internal failure of the U18 component on the processor board resulted in an excessive draw of current over the 12-volt trace	excessive heat and
+excessive heat	the processor board
+When main power was removed from the SMU , the processor board continued to receive electrical energy from the backup batteries	the duration of the fire
+Internal failure of the U18 switching regulator caused a high current draw and excessive heat on the 12-volt input trace	the processor board
+Internal failure of the U18 switching regulator	a high current draw and excessive heat on the 12-volt input trace
+The absence of a burn-in process	the likelihood of electrical component failure on in-service equipment
+all electrical power from the entertainment system	the duration and intensity of a fire

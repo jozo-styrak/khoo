@@ -1,0 +1,23 @@
+execute , and monitor aircraft separation	plan
+ACA 118 requested a climb to FL 410	the Gimli controller forgot the opposite direction traffic , CDN 987 at FL 390 -LRB- lapse of memory -RRB-
+a controller must perform both jobs at the same time	the established habit of providing nice-to-have information may be difficult to break
+disengagement of attention for relaxation and recovery	there is little or no recovery during a break
+the time of the CASB safety recommendation	Transport Canada was both the employer and the regulator of the ATC system
+occurrence	this
+The designated stand-back supervisor was working at another sector at the time of the occurrence	, a potential level of defence was not in place
+the crew of ACA 118 did not take the action called for in the TCAS RA	they increased and prolonged the requirement for CDN 987 to take evasive action
+together with the flight progress strip information available to him	the data necessary to plan , execute , and monitor aircraft separation
+An irregular shift rotation had likely disturbed circadian rhythms , and this , together with a regular sleep period of six hours	a sleep debt
+The first error	the loss of separation was the clearance for ACA 118 to climb to FL 410
+the previous controller	the take-over briefing
+he	the same level of service to the aircraft under his control
+a pattern known	an elevated on-the-job error rate
+The clearance	the conflict , the forgetting of the position of CDN 987 , and the provision of ride information while the conflict was developing are all consistent with fatigue but were not sufficient to prove that the errors were necessarily fatigue induced
+The common practice of single-staffing sectors within the Winnipeg specialty of the Winnipeg Area Control Centre	a situation in which the controller was left to control traffic with no ground-based human or electronic back-up
+recommendation	and
+The TCAS fitted in the occurrence aircraft	the conflict alert and resolution solution in the absence of that function by the air traffic service
+The circumstances of the Gimli controller 's work-rest cycle	the risk of an occurrence resulting from fatigue-induced errors
+The passing of lower-priority ride reports	the controller from higher - priority separation tasks , such as radar monitoring during the climb of ACA 118
+Strong habit intrusion , possibly facilitated by fatigue	him to pass these reports of light turbulence which were not safety-imperative
+they increased	the requirement for CDN 987
+they	and

@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The pilot was certified for the flight. The take-off technique with full flaps and the speeds used were as indicated in the aircraft flight manual.
+
+
+According to the builder's weight report, the aircraft weight on take-off was 977 lb. However, as the actual weight of the floatplane was 836 lb, its weight on take-off was 1,266 lb, or 159 lb over the maximum allowable weight, and 306 lb over the weight for which performance data were available from the company.
+
+
+Although balance could not be calculated, the ineffectiveness of the elevator at twice the stalling speed and the float attitude on the water indicate that the floatplane's centre of gravity exceeded the forward limit. An excessive forward centre of gravity reduces performance. The climb performance of the aircraft, despite 20 hp more power from the engine, was half the published value.
+
+
+The absence of performance data with a 0-200 engine and the lack of explanations from the company regarding the contradictory data on the best rate of climb invalidate the data for the accident aircraft. The performance values observed by the instructor were used, as they are considered the most plausible; they indicate that the speed of under 45 mph used by the pilot on take-off held the aircraft near the stalling speed. Overloading of the aircraft increased the stalling speed, and the excessive forward centre of gravity diminished elevator effectiveness.
+
+
+It is plausible that a change in wind speed increased lift on the right wing and caused it to rise; however, weather cocking would have caused the floatplane to turn into the wind and would not have pitched the nose down. The aircraft stalled when it flew out of ground effect. A stall is often followed by a spin when yaw is not counteracted through the rudder pedals. The steep left turn downwind indicates that the aircraft was in the incipient stage of a spin.
+
+
+The following laboratory report was completed:
+
+
+LP 134/94 - Log Books Restoration.
+
+
+
+Findings
+
+
+The floatplane weight was 269 pounds over the weight reported in the weight and balance report. The forward centre of gravity limit was exceeded. No centre of gravity with floats fitted was indicated on the weight and balance report. The installation of the floats was not recorded in the aircraft log-book and had not been reported to Transport Canada. The climb performance of the aircraft was half the published value. There were no life-jackets on board the aircraft.
+

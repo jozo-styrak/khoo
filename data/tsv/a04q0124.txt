@@ -1,0 +1,20 @@
+A similar lack of experience may have contributed to the student pilot not querying the controller to confirm that the aircraft had or had not been radar identified	, C-GYQB continued flight toward the Qu bec Airport without being provided a radar advisory service
+after issuing the transponder code , or request other information to determine the aircraft 's position or altitude	, C-GYQB
+a functioning transponder	C-GYQB 's radar position symbol was much less visible on the controller 's RSiT , and no code or automatically reported altitude information was available
+The Qu bec terminal controller forgot about C-GYQB	, he was unable to provide the required level of radar service to MAL7069 until the two aircraft had flown to within 2 nm of each other at the same altitude
+the window remained active on the RSiT display	it may have prompted the Qu bec terminal controller to remember that further action was still required with C-GYQB. , that is to radar identify this aircraft
+This limited the time available to scan the RSiT display	the controller did not notice C-GYQB
+providing traffic information to all aircraft under their control	When providing a radar service in Class D airspace , controllers are responsible
+The student pilot 's lack of experience most likely	this omission
+A similar lack of experience	the student pilot not querying the controller to confirm that the aircraft had or had not been radar identified
+he was	the required level of radar service to MAL7069
+The Qu bec terminal controller 's fortuitous timing of a clearance to MAL7069 to climb to 5000 feet moments before the two aircraft passed	the risk of a mid-air collision
+The RSiT software programming	the flight plan data entry window to automatically close 30 seconds after the last keystroke , even though the Qu bec terminal controller had entered some information
+The extra coordination with the Qu bec tower regarding the integration of VFR and IFR arrivals to Runway 30	the Qu bec terminal controller 's work level
+radar position symbol on the RSiT or the flight data strip he	the console in front of him
+on the data tag information on the radar display	the necessary information
+The regulations and procedures for operating in Class D transponder airspace	a level of protection against mid-air collisions
+This is	easier
+In this incident , there was a breakdown in aircraft equipment operating procedures , scanning -LRB- both pilot and controller -RRB- and diversion of attention	a near collision between two aircraft
+Under these conditions , the transponder did not transmit information to the radar system	the aircraft much less visible on the controller 's radar situation display -LRB- RSiT -RRB-
+The RSiT software programming	the flight plan data entry window to automatically close 30 seconds after the last keystroke

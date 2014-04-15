@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+Prior to descending into Trenton, the aircraft was in VMC conditions; there were no clouds or weather in the general vicinity and the flight crew had the ground and landmarks in the surrounding area in sight. The flight crew did not obtain the latest weather conditions prior to descent; they were unaware of the low visibility conditions present at Trenton. Though cleared for an NDB Runway 24 approach, the flight crew expected the weather conditions would allow them to complete a visual approach and they planned accordingly. This was likely because they did not have any clues of the deteriorating weather. Furthermore, the flight crew's commitment to conducting a visual approach likely contributed to it not briefing for the approach or missed approach. When the visibility worsened, the crew were unprepared for a possible missed approach.
+
+
+The aircraft entered the fog approximately 1.5 nm from the displaced threshold of the runway and 0.85 nm before the start of the approach lights. The visibility decreased as the aircraft continued to descend. The approach lights extend 4000 feet (0.65 nm) from the displaced threshold of Runway 24. After entering the fog, the aircraft descended to as low as 33 feet and deviated left of the desired track. The aircraft deviated off course for approximately six seconds prior to the crew initiating corrective action by banking to the right. This correction occurred at 0.75 nm from the displaced threshold, at a location that coincides with the beginning of the approach lights system, and near the tree strike location. This suggests that the flight crew lost visual reference with the ground at some point during the fog encounter but, as the approach lights came into view, the flight crew was able to manoeuvre the aircraft back onto the final approach course.
+
+
+After the low altitude call, the descent rate of the aircraft was arrested; however, a missed approach was not initiated. Had the aircraft transitioned into a missed approach the aircraft would have most likely been higher than 76 feet agl at the location of the impact with the trees.
+
+
+The aircraft's descent profile resembled a 3.0-degree glide slope during the descent and initial stages of the approach. The 3.0-degree glide slope intersected the top of the fog bank at approximately 0.5 nm from the displaced threshold for Runway 24. In the latter stages of the approach, the aircraft deviated below the 3.0-degree slope, which caused the aircraft to be at a lower altitude prior to entering the fog. It could not be determined why the flight crew deviated from the 3.0-degree glide slope.
+
+
+The flight schedule allowed for adequate recuperative rest. Even though the occurrence flight crew did not receive their 42-hour rest on several occasions after trans-meridian flights, the schedule could be carried out without inducing fatigue provided the crew took the available opportunities to rest.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The flight crew planned for a visual approach in spite of not obtaining the latest weather information prior to descent and being unaware of the actual weather conditions at Trenton. The flight crew did not conduct a full approach briefing and were not prepared for a missed approach during the loss of visual reference. The flight crew deviated from their company visual approach procedures and descended below a 3.0-degree glide slope. After reaching minimum descent altitude (MDA), the flight crew continued to descend and entered a low-level fog bank resulting in a loss of visual reference and impact with trees.
+
+
+
+Finding as to Risk
+
+
+On several occasions prior to the occurrence flight, the crew did not receive the 42-hour rest period required by Ukrainian Cargo Airways' procedures after completing trans-meridian flights, potentially increasing the risk of operating while fatigued.
+
+
+
+Other Finding
+
+
+The flight crew or the company did not notify the Transportation Safety Board or the Directorate of Flight Safety of the occurrence.
+

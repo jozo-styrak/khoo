@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+The circumstances of this incident led the investigation to focus on the readback/hearback process, and the operational reasons surrounding the actions of the flight crews and controller involved. The pilot-controller communication errors made in the readback/hearback process led to the flight crew of one aircraft continuing descent to an altitude that could have been unsafe, and led to the flight crew of a second aircraft flying through the approach paths for two runways at a busy, international airport, lose separation with yet a third aircraft, and to conflict with several other aircraft in the vicinity.
+
+
+The chain of events starting at 1453:14 that led to this incident was circumstantial and comprised many elements; the most notable are summarized in the following items:
+
+
+although instructed to maintain 2,000 feet, ACA109 remained at 3,000 feet; the controller focussed on turning ACA109 onto final for runway 08L and he did not immediately respond to the ACA897 initial check-in transmission; ACA109 did not hear the approach clearance intended for them; ACA897 intercepted the approach clearance intended for ACA109; the controller did not detect the incorrect call-sign during the readback from ACA897; ACA109 assumed the clearance was for ACA897; ACA897 did not challenge a rapid and significant revision to an approach clearance; ACA109 did not seek further clearance as it approached the localizer; the captain of ACA109 misheard the controller's heading instruction; ACA109 turned left after crossing the localizers without ATC instruction; and ACA109 did not descend in a timely manner.
+
+
+Despite the call-sign for ACA109 being clearly at the beginning of the controller's communication, the crew of ACA897 had assumed that the approach clearance (intended for ACA109) was directed to them because the controller's response immediately followed their initial-contact radio transmission. However, these instructions from the controller, which included a final approach clearance, when the aircraft was still 18 nm away from the airport, would have been atypical in these circumstances, and should have alerted these pilots to an abnormal situation or development; similarly, the lack of an altitude restriction would have been irregular considering that the floor for radar vectoring was 3,700 feet in that area. It was not determined why the pilots of ACA897 believed that such an approach clearance would have been appropriate for their aircraft and circumstances. Nevertheless, they accepted and began to follow a clearance that would have placed the aircraft below MVA. It was also not determined why they did not subsequently question the significant and rapid change to their approach clearance.
+
+
+It could not be determined why the pilots of ACA109 did not identify the approach clearance from the arrival controller as being theirs, even though this clearance was issued when their aircraft was at a location where they were, and should have been, expecting such a clearance. They heard the pilot of ACA897 accepting an approach clearance, and assumed that the clearance was indeed intended for ACA897, because ACA897 had accepted it so quickly and because the controller had acknowledged the read-back.
+
+
+At 1453:14, before ACA109 had turned toward the localizer, the controller planned a procedure of vertical separation between ACA109 and MAL7072, whereby he would maintain 1,000 feet between them; hence his instruction for ACA109 to maintain 2,000 feet. To the controller, his plan was seemingly set in place when ACA109 acknowledged that instruction. The in-flight circumstances which rapidly developed and ultimately led to the loss of separation could have been avoided had ACA109 descended to 2,000 feet before it missed the approach clearance and flew through the localizer.
+
+
+The arrival controller identified a developing traffic conflict between ACA109 and MAL7072 when he challenged ACA109 as it approached the localizer for runway 08L. At this time, there was ample room for the controller to manoeuvre the aircraft to maintain the required separation standard of either 1,000 feet vertically or 3 nm horizontally. His corrective actions were appropriate and would have prevented the loss of separation had ACA109 reacted correctly and in a timely fashion to his instructions to turn to a heading of 230 and maintain 2,000 feet. The command itself, however, was not sufficiently imperative to elicit an immediate response from the pilot, since the word "maintain" does not imply any level of immediacy or urgency. Nevertheless, the controller did use language that inferred priority of action; however, the pilots initially did not perceive that inference.
+
+
+Once ACA109 crossed the localizer and did not follow the flight path anticipated by the controller, the last procedural safe-guard available to the controller would have been vertical separation; it was, however, negated owing to ACA109 still being at 3,000 feet, and continuing to remain at that altitude until well after the loss of separation had occurred. In these circumstances, the controller had no other option than to issue significant heading vectors to the aircraft to place them on diverging headings - a course of action that prevented the risk of collision.
+
+
+
+Findings
+
+
+The pilot of ACA897 accepted and read back the approach clearance intended for ACA109. The pilots of ACA109 did not recognise that ACA897 had read back the clearance intended for ACA109. The controller did not detect the incorrect call sign when ACA897 read back the clearance intended for ACA109. The captain of ACA897 accepted a clearance which would have allowed the aircraft to descend below a minimum safe altitude. Without ATC instruction, ACA109 began a left turn after crossing the localizers. The controller took appropriate and timely action when he recognised a developing loss of separation. The captain of ACA109 thought the controller had instructed him to turn to 130 , when it was 230 . ACA109 did not descend in a timely manner, and the resultant delay contributed directly to the loss of separation. The controller did not use the safety-alert terminology outlined in MANOPS. A loss of separation occurred when ACA109 turned left into the protected airspace of MAL7072 at the same altitude. There was no risk of collision.
+

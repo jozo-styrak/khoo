@@ -1,0 +1,15 @@
+The NADSs and NSITs in the area control centres do not pass information electronically	, the NU controller did not have a means of checking the rerouting of SAS938 even though the information was entered correctly into the Winnipeg NADS
+The supervisor spent a significant amount of time performing control duties , reducing the time available for making informed supervisory decisions	, available controllers were prematurely released from duty
+the traffic flows	With fewer staff , the supervisor had less time to spend in decision making
+radar	greater separation standards have to be applied
+The geographic reporting system was used because of the lack of radar	, the time required for the NU controller to detect and correct the problem was about 1 hour 40 minutes
+making informed supervisory decisions	The supervisor spent a significant amount of time performing control duties , reducing the time available
+Task saturation	his communication with the NU controller
+The workload accepted by the TL supervisor and the handoff performed by the TL controller started the process	the eventual loss of separation of SAS938 and KLM602
+a lack of a direct pilot-to-controller communications capability	activities were hampered
+The NU controller 's confirmation activities were	and
+The lack of automatic electronic data transfer between ACC NADS and NSiT display computers	controller workload as aircraft move from sector sector
+The absence of air traffic control radar and direct pilot-to-controller communications	the NU controller detecting the true position of SAS938 for about 1 hour 25 minutes and delayed the implementation and confirmation of corrective action for about 1 hour 40 minutes
+The absence of air traffic control radar and direct pilot-to-controller communications prevented the NU controller from detecting the true position of SAS938 for about 1 hour 25 minutes	the implementation and confirmation of corrective action for about 1 hour 40 minutes
+The supervisor spent a significant amount of time performing control duties	the time available for making informed supervisory decisions
+13 minutes for KLM602	reports to the NU controller

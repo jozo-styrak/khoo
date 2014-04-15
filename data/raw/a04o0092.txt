@@ -1,0 +1,43 @@
+
+
+Analysis
+
+
+Pilots flying in the vicinity of the London Airport can expect to receive varying levels of air traffic control (ATC) service, depending on the classification of the airspace within which they are flying. The primary roles of ATC are to prevent collision and to expedite traffic. Therefore, pilots expect that when they communicate with the London tower, they will receive instructions or clearances from the ATC to steer them clear of known traffic or, at a minimum, receive sufficient information to acquire the traffic visually so they can take appropriate action themselves.
+
+
+When a pilot transitions from one class of airspace to another, there may be changes to the level of service, such as a change from control service to advisory, or vice versa. As a result, pilots may be under a misconception about how much information and/or control action is being provided by the ATC. They may come to expect a higher level of service from the ATC than is authorized for the particular class of airspace. At the same time, ATC personnel may, in some cases, expect pilots to take action on their own based on received traffic information and not wait for specific ATC clearances or instructions.
+
+
+In this occurrence, the tower controller provided traffic information to both the instrument flight rules (IFR) departure (WJA107) and the visual flight rules (VFR) arrival (the Cessna 172). Based on the controller's view of a clear sky in the vicinity of the airport, he would have anticipated that the Cessna could maintain visual separation with the departing aircraft. The pilots of WJA107, on the other hand, expected the ATC to take the required action to provide a conflict-free departure path out of the control zone, especially in light of the instrument meteorological conditions encountered in the climb-out. Because the pilot of WJA107 was not informed that the Cessna was flying an opposite-direction simulated-IFR approach to Runway 15, he would not have been aware that the traffic mentioned to him earlier posed a risk of collision. The area control centre (ACC) controller also did not expect conflicting traffic to be on the departure path of WJA107 without prior coordination from the tower controller.
+
+
+The tower controller passed traffic information to WJA107 about a VFR aircraft 8 miles to the northwest, using the term "TCAS traffic," contrary to locally published information contained in an earlier operations bulletin. The tower controller would not have been aware that TCAS information was not displayed in WJA107 until after the aircraft was airborne.
+
+
+The position of Unit Operations Specialist had not been staffed at the London ATC unit for a considerable time. Therefore, there was limited support for the London tower manager who is responsible for overseeing the operation, reviewing or revising existing procedures, and developing new procedures. A Unit Operations Specialist on staff may have detected and corrected instances of routine use of non-conforming and ad-hoc procedures, including the following:
+
+
+The airport controller authorized a simulated IFR approach when the official 1400 weather was less than the prescribed limits. Although the conditions observed by the controller seemed adequate for the simulated IFR approach, there was no flexibility included in the published procedure for conducting this type of operation based on other than the official weather report. The tower controller did not follow published procedures for authorizing reciprocal approaches when there is an IFR departure planned, nor did the tower controller coordinate the simulated IFR opposite-end approach with the ACC controller. There was an informal local practice to accommodate helicopter training using the threshold of an out-of-wind runway to conduct circuits parallel to, and simultaneously with, traffic on the active runway. There were no published procedures, either for the control tower or the helicopter training school staff, to ensure that the appropriate level of safety had been factored into this type of operation.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The tower controller did not inform WJA107 that the Cessna was conducting an approach to the opposite end of the departure runway. The tower controller instructed the Cessna to fly eastbound through the on-course for Runway 15, not aware that the area control centre (ACC) controller had cleared WJA107 to turn to the right after departure. This increased the time the two aircraft remained in conflict. The tower controller did not advise the ACC controller of a potential conflict on the departure path for Runway 33, which delayed the initiation of ACC control action to resolve the conflict between the two aircraft. The Cessna pilot, while operating in Class E airspace and flying a simulated approach to Runway 15, received traffic information from the tower controller on a departure from Runway 33. The pilot took no action to avoid entering the departure path area.
+
+
+
+Finding as to Risk
+
+
+A number of published procedures were not followed by the tower control staff, and an ad-hoc helicopter circuit procedure had become the norm at the London International Airport. The tower manager did not have any supervisory personnel or a unit operations specialist to assist him to oversee the operation, to review or revise existing procedures, or to develop new procedures.
+
+
+
+Other Findings
+
+
+Pilots may not be aware of the differences in the air-traffic service that may be provided to them in different classes of airspace and may come to expect a greater-than-authorized level of service when in communication with an air traffic control facility. Procedures published in the London Control Tower Unit Operations Manual require controllers to provide conflict resolution and impose restrictions to aircraft operating in Class E airspace, for which they have no authority to provide a control service.
+

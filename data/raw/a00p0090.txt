@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+Human performance studies have demonstrated that the potential for human error increases when task loading is heavier or lighter than normal. At the time of the incident, traffic in the west sector was light, with low complexity, involving regular flight routes. It is therefore possible that the relatively benign traffic environment contributed to the west sector controller being less vigilant than normal. The controller did not follow his normal practice of scanning the flight progress board and the radar before issuing a descent clearance, nor did he use the radar display to monitor the separation between CDN4 and ASA131. In other words, the west sector controller did not use available conflict-identification tools and procedures to maintain the required separation minima between aircraft under his control.
+
+
+When CDN4 reported in descent from FL350, the west sector controller did not annotate the flight progress strip for CDN4, as required by ATC MANOPS. As well, the strip for ASA131 did not indicate a time for abeam Victoria, although it was customary for west sector controllers to include this information on an aircraft strip. These omissions complicated the task of correctly interpreting the flight progress board, since the location of ASA131 and the altitude of CDN4 were less precisely defined. The local practice of using only one strip for each aircraft may have further undermined the utility of the flight progress board. The ASA131 strip appeared under the Victoria header, whereas the CDN4 strip appeared under the Tofino header, thus making a conflict between the two aircraft less apparent. In short, the west sector controller did not properly annotate the flight strips for CDN4 and ASA131, thereby reducing the probability of a conflict being detected by reference to the flight progress board.
+
+
+The controller responsible for the west sector was engaged in a non-operational conversation with a controller sitting adjacent to him. There is no policy limiting non-essential activities by active controllers, and the supervisor did not intervene to stop the two controllers from conversing. However, because participating in a conversation involves a cognitive workload, it follows that the west sector controller was less able to attend to his primary task. It is significant that the west sector controller could not recall noticing the progress of CDN4 and ASA131 after issuing the descent clearance to CDN4. For these reasons, it is probable that the conversation distracted the west controller from his primary tasks and compromised his ability to monitor the progress of traffic under his control.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The west sector controller did not use available conflict-identification tools and procedures to maintain the required separation minima between aircraft under his control. The west sector controller did not properly annotate the flight strips for CDN4 and ASA131, thereby reducing the probability of a conflict being detected by reference to the flight progress board. The west sector controller was engaged in a non-essential conversation with another controller. This conversation probably distracted him from his primary task and compromised his ability to monitor the progress of traffic under his control.
+
+
+
+Findings as to Risk
+
+
+There is no policy to prevent air traffic controllers from engaging in non-essential and potentially distracting activities while controlling aircraft.
+

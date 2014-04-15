@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+The aircraft landing gear did not extend when the flight crew selected it down for landing at Ottawa because the circuit breaker for the electric motor that operated the hydraulic pump had opened. The landing gear will not extend by the normal method without the operation of the electric motor to operate the hydraulic pump.
+
+
+The depleted nitrogen charge in the landing gear accumulator would result in more frequent cycling of the hydraulic pump motor to maintain system hydraulic pressure. The combination of repeated landing gear cycling at North Bay and more frequent cycling of the electric hydraulic pump motor because of the depleted nitrogen charge in the hydraulic system accumulator likely caused the 60-amp circuit breaker to overheat and open, shutting off electric power to the hydraulic pump motor.
+
+
+Operation of the emergency landing gear extension system resulted in all three landing gear extending, but the right main landing gear did not lock in the down position and collapsed as the aircraft weight settled on it during the landing roll. It could not be determined why the right main landing gear did not lock in the down position during the emergency extension.
+
+
+
+Findings
+
+
+The crew was certified and qualified for the flight. Aircraft records indicated the aircraft was certified and equipped in accordance with existing regulations and approved procedures. The 60-amp circuit breaker for the electric hydraulic pump motor opened, rendering the aircraft normal hydraulic landing gear system inoperable. The aircraft right main landing gear indicator did not indicate the down and locked position following extension of the aircraft landing gear by the emergency method. The aircraft right main landing gear collapsed during the landing roll. The aircraft landing gear hydraulic system accumulator was found defective and would not maintain the required nitrogen charge. The depleted landing gear hydraulic system accumulator should not affect the ability of the landing gear system to actuate in normal or emergency operation.
+

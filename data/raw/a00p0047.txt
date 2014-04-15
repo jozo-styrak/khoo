@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+Weather, aircraft mechanical defects, ATC equipment, and participants' medical conditions are not considered to have contributed to this occurrence. The investigation focused on why the conflict between the Cessna and Twin Otter was not detected and resolved and why the pilots did not see each other in sufficient time to prevent a conflict.
+
+
+ATC is obligated to provide traffic information to aircraft operating within Class C airspace, but pilots operating under VFR are also required to visually scan for other traffic. However, the "see and be seen" principle has known limitations. There was no ATC traffic advisory broadcast to either aircraft, and both were on VFR flight plans. Therefore, both crews had to rely solely on the "see and be seen" principle to avoid conflicts. Aircraft equipped with TCAS would likely have detected this conflict and allowed the pilots to take action earlier. Because of the proximity and the tracks of the aircraft, it is likely that the Cessna pilot's visual acquisition of the Twin Otter and his evasive action of a wings-level, straight-ahead descent prevented a midair collision.
+
+
+A sequence of events in the Victoria terminal complex, involving numerous decisions, resulted in the undetected conflict between the Cessna and the Twin Otter. Because an area control centre is a very fluid and dynamic environment, attempting to match staffing levels with a fluctuating and at times unpredictable workload can be very challenging. When revising the day shift schedule, the midnight duty shift manager placed a high degree of importance on completing the training scheduled for one controller. To mitigate the risk of the known staffing shortage, he also imposed traffic restrictions on the sector airspace until 1000; however, this was 15 minutes short of the scheduled arrival time of the fourth controller. Although the shift supervisor accepted the revised scheduling plan, including the traffic restrictions, a lack of confidence in the plan became evident when, within 30 minutes, he requested the assistance of the controller scheduled for training. When his request was denied, he made no further attempt to address his concerns, nor did the shift manager. Had the shift supervisor been performing supervisory functions, the risk of an event taking place would have been reduced.
+
+
+Between 1000 and 1018, the workload of the YYJ terminal controller increased substantially because of the normal increase in IFR traffic. The concentration of the controller / acting shift supervisor may have been affected by the perceived late arrival of the fourth controller, while he was already shorthanded, and the knowledge that traffic restrictions were no longer in effect. Recognizing when to open or close sectors is an important aspect of the supervisory role, yet for undetermined reasons, an available controller was not recalled from a break to open the YYJ VTA sector. Squawk 7700 Safety Bulletin, published by Nav Canada, states in issue 9401 that investigations have found that the untimely opening and closing of control sectors has contributed to subsequent operating irregularities. The supervisor must always remain attentive to the workload to ensure that the sector does not become overloaded, and another control position should be prepared so that immediate action can be taken to open a sector.
+
+
+When the controller radar identified the Twin Otter, he did not perceive a conflict with the Cessna. He therefore did not integrate this information into his plan. The "VFR Traffic Record" did not provide an adequate reminder to supplement his radar-scanning technique. The controller did not employ any methods to control his workload (such as holding aircraft on the ground), and by 1015, his attention was divided among numerous tasks. Because of his workload, he was unable to complete the handoff briefing to the fourth controller, who had arrived at his scheduled start time.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilots of the two aircraft did not see each other in time to prevent the conflict. Traffic advisories concerning a possible conflict were not passed to the Cessna or the Twin Otter. The Cessna's flight path was not considered when the controller radar identified and approved the Twin Otter's route and altitude. The controller did not detect the conflict. His attention was divided among numerous tasks, including shift supervision, which likely caused his radar-scanning technique to deteriorate.
+
+
+
+Findings as to Risk
+
+
+Traffic restrictions were put in place to mitigate the Victoria terminal staffing situation. However, these restrictions terminated 15 minutes before the fourth controller was scheduled to arrive. At the time of the occurrence, the Victoria terminal complex was operating with three controllers (one of whom was on a break) when five were scheduled. The Victoria visual flight rules (VFR) traffic advisory (VTA) sector was not opened in a timely manner. By 1015, the Victoria terminal airspace controller's workload had increased substantially. None of the available methods to control his increasing workload was employed. Available conflict-identification tools were not employed as a defence to supplement the controller's radar-scanning technique. By 1015, the controller was task saturated and was unable to complete the prescribed handoff briefing to the new controller.
+
+
+
+Other Findings
+
+
+Both incident aircraft were equipped with transponders; however, neither aircraft was equipped with a traffic alert and collision-avoidance system (TCAS). A TCAS would probably have alerted both pilots to the conflict. The Victoria terminal complex does not have established procedures to identify traffic conflicts on the "VFR Traffic Record". Nav Canada training records indicate that the shift supervisor had not received training to perform the supervisory role.
+

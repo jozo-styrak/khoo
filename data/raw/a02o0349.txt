@@ -1,0 +1,97 @@
+
+
+Analysis
+
+
+Task 3010/08 was not a complex job: there were no pressing time constraints, and complete manufacturer's instructions on how to locate, access and test the relevant components were available to the AMEs involved. Therefore, this analysis will focus on the human factors that led to the aircraft being dispatched with an unsecured leading edge and without the heating elements in the right wing leading edge being inspected.
+
+
+
+AME 1
+
+
+AME 1 picked task 3010/08 because he was unfamiliar with the task and he wanted the experience. He took the extra time to check with the crew chief and to check the maintenance instructions before beginning the job. As he had not done this job before, it took him longer than normal to complete it, and he felt rushed when it was obvious that the task would not be completed before the end of his shift. By the time he finished installing the screws on the top of the wing leading edge, AME 2 was ready with the sealant. There was no discussion about sealing the top of the leading edge before installing the bottom screws, but it was convenient to do so. While the apprentice AME and AME 2 were applying the sealant, AME 1 went to check the rear fuselage heaters. By the time he returned, he had forgotten about the screws for the bottom of the leading edge, the apprentice AME and AME 2 were finishing sealing the top of the panel, and he handed over the screws that he had accumulated in his pocket. This turned out to be the appropriate number of screws for the right wing leading edge.
+
+
+AME 1's handover briefing to the crew chief was verbal and informal. It was limited to relaying that the heaters in the left wing and tail were functional, that AME 2 and the apprentice AME would finish checking the right wing, and he (AME 1) had not signed the task as being complete. There was no discussion about who would ultimately sign for task 3010/08 when it was completed.
+
+
+
+
+Apprentice AME
+
+
+The apprentice AME had not been assigned to work on the aircraft but volunteered to help. One consequence of coming into the middle of the job was that he did not take ownership of the job. He assisted AME 1 to remove the leading edge, and he continued to assist by supporting the leading-edge section while AME 1 performed the heater tests. He spent much of the time on the lift in unrelated conversation with AME 2. The only part of the job that he took ownership of was when he took the initiative to seal the top of the wing leading edge. He felt that this was required because the existing sealant had not been cut cleanly, but from the outset, he had no intention of sealing the bottom of the wing leading edge. The screws for the bottom of the leading edge had not been set aside in an obvious location; therefore, there was no reminder that the bottom of the leading edge had not been secured. He did not check the work completed by AME 1. When he completed the sealing of the top of the wing, he began to move the stand and tools to the right wing.
+
+
+Before the apprentice AME was able to do much more than cut the sealant on the right wing leading edge, he was re-tasked to the ramp. There was nothing more than a verbal turnover to the maintenance supervisor, indicating that the work on the right wing had not been completed. It was two hours later when the apprentice AME returned to the hanger for a lunch break and he was asked by AME 3 about the status of task 3010/08. His verbal briefing, done while he was walking to the lunch room, was limited to relaying that except for the right wing, everything about task 3010/08 had been completed. He did not elaborate about checking the heaters in the right wing, nor was he asked about it.
+
+
+
+
+AME 2
+
+
+AME 2 was the most experienced AME of those directly involved in replacing the left wing leading-edge panel; however, he had the least amount of time with the company. AME 2 was not assigned to task 3010/08; he volunteered to help. He assisted by obtaining and helping to apply the sealant, but he did not take an ownership role in any part of the project. During a significant period of time, the three involved AMEs were engaged in conversation unrelated to task 3010/08. AME 2 was not concerned that they were not sealing the bottom of the leading-edge panel, nor did he did check the status of the bottom of the leading-edge panel.
+
+
+
+
+Crew Chief
+
+
+The position of crew chief was reassigned daily based on seniority. It was not often offered to this individual because he had only eight months with the company. The specific duties and responsibilities had not been communicated to the crew chief, nor had he received any training for this job. Although he had not anticipated being appointed to the position that day, he assumed responsibility for the work done by the crew. Instead of accepting this as a new job with new responsibilities, he added these new responsibilities to those that he had already. Therefore, he was trying to do two jobs simultaneously: maintaining the aircraft and supervising a crew of AMEs. The crew chief's job and authority were undercut by the maintenance supervisor when he issued the work package directly to the crew rather than to the crew chief. This meant that the crew chief had no input into the assignment of individual tasks to the AMEs, making it difficult for the crew chief to supervise the work as it progressed.
+
+
+The crew chief had initially discussed task 3010/08 with AME 1, after which he did not directly supervise AME 1. This was not uncommon, as the task was not complex. He was aware that AME 2 had picked up the PRC sealant for the left wing, and it was logical for him to assume that the sealant would be applied to both the top and bottom of the leading edge. He also noted that the apprentice AME and AME 2 had moved to the right wing, presumably to complete the task on the right wing. At the end of the shift, the crew chief was reviewing the paper work and realized that task 3010/08 had not been signed off. He believed that AME 1 had completed testing all of the heaters, and all that remained of the task was to reinstall and reseal the right leading-edge section. To make sure that the evening crew did not go back and recheck all the heaters, he signed the task as being complete, knowing that work on the right wing leading edge was not complete.
+
+
+
+
+AME 3
+
+
+When AME 3 arrived on the night shift, he noted that task 3010/08 had been signed as having been completed; however, he received a limited verbal briefing from the apprentice AME, who informed him that the right wing portion of task 3010/08 had not been completed. AME 3 completed the leading-edge panel installation then took the aircraft out for its engine run up and taxi test. He did not inspect the heater operation, nor did he raise a task card to reseal the leading edges. Prior to the taxi test, AME 3 conducted a walk-around inspection of the aircraft but did not notice that screws were missing from the bottom of the left wing. After completing the taxi test, he released the aircraft to service and parked it outside the hanger as a spare, ready to go.
+
+
+
+
+Company Management
+
+
+The OPT-3 work package is an Air Canada regional amalgamation of 11 independent maintenance tasks. Each task was originally designed by the aircraft manufacturer, and each task card required two signatures. These maintenance tasks are not identified in Canadian Aviation Regulations as legally requiring an independent inspection, and in amalgamating the tasks into a single line on the OPT-3 task card, the company dropped the requirement for the inspector's signature. An inadvertent consequence of this change was that one opportunity to identify that the leading-edge screws were missing before the aircraft went flying was lost.
+
+
+Both the apprentice AME and AME 3 deferred sealing the leading-edge panel, although there was no provision on the OPT-3 task card to report this fact, and no work card was generated to indicate the leading edges had not been sealed. The lack of communication between all of the individuals involved, particularly at the shift turnover point, contributed to this. The company did not have a specific procedure for communicating the status of work at the shift turnover.
+
+
+
+
+Communications with Flight Crew
+
+
+The only communication available to the flight crew regarding the maintenance work that had been completed on the aircraft was the log book entry regarding work package #446. This did not provide the crew with any indication of the type or scope of the work accomplished other than the L-check, which was a familiar, recurrent, 75-hour inspection. The information in the log book entry did not provide the flight crew with any particular focus area for their pre-flight inspection.
+
+
+
+
+No Visual Cues
+
+
+The unpainted, brass-coloured screws that hold the leading-edge sections in place are highly contrasted by the black paint and pneumatic boot on the leading edges. All of the leading-edge screw holes are countersunk, and there is little paint remaining on the shoulders of these countersunk holes. The contrast provided by the bare aluminum of the leading-edge structure is similar to that of an unpainted screw. Thus, unless someone, an AME or pilot, is looking specifically for the screws, it would not be obvious that the screws had not been installed.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The individuals working on the aircraft did not check their own work or the work of others involved in task 3010/08. There were no inspection procedures to assure that the work was complete or that incomplete work that was deferred was properly recorded. Having additional people on site who were not required for the job caused a distraction to those doing the work and led to false assumptions that individuals had completed work that was, in fact, unfinished. There were no processes to ensure that communication between the maintenance manager and the crew chief, between the crew chief and the crew, or between crews, was complete and accurate. The crew chief signed task 3010/08 as being complete based on his assumption that all the heaters had been checked but knowing that the leading-edge panel was not installed. There were no procedures for AME 1 to sign for the portions of task 3010/08 that were complete, or to indicate which portions of the task were incomplete.
+
+
+
+Findings as to Risk
+
+
+There was no supervisory training provided for the position of crew chief. When AME 1 left the right wing after removing the screws, he took the screws with him and did not mark the area as having been partially disassembled. There were no procedures in place to indicate where relevant parts were located, or to ensure that incomplete work was recorded, identified or flagged.
+

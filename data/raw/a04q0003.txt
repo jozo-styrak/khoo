@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+A number of procedures and tools have been developed or made available to controllers to assist in detecting in-flight conflicts. In a radar-controlled environment, controllers tend to work more at a tactical level rather than a longer term strategic level. Potential conflicts 10 or 20 minutes in the future do not normally require immediate attention. However, the earlier a controller becomes aware of a conflict, the better he or she is able to devise a solution to resolve the conflict without having to resort to drastic measures.
+
+
+Although AAL167 was crossing a predominantly westbound flow at an altitude that potentially conflicted with a number of aircraft also at FL 350, no special action was taken by the controllers to highlight either the flight data strip or the aircraft radar target on the RSiT. Similarly, the controllers did not use the information contained on the flight data strips or any of the tools provided by the RSiT to detect the potential conflict between UAL943 and AAL167.
+
+
+Flight data strips are, at times, being used as record keeping devices rather than as conflict detection resources. In this occurrence, the organization of the flight data board was not conducive to detecting conflict because the flight data strips for the two concerned aircraft were widely spaced. As a result, the conflict remained undetected for the 20 minutes the two flights were operating in the sector.
+
+
+Current procedures and practices for the handover of a control position may not ensure that all pertinent information is relayed from the outgoing to the incoming controller. The position handover checklist guides controllers toward consideration of immediate conflicts and does not specifically address potential longer term conflicts. The traffic picture that was accepted by the OJI at the end of the position handover was that the sector was free of immediate conflicts. This may have lulled the OJI and the trainee into a false sense of security, and as a result, they did not reconfirm that the aircraft within the sector, including UAL943 and AAL167, were free of conflict for their respective routes in the GL sector.
+
+
+Controllers often develop their own routines and personal work habits. For example, the OJI would normally, after assuming control of a sector and when working by himself, use one of the display functions on the RSiT to reconfirm that there were no conflicts in the sector. With a trainee in the control position, the OJI was not able to directly access the RSiT display functions. Because the trainee did not follow a routine similar to that of the OJI, neither of the two controllers detected the conflict between UAL943 and AAL167. The OJI course does not cover practical aspects of conducting on-the-job training, such as how to effectively share the OJI's work knowledge with a trainee or how to quickly take over a control position from a trainee if required. The OJI did not brief the trainee on the process of transferring control of the position from the trainee to the OJI if required.
+
+
+When the OJI had to suddenly take over the position from the trainee after the conflict alert alarm sounded, he reverted to his normal practice of using the foot pedal to transmit. Therefore, the OJI was unaware that the instructions to resolve the conflict were not transmitted. As this type of situation can introduce a high level of stress, controllers may make inadvertent errors or use improper equipment or techniques to try to resolve the conflict, which can place aircraft into an even more serious risk of collision situation. More realistic and recurring simulated training may help the controllers make more timely and appropriate responses to conflict alert alarms and other emergencies and increase the likelihood that corrective action is effectively communicated to the aircrew. Only the TCAS, as a last defence, alerted the flight crews to take action to prevent a potential collision. Because the TCAS is not mandatory in Canada, there continues to be some unnecessary risk of mid-air collisions within Canadian airspace.
+
+
+Had flight information on UAL943 been retained in the NADS, it is possible that information on the potential conflict with AAL167 could have been communicated to the GL sector controllers. There is no medium-term conflict probe for radar-controlled airspace to provide an additional backup to the controllers scanning the radar or relying on information on the flight data strips. At present, the ground-based defence against a loss of separation in the event of an operational error is the short-term conflict alert.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The potential conflict between UAL943 and AAL167 was not detected when UAL943 first contacted the La Grande (GL) sector and no action was taken by the first GL controller to remind the next controller that a conflict probe had not been completed. This allowed a potential conflict to progress to the point of a risk of collision. After accepting the handover of the GL sector, neither the trainee nor the on-the-job instructor (OJI) conducted a review of all aircraft under their control to ensure there were no potential conflicts; the conflict between UAL943 and AAL167 was not detected, which placed them in a potential risk of collision situation. After the air traffic control conflict alert program warned the trainee and the OJI of the impending loss of separation, the OJI was unable to communicate instructions to the involved aircraft because he used the foot pedal instead of the press-to-talk switch to activate the radios. As a result, the aircraft progressed to the point where only the traffic collision avoidance system (TCAS) resolution advisory (RA) prevented a potential collision.
+
+
+
+Findings as to Risk
+
+
+There is no medium-term conflict probe for radar-controlled airspace to provide an additional backup to the controllers scanning the radar or relying on information on the flight data strips. The current operational conflict alert system provides minimal warning time for the controller and requires immediate and often drastic action by both controller and aircrew to avoid a mid-air collision. Because the TCAS is not mandatory in Canada, there continues to be an unnecessary risk of mid-air collisions within Canadian airspace.
+
+
+
+Other Findings
+
+
+The lack of realistic and recurrent simulation training may have delayed the OJI's quick and efficient recovery from a loss of separation situation, or may have contributed to his inappropriate response to the conflict alert warning. The OJI's training course focussed mainly on the interpersonal aspects of monitoring a trainee. It did not cover practical aspects such as how to effectively share work knowledge and practices with a trainee or how to quickly take over a control position from a trainee when required.
+

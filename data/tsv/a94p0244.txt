@@ -1,0 +1,6 @@
+the blade struck the tree	the main rotor rpm would have slowed down briefly and caused the low rotor horn to activate momentarily
+a loss of engine power prior to the tree strike	The pilot was able to increase power to move away from the staging area indicating that the engine was developing power and that the low rotor horn did not activate
+a hard	landing
+the main rotor rpm	briefly
+briefly	the low rotor horn
+The pilot was	power

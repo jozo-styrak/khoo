@@ -1,0 +1,21 @@
+
+
+Analysis
+
+
+The Oakville radar controller was distracted from the evolving conflict situation by the various demands on his attention created by the requirement for him to perform both the radar and data controller duties during a busy time. Those combined duties are manageable but are routinely performed by radar controllers only during periods of reduced traffic. However, the extra workload created by near simultaneous receipt of "estimate-hand-offs" and the requirement to change a number of SSR code assignments for aircraft entering his sector was enough to capture the controller's attention long enough to permit the potential conflict to develop into a loss of separation. Only the TCAS warning to the crew of the involved aircraft prevented a possible mid-air collision.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The Oakville sector radar controller did not detect that the routes of AAL183 and AAL581, at the same altitude, conflicted until advised by the crew of AAL183 of the TCAS RA. By that time, the standard instrument flight rules separation had been lost. The Oakville sector radar controller was performing the radar controller duties as well as the majority of the duties usually performed by the sector data controller. This contributed to the heavy workload and diverted the controller's attention away from the radar display. The radar controller's need to deal with the extra work created by the "estimate-hand-offs", in addition to his other duties, captured the controller's attention for a prolonged period time which reduced his ability to detect the impending conflict between AAL183 and AAL581.
+
+
+
+Findings as to Risk
+
+
+The provision of attentive flight monitoring to active traffic on the radar display is jeopardized when a controller is performing the duties of both the data controller and the radar controller. While efforts have been made by west high supervisors to ensure compliance by Cleveland centre controllers with coordination requirements, "estimate-hand-offs" continue to occur and can pose a significant additional distraction.
+

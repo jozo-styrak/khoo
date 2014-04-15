@@ -1,0 +1,52 @@
+
+
+Analysis
+
+
+Examination of the aircraft did not reveal any mechanical malfunctions that might have contributed to the accident. There was sufficient fuel for the flight. At the time of the occurrence, the centre of gravity was slightly aft of limits; it was determined that the aircraft was overweight on take-off. Although these factors did not contribute to the occurrence, the overweight and aft centre of gravity were a risk to safe operation.
+
+
+During the crash sequence, the ELT activated normally, but its location did not allow easy access for deactivation. Tools were required to access the device. The cockpit remote switch was not accessible due to impact damage. In the event that it had not activated on impact, it would have been difficult to manually activate the ELT because of its restricted access.
+
+
+During the crash sequence, the anchor points of the cargo net used to secure the baggage failed, causing baggage to be projected throughout the cabin. Such a failure contributed to some of the injuries sustained by passengers. The rear baggage area contained 300 pounds of baggage, 100 pounds more than the manufacturer's limitation. The missing seat track attachment screws combined with the additional loading of the cargo net contributed to the failure of the seat tracks.
+
+
+Studies and statistics have shown that GPWS and radio altimeters provide a defence against "controlled flight into terrain" accidents. GPWS are designed to provide a warning of approach to terrain and thus enhance safety in high-risk operational environments. Although this equipment is required on larger, passenger-carrying jet aircraft, that requirement does not extend to air taxi operations even though similar risks are associated with visually conducting these flights at night.
+
+
+The pilot was certified and qualified for the flight under existing regulations. He had appropriate rest before the occurrence flight, had considerable experience flying in this environment, and was an experienced instrument pilot. The pilot was well aware of the prevailing weather conditions at the destination airport; he had obtained weather information at the time of filing his flight plan, as well as en route. During his first approach, he would have become aware of the prevailing ceiling and visibility at the airport.
+
+
+Upon completion of his second approach at Stony Rapids, as he was proceeding toward Fond-du-Lac, the pilot was able to see the runway momentarily. As a result, he decided to turn toward the airport and conduct a visual approach. As he progressed in the poor weather conditions, trying to visually acquire the runway environment, the visibility gradually decreased. The trees became his main reference, resulting in a lack of awareness of the actual separation between the aircraft and the ground. It is also probable that the pilot perceived the edge of the clouds as the horizon, thus perceiving the natural horizon to be lower on the windshield than it really was. The tendency is to feel that the nose of the aircraft is too high and there is a strong urge to lower it. Subsequently, the aircraft crashed in a relatively flat but higher area covered with small trees.
+
+
+Information gathered from various company employees confirms that there was no pressure from management to influence the pilot to land at the destination airport. The pilot knew that he had a flight the next day, and he felt the need to reach the destination and be ready for the next day. The fact that the pilot did not have the keys of the available accommodations in Fond-du-Lac was also a factor in his persistence to land in Stony Rapids rather than proceed to his selected alternate. It is also likely that the pilot's decision was shaped by his perception of the low risk involved, his determination to succeed, and the accepted nature of this practice amongst pilots operating in remote communities with non-precision approaches. The scheduled aircraft maintenance was not deemed a factor for the pilot to land at the destination airport.
+
+
+As individuals gain experience performing tasks, their attitudes and perception of risk regarding those tasks often change. The more they successfully complete the task, the lower they believe the risks to themselves to be. Problems arise when the perceived risks no longer match the actual risks and dangers involved in an activity. As the subjective evaluation of personal risk decreases, the frequency of high-risk practices increases. Also, as group values shift, more adventurous decisions become normal and accepted within a given community. The conduct of low visibility visual approaches is a well-documented example of a high risk activity which is not uncommon amongst pilots operating in remote locations without the benefit of precision landing aids.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot executed a missed approach on his first NDB approach, and, during the second missed approach, after momentarily seeing the runway, he decided to conduct a visual approach, descending below MDA in an attempt to fly under the cloud base. In flying under the cloud base during the visual portion of his approach, the pilot likely perceived the horizon to be lower on the windscreen than it actually was. There was no indication that there was any form of pressure from management to influence the pilot to land at the destination airport. However, the pilot may have chosen to land in Stony Rapids because he had an early flight the following day, and he did not have the keys for the accommodations in Fond-du-Lac.
+
+
+
+Findings as to Risk
+
+
+No scale was available to the pilot in Edmonton for weighing aircraft loads. The maximum allowable take-off weight of the aircraft was exceeded by about 115 pounds, and it is estimated that at the time of the crash, the aircraft was 225 pounds below maximum landing weight. The aircraft's centre of gravity was not within limits at the time of the crash. The rear baggage area contained 300 pounds of baggage, 100 pounds more than the manufacturer's limitation. Two screws were missing from each section of the broken seat track to which the anchor points were attached. Cargo net anchorage system failure contributed to passenger injuries. The stitching failed on the seat belt's outboard strap that was mounted on the right, middle, forward-facing cabin seat.
+
+
+
+Other Findings
+
+
+Hand tools were required to access the ELT panel, since the cockpit remote switch could not be accessed.
+

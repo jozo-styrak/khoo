@@ -1,0 +1,55 @@
+
+
+Analysis
+
+
+While the rotor blade service life was 4000 hours, this rotor blade had accumulated only 3251 flight hours before the debonding during the occurrence flight. A primary focus of this investigation was to assess whether the repair process that had been completed only four flight hours before the debonding failure was connected to what happened on the occurrence flight.
+
+
+Before both this occurrence and the previous event earlier in the year, there had been no reported problems with the blade. All repair work carried out in the previously damaged area had been approved by Bell Helicopter and was performed in accordance with standard procedures. Records of the repair did not indicate any deviations that might have contributed to the blade skin debonding on the occurrence flight.
+
+
+During the examination of the bond between the spar doubler and the skin, in different areas of the affected blade, it was determined that all areas inboard of the repaired section exhibited cohesive bonding. However, the previously repaired area showed sporadic cohesive separation on the skin side, and the debonded area showed that the bond between the spar doubler and the skin was not cohesive.
+
+
+The possibility that the weak bond in the failure area was the result of a deficiency during the manufacturing process was assessed. This possibility was discounted, as it is considered unlikely that the blade could have accumulated 3251 flight hours with this defect in place with no reported problems.
+
+
+While the damaged rotor blade had been previously repaired using a procedure that is performed on a regular basis in the industry, the possibility was considered that integrity of the blade, in the debonding area, was affected during this previous repair process. Since the two areas are adjacent to one another and are the only areas where improper bonding was identified, the possibility was considered that the bladder and heater blanket used in the curing process during the previous repair could have played a role in this occurrence. With the bladder and heater blanket covering an area extending from the blade tip to a point inboard of station 243, the section of the blade that eventually failed was undergoing the same temperature and pressure cycle as the section being repaired. However, there was nothing found that would indicate that the heat and pressure cycle had any adverse effect on the section of blade that delaminated.
+
+
+Although damage during the previous repair could have been the starting point for the debonding during the occurrence flight, it is not possible to conclude this with certainty. If the repair process was involved, it would have been the result of a weakening of the bond through an influence on the adhesive.
+
+
+Bell Helicopter's Engineering Department determined that the debonding between the honeycomb core and spar would not have resulted in the skin separation. There were two areas on the blade observed to have core/spar separation. The first was located between station 263 and station 287, in the area where the lower skin debonded. The second area was located between station 211 and 224. This second area of damage was located away from the repaired area and the debonded area, indicating that this type of damage most probably occurred during the original manufacturing process.
+
+
+The following Engineering Laboratory report was completed:
+
+
+LP 066/2005 - Main Rotor Blade Adhesive Failure
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+A section of the main rotor lower blade skin debonded during flight, causing the helicopter to develop severe vibrations resulting in an emergency landing.
+
+
+
+Finding as to Risk
+
+
+The second area of blade damage likely occurred during the manufacturing process, but was not detected at that time. No information is available to assess how this type of damage affects blade integrity and the associated consequences during operations.
+
+
+
+Other Finding
+
+
+Although the debonding took place within the area where the bladder and heater blanket was used, the investigation could not confirm whether the heat and pressure cycle had any adverse effect on the section of blade that delaminated.
+

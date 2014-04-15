@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The weather conditions at the time of the occurrence were conducive to carburetor icing. However, if the pilot did not closely monitor the engine instruments, the formation of carburetor ice would initially be hidden while the governor was maintaining a constant manifold pressure and engine rpm. Therefore, whenever icing conditions are suspected, the pilot must apply carburetor heat as required. The pilot did not recall applying carburetor heat prior to departure or during take-off. There was nothing found to indicate that a mechanical fault or failure affected the operation of the engine. Although it is not conclusive that carburetor ice affected the engine, it is likely that this occurred. The engine had been operating for a couple of minutes on the ground and then in the air in conditions conducive to carburetor ice. It is likely that the ice adversely affected engine performance and resulted in the engine stoppage.
+
+
+The Robinson R22B helicopter's low-inertia rotor design is susceptible to rapid loss of rotor rpm if mishandled, and quick recovery action is required by the pilot. In this occurrence, when the engine stopped, there was little airspeed or altitude to be traded for energy to the rotor system. If rotor rpm significantly decreases at a slow airspeed, rotor stall will be inevitable. Following the loss of engine power, the main rotor RPM decayed rapidly and the pilot was unable to recover the RPM or arrest the helicopter's descent.
+
+
+During the 12-year inspection, it was discovered that the collective P/P tube guide bushing had been extruded from its supporting structural bracket; the P/P tube had chafed through the protection sleeve and worn excessively. Failure of this primary flight control would have rendered the helicopter uncontrollable.
+
+
+A 5-amp fuse was found installed where a 1.5-amp, in-line fuse over-current protection is required to prevent the belt tension actuator from overloading the drive belts. This overloading could occur if both the tension microswitches and the extension limit switch failed to limit both the extension of the actuator and the increasing tension on the drive belts.
+
+
+The pilot had installed a holding fixture for a portable GPS unit onto the side of the instrument console, secured temporarily with clecos. The GPS was powered continuously from a terminal at the clutch switch. Failure of the temporary fastening could lead to an electrical fire if arcing of the GPS power wiring occurred.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot did not recall applying carburetor heat prior to departure or during take-off. It is likely that carburetor ice adversely affected engine performance and caused the engine to stop operating. Following the loss of engine power, the main rotor rpm decayed rapidly to an unrecoverable speed and the pilot was unable to arrest the helicopter's descent.
+
+
+
+Findings as to Risk
+
+
+When replaced, the push-pull tube was found to have worn excessively. Failure of this primary flight control would render a helicopter uncontrollable. Incorrect over-current fuse protection of the belt tension actuator may lead to overloading of the drive belts. A global positioning system unit was secured with clecos onto the side of the instrument console. Failure of the temporary fastening could lead to an electrical fire.
+

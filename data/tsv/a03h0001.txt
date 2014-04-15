@@ -1,0 +1,22 @@
+Not all Gander controllers were provided with adequate training or simulation of ground-based communications failures and the necessary steps to quickly re-establish communications	, valuable time was lost in repeated attempts to contact DLH8161 on a frequency that was not working
+of the failure could not be determined	There was a failure in the line linking Gander ACC to the ATC frequencies at the Trepassey PAL site
+control of air traffic	positive
+DLH8161 did not read back the clearance to climb to FL350	the controller
+past experience	many controllers do not initially consider that ATC equipment may be involved when making an assessment of a communications failure but instead conclude it is an aircraft problem
+he requested another aircraft to call DLH8161	the controller did not specify another serviceable frequency that could have been used
+the failure was in the line to the PAL site , this action had no effect	The controller did switch to the VSCS back-up mode ; however ,
+The aircraft 's flight path was near the outer limit of expected coverage of that radio	, COA65 was close enough to Gander ACC to be within range of the multi-channel , tunable , back-up radio
+the controller had not realized at the time that the communications problem originated with the ground based equipment	The technical staff was not alerted to the problem with 134.7 MHz until 1200 , 15 minutes after the problem first appeared ,
+maintaining the links between the Gander ACC and PAL sites	A commercial service provider under contract to NAV CANADA is responsible
+no alternate to radar separation minima was in place during the time that communication with the two aircraft was not available	In this occurrence , two aircraft on reciprocal tracks at the same altitude were not assured of safety of flight for a period of approximately 10 minutes
+a failure in the ATC communications system	one clue that the loss of communications
+The VSCS CCP display	one clue the loss of communications was caused by a failure in the ATC communications system and not by the aircraft
+This allowed the controller to issue a clearance to climb to FL350 immediately	the time the two aircraft were in conflict
+This	the controller to issue a clearance to climb to FL350 immediately
+The failure of this line	the severing of the connections between Gander ACC and the PAL site and the loss of the main frequency -LRB- 134.7 MHz -RRB- for that area
+The communications failure between the Gander controller and two aircraft on nearly reciprocal tracks flying at the same altitude	the safety of flight for the two aircraft not being assured
+the communications voice switch control panel	a green indication
+This	a delay in establishing alternate communications with the aircraft
+the recovery from a communications failure	a loss of separation or risk of collision
+This	the recovery from a communications failure
+A power failure or a failure of the VSCS at Gander ACC and a simultaneous loss of the links connecting the ACC to the PAL site	a complete loss of communications on all those frequencies served by the failed links

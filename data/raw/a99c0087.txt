@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+The extent of fire damage to the engine and to the propeller components precluded an assessment of the propeller governor's performance other than to establish that the propeller was in fine pitch, in the governing range, and at high rpm during the collision with the shoreline. However, aerial photography of the aircraft's ski tracks and other information provided substantial details concerning the two take-off attempts by the pilot. The two significant performance factors in wet slushy conditions are the up-slope effect or form drag from the slush build-up in front of the ski and viscous drag from water contact over the entire bottom surface of the ski. Both factors can combine to make take-off impossible, and once a small lake with short take-off runs had been selected for use, the pilot had to consider these two factors in his decision making. Consequently, the analysis will deal primarily with pilot decision making and the performance of skis in slush.
+
+
+The pilot had operated to the lake during the two days before the accident. Conditions had been warm, but not as warm as the day of the accident, and the slush was reportedly not as deep. The aircraft weighed about 800 pounds less than the occurrence aircraft, and the pilot had no difficulty operating in and out of the lake. He decided to carry enough fuel to complete a four-day deployment and, as a result, he filled the aircraft's fuel tanks.
+
+
+The decisions regarding fuelling, operating in the conditions of the lake, and moving the road crew by air rested solely with the pilot. Because he had made decisions that affected the continued operation to the lake, there was a possibility of self-induced pressure to carry out the crew pick-up rather than inconvenience the crew.
+
+
+The pilot then made the first of two take-off attempts. The ski tracks indicated that he began his take-off from the pick-up point towards low terrain across the lake. The pilot used about two thirds of the take-off run as a reject point. When the aircraft reached this point and was not airborne, the pilot rejected the take-off. The aircraft decelerated, and the ski tracks indicated that he was able to turn the aircraft and approach within about 90 feet of the shoreline. The pilot's decision to reject was consistent with recommended practices and met the AFM requirement for a precautionary take-off.
+
+
+The pilot decided to attempt another take-off from a different position on the lake. While he made a small gain in take-off run available and had the advantage of taking off in the ski tracks made by the backtrack, the direction he chose headed towards faster rising shoreline than his original run. He reasoned that he would improve performance if he could get the aircraft's tail up faster, so he moved a passenger from the rear of the cabin to the front to change the centre of gravity and assist in raising the tail.
+
+
+While the choice of take-off path and the making of tracks for the skis increased the chances of a successful take-off, the effect of the change in the centre of gravity was questionable; the penetration of the main skis into the slush remained roughly the same, but this change increased the weight placed on the main skis. Viscous friction was not changed by the movement of the weight. Only a weight reduction would have accomplished the required increase in performance. Consequently, when the pilot arrived at his decision point, the aircraft was not airborne. However, the tail had now come up sooner and the pilot, convinced that the aircraft would fly off, continued past his previously predetermined reject point. Continuing past this point was not consistent with recommended practices and did not satisfy the AFM requirement for a precautionary take-off.
+
+
+Information indicated that the engine then performed as it had for the previous 10 days; that is, the engine rpm rolled back. The pilot was able to raise the right ski, and his belief that take-off was possible was reinforced. When the right ski was raised, the pressure on the left ski increased, as demonstrated by the deepening track. The departure path then curved to the left and the skis left the tracks created during the backtrack. Throughout the entire attempt, the left ski did not leave the surface, and the right ski contacted the surface at least once after being raised. The available information indicated that the aircraft had little chance of becoming airborne and that the pilot persisted in the belief that the aircraft would fly even when it became clear that the take-off could not be completed and collision with the terrain at the edge of the lake was imminent.
+
+
+The pilot's decision reflected a belief that the changes he had made would ensure the aircraft became airborne. In a series of sequential, related decisions, there is a tendency not to change or modify the preceding decision as readily as the available information would otherwise suggest prudent. This apparent reluctance to adapt may be in part because of a possible state of expectancy or predisposition (mind-set) which can distort what is perceived.
+
+
+
+Findings
+
+
+The pilot was qualified and certified for the flight in accordance with existing regulations. The weight and centre of gravity of the airplane were likely within the prescribed limits. The left ski remained in contact with the slush on the ice surface throughout the second take-off run. The pilot continued the take-off beyond the point at which a safe reject could have been made. The pilot noted a decrease in engine rpm beyond the point at which a safe reject could have been made. The condition of the engine and accessory gearbox precluded any useful analysis of the amount of power the engine was producing.
+

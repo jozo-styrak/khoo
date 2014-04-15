@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+The actions of the pilots did not contribute to the accident, nor did the weather, navigation aids, or airport conditions. Apart from the improper installation of the bolts that attach the trim actuator mechanism to the airframe, there was nothing remarkable about the condition of the aircraft.
+
+
+The AME who performed the work was qualified, but was inexperienced; he had been a qualified AME for about six months, and he had never worked on a stabilizer trim actuator installation. The crew chief who inspected the work had been an AME for about seven years, was experienced on the aircraft type, and had worked before on a stabilizer trim actuator installation, but not in the previous three to four years.
+
+
+The crew chief did not brief or discuss the task with the AME before the work began. He did not approach the job until after it was started. The inspection of the system had to confirm correct assembly, locking, and sense of operation, as stated in CAR 571.10 and explained in AN C010. The inspection was carried out superficially without close inspection from inside the tailcone or using the tools, such as a mirror, which would be standard for this type of inspection. The crew chief trusted the AME who performed the installation and was complacent in his inspection; this is not unusual in smaller companies where workers know each other and are used to working together.
+
+
+The AME did not use a mirror or other devices, such as a centring punch, to ensure the proper alignment of the bolts during the installation. After completing the maintenance work, the AME and the crew chief carried out a control check and the control surface behaved normally. During take-off, when the pilot pulled the control column aft for rotation, air loads on the stabilizer caused the improperly attached trim actuators to separate from the airframe, which made the noise heard by the co-pilot on take-off. The separation of the actuator from the airframe rendered normal control of aircraft pitch impossible, even though the control column was still properly attached to the elevators.
+
+
+The tower controller observed the aircraft crash land and immediately dispatched ERS personnel to the crash site where they assisted the occupants as they were getting out of the aircraft. Just as they were all clear, a small, fuel-fed fire broke out. The fire was quickly put out with fire-fighting equipment.
+
+
+
+Findings
+
+
+The pilots were certified and qualified in accordance with current regulations. The AMEs were certified and qualified in accordance with current regulations. Records show that the aircraft was certified, equipped, and maintained in accordance with existing regulations and approved procedures. The stabilizer trim actuator's two upper mounts bolts, which attach the mounts to airframe formers, were not properly installed by the AME. The crew chief inspecting the installation did not ensure correct assembly of the work. Following installation of the stabilizer trim actuator, the AME and the crew chief performed a primary and an alternate trim control check, which showed that the trim system was operating normally. The flight crew performed the required flight control checks as per the King Air A100 check-list before taking off. Because the actuators were not properly installed, air loads on the stabilizer during take-off caused the stabilizer trim actuators to disconnect from the empennage. After the actuators disconnected from the empennage, the flight crew had no control of the pitch attitude of the aircraft using normal flight control inputs.
+

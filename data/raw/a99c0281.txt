@@ -1,0 +1,49 @@
+
+
+Analysis
+
+
+The analysis of the accident will discuss the effect of the unserviceable instruments found during testing, the final portion of the ILS approach, crew decision making during the visual landing, the lack of crew coordination during the approach, passenger evacuation, and ERS response.
+
+
+The glide slope indicator's lack of responsiveness found during testing was probably overcome in the air by aircraft vibration, since the captain's instrument was performing adequately in flight. In addition, during the latter part of the approach, the aircraft was above the glide slope, in which range the instrument was not sticking. Since the crew indicated that they became visual at 300 feet above runway elevation, the unserviceability of either the captain's altimeter or the radar altimeter had no adverse effect on the approach. The error in the first officer's airspeed indicator would have caused him to call out airspeed deviations with a five-knot error; however, because the aircraft's speed remained above VRef until touchdown, a five-knot error in his calls would have been of no consequence.
+
+
+An excessive power setting by the PF caused the aircraft to become high on the glide slope as the range to the runway decreased from 2.5 to 1 nm. When the runway environment became visible to the crew, the aircraft rate of descent again decreased and the aircraft flew further above the glide slope. This latter deviation from the glide slope probably occurred because both crew members diverted their attention outside the cockpit to concentrate on visual references to the runway. While both crew members were aware that the aircraft was high and badly positioned for landing, neither crew member voiced concern about the progress of the approach.
+
+
+During the approach, there was no discussion between the crew members and there was a lack of calls by the first officer regarding glide slope and airspeed deviations, which likely contributed to the poorly-flown approach. A crew practising good CRM techniques would have ensured that each pilot was aware of how well the approach was progressing and how effective the approach was in positioning the aircraft properly for the landing.
+
+
+A landing at Dryden was possible for the accident aircraft under the ambient conditions because an estimated landing distance of 4700 feet was required and a landing distance of 6000 feet was available. However, this distance is based on a threshold crossing height of 50 feet and a threshold crossing speed of 109 knots. Because both of these parameters were exceeded, the likelihood of a successful landing was reduced. A decision to execute a missed approach or to continue to land depended on the captain's judgement of the aircraft's position and amount of runway remaining to land from the approach he had flown. The captain's decision to land was not altered during the approach; his predisposition or mind-set negated the visual cues that should have shown the ILS had not been accurately flown and that the aircraft was badly positioned for landing.
+
+
+A review of appropriate literature indicates that when one makes a series of sequential, related decisions, there is a tendency not to change or modify the preceding decision as readily as the available information would otherwise suggest as prudent. This apparent reluctance to change a decision may, in part, be the result of a state of expectancy or predisposition (mind-set) which can distort what is perceived.
+
+
+It is not known why the crew did not move quickly to evacuate the aircraft after engine shutdown. Two of the passengers who saw a fire in the tail pipe of the left engine were unable to attract the crew's attention, and one passenger walked forward and insisted that the main door be opened. After at least two minutes following engine shutdown, a crew member, the first officer, left his seat to assist in the evacuation of the passengers.
+
+
+The decision by the crew to not request ERS was not an informed decision. The aircraft had collided with lighting structures and propeller blade tips had broken off and damaged the aircraft structure. The possibility of a fire caused by fuel leaking on the hot brakes could not be immediately ruled out.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The approach was flown such that the aircraft was about 90 feet too high and about 40 knots too fast at the threshold. The captain landed the aircraft with about 2000 feet of runway remaining; about 3875 feet of runway was required to stop the aircraft after landing. Crew coordination during the approach and landing was minimal and ineffective, which likely contributed to the poorly-flown approach.
+
+
+
+Findings as to Risk
+
+
+The crew did not assess the condition of the aircraft and communicate clearly to the FSS whether ERS should be activated. The crew did not take action to evacuate the aircraft in a timely manner.
+
+
+
+Other Findings
+
+
+Airport staff arrived at the aircraft in about three minutes and promptly established communications between the aircraft captain and the airport manager. Several cockpit instruments were defective, but this did not contribute to the accident.
+

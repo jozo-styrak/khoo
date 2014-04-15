@@ -1,0 +1,27 @@
+the Seattle radar controller was expecting to hear FL370 , and there was no other salient cue present to lead him to conclude that the FL issued and read back was the incorrect one	The initial action by the Seattle ARTCC Sector 3 radar controller -LRB- i.e. inadvertently issuing the clearance to FL370 -RRB- was not detected during the readback from the pilot of COA422
+Once a controller 's mental model is firmly established , it resists being modified , even if subsequent data conflicts with the mental model	, the ability of controllers to accurately forecast the future position and status of aircraft under their control is reduced
+The Seattle ARTCC controller inadvertently cleared COA422 to FL370 rather than FL310 , and none of the involved controllers - Seattle , West or Holberg - detected that the aircraft was flying at FL370 and not FL310 , despite many clues	was that ATC was not providing separation for COA422 between FL310 and FL370 , resulting in a loss of separation and risk of collision
+one of the controllers , which may have set up a condition of fatigue	the mental model of the controllers was based on erroneous information regarding the cleared FL of COA422 ; the lack of a detailed review by the controllers of the aircraft data presented on the RSit and the flight data strips , to enable them to update their mental model ; the FL information received from the aircrew was not confirmed by a readback , nor is there a requirement to do so ; the Radar Data Processing System is not able to automatically cross-check , independent of a controller 's action , an aircraft 's flight planned track and altitude/FL with the actual route of the flight and altitude/FL ; the lack of a ground-based collision avoidance system at Vancouver ACC at that time ; and the scheduling of a short changeover from a midnight to an afternoon shift
+independent of a controller 's action , an aircraft 's flight planned track and altitude/FL with the actual route of the flight and altitude/FL	cross-check
+the FL information been heard and processed by the controllers	they may have been cued to the discrepancy between the FL stated by the pilot and that contained in the controller 's mental model of the situation , and taken appropriate action
+reading back the FL to the pilot	the controller may have detected the discrepancy
+the short-term conflict alerting system	it was the combination of a last-minute turn and a TCAS alert that prevented a possible mid-air collision
+In both the Holberg/Nootka and the West sectors , each controller was working alone and was	all activities associated with the radar and data positions
+the mental model of the controllers was based on erroneous information regarding the cleared FL of COA422 ; the lack of a detailed review by the controllers of the aircraft data presented on the RSit and the flight data strips ,	them update their mental model
+the mental model of the controllers	erroneous information regarding the cleared FL of COA422
+The realization by the Holberg controller that there was a conflict and the issuing of the turn	a mid-air collision
+The most plausible reason for this was that the Seattle radar controller was expecting to hear FL370 , and there was no other salient cue present	him conclude that the FL issued and read back was the incorrect one
+all parts of the air management system - the Seattle ARTCC Sector 3 data controller , as well as the Vancouver ACC controllers - was operating under the assumption that COA422 was climbing to FL310	separation that flight up to
+The Seattle ARTCC and Vancouver ACC controllers ' mental models did not match the reality of the situation	the risk of collision between COA422 and AAR284
+the NAV CANADA strip-marking procedures	defence
+the pilot matched that on the flight data strip	the altitude
+Inadequate information processing and cross-checking	a lack of situational awareness and an inaccurate mental model among Vancouver ACC controllers
+A conscious , self-enforced practice to carry out a detailed check of all displayed elements of a data block on initial contact with an aircraft is designed	the confirmation of accurate data and the detection of potential conflicts
+An automated comparison between the aircraft 's actual FL and flight plan data or electronic flight data strip information may have alerted the controller to the developing conflict	this incident
+pilots	such a report
+Similarly , without the short-term conflict alerting system , it was the combination of a last-minute turn and a TCAS alert	a possible mid-air collision
+The controller 's sleep-wake pattern	his level of fatigue
+The result was that ATC was not providing separation for COA422 between FL310 and FL370	a loss of separation and risk of collision
+this	an increased demand
+it	the risk information would be missed
+the pilot	the strip with the altitude information

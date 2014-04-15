@@ -1,0 +1,25 @@
+Furthermore , the action of passing the flight data strip for the Cessna to the GS controller could have reinforced the TS controller 's perception or expectation that all required actions were completed and that the runway was available for the next aircraft to depart	of the long and fast touchdown , the pilot of the Cessna was unable to slow the aircraft sufficiently to vacate the runway as instructed
+it occurs continually during a controller 's shift	Scanning for obstructions or traffic is an essential yet routine air traffic control function
+the long and fast touchdown	the pilot of the Cessna was unable to slow the aircraft sufficiently to vacate the runway as instructed
+he did not inform the TS controller that he was unsure about the exit to Runway 12 , and that he could not slow down sufficiently	it compounded the TS controller 's delay in recognizing that his plan had broken down and that a risk of collision situation was developing
+the pilot of the Cessna was concentrating on landing and slowing the aircraft at the point he was to exit , he passed it by	In this incident ,
+The airport lacked an automated collision-avoidance defence	, the last opportunity to avoid a collision was provided by two nearly simultaneous events
+its lack of contrast against the background , its small size , and the distance between the two aircraft	The Cessna 's low visibility
+The routine nature of the scanning activity , combined with limitations in human visual scanning	a risk
+sufficient training	them aware of some of the limitations of human vision
+their own scanning techniques	the probability of detecting objects on the manoeuvring area
+a hazard	the safety of flight
+techniques	the likelihood of detecting a hazard affecting the safety of flight
+Low contrast between the aircraft and its background , the aircraft 's small size , and its distance from WJA168	the probability of it being sighted
+These actions	a controller working with an outdated situational awareness model , which can lead to an occurrence
+These actions may result in a controller working with an outdated situational awareness model	an occurrence
+the pilot of the Cessna	the aircraft
+on landing	the aircraft at the point he was to exit
+controller	compliance
+two nearly simultaneous events :	the last opportunity to avoid a collision
+This	the TS controller to issue instructions to the Cessna remain on the right side of the runway and to expedite travel to the next exit
+The Cessna 's landing was faster and further down the runway than normal	the pilot to miss the exit at Runway 12
+The TS controller cleared WJA168 for take-off without ensuring that the runway was clear of obstruction	a risk of collision between WJA168 and the Cessna
+The Cessna pilot did not advise the TS controller that he was unsure of his position on the runway or that he had missed the exit to Runway 12	the TS controller 's recognition of the developing conflict
+Although the pilot of WJA168 scanned the runway ahead before commencing the take-off roll , he did not detect the Cessna on Runway 08R	a risk of collision between WJA168 and the Cessna
+The airport surface detection equipment -LRB- ASDE -RRB- radar system is equipped with a runway incursion monitoring and conflict alert sub-system -LRB- RIMCAS -RRB- software program	an alert the controller of a potentially hazardous situation on the runway

@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+At the time of the occurrence, the crew were operating the aircraft within normal parameters and had completed the required checks. Therefore, crew actions, weather conditions and navigational aids were not considered to be factors in the occurrence. The analysis will discuss the conditions that facilitated an improper installation of the trim actuator and the difficulties in the successful completion of an independent control check.
+
+
+During installation of the trim actuator, the installer is in an awkward position and is holding the relatively heavy actuator in place and ahead of him. The mounting lugs are hidden from view from the side by the mounting channels and hidden from the front by the body of the actuator, so the bolts are installed by feel. If the actuator is moved rearwards and against the bulkhead, the bolts cannot be inserted. However, the mounting lugs can be positioned far enough forward that the bolts may be inserted behind rather than through the lugs. The installer might expect that the actuator would simply fall free if the bolts were not correctly installed. However, as in this instance, the mounting lug assemblies can become jammed between rivets and the mounting bolts. The weight of the actuator is suspended leading the installer to believe that the bolts have been successfully installed.
+
+
+When one upper mounting lug is correctly placed within the airframe attachment structure, the geometry of the actuator ensures that the second lug will be correctly positioned. During installation, if a small-diameter pin were inserted through the attachment structure for one mounting lug, the weight of the actuator could be suspended from that pin while a close-tolerance bolt was installed at the other mounting lug. The pin could then be removed and a high-tolerance bolt installed in its place. Additionally, if arrows were marked on the sides of the actuator, in line with the holes in the spherical bearings (see Appendix A), the correct positioning of the actuator could be easily determined. There were no published warnings to indicate that special attention is required when installing actuator mounting bolts, nor were there procedures outlined to ensure the correct installation of the high-tolerance bolts.
+
+
+The installation, adjustment, and testing of the stabilizer system had been completed prior to the accomplishment of the dual inspections of the flight controls. The AMEs inspecting the installation determined that the bolts were installed through the holes in the airframe channels and that the appropriate washers and self-locking nuts were in place. The confined space of the installation area and the shape of the components, which complicate the installation, also made it very difficult to inspect the installation. As a result, the incorrect installation went undetected.
+
+
+Because the actuator is constantly under compression when the aircraft is on the ground, the required functional testing of the horizontal stabilizer system did not identify the improper installation of the actuator. In flight, however, the trim actuator experienced compressive and tensile loads. The rivets that were holding the actuator in place gradually wore away, the actuator became detached during the occurrence flight, and the crew lost pitch control of the aircraft.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+During flight, the horizontal stabilizer trim actuator worked free of the mounting structure, and as a result, the flight crew lost pitch control of the aircraft. During replacement of the horizontal stabilizer trim actuator, the upper attachment bolts were inserted through the airframe structure but did not pass through the upper mounting lugs of the trim actuator. The improperly installed bolts trapped the actuator mounting lug assemblies, suspending the weight of the actuator and giving the false impression that the bolts had been correctly installed. Dual inspections, ground testing, and flight testing did not reveal the faulty attachment.
+
+
+
+Findings as to Risk
+
+
+The nature of the installation presents a risk that qualified persons may inadvertently install Beech 99 and Beech 100 horizontal stabilizer trim actuators incorrectly. There are no published warnings to advise installers that there is a potential to install the actuator incorrectly.
+

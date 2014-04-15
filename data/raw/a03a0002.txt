@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+Several factors combined to allow this large windrow to remain unreported. Neither lead-hand nor the ground controller were made aware of the creation of the windrow because of the practice of not reporting windrows on other than active runways. The location of the windrow was in an area that was not used by either ground vehicles or aircraft until Runway 29 became active, and it was outside of the areas inspected by the night lead-hand during his shift. The night shift had a significantly increased workload because of the freezing drizzle, the stranded Airbus, and the frequent runway changes. These factors likely diverted attention away from ensuring that the taxi route north of Charlie intersection was usable when Runway 29 became active. The shift change for the snow removal crews coincided with the towing of the Airbus, the runway change, and the issuing of the taxi clearance to Lab Air 8333. The windrow was the result of snow plowing activities, and it is likely that whoever had knowledge of the windrow had departed the field prior to the taxi clearance being issued and would not have been available to warn of the existence of the windrow. The oncoming lead-hand did not perform the customary field survey and inspection because of the pressing need to prepare Runway 29 and move the stranded Airbus. A field inspection would have allowed for detection of the windrow and for action to remove it or communicate its presence to the ground controller.
+
+
+Runway 02 north of Charlie is a low-priority surface, and was not used prior to Lab Air 8333 by either vehicles or aircraft. The surface had not been cleared, was not usable, and was not necessary, yet it remained open. The St. John's Airport winter maintenance plan does not contain guidance to field maintenance personnel for the closure and subsequent re-opening of these non-essential surfaces.
+
+
+The crew's previous safe transit through the intersection and the lack of any warning of obstructions along their taxi route resulted in them proceeding with their normal taxi routine, and without extra vigilance for taxi hazards such as windrows. The flat-light conditions and the white background of the uncleared portions of the airfield also caused the windrow to blend into the background, making it less conspicuous from a distance. Approaching the intersection, the crew's attention was diverted by the presence of snow removal vehicles on Runway 16/34 which were approaching their location. During the subsequent taxi check, the first officer was reading the checklist and the captain's attention was focussed inside the cockpit, as he was verifying his flight instruments. These actions and the inconspicuousness of the windrow prevented the crew from seeing the windrow earlier.
+
+
+The taxi speed of the aircraft and the icy condition of the runway hindered the stopping of the aircraft, and consequently did not allow time for the captain to apply reverse thrust, or to consider initiating the "Propeller Collisions during Ground Operation" checklist. Had the taxi speed of the aircraft been less, more time would have been available for the crew to recognize and react to the windrow. With more time to react, it is possible that the crew could have stopped the aircraft prior to the collision, or that the "Propeller Collisions during Ground Operation" check could have been completed, lessening the risk of aircraft damage and physical harm to the passengers.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was damaged when it collided with a windrow laying across its taxi path. Runway 02 north of Charlie taxiway was left open throughout the period of snow removal even though it was not usable and was not required. The taxi speed of the aircraft did not allow the crew sufficient time to respond once they saw the windrow, increasing the risk of collision, damage, and physical harm to the passengers. The lighting conditions at the time made the windrow difficult to see. The existence of the windrow, the result of snow plowing activities, had not been reported to either the night lead-hand, the ground controller, the oncoming lead-hand, or the crew of Lab Air 8333. The stranded Airbus, the high airfield maintenance workload and the shift change combined to circumvent the normal procedures that would have ensured that the windrow was reported.
+
+
+
+Finding as to Risk
+
+
+The St. John's Airport Winter Maintenance Plan does not require the reporting of windrows on non-active runways. The St. John's Airport Winter Maintenance Plan does not contain instructions for the closure and reopening of low priority airfield surfaces.
+

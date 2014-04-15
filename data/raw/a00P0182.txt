@@ -1,0 +1,34 @@
+
+
+Analysis
+
+
+A review of the flight crew's actions during this incident revealed no indication that their actions contributed to or exacerbated the chain of events that led to the freewheel unit slippage. A review of the company flight operations, however, revealed that some standard operating procedures probably contributed to the freewheel unit slippage.
+
+
+Accelerated wear in the IFWU was likely caused by a combination of frequent overrunning of the same IFWU, frequent single-engine training, and rotor engagement techniques. It was not determined why the No 2 IFWU gear housing had worn in an eccentric manner.
+
+
+The manufacturer's customer service letter (CSL-P-80-011) highlighted the probability of freewheel unit slippage being aggravated by the practice of rapid, harsh rotor engagements and predominant engine starts. The Sikorsky recommendations of alternating rotor engagements between engines, moderating engine acceleration when matching torques, monitoring the free power turbine overshoot, and reducing the amount of IFWU freewheeling have noticeably reduced the frequency of IFWU slippages. Helijet was aware of these recommendations and, since the incident, began to alternate rotor engagements between engines and reduce the amount of IFWU freewheeling. Since then, little wear was seen on the IFWU gear housing. It is therefore likely that the operator's standard operating practices, at the time of the incident, contributed to the accelerated wear seen in the incident IFWU.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The No 2 input freewheel unit (IFWU) in the main-rotor gearbox was worn beyond limits and slipped under high power loading at take-off, precipitating the spontaneous overspeed and shut down of the No 2 engine. Accelerated wear in the IFWU was likely caused by a combination of frequent overrunning of the same IFWU, frequent single-engine training, and rotor engagement techniques.
+
+
+
+Findings as to Risk
+
+
+IFWUs in the S-61 helicopter are susceptible to high wear rates under certain operational conditions. As a result, IFWUs can fail, cause engine overspeed, and shut down.
+
+
+
+Other Findings
+
+
+The helicopter manufacturer recommended procedures to improve torque load-sharing and to counter high wear rates with IFWUs in S-61 helicopters. These procedures have not been fully incorporated into the Transport Canada-approved rotorcraft flight manual.
+

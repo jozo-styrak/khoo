@@ -1,0 +1,38 @@
+
+
+Analysis
+
+
+The weather conditions were appropriate for the flight. The flight instructor was qualified and had experience appropriate to the flight being conducted. Although the minimum altitude recovery of 4 000 feet agl recommended by the manufacturer was not followed by all the flight instructors at Laurentide Aviation, it is likely that a higher altitude would not have enhanced the flight instructor's chances of recovery from the spin in this occurrence.
+
+
+However, the failure to follow specified altitude restrictions for spin exercises increases the risk of such operations and deserves attention by Transport Canada by means of reminding operators of such safety precautions.
+
+
+It was presumed that the lack of a rudder bar return spring would not affect the flight operations of the aircraft, and the aircraft was released for flight. In reality, because the spring was missing, the aircraft was not airworthy. Further, the required entries were not made in either the snag book or the journey logbook. Had the logbooks reflected the defect and been available to the pilots, the flight instructor likely would have been aware that the rudder bar return spring was missing and would have had the option of refusing to operate the aircraft in that condition. There was no communication from the maintenance personnel to the flight crew member about the maintenance actions taken on the aircraft in relation to the rudder system.
+
+
+The requirement to conduct independent inspections is intended to provide a further check of an engine or flight control system which has been disturbed during maintenance. The objective is to increase the likelihood that the system is going to operate properly. Work was done on the flight control system in the form of inspection, removal of broken parts, discussion, and decision making. The absence of the rudder bar return spring and its attachment bracket arguably resulted in a disturbance to the flight control system which ought to have required an independent inspection. No independent check was completed and Transport Canada maintains that this is not required in these circumstances because no work was done on the rudder control system. In any event, the removal of the rudder return spring meant that the flight authority was no longer valid because the aircraft no longer conformed to its type certification.
+
+
+During the maintenance audit of the flight school operator at Saint-Hubert Airport, discrepancies were noted that led to the grounding of several aircraft, including five Cessna 152 aircraft with reported rudder over-traveling. The audit revealed that there were scratches or score marks on the five airplanes that indicated that the rudder horns had over-traveled above and beyond the stop bolt at some time. The preliminary findings regarding rudder over-traveling led to additional examinations and tests by the TSB, Transport Canada, Cessna, and Laurentide Aviation personnel on 22 February 2000.
+
+
+The tests conducted on 22 February 2000 revealed that, under certain conditions, the rudder can over-travel and jam in an irreversible condition, exactly like the condition of the rudder found on the accident aircraft. A full up, or nearly full up, elevator and a full rudder input are the control inputs used for spin entry.
+
+
+The implications of removing the broken rudder bar return spring from the accident aircraft were not apparent to the Laurentide Aviation maintenance personnel. However, the recent examinations and tests confirmed that the absence of the return spring, in combination with other factors such as incorrect rudder rigging, condition of the rudder, and rudder horn or stop plate condition and alignment, set the stage for irreversible jamming of the rudder during application of controls for spin entry.
+
+
+It can therefore be concluded that the aircraft entered a left spin with the rudder locked at a 34-degree deflection. With the rudder jammed the way it was, no amount of right rudder pedal force would have released the jammed rudder, as the direction of cable pull tends to increase the jamming by closing the horn.
+
+
+The actions proposed by Cessna to design a new rudder horn stop bolt assembly should provide protection against future jamming of the rudder--if the new design is installed on the aircraft. However, the Service Bulletin planned to offer the new configuration will not be mandatory without regulatory airworthiness actions.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+During a practice spin exercise, the rudder locked in a full left deflection, which could not be overcome by the crew. The aircraft was released for flight with a rudder bar return spring missing, which, in combination with other factors, probably allowed the rudder to lock in a full left deflection. Tests conducted on an aircraft similar to the accident aircraft showed that the design and condition of the stop bolt and rudder horn stop plate allowed the stop plate to over-travel the stop bolt and jam. Because the direction of cable pull tends to close the mouth of the horn, increasing the jamming effect, applying right rudder force would only have tightened the jam rather than broken it.
+

@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+The pilot had originally intended to taxi the aircraft along the airstrip to pack down the snow. Since the aircraft was likely near maximum gross weight and the snow was quite deep, the skis plowed through the snow, impeding acceleration of the aircraft. It was not determined why the pilot did not conduct this runway preparation activity. The aircraft accelerated slowly and, near the end of the airstrip, the pilot forced the aircraft into the air with insufficient airspeed to climb out of ground effect and clear the obstacles. The aircraft was at or near the stall when it struck the brush and tree; it then departed controlled flight and crashed into the frozen surface of the lake.
+
+
+The pilot did not attempt to abort the take-off prior to the end of the airstrip. An indication to the pilot that the aircraft was accelerating and capable of flying would be the raising of the tail. As indicated by the three separate ski and tire tracks in the snow, the tail of the aircraft was never flying until the aircraft got airborne near the end of the airstrip.
+
+
+The ELT did not activate, likely because it was equipped with a unidirectional G switch. Even if it had activated, it probably would not have alerted the RCC because the external ELT antenna was severed during the impact sequence.
+
+
+The following Engineering Laboratory report was completed:
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot attempted to take off from an airstrip that was covered with approximately 18 inches of snow, and the aircraft did not accelerate to take-off speed because of the drag; the aircraft was forced into the air and was unable to climb out of ground effect and clear the obstacles. The pilot did not abort the take-off when it became apparent that the aircraft was not accelerating normally and before the aircraft became airborne.
+
+
+
+Finding as to Risk
+
+
+Unidirectional G switches, which are found on many types of ELTs, do not always activate the unit when impact forces are not aligned with the usual direction of flight.
+
+
+
+Other Findings
+
+
+The validity of the aircraft's certificate of airworthiness was affected while it flew more flights than allowed by the ferry permit issued by Transport Canada. The rear passenger seat was found to be installed incorrectly, contrary to de Havilland Alert Service Bulletin A3/49, dated 19 July 1991.
+

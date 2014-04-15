@@ -1,0 +1,31 @@
+The ultimate fear of any maintenance professional -LRB- supervisor , AME , apprentice , or inspector -RRB- is that an error , once committed , will remain undiscovered and ultimately lead to an accident	of an error in the installation/rigging of flight or engine controls is recognized by both the industry and Transport Canada , thus engine or flight control maintenance is treated differently than other maintenance tasks
+hooking the cables up backwards	This analysis will focus on how five aircraft maintenance professionals -LRB- with different levels of experience -RRB- worked on this system and allowed the aircraft to be dispatched with the elevator trim operating backwards
+The maintenance manual contains detailed instructions on how to remove and install the elevator and how to remove and install the stabilizer , but does not provide instruction for the task of removing and installing the stabilizer with the elevator attached	, a significant amount of interpretation is required
+When the AME was conducting the final inspection of the installation , he was working alone	, he relied on operating the trim and checking the movements of the surfaces
+an	error in the installation/rigging of flight or engine controls is recognized by both the industry and Transport Canada , thus engine or flight control maintenance is treated differently than other maintenance tasks
+occurrence	the
+that shift work	human performance
+assigning and supervising the work of six apprentices that night , a task that would require maximum alertness and awareness on his part	The crew chief was simultaneously responsible
+he connected the control cables	the crew chief had no objective cues to help him decide which cable ends should be attached together
+The two apprentices completed the tasks as they thought they had been assigned ; they did not feel	the overall installation
+nor did he appreciate the significance of rigging the controls	do
+the personnel received	this occurrence is the quality and quantity of training
+the apprentices had informed him	Since the continuous and progressive training of the apprentices is not a formal process , he would have been aware
+This person would approach the inspection with fresh eyes	he would see errors overlooked by the person who actually performed the work
+his signature indicates that	he is taking on responsibility for work which he did not complete
+a second person to assist him , on this aircraft	it was more difficult to adequately check either the range of travel or the sense of operation
+the aircraft began to pitch nose-up during the take-off run	the crew misdiagnosed the problem as one associated with the aircraft C of G rather than the trim setting
+five weeks and were on the second and third nights of a four-night block	The crew had been working the night shift
+the crew chief did not identify the elevator trim cables	The elevator trim cables were crossed during the installation
+the AME was conducting the final inspection of the installation	he was working alone
+, after midnight , the airport relies on the municipal fire department for crash fire rescue	Airport ERS were not available for the landing
+Aviation maintenance professionals require an extremely broad range of skills , and they are subjected to the pressures of keeping all aircraft in revenue service , working during evening hours under severe time constraints , maintaining an ageing fleet , and dealing with other factors	human performance
+The requirement for a second person to formally inspect this work is intended	the aircraft being dispatched with control problems
+five aircraft maintenance professionals -LRB- with different levels of experience -RRB- worked on this system	the aircraft be dispatched with the elevator trim operating backwards
+the crew chief	two apprentices complete it without direct continuous supervision
+Fatigue	it more difficult for them to view the project as a whole , compared to the relative ease of viewing and completing a single task
+fatigue and/or complacency	a number of relatively minor errors in installation , which the lead hand identified during his first inspection
+the crew chief had no objective cues	him decide which cable ends should be attached together
+it	the apprentices were working on the installation from gaining an overall picture of the work being carried out
+the company	adequate technical training licensed AMEs
+The captain 's inexperience on type , combined with the crew 's predisposition toward a C of G problem related to a load shift	the crew incorrectly diagnosing the trim problem

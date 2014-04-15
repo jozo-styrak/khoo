@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+The helicopter was maintained and certified in accordance with existing regulations and there was no evidence that a pre-occurrence mechanical discrepancy contributed to the occurrence. The abandoned airstrip was large enough for a Bell 206 landing and departure, and good visual meteorological conditions, with light winds, existed at the time of the occurrence. The analysis will therefore discuss the decision by the pilot-in-command to leave the helicopter engine running with a pilot who was not qualified on helicopters at the controls, and on the effect of applying fixed-wing knowledge to helicopter operation.
+
+
+The pilot's decision to land at the private recreational campground was based on his desire to conduct some business at his trailer. After landing, the pilot had two options with regard to exiting the helicopter. In both cases the possible outcomes were negative. One choice was to shut the helicopter down, as required by existing regulations, and lose approximately seven minutes of time. This was the less risky choice; however, the flight was already behind schedule, and the known outcome was a further loss of time. The second choice was to leave the helicopter running, have the fixed-wing pilot monitor the controls, and thereby lose less time. This was more risky in that the outcome could be far more disastrous; however, the risk probabilities were unknown. Considering that the entire trip, including stops, would have required approximately nine hours to complete, the additional time that would have been lost by shutting down was relatively insignificant.
+
+
+Given that this was personal rather than official business, and that the real purpose of the flight was to visit operators, it is probable that the pilot wished to minimize any inconvenience to the other two Transport Canada officials. The fixed-wing pilot (and the other Transport Canada official) had sufficient aviation experience to encourage a multi-person decision-making environment; however, they were relatively unfamiliar with helicopters. As well, an atmosphere of cooperation and congeniality existed and the decision to leave the helicopter running was never challenged. The pilot had the final authority in the decision making process and while he may have realized that option one was safer, he chose option two, because the perceived outcome was more desirable. His decision to leave the helicopter in the care of the fixed-wing pilot may have been reinforced by his previous experiences of exiting a running helicopter to permit students to shut down on their own, with no adverse consequences, and by the willingness of the fixed-wing pilot to accept the responsibility of holding the flight controls. The pilot overestimated the fixed-wing pilot's helicopter skills and underestimated the likelihood of a negative outcome.
+
+
+It could not be determined why the helicopter initially began to oscillate; however, it is probable that the condition occurred due to a combination of factors, including the excessive flapping of the main rotor due to a wind gust, and/or an inadvertent movement of the cyclic from the centre position. The fixed-wing pilot responded by moving the cyclic forward; which induced severe mast bumping. This action was the misapplication of a normal fixed-wing corrective action. The mast bumping was sufficiently intense to damage the transmission isolation mount, the transmission mount plate and support, and the transmission pin assembly, and to permit the rotating swashplate pitch horns to contact the surrounding cowling. When the swashplate rotation was restricted due to pitch horn interference with the cowling, the collar set failed in overload. The main rotor pitch links subsequently failed due to overload when the flailing drive link assembly jammed and further restricted the swashplate rotation.
+
+
+Had a search been required in order to locate the helicopter, the search effort may have been hampered because pertinent information was missing from the flight itinerary.
+
+
+
+Findings
+
+
+The helicopter was maintained and certified in accordance with existing regulations. The fixed-wing pilot who occupied the left seat was not qualified on helicopters. After the helicopter began to oscillate, the fixed-wing pilot applied an inappropriate corrective action, and induced severe mast bumping, by moving the cyclic control forward. The swashplate collar set failed in overload, because of swashplate to cowling contact. The pilot did not provide the correct information on the flight itinerary.
+

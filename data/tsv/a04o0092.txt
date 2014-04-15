@@ -1,0 +1,19 @@
+The primary roles of ATC are to prevent collision and to expedite traffic	, pilots expect that when they communicate with the London tower , they will receive instructions or clearances from the ATC to steer them clear of known traffic or , at a minimum , receive sufficient information to acquire the traffic visually so they can take appropriate action themselves
+When a pilot transitions from one class of airspace to another , there may be changes to the level of service , such as a change from control service to advisory , or vice versa	, pilots may be under a misconception about how much information and/or control action is being provided by the ATC
+The position of Unit Operations Specialist had not been staffed at the London ATC unit for a considerable time	, there was limited support for the London tower manager who is responsible for overseeing the operation , reviewing or revising existing procedures , and developing new procedures
+a pilot transitions from one class of airspace to another	there may be changes to the level of service , such as a change from control service to advisory , or vice versa
+the same time	ATC personnel may , in some cases , expect pilots to take action on their own based on received traffic information and not wait for specific ATC clearances or instructions
+the pilot of WJA107 was not informed that the Cessna was flying an opposite-direction simulated-IFR approach to Runway 15	he would not have been aware that the traffic mentioned to him earlier posed a risk of collision
+overseeing the operation , reviewing or revising existing procedures , and developing new procedures	Therefore , there was limited support for the London tower manager who is responsible
+conducting this type of operation based on other than the official weather report	Although the conditions observed by the controller seemed adequate for the simulated IFR approach , there was no flexibility included in the published procedure
+authorizing reciprocal approaches when there is an IFR departure planned , nor did the tower controller coordinate the simulated IFR opposite-end approach with the ACC controller	The tower controller did not follow published procedures
+The primary roles of ATC are	collision
+the ATC	and/or control action is being
+action on their own	traffic
+the tower controller	traffic information both the instrument flight rules -LRB- IFR -RRB- departure -LRB- WJA107 -RRB-
+the required action	a conflict-free departure path out of the control zone , especially in light of the instrument meteorological conditions encountered in the climb-out
+this type of operation	other than the official weather report
+This	the time
+The tower controller did not advise the ACC controller of a potential conflict on the departure path for Runway 33	the initiation of ACC control action
+Procedures published in the London Control Tower Unit Operations Manual require controllers	conflict resolution
+authority	a control service

@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+The disassembly revealed that interference between the turbine-to-compressor coupling and the power inner shaft had occurred during operation, most probably because of an accumulation of carbon and oil sludge on the outer surface of the coupling and/or on the inner surface of the shaft. During operation, the coupling rotates at the N1 speed of approximately 50,000 revolutions per minute (rpm), while the N2 shaft speed is in the order of 33,000 rpm. Even very light contact will result in rapid frictional heating, which allows the normal torsional loads on the coupling to impart a twisting deformation. This results in further interference and an imbalance condition. The contact between parts tends to reduce the speed differential, sending conflicting information to the controls.
+
+
+Ordinarily, the extent of the carbon build-up throughout the engine would be indicative of a long term problem. However, maintenance records indicate that the work to avoid this kind of problem had been performed shortly before the accident. The accumulation of carbon and sludge in the power turbine support assembly, in both the supply and scavenge struts and the bearing cavity, and also in the No. 8 bearing location, suggests a number of possibilities relating to both operation and maintenance.
+
+
+The following laboratory report was completed:
+
+
+LP 101/95 - Engine Examination, Bell 206L-1, C-GLBA.
+
+
+
+Findings
+
+
+The packing was damaged between the turbine-to-compressor coupling and the spur adapter gearshaft. The oil filter element contained a moderate collection of carbon particles and several small metal particles. The turbine-to-compressor coupling shaft was heavily carboned, both internally and externally, and was deformed due to torsional stress. The No. 6 and No. 7 oil supply screen contained a significant amount of carbon. The No. 6 and No. 7 bearings were blackened and gritty, with some silver plating "melt-out". The No. 8 bearing lab seal was cracked axially and circumferentially, and contained a significant amount of carbon. The No. 8 bearing showed signs that bearing failure was imminent.
+

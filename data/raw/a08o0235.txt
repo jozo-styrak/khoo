@@ -1,0 +1,38 @@
+
+
+Analysis
+
+
+The nose landing gear was overhauled and certified by Aeromil, an Australian company. Canada and Australia do not have any maintenance agreements in place, meaning that each country does not accept the other's certification on any parts where maintenance has been performed. Unknowingly, Air Creebec installed the overhauled nose landing gear on its aircraft with an Australian Authorized Release Certificate that is not recognized or accepted by Transport Canada.
+
+
+Examination of the fractured surfaces by visual, optical and SEM methods suggested that the failure of the strut housing in a single-cycle ductile overstress mode was preceded by progressive mode cracks. These cracks were fatigue cracks and the main larger crack led to the eventual failure of the nose landing gear. The main fatigue crack had two distinctive areas that grew in two stages over an unknown period of time. One area had clear fatigue striations with little oxidation and debris. The second area had severe oxidation, rubbing, and an integrated substance, and is considered to be the older of the two sections. The substance was identified as hardened bushing locking adhesive, with elements of carbon, oxygen, silicon, and sulphur.
+
+
+The main fatigue crack in the housing displayed multiple initiation sites. There were also imperfections on the inner surface of the housing that could have contributed to the initiation of the crack. This could not be proven because the bore surface was worn and damaged. The multiple initiation fatigue crack origins possibly indicate more than one point of initiation for the fatigue crack. The origin of the initial crack could not be ascertained. It may have been induced during the machining process of the inner bore surface at manufacture, or possibly due to the condition of the tooling used in fabrication, or it could have been initiated by the introduction of foreign matter or debris.
+
+
+Entry of a foreign material, identified as molybdenum disulfide, into the bore suggests a small gap developed between the bushing and the bore, which likely occurred during the gradual opening of the main fatigue crack during post-overhaul service. The wear on the bore surface and pitting also suggest looseness of the bushing in the bore. The pitting was possibly a result of moisture entry into this area during the service life of the nose landing gear.
+
+
+Traces of the bushing locking adhesive were found in an area of the fatigue section of the crack and in secondary cracks nearby. If the adhesive had cured (solidified), it is unlikely that it could have penetrated the cracks. Therefore, it is reasonable to believe that the cracks were present when the adhesive was in liquid state, such as during the installation of the bushing at the time of overhaul, and that it penetrated into the pre-existing cracks in the bore arm.
+
+
+The crack should have been identified during overhaul but, for unknown reasons, it was not. This could have been due to workload, working conditions, tools, operator ability, lack of supervision, misreading or misinterpretation of instructions. As the component was overhauled in Australia approximately two years prior to the event, it was deemed unlikely that further investigation would uncover issues prevailing at that time, and this was not pursued.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 121/2008 Nose Landing Gear Failure
+
+
+This report is available from the Transportation Safety Board upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The nose landing gear failure was caused by the fracture of the oleo strut housing trunnion link arm, which was initiated by an existing fatigue crack in the bore of the link arm. The crack propagated during the pre-overhaul service life of the nose gear and progressed further during the post-overhaul service of the aircraft, leading to an overload fracture. For undetermined reasons, the crack went unnoticed at overhaul.
+

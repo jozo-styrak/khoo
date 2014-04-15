@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+Because further recovery of the aircraft wreckage was not possible, this analysis concentrates on the technical aspects of all available airframe and engine records, and the examination of the number 2 engine.
+
+
+The flight crew were required to deal with multiple emergencies in a short period of time. The flight control difficulties experienced by the pilots are consistent with a significant loss of engine power on the left wing. The physical separation of the number 2 engine from the aircraft likely affected the power output from the number 1 engine, because the departing engine probably interfered with the controls for that engine. The sudden loss of power, and the combination of the significant aircraft weight and balance changes, the impaired aircraft handling characteristics, and the deteriorating in-flight performance would have raised the VMCA to a value above that which the aircraft was able to maintain. Under these circumstances, the crew was forced to reduce power on the engines to maintain control of the aircraft, and had no alternative but to force-land the aircraft.
+
+
+The sequence of events that led to the accident began with the engine fire, and the electrical malfunctions were the result of wiring burned by the fire. The intense fire damage to the engine and firewall obliterated any evidence which could identify the cause or the source of the fire. The source of a rapid and destructive fire involving the firewall and engine accessories is usually fed by fuel or hydraulic fluid. It is probable that a hydraulic or fuel line became loose or broke and sprayed fuel or hydraulic fluid under system pressure into an area, and that the fluid was ignited by one of the several sources of ignition in that area.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 137/96 - Electrical Fire Analysis.
+
+
+
+Findings
+
+
+The crew was certified and qualified for the flight in accordance with existing regulations. Aircraft records indicate that the aircraft was maintained in accordance with existing regulations. The aircraft weight and centre of gravity at take-off were within prescribed limits. An intense, localized fire behind the number 2 engine caused the engine to separate from the aircraft. The physical separation of the number 2 engine probably interfered with the controls to the number 1 engine. With maximum power applied to the remaining engines, the pilots could not maintain altitude or directional control because the aircraft speed was below VMCA for that configuration. The captain was missing following the crash landing and is presumed drowned.
+

@@ -1,0 +1,51 @@
+
+
+Analysis
+
+
+Before take-off, the pilot did a full preflight inspection. Because the left tank fuel quantity indicator was defective, the pilot visually checked the fuel quantity in both tanks, and estimated that there was sufficient fuel for the flight planned. However, the aircraft was not level when the fuel tanks were drained, which is contrary to the manufacturer's recommendations. Since the aircraft had a right bank angle, it was impossible for the pilot to drain the water accumulated in the right fuel tank because the water was lower than the drain point. Without a level, it is hard to verify visually the aircraft bank angle. Also, it is hard to easily catch the fuel drained from the gascolator to examine it. As a result, the pilot drained the contents of the gascolator onto the ground without properly examining it.
+
+
+The pilot took off with the conviction that the fuel system had been drained correctly and that there was no contamination. About 15 minutes after take-off, while the aircraft was in cruise flight, in a left turn, the water in the right tank shifted and entered the engine fuel supply system, causing the engine to stop.
+
+
+Water may be present in the fuel tanks for the following reasons:
+
+
+inadequate refuelling source; a leaky fuel filler cap seal; an improperly secured fuel filler cap when it rains or when the aircraft is washed; or condensation on the surface of a partly full fuel tank.
+
+
+In this occurrence, the refuelling sources used on previous flights were equipped with a filtration system that included water separators. With the exception of the right fuel filler cap chain being unhooked from the fuel filler cap, the two fuel filler caps showed no defects related to their seals. It is therefore possible that water entered via an improperly secured fuel filler cap when it rained or that water formed by condensation. With the aircraft parked for about seven weeks with its fuel tanks half full, conditions were conducive to water condensation.
+
+
+Analysis of the gascolator bowl showed that it had been in contact with water for a considerable period of time, probably several years. Since the aircraft was parked in the same place with a right bank angle most of the time, the quantity of water in the right fuel tank was undetectable. It is possible that a small quantity of residual water that was not drained from the fuel tanks made its way from the right fuel tank to the gascolator bowl in flight and stayed there until the next draining. The accumulated quantity of water that migrated during the occurrence flight saturated the gascolator bowl, causing the engine to stop.
+
+
+The chain found in the right fuel tank was examined, and surface corrosion was found on the hooks; that corrosion may have formed over a period of several months. The chain may have fallen into the fuel tank when the tank compartments were inspected in November 2005. Since then, the fact that the chain was missing was not noticed by the aircraft maintenance engineer doing the periodic inspection in May 2006 nor by the pilot on subsequent preflight inspections.
+
+
+The aircraft had only one drain point per tank, as built in 1974. In this occurrence, adding the additional drain valves as specified in service bulletin SEB 92-26 would have allowed the water accumulated in the right fuel tank to be drained properly. CARs do not require aircraft owners or operators to comply with service bulletins to maintain the airworthiness of aircraft. Only an airworthiness directive would have required the owner to add the additional drain valves.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP094/2006 - Examination of Gascolator
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was not on level ground when the draining was done before the flight. Consequently, the water in the fuel tank was lower than the drain valve and could not be removed with the pipette. The water accumulated in the right fuel tank migrated to the gascolator bowl, saturating it, and causing the engine to stop.
+
+
+
+Findings as to Risk
+
+
+The inspections done by the approved maintenance organization and the pilot did not find that the fuel filler cap chain for the right fuel tank was missing. As a result, the chain was exposed to the water in the bottom of the tank, and the fuel was contaminated by corrosion from the chain hooks. On the Cessna 172, the location of the gascolator drain valve makes it hard to collect fuel for visual examination before flight. The Canadian Aviation Regulations do not require aircraft owners to comply with service bulletins. As a result, service bulletin SEB 92-26 was not completed on C-FFRV. This upgrade would have made it possible to properly drain the water that had accumulated in the right fuel tank before the flight.
+

@@ -1,0 +1,206 @@
+----------- Printing e1 pattern usage -----------
+- &S so                                                                              125
+- &S &THIS &AUX &ADV_ &ADJ &EFFECT/RESULT of                                           6
+- &S &THIS &AUX &ADV_ due &RB_ to                                                      2
+- &S &THIS &AUX &ADV_ why                                                              2
+- &S &THIS &AUX &ADV_ because                                                          3
+- there *** &REASON &FOR/WHY                                                           3
+- there *** &EFFECT/RESULT &OF/FROM                                                   10
+- there *** &EFFECT/RESULT to                                                          1
+- &S &ADJ &EFFECT/RESULT :                                                             1
+- &S &ADJ &REASON :                                                                    1
+- &S &ADJ &REASON &AUX                                                               471
+- &S &ADJ &CAUSE &AUX                                                                 63
+- &S &THIS &AUX &ADV_ &NECESSARY &TO/FOR                                               1
+- &NO &EFFECT/RESULT                                                                  13
+- as possible                                                                         18
+C &C2_ [2] &AND [1] &AUX_ &ADV_ &MAKE &THIS/IT possible                                1
+C [1] &AND &THEREFORE [2] &._                                                        143
+C &C1_ [1] with the &EFFECT/RESULT that [2] &._                                        2
+- &NOT because                                                                         1
+C it &AUX &ADV_ because of [1] that [2] &._                                            1
+C it &AUX &ADV_ because [1] that [2] &._                                               2
+C &C2_ [2] because of [1] &._                                                        170
+C &C because of &[N:1],[2]                                                            60
+C &C owing to &[N:1],[2]                                                               2
+C &C for reasons of &[N:1],[2]                                                         1
+C &C2_ [2] as &ADJ &EFFECT/RESULT of [1] &._                                          83
+C &C as &ADJ &EFFECT/RESULT of &[N:1],[2]                                             11
+C with the &ADVENT of &[N:1],[2]                                                       2
+C &C2_ [2] due &RB_ to &[N:1]                                                        142
+C &C2_ [2] due &RB_ to [1] &._                                                        24
+C &C due &RB_ to &[N:1],[2]                                                           21
+C &C2_ [2] because [1] &._                                                           355
+C &C because &[C:1],[2]                                                              170
+C &C2_ [2] for &[C:1].                                                               154
+- since *** &TIME                                                                     56
+- since &[N:0] ,                                                                       6
+- since &[N:0] &.                                                                      3
+- &TIME2 since                                                                         2
+- &S &[N:0] since                                                                     13
+- &HAVE since                                                                          1
+- since *** , *** &HAVE &ADV_ &VBD                                                    28
+- &HAVE &ADV_ &VBD *** since                                                           7
+C &C since &[C:1],[2]                                                                 80
+C &C2_ [2] since [1] &._                                                               7
+- as *** as                                                                          110
+- such *** as                                                                        139
+- same *** as                                                                         32
+- &AS_BEFORE as                                                                        4
+- as &AS_AFTER                                                                       1122
+- @J as [N:0] &BE                                                                      2
+- &C as                                                                              453
+- &NOT &HAVE &ADJ &EFFECT                                                              4
+- &NOT &ADJ &EFFECT/RESULT                                                             5
+- &BE &ADV_ &VBD/VBG                                                                 6724
+- &BE &ADJ &.                                                                        426
+C &C1_ [1] &AND &ADJ &EFFECT/RESULT &AUX [2] &._                                      20
+C &EFFECT/RESULT of [1] &AUX &ADV_ on [2] &._                                         21
+C &EFFECT of [1] on [2] &AUX &ADV_ &VBD/VBG                                            4
+- &EFFECT of &[conj_N:0],                                                              3
+- &EFFECT &[P:0], *** on                                                               2
+C &EFFECT/RESULT of [1] : [2]                                                          1
+C &EFFECT/RESULT of [1] &AUX &ADV_ that [2] &._                                       18
+- &BE &NOT                                                                           518
+- &EFFECT/RESULT &[P:0],                                                              43
+C &EFFECT/RESULT of [1] &AUX &[not_cc:2].                                             85
+C &EFFECT [1] &HAVE on [2] &._                                                         6
+- &BE &ADV_ &VBD/VBG                                                                 6724
+- &AUX &NOT                                                                          2702
+C &CAUSE of [2] &AUX &[not_cc:1].                                                      5
+- there &AUX &ADJ_ &REASON                                                             4
+- &REASON to @V                                                                        6
+- &BE &ADV_ &VBD/VBG                                                                 6724
+C &REASON [2] &AUX &ADV_ &BECAUSE/THAT [1] &._                                        19
+- &BE &NOT                                                                           518
+- &REASON &[P:0],                                                                      1
+C &REASON &[C:2] &AUX &[not_cc:1] [1] &._                                              3
+C why [2] &AUX &ADV_ that [1] &._                                                      8
+C it &AUX &ADV_ &CRITICAL &TO/FOR [2] to &[VP:1].                                      1
+- it &AUX &ADV_ &CRITICAL to                                                           1
+C &CRITICAL &TO/FOR [2] &AUX &[not_cc:1].                                             15
+C &FACTOR &OF/IN [2] &AUX &ADV_ that [1] &._                                           5
+- &BE &ADV_ &VBD/VBG                                                                 6724
+- &FACTOR &[P:0],                                                                     12
+- &BE &NOT                                                                           518
+C &FACTOR &OF/IN [2] &AUX &[not_cc:1].                                                54
+C &C1_ [1] responsible for [2] &._                                                    17
+- if not~                                                                             11
+- &KNOW if                                                                             3
+- if *** , &WH                                                                         2
+- if any &,/.                                                                          2
+- if *** &MUST                                                                        12
+C &C2_ [2] only &IF [1] &._                                                            3
+C &C1_ [1] &IF [2] &BE to [2] &._                                                      2
+C &C/, &IF [1] then [2] &._                                                            9
+C &C/, &IF &[1], [2] &WILL [2] &._                                                    97
+C &C/, &IF [1] &[N:2] &WILL [2] &._                                                   16
+C &C2_ [2] &WILL [2] &IF [1] &._                                                      79
+C &ATTRIBUTE [2] to [1] &._                                                            2
+C &C1_ &TO/FOR [2] it &AUX &ADV_ &NECESSARY &TO/FOR [2] &._                            2
+C &C1_ &[1](AND_THIS) &AUX &ADV_ &NECESSARY &TO/FOR [2] &._                            1
+- role of *** &AUX &ADV_ &VBD/VBG                                                      4
+C role of [1] &AUX &[not_cc:2].                                                        1
+C &C2_ [2] amid [1] &._                                                                1
+C it &AUX &ADV_ because of [1] that [2] &._                                            1
+- &VERB_BY *** by                                                                     13
+C &C by [vbg:1] , [2] &._                                                              1
+C &C by [vbg:1] &[1], [2] &._                                                         53
+C &C by [vbg:1] [2] &._                                                               62
+- @J for                                                                             279
+- &HAVE &[N:0] for                                                                    17
+- &AUX &[N:0] for                                                                    1210
+- &C &ADJ_ @N for                                                                      6
+- &NOUN_FOR *** for                                                                   13
+- &VERB_FOR *** for                                                                   36
+C &C through [vbg:1] [2] &._                                                           1
+C &C in order &TO/FOR &[2], [1] &._                                                   10
+C &C1_ [1] in order &TO/FOR [2] &._                                                   30
+C &C1_ [1] in an effort to [2] &._                                                     5
+- to @VBG                                                                            100
+- agree* *** to                                                                        4
+C &S &"_ to &ADV_ [v:2] , [1] &._                                                     59
+C &C in response to &[N:1],[2]                                                         2
+C &C2_ [2] in response to [1] &._                                                      1
+C . &RB_ &,_ had &[subj_my:1] , &[obj_my:2]                                           77
+C . &RB_ &,_ given &[subj_my:1] , &[obj_my:2]                                         38
+C . &RB_ &,_ when &[subj_my:1] , &[obj_my:2]                                         254
+C . &RB_ &,_ without &[subj_my:1] , &[obj_my:2]                                       45
+C . &RB_ &,_ at &[subj_my:1] , &[obj_my:2]                                            76
+C . &RB_ &,_ in reaction to &[subj_my:1] , &[obj_my:2]                                 3
+----------- Printing e2 pattern usage -----------
+C [1] . &S_ &THEREFORE [2]                                                           377
+C [1] . &S_ it &AUX &THEREFORE [2]                                                    17
+C [1] . &S_ &[N:2] [v:2] &THEREFORE [2]                                               22
+- so as                                                                                2
+- if so                                                                                1
+- more so                                                                              1
+- so @J                                                                               10
+- so @RB                                                                               9
+- so &BE                                                                               1
+- so @V                                                                                6
+- &NOT because                                                                         1
+C [1] . &S_ because of &THIS,[2]                                                       3
+C [1] . &S_ for &THIS &REASON [2]                                                     11
+C [1] . &S_ because of &THIS,[2]                                                       3
+- &NOT &ADJ &EFFECT/RESULT                                                             4
+- no &EFFECT/RESULT                                                                   10
+C [2] . &S_ &THIS &AUX &ADV_ &ADJ &EFFECT/RESULT of [1]                                2
+C [2] . &S_ &THIS &AUX &ADV_ due &RB_ to [1]                                           1
+- &NOT &ADJ &REASON                                                                    1
+- no &REASON                                                                           8
+C [1] . &S_ &THIS &AUX &ADV_ why [2]                                                   1
+C [2] . &S_ &THIS &AUX &ADV_ because [1]                                               1
+- &NOT &ADJ &CAUSE                                                                     1
+C &THERE &AUX &ADJ_ &REASON &FOR/WHY [2] . &S_ [1]                                     3
+C &THERE &AUX &ADJ_ &EFFECT/RESULT &OF/FROM/TO [1] . &S_ [2]                           1
+C [1] . &S_ &DT &ADJ_ &EFFECT/RESULT of &THIS *** &AUX &ADV_ that [2]                  2
+C &DT &ADJ_ &EFFECT/RESULT of [1] &AUX &ADJ . &S_ [2]                                  9
+- &EFFECT/RESULT of &THIS *** &AUX &ADV_ &VBD                                          3
+C [1] . &S_ &DT &ADJ_ &EFFECT/RESULT &AUX [2]                                         43
+C [2] . &S_ &DT &ADJ_ &REASON for &THIS *** &AUX &ADV_ that [1]                        1
+C &DT &ADJ_ &REASON for [2] &AUX &ADJ . &S_ [1]                                        3
+- &REASON for &THIS *** &AUX &ADV_ &VBD                                                5
+C [2] . &S_ &DT &ADJ_ &REASON for &THIS *** &AUX [1]                                   1
+C [2] . &S_ &DT &ADJ_ &REASON &AUX [1]                                                39
+- &CAUSE of &THIS *** &AUX &ADV_ &VBD                                                  3
+C [2] . &S_ &DT &ADJ_ &CAUSE of &THIS *** &AUX [1]                                     1
+C [2] . &S_ &DT &ADJ_ &CAUSE &AUX [1]                                                 22
+C [1] . &S_ &DT &ADJ_ advantage* &AUX [2] &.                                           1
+- &NOT &ADV_ &CRITICAL                                                                 2
+- &NOT &ADV_ &NECESSARY                                                               22
+----------- Printing e3 pattern usage -----------
+- &NOT $_                                                                            263
+C &[subj_N:2] &AUX_ &VBD [j:2] &,_ &J_ by &[N:1]                                      10
+C &[subj_N:2] &AUX_ &RB_ &past_v+to to~ &[N:2] by &[N:1]                               4
+C &[subj_N:2] &AUX_ &RB_ &past_v_ by &[N:1]                                          247
+C &[subj_N:1] &AUX_ &RB_ $+for &[N:2] for~ &[N:2]                                     25
+C &[subj_N:1] &AUX_ &RB_ $+from_v-ing &[N:2] from~ &[G:2].                            96
+C &[subj_N:1] &AUX_ &RB_ $+from &[N:2] from~ &[N:2]                                   12
+C &[subj_N:1] &AUX_ &RB_ $on &MISC18                                                  33
+C &[subj_N:1] &AUX_ &RB_ $+in &[N:2] in~ &[N:2]                                        3
+C &[subj_N:1] &AUX_ &RB_ $in &MISC20                                                 470
+C &[subj_N:1] &AUX_ &RB_ $phr_in in~ [2] &._                                           9
+C &[subj_N:1] &AUX_ &RB_ $+of &[N:2] of~ &[N:2]                                       13
+C &C1_ [1] to &RB_ $+to-v &[N:2] to~ &RB_ &[VP:2].                                    21
+C &[subj_N:1] &AUX_ &RB_ $+to-v &[N:2] to~ &RB_ &[VP:2].                             153
+C &[subj_N:1] &AUX_ &RB_ $+to &[N:2] to~ &[N:2]                                       27
+C &[subj_N:1] &AUX_ &RB_ $+with &[N:2] with~ &[N:2]                                   20
+C &[subj_N:1] &AUX_ &RB_ $down &MISC22                                                 4
+C &[subj_N:1] &AUX_ &RB_ $for &MISC50                                                 31
+C &[subj_N:1] &AUX_ &RB_ $phr_to to [2] &._                                          437
+C &[subj_N:1] &AUX_ &RB_ $+n &[N:2] &"_ &[N:2]                                       122
+C &[subj_N:1] &AUX_ &RB_ $+prep &[N:2] &[P:2]                                         30
+C &[subj_N:1] &AUX_ &RB_ $+v-ing &[N:2] &[G:2]                                         1
+C &[subj_N:1] $_|VBG &[obj_N:2]                                                      267
+C &[subj_N:1] &AUX_ &RB_ $_ &[obj_N:2]                                               1874
+- &[subj_N:1] &AUX_ &RB_ @V &[N:0]_ by $_|VBG &[obj_N:2]                               9
+- too @J                                                                              57
+C &[subj_N:1] &AUX &RB_ &J in~ &RB_ $_|VBG &[obj_N:2]                                  8
+- &FAIL to &RB_ @V                                                                    29
+- @EX &AUX [N:0] to &RB_ @V                                                           22
+C &C1_ [1] &MEAN , *** , [2] &WILL [2] &._                                             1
+C &C1_ [1] &MEAN [2] &WILL [2] &._                                                     3
+- &NOT &BE                                                                           471
+C &[subj_N:1] &AUX_ &RB_ &j+to to &[obj_N:2]                                         242
+C &[subj_N:1] &AUX_ &RB_ &j+on on &[obj_N:2]                                          65

@@ -1,0 +1,10 @@
+In addition , since the part number on the repaired HPTN assembly was identified in SB -LRB- CFM56-5 -RRB- 72-207 , the Air Canada engineering and maintenance staff assumed -LRB- without consulting with CFMI -RRB- that a 1,600-cycle inspection which did not include a borescope inspection of the guide vane convex surfaces was adequate	, the repaired HPTN assembly nozzle guide vanes were not being inspected in accordance with the CFMI engineering recommendations for the service evaluation , and the fact that the convex surface of a nozzle guide vane had a substantial amount of material missing went unnoticed until the engine failure
+Cracks of less than 0.10 inch have been shown by CFMI not to be a threat to blade integrity	, there is no reduction of the inspection interval time for blades cracked within that limit
+was significant enough in combination with the slightly defective HPT blade to result in failure of the HTP blade and , ultimately , internal failure of the engine	fail
+The liberated blade air foil interfered with adjacent and downstream moving engine parts	the overload separation of the remaining HPT blades and secondary low pressure turbine impact
+the slightly defective HPT blade	failure of the HTP blade and , ultimately , internal failure of the engine
+CFMI for an in-service evaluation of the repair procedures	assembly was a repaired unit
+The inspection information that was received by the Air Canada engineering and maintenance department , after being passed through several CFMI departments then several Air Canada departments , was incorrect -- it detailed that a one-time , 800-hour inspection was required	no reference the borescope inspection criteria for the convex surfaces of the HPTN assembly nozzle guide vanes
+for the HPTN assembly components	the in-service evaluation
+The undetected progressive deterioration of an engine HPT nozzle segment guide vane	the propagation of a fatigue crack in one of the engine 's high pressure turbine blade air foils
+the liberated blade	the internal failure of the aircraft engine

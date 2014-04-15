@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+The approach profile, based on data from the flight data recorder, was normal until the aircraft reached 200 feet on the radio altimeter. At this point, the pilot flying decreased the body angle and the descent rate increased to about 1080 fpm. The landing flare or rotation was then completed late (about 45 feet above the touchdown zone) with power being applied to try to reduce the sink rate. The aircraft touched down with a high sink rate, and, because of the TLA position, the ground spoilers did not deploy. The combination of power application, high sink rate, and the lack of spoiler deployment resulted in the aircraft rebounding. The actions taken to correct the bounce resulted in a rebound. When the captain took control, retarded the throttles, and lowered the nose to minimize the bounce, the nose-down control deflection resulted in the aircraft landing nosewheel first.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 036/2001 - FDR/CVR Analysis LP 066/2001 - Pilot Seat Load and Stress Analysis
+
+
+These reports are available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Incorrect bounced landing recovery procedures were carried out when the captain pushed forward on the control column to prevent a further bounce, and the aircraft landed nosewheel first. The high sink rate on the initial flare was not recognized and corrected in time to prevent a bounced landing and a subsequent bounced landing.
+
+
+
+Other Findings
+
+
+The power increase during the flair resulted in the speedbrake/spoilers retracting. The captain had not received a line check of at least three sectors before returning to flight duties, although this check was required to regain competency after pilot proficiency check expiry.
+

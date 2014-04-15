@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+Based on the fire pattern in the accessory section of the right engine and on the inspection and testing of involved components, it was apparent that an oil filter converter plate gasket had failed, allowing pressurized engine oil to spray into the engine compartment. The engine oil ignited, likely on contact with hot turbo-charger/exhaust components.
+
+
+The failed gasket was one of a bad batch that had entered the supply system in 1999. Corrective action to remove these gaskets should have been completed by 01 October 2003, under the requirements of AD 2002-12-07. However, despite the intent of the AD and the presence of other regulatory safeguards, the incorrect gasket remained in the accident aircraft's engine. The source of the gasket and its time of installation could not be determined.
+
+
+There is no engine-fire warning system on the aircraft, thus the crew would have had to rely on other system indications to determine whether a fire had ignited. Relying on secondary indicators of fire would delay the crew both in identifying a fire and reacting to it. In this occurrence, it can be assumed that the crew members were not aware of the fire when they requested the practice approach, and that they became aware just prior to their declaration of the emergency.
+
+
+Because there are no fire-suppression systems in the engine compartments, it is important that the crew members accomplish the critical action checklist immediately, to restrict flammable fluids from entering the engine area and to land as soon as possible. Based on an examination of the wreckage, the crew members did not activate the firewall shut-off valve, nor did they feather the right-hand propeller. These actions may have been omitted because of the time and workload associated with configuring the aircraft for an immediate landing, while simultaneously attending to the engine fire while on a short final approach to landing.
+
+
+The firewall shut-off valve remained in the OPEN position, and pressurized fuel continued to be delivered to the engine-driven fuel pump by the aircraft's boost pumps. Fire damage to the engine compartment indicates that the engine-driven fuel pump was subjected to considerable heat from the initial oil-fed fire and that, at some point, the pump casing melted. The resultant pressurized fuel-fed fire was extremely hot and melted aluminum components in the vicinity of the fire. The burn pattern on the aircraft wreckage indicates that the flames moved out of the engine compartment through the left side of the cowlings and burned through the leading edge of the right wing, inboard of the engine. The flames then breached the main fuel tank, inboard of the engine, causing the aircraft to become engulfed in flames.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+At some point after 01 April 1999, a bad gasket (P/N LW-13388) was installed in the accident engine. The requirement of Airworthiness Directive 2002-12-07 (to ensure that old converter plate gaskets were removed and replaced by new parts) was not carried out on the accident engine. The improper oil filter converter plate gasket in the right engine compartment failed, allowing pressurized oil to spray into the engine compartment and ignite on contact with hot turbo-charger and exhaust components. The firewall fuel shut-off valve remained in the OPEN position, allowing pressurized fuel to be delivered to the engine-driven fuel pump by the aircraft's boost pumps. The initial oil-fed fire generated considerable heat, which melted the casing of the engine-driven fuel pump, allowing pressurized fuel to intensify the fire. The flames breached the main fuel tank, inboard of the engine, causing the aircraft to become engulfed in flames.
+
+
+
+Findings as to Risk
+
+
+Inappropriate converter plate gaskets, identified by part number LW-13388, are known to have remained in the aviation system after the date of the terminating action required by Airworthiness Directive (AD) 2002-12-07. Compliance with the full requirements of AD 2002-12-07 is not always being accomplished with respect to vibro-peening and proper gluing procedures.
+

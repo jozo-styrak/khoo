@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+The reason(s) for the fuel smell and for the engine failure could not be determined.
+
+
+Fuel quantity was not likely a problem. The aircraft had started with full tanks and had only flown for two hours. Based on the pilot's reported fuel selections, each tank should have been more than half full at the time of the engine stoppage. Additionally, even if all the fuel for the trip had been inadvertently taken from one tank, there still should have been sufficient fuel remaining in that tank to keep the engine running.
+
+
+Fuel starvation because of a technical malfunction is also unlikely. To operate, an engine requires an appropriate fuel/air mixture to be supplied to the cylinders. Because fuel was confirmed to be available at the fuel distributor, which is immediately in line and upstream of the fuel nozzles, it is unlikely that fuel starvation was the cause of the loss of engine performance. The fact that fuel was not found further upstream, between the engine fuel pump and the fuel unit, is likely related to accident damage or post-crash movement and transport. Specifically, because a number of the fuel components had been damaged in the crash and, subsequently, because some lines had to be disconnected to allow removal and transport of the wreckage to an examination facility, it is likely that one or more of these breaches of the fuel system could have allowed fuel to escape from various locations within the system.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+LP 114/03 - Fuel Selector Valve Examination.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+On approach, when the pilot attempted to add power, the engine did not respond and the aircraft struck trees before the pilot could identify and correct the situation. The engine stopped for undetermined reasons.
+
+
+
+Finding as to Risk
+
+
+The deteriorated condition of the o-ring installed in the left-tank supply port prevented the fuel selector from operating normally, such that it could allow fuel to be supplied to the engine when the selector was in the OFF position.
+
+
+
+Other Findings
+
+
+No fault was found that would be expected to prevent the engine from producing power. It is unlikely that either fuel tank venting, fuel starvation, or fuel exhaustion of one tank precipitated this event.
+

@@ -1,0 +1,11 @@
+this point	the pilot flying decreased the body angle and the descent rate increased to about 1080 fpm
+the TLA position , the ground spoilers did not deploy	The aircraft touched down with a high sink rate , and ,
+the captain took control , retarded the throttles , and lowered the nose to minimize the bounce	the nose-down control deflection resulted in the aircraft landing nosewheel first
+The approach profile	data from the flight data recorder
+the pilot flying	the body angle and the descent rate increased to about 1080 fpm
+The combination of power application , high sink rate , and the lack of spoiler deployment	the aircraft rebounding
+The actions taken to correct the bounce	a rebound
+the nose-down control deflection	the aircraft landing nosewheel
+on the control column	a further bounce
+in time	a bounced landing and a subsequent bounced landing
+The power increase during the flair	the speedbrake/spoilers retracting

@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+The crew began a full instrument approach procedure to runway 26 at Kamloops. The reported weather at the time of the approach was below the minima required to complete an approach to category B limits. Therefore, there was a possibility that the crew might miss the approach and divert to their alternate.
+
+
+During the approach, the captain established visual contact with lights and other ground references, then cancelled his IFR flight plan. His decision to cancel was likely influenced by his knowledge of the weather, and by the fact that a previous company flight had successfully carried out a visual approach to Kamloops about 15 minutes earlier. It is also possible that the captain's action was intended to help expedite the departure of other aircraft waiting to take off from Kamloops on IFR flight plans. In practical terms, however, this delay would probably have been insignificant to the departing aircraft.
+
+
+After the captain cancelled his IFR flight plan, ATS released a DHC-8 for take-off on runway 08. The published instrument departure procedure for that runway placed the DHC-8 on a conflicting track with the accident aircraft. It is possible that this traffic conflict influenced the pilot to descend lower than normal in order to ensure separation with the approaching aircraft.
+
+
+A VFR descent procedure does not provide the benefit of guaranteed terrain clearance and, in the absence of adequate visual references, may place the aircraft at a dangerously low altitude without the knowledge of the crew. Although the prevailing weather conditions were suitable for VFR flight, as detailed by the ANOs, the dark, overcast night, coupled with the sparsely lit, featureless terrain below, would have reduced available visual cues for the pilots to judge their actual height above the ground, or their position relative to local obstacles. As a result, the overall conditions would have impeded the ability of the pilots to continue the flight with visual reference to the ground.
+
+
+
+Findings
+
+
+The crew was licensed and qualified for the flight. The aircraft was certified, equipped, and maintained in accordance with existing regulations and approved procedures. A Transport Canada audit reported that the company had maintained a satisfactory standard in accordance with appropriate sections of the regulations. The Kamloops airport is surrounded by mountainous terrain on all sides, and cautions have been published about use of the airport for VFR flight at night. All instrument radio approach aids and all hazard beacons for the visual night circuit procedure were operating normally. The weather conditions at Kamloops were suitable for VFR flight, as detailed by the ANOs; however, the overall conditions, brought on by darkness and sparsely lit terrain, would have reduced the available visual cues, and would have impeded the pilots' ability to navigate and maintain separation from the ground by visual means. The captain cancelled his IFR flight plan while conducting an instrument procedure to the Kamloops airport and descended through a break in the cloud layer. During the descent, the crew had insufficient visual cues to continue the flight safely with visual reference to the ground. The aircraft collided with trees, in mountainous terrain, approximately seven nautical miles east-southeast of the airport and slightly south of the localizer track.
+

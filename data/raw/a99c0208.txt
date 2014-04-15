@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+After the left engine lost power, the pilot tried to shut the engine down but was unable to feather the left propeller because he could not get full travel on the left propeller lever. The drag from the unfeathered left propeller and the deformed left engine cowling resulted in the aircraft being incapable of maintaining its altitude.
+
+
+Although the number two cylinder separated from the crankcase, it was contained in the engine area by the propeller governor, the number four cylinder, and the lower engine cowling. Because there is very little clearance between the propeller governor control and the number two cylinder, the number two cylinder was in a position to interfere with the operation of the propeller governor control after it separated, preventing full travel of the propeller lever. With the separation of the number two cylinder, engine oil and raw fuel from the severed fuel injector line likely sprayed onto the hot exhaust stack, resulting in the smoke and fire that eventually destroyed the aircraft.
+
+
+Damage to the trees on the approach path indicated that the pilot was able to maintain control of the aircraft during the approach and was able to execute a very gradual descent. The aircraft came to a rest in an upright position, which aided the evacuation process. The pilot was in touch with the company dispatch by very high frequency radio and assisted in coordinating the rescue operation.
+
+
+Although it was the number three cylinder that was missing a base nut, the through stud is shared by the lower rear hold-down point of the number two cylinder. The missing base nut of the through stud indicates that the base nut did not have sufficient clamping force; however, it could not be determined if the base nut did not receive the required torque during installation or if the base nut lost its clamping force during engine operation. The insufficient torque led to insufficient clamping force by the lower rear base nut of the number two cylinder. Without the required clamping force of the lower -inch hold-down point of the number two cylinder, the remaining studs took on the load of the cylinder and eventually failed in fatigue. Analysis of the fractured studs and through studs by the TSB Engineering Branch indicated signs of fatigue failure.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 117/99--Cylinder hold-down stud and through bolt failure.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The number three cylinder lower forward through stud was missing its base nut, which allowed the lower rear base nut of the number two cylinder to loosen. The missing base nut of the through stud indicates that the base nut did not have sufficient clamping force; however, it could not be determined if the base nut did not receive the required torque during installation or if the base nut lost its clamping force during engine operation. The -inch studs and the -inch through studs of the number two cylinder failed in fatigue, and the number two cylinder of the left engine separated from the crankcase. The left propeller could not be feathered because of interference between the propeller governor control and the separated number two cylinder. The drag from the unfeathered left propeller and the deformed left engine cowling resulted in the aircraft being incapable of maintaining its altitude.
+
+
+
+Other Findings
+
+
+The pilot was certified and qualified for the accident flight. The aircraft's weight and balance were within the specified limits at the time of the accident. The ELT was not readily accessible without tools.
+

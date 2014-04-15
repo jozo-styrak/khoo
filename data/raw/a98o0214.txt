@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+The helicopter became uncontrollable and descended out of control to the ground when one of the main rotor blades separated in flight.
+
+
+The blue main rotor blade separated in flight as a result of fatigue cracking initiated in the rotor blade grip's internal threads at the last complete outboard-most thread. Failure occurred instantaneously as the crack grew to critical dimensions under normal service loading. Cracks found in the yellow main rotor blade grip were similar yet less advanced.
+
+
+The threads in both the Serial Number A100 and A68 grips were found to conform with the standard UN fine thread form, although the root radii were much smaller than those for an exemplar spare. The sharp root radii coupled with extensive pitting found on both blade grips provide one plausible explanation for the premature fatigue failure of the blue grip. Both sharp root radii and pitting are known stress concentrators which facilitate fatigue crack initiation.
+
+
+No abnormal installation or operational conditions were identified with the helicopter that would explain the in-flight fatigue generated failure of the blue main rotor blade grip, or the cracks found in the yellow main rotor blade grip, well before the components first prescribed mandatory inspection cycle.
+
+
+Notwithstanding the inconsistent part markings and surface alterations displayed on the main rotor blade grips, there is no reason to suggest that the blade grips installed on the helicopter were not authentic parts supplied by the helicopter manufacturer.
+
+
+The following Engineering Laboratory report was completed:
+
+
+LP 100/98 - Main Rotor Blade Separation.
+
+
+This report is available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+One of the helicopter main rotor blades separated from the helicopter in flight when the blade grip failed due to fatigue cracking initiated within the thread area of the blade grip. The reason for the rotor blade grip's fatigue failure could not be determined. The blade grip failed 992 hours before the first in-service required inspection cycle.
+
+
+
+Other Findings
+
+
+The pilot was certified and qualified for the flight in accordance with existing regulations. Records indicate that the helicopter was certified, equipped, and maintained in accordance with existing regulations and approved procedures. Similar fatigue cracking was found in the other main rotor blade grip.
+

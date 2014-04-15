@@ -1,0 +1,67 @@
+
+
+Analysis
+
+
+The database search to find similar events shows that this type of occurrence either happens rarely or is not consistently reported as an incident. Because the other three events that happened on Runway 25R at KLAS were not reported, the investigators were deprived of important data that could have helped to identify contributing factors leading to this event.
+
+
+Neither aircraft airworthiness nor environmental conditions contributed to this event. The analysis will cover the factors that led a certified and qualified flight crew to misalign the aircraft and initiate a take-off roll from the side of the runway.
+
+
+Although the flight crew travelled through three time zones, there is nothing to indicate that fatigue played a role. They had adequate crew rest, and the event happened in the early phase of their duty day.
+
+
+Neither pilot had flown regularly from KLAS. It was the captain's second night departure and the co-pilot's first departure from this airport. Taxiing an aircraft at night at a large and unfamiliar airport, such as KLAS, can be confusing and complex, requiring a high degree of attention. Maintaining visual contact with the aircraft departing in front of them may have reduced the captain's attention to the ground visual aids while he was aligning the aircraft for take-off. It is likely that the captain relied on peripheral vision to align the aircraft and may have perceived the white runway side stripe marking, which intersected the taxiway centreline, as the runway centreline marking. This would explain why the aircraft was initially aligned to the right of the right runway edge lights.
+
+
+Had the runway side stripe been interrupted at the runway and Taxiway B intersection, it could have prevented the misalignment. Since the flight crew was more familiar with Canadian airport markings, where side stripes are interrupted at the intersection between the taxiway and the runway merging point, they probably were not expecting to see a white runway side stripe marking.
+
+
+The lead-in lines from Taxiways B1 and A2 may cause confusion because they lead directly to the runway edge line rather than to the runway centreline. In contrast, the Taxiway B centreline marking continues across the white runway side stripe marking until it merges with the runway centreline. During the day, this marking would provide a strong visual cue to the location of the runway centreline. However, in this occurrence, the taxiway centreline lead-in lights did not catch the flight crew's attention, resulting in a lack of visual guidance toward the runway centreline. The pilot may also have misinterpreted the runway edge line as the runway centreline.
+
+
+The flight crew could not rely on the runway designation marking to ensure that the aircraft was properly aligned with the runway centreline because it is located nearly 1400 feet down the paved surface at the displaced threshold area. In addition, there were no runway centreline lights. The low-visibility take-off practice consisting of selecting the localizer frequency of the departing runway would have confirmed to the flight crew that the aircraft was not on the runway centreline.
+
+
+The captain initiated a rolling take-off as per the SOPs. Even though a rolling take-off is a recognized practice, it reduces the time for the PNF to complete the departure checks and for the crew to complete a thorough outside visual check before initiating the take-off roll. Had the aircraft been completely stopped on the runway before take-off, it may have given the flight crew an opportunity to notice that the aircraft was not aligned between the two rows of the red runway edge lights.
+
+
+During the rolling take-off, the co-pilot's attention was directed inside the cockpit as he was completing the before-take-off checklist and scanning the engine instruments as per the SOPs. It was not until he had completed these tasks that he noticed that the aircraft was not aligned with the runway centreline.
+
+
+When the flight crew realized that they were not properly aligned with the runway centreline, the aircraft speed was well below 100 knots and sufficient runway remained to complete a rejected take-off. The crew decided to continue the take-off because there was no ECAM warning, there was no significant vibration, and the aircraft was accelerating normally. The only sensation the crew noticed was that of an aircraft going over pavement joints. The flight crew had no way of knowing if the landing gear had been damaged during the take-off roll. Although the expectation of damage in this occurrence might be low, retracting a damaged landing gear poses a hazard to the exposed lines in the wheel well should a tire burst after retraction.
+
+
+Although this incident was not a situation warranting the declaration of an emergency, it would have been appropriate to inform the company and air traffic services sooner. Considering the traffic volume at this airport, potential debris from either the aircraft or broken lights could have been a hazard for other aircraft using Runway 25R during that time.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP012/2006 - Flight Data Recorder
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The pilot flying likely relied on peripheral vision to taxi the aircraft because of the requirement to maintain separation with the aircraft departing ahead. This, combined with the aerodrome markings, resulted in the misalignment of the aircraft and the initiation of the take-off from the asphalt runway shoulder instead of the runway centreline.
+
+
+
+Findings as to Risk
+
+
+A rolling take-off reduces the crew's time for conducting a thorough outside visual check and verifying runway alignment before initiating the take-off roll. Taxiways B1 and A2 centrelines curve onto the runway edge line. At night, this could result in pilots aligning their aircraft with the runway side stripe marking instead of with the runway centreline. This occurrence was reported to company dispatch and air traffic services two hours after the event. During that time, debris left by the broken lights could have posed a hazard for other aircraft using Runway 25R.
+
+
+
+Other Finding
+
+
+The other three similar events that happened on Runway 25R at the Las Vegas McCarran International Airport (KLAS) were not reported. Failure to declare such events deprives investigators of important data that could help to identify the contributing factors that lead to this type of event.
+

@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+The air traffic controllers were qualified for the positions they occupied.
+
+
+The Quebec controller had just requalified in his position and was familiar with all his duties. He acknowledged having previously managed, albeit at lower speeds, overflights at altitudes below 17,000 feet; however, he said he was not familiar with overflights because his airspace had been modified during his absence and it now extended up to FL 280.
+
+
+The Quebec controller was alone when the workload suddenly increased. During the period prior to the risk of collision, the increased attention that the controller directed to coordinating the arrival of a medical evacuation flight at the Quebec Airport precluded his perceiving the risk of collision that existed between the two aircraft. In addition, although he was responsible for providing proper separation between the two aircraft, the controller accepted the hand-off of communications to the L vis sector. Thus, the two aircraft had to execute avoidance manoeuvres 19 miles southwest of the Quebec VOR following a TCAS resolution advisory.
+
+
+
+Findings
+
+
+Minimum separation between the two aircraft was not ensured by air traffic control. The crews executed an avoidance manoeuvre following a TCAS resolution advisory. The air traffic controllers were qualified. At the time of the occurrence, the Quebec controller's attention was directed to coordinating the arrival of a medical evacuation flight at the Quebec Airport. The Quebec controller was alone in the radio and data position while his co-worker was on break. The Quebec controller was responsible for providing proper separation for TSC 234, but he was not in communication with the aircraft.
+

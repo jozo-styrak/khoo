@@ -1,0 +1,18 @@
+the autopilot had been disconnected earlier by the PF	The pitch-up have been minimized
+the flight crew noted the information depicted on the approach plate	it is likely that the PF would have been better prepared and reacted accordingly
+the aircraft was not within 12 nm from the threshold , in compliance with ATS procedure	The flight crew was not directly informed of the possibility of glide path interference caused by a taxiing aircraft
+the flight crew noted the information depicted on the approach plate	it is likely that the PF would have been better prepared and reacted accordingly
+the aircraft was not within 12 nm from the threshold , in compliance with ATS procedure	The flight crew was not directly informed of the possibility of glide path interference caused by a taxiing aircraft
+Neither aircraft airworthiness nor environmental conditions	either event in this occurrence
+A glide path signal was most probably distorted by a taxiing aircraft and provided erroneous information to the autopilot	a pitch-up event
+by a taxiing aircraft	erroneous information the autopilot
+A lack of situational awareness and airmanship	not detecting the incorrectly set speed
+a taxiing aircraft	the possibility of glide path interference
+The PF allowed the aircraft to climb 1000 feet during the pitch-up	a conflict with other aircraft
+The PF	the aircraft to climb 1000 feet during the pitch-up , which could have caused a conflict with other aircraft
+the flat authority gradient	a more relaxed attitude toward cross-checking each other 's actions or confirming other information
+A lack of situational awareness and airmanship	not detecting the incorrectly set speed
+a taxiing aircraft	the possibility of glide path interference
+The PF allowed the aircraft to climb 1000 feet during the pitch-up	a conflict with other aircraft
+The PF	the aircraft to climb 1000 feet during the pitch-up , which could have caused a conflict with other aircraft
+the flat authority gradient	a more relaxed attitude toward cross-checking each other 's actions or confirming other information

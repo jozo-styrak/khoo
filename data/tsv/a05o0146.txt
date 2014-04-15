@@ -1,0 +1,9 @@
+the auxiliary pump was selected off	the engine
+electrical wiring to the resistor block in the auxiliary fuel pump system was corroded and the contact poor , the pump operation was intermittent when the pilot re-selected the pump on	it did not operate
+the pilot re-selected the pump to provide additional fuel pressure to the engine	it did not operate
+The additional fuel pressure from the auxiliary fuel pump	engine power
+The piece of foreign material lodged between the ball and the seat within the bypass valve of the EDP	inadequate fuel pressure for normal engine operation
+A piece of thread sealant lodged in the bypass valve of the engine-driven fuel pump created a reduction of fuel pressure	normal engine operation
+A piece of thread sealant lodged in the bypass valve of the engine-driven fuel pump	a reduction of fuel pressure
+A poor electrical connection within the auxiliary fuel pump	intermittent operation of the pump
+pump	additional fuel pressure the engine

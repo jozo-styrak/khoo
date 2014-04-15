@@ -1,0 +1,22 @@
+Without his own set of charts , the captain was not able to confirm the information critical to the safe conduct of the approaches	, the crew used a DH value that was rounded down 54 feet lower than the published value
+blowing snow in the high winds	Flight visibility would have deteriorated as the aircraft descended below the DH of 200 feet agl
+the flap setting was increased from 20 to 35 in the final stage of the approach	the aircraft would have become destabilized
+the captain would have had to pitch the nose down	maintain a stable airspeed to keep the approach lights in view
+the first officer announced that the approach lights were visible at about 300 feet agl	the captain discontinued his instrument scan and decided to land
+the captain 's late call for full flap	The first officer anticipated calling airspeeds in relationship to Vref , and since the Vref value had changed
+the Vref value had changed due to the captain 's late call for full flap	he turned his attention to a reference card clipped to the instrument panel
+one of the pilots been monitoring the instrumentation to touch down in a PMA	it is probable that the significant deviation below the optimum glide slope would have been noticed and corrected before ground contact short of the runway
+conduct of the approaches	the safe
+his own set of charts	the captain was not able to confirm the information critical to the safe conduct of the approaches
+a hot microphone installed and used in the aircraft is expected to be recording continuously	As such , the CVR system did not meet serviceability standards required by the CARs
+the instrument landing system -LRB- ILS -RRB- approach downward , and did not apply a cold temperature correction factor	The crew rounded the decision height -LRB- DH -RRB- figure
+The captain , as pilot flying	difficulty
+the captain was	the information critical to the safe conduct of the approaches
+the information	the safe conduct of the approaches
+the combination of these two factors	a descent of 74 feet below the DH of 200 feet agl on an approach to minimums and an increased risk of undershoot
+the experience level from the pairing of the two pilots	the decision making , and the execution of the approaches
+a further failure in recording of the first officer 's intercom channel	a loss of direct access to the first officer voice information
+Although useable information was derived through other	and the quality of the occurrence investigation have been reduced
+A late full flap selection at 300 feet above ground level -LRB- agl -RRB- likely destabilized the aircraft 's pitch attitude , descent rate and speed in the critical final stage of the precision approach	an increased descent rate before reaching the runway threshold
+the crew	deviation below the optimum glide slope in low visibility unnoticed
+The combined error	a descent of 74 feet below the DH on an ILS approach to minimums

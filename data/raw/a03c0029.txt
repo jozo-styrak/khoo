@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+The take-off and departure were initiated in accordance with the company's standard operating procedures.
+
+
+The aircraft captain, the PF, had completed currency requirements for the left seat but had not completed the required annual right-seat training to operate the aircraft from the right seat. Consequently, the aircraft captain was not current to operate the aircraft from the right seat.
+
+
+There are indications that the flaps were selected "UP" on take-off, but after the accident, the flaps were found in the take-off position. It could not be determined whether the flaps were indeed selected up or if they were selected up and then to the take-off position before the crash.
+
+
+The ramp was brightly lit, and there was no problem seeing the instrument panel, so the captain did not adjust the lighting illuminating the artificial horizon before taking off. However, once the aircraft was airborne, the lighting was too dim to allow the captain to see the artificial horizon clearly. The PF concentrated on the bank angle, but did not cross-check the climb angle or other instruments, and a high sink rate rapidly developed. When the first officer called the descent, the captain was unable to re-establish situational awareness, and the first officer correctly took control. The damage to the propellers and the engines was such that a forced landing on the lake surface was the only option.
+
+
+The aircraft took off over a lake, and there were no ground lights under or around the aircraft after it left the airport area. The lack of ground and celestial lighting created conditions that made flight with visual reference to the surface very difficult, if not impossible.
+
+
+With adequate outside visual references, a pilot, unsure of the aircraft attitude, would certainly look outside to regain his or her situational awareness. The ambient (outside) lighting conditions after take-off on the accident flight would have provided little or no help to this crew in orienting the aircraft. It is highly probable that the PF was referencing only the aircraft instruments, and they were not bright enough to ascertain the aircraft attitude. In essence, this flight was not being conducted in accordance with VFR.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The captain chose to fly the aircraft from the right seat during a night departure when not current to operate the aircraft from the right seat. The captain did not set the instrument lighting correctly for the night take-off and was unable to use the artificial horizon effectively, resulting in the loss of situational awareness after take-off and the subsequent loss of control of the aircraft.
+
+
+
+Other Findings
+
+
+The flight was filed as a visual flight rules flight whereas, in essence, it was operating under instrument flight conditions.
+

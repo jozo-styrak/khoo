@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+From the wreckage examination and reconstruction, it was determined that the smoke and fire originated in the nose baggage compartment in the area of the nose baggage compartment vent. The progression of the fire damage suggests that a heat source likely ignited a bag of bankers' dispatch notes, causing a localized fire in the nose baggage compartment. The fire quickly melted through the radio-rack plastic air-cooling line and directed hot air and smoke into the cabin. The unlimited source of fresh air from the cooling line likely began a blowtorch effect into the cabin, which breached a fuel line feeding the right engine fuel flow gauge. Given a constant supply of fuel and air, the fire progressed rapidly, causing heavy, black smoke as it burned through the avionics rack and plastic mouldings. This rapid progression of events, from the time of the pilot's first distress call until the time of the crash, took less than four minutes.
+
+
+The only sources of heat in the area in which the fire originated would have been a short circuit in the aircraft's wiring or a high resistance hot spot, such as a loose terminal on an electrical relay. The relays in this area were examined and there were no apparent signs of failure or loose terminals. The wiring associated with these relays, however, showed signs of severe electrical arcing. The wiring had recently been replaced; therefore, it is unlikely that abraded wiring would have caused an electrical short circuit. It is more probable that the severe arcing was the result of the fire burning off the protective shielding to expose bare wires. The relay in the immediate vicinity of the initiating hot spot was the avionics relay. There had been an intermittent problem with the relay two weeks prior to the accident, which probably reappeared prior to, or at, the station stop in Fort Frances. A loose terminal or a fault within the relay could account for these problems; since the avionics relay could not be located at the crash site, however, its status cannot be confirmed.
+
+
+Technical records indicate that the relay had been in service for approximately 11 years and 8,555.3 airframe hours prior to the accident. The total electrical cycles on the relay could not be established. A check with the manufacturer and the Transport Canada SDR data base indicates that there were only a few reports of problems associated with this relay. There was one reported case of white smoke coming from the area of the relay; however, the circumstances surrounding that incident could not be confirmed.
+
+
+When the pilot reported that he had smoke coming into the cockpit, the aircraft was approximately 40 nm from Thunder Bay and between cloud levels at 7,000 feet asl. The aircraft was approximately 18 minutes out of Atikokan and about 16 to 17 minutes out of Thunder Bay, with direct routing. The pilot had just requested clearance to begin his initial descent into Thunder Bay when the problem was reported, and he may have been predisposed to the idea of landing there.
+
+
+The pilot's initial emergency training on how to respond to electrical smoke or fire reportedly included shutting off all electrical power and isolating the problem. The pilot may have initially assessed the smoke as a recurrence of the intermittent problem he had experienced in Fort Frances, a problem that had evidently disappeared without warranting shutting down the electrical system. Because of the weather conditions, the pilot knew that he would need the electrically driven navigation and communication equipment to complete the approach into Thunder Bay. As the aircraft descended from 7,000 feet asl, it would have entered the cloud, increasing the pilot's reliance on electrical power for directional guidance. The pilot's radio transmissions and continued secondary radar coverage (transponder operation) indicate that the pilot did not shut off the aircraft's electrical supply to isolate the fault. When the pilot radioed that the smoke was becoming very thick and that he was going to have to do something, the fire was probably out of control. Immediate isolation of the electrical fault likely would have reduced the speed with which the smoke or fire progressed. The aircraft's high rate of descent shortly after the last radio transmission and the aircraft's steep impact angle indicate that the pilot likely became incapacitated because of the smoke and fire.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 173/96 - In-flight Fire Investigation.
+
+
+
+Findings
+
+
+The aircraft was within its design weight and centre of gravity limits at the time of the occurrence. The pilot was certified and qualified for the flight. Approximately 40 nm west of Thunder Bay, the pilot reported an electrical problem with smoke coming into the cockpit. The pilot reported an intermittent electrical problem at the first station stop in Fort Frances, warranting a telephone call to the operator; however, no record of a completed call was found. The smoke and fire started in the nose baggage compartment in the area of electrical relays and wiring. The avionics relay was mounted in the immediate vicinity of the initiating hot spot; however, the avionics relay could not be located at the crash site. The avionics relay was not a factory-installed item in the aircraft, and proper documentation concerning the installation of the relay could not be found. The pilot was reportedly trained to shut off all electrical power to isolate the fault when confronted with electrical smoke or fire. The pilot's radio transmissions and continued secondary radar coverage indicate that the pilot operated the aircraft's electrical system for at least three minutes after experiencing smoke in the cockpit. Immediate isolation of the electrical fault likely would have reduced the speed with which the smoke or fire progressed. The aircraft was not equipped with smoke goggles or an oxygen system, nor were they required by regulation.
+

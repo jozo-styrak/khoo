@@ -1,0 +1,50 @@
+
+
+Analysis
+
+
+Despite rigorous testing and examination of the engine and its ancillary systems, no defects were found that would have led to the sudden and uncommanded loss of main rotor rpm. Nonetheless, previous logbook entries record the removal and replacement of primary engine control components as a result of engine surging. Such component removal and replacement is characteristic of maintenance staff trouble-shooting engine performance-related problems. The components were not tested at that time, and no conclusions about their performance can be made.
+
+
+The engine passed Allied Signal's test-cell run on 31 March 1996; however, the engine failed to meet the engine manufacturer's specifications immediately thereafter when it was installed in the AS-350D helicopter, serial number 1255. Records show that in June/July 1996 the engine was operated for another 52 hours before the airflow modulator was replaced on 04 July 1996. This operating overview is consistent with an intermittent problem with the airflow modulator. It is also possible that the original surging problems were caused by a combination of performance tolerance extremes of the engine fuel control system components, but that the airflow modulator may have had the most effect. At that time, the helicopter could not lift off the ground; the accident pilot experienced the same circumstance just before the accident. As a result, the possibility of mechanical malfunction of one or more of the engine control components being a contributing factor in the loss of rotor rpm cannot be discounted.
+
+
+The ice that the pilot found on the main rotor blades had accumulated on the rotor disk hub which has no aerodynamic benefit and produces little lift, if any. As a result, it is unlikely that removing the ice from the blades' roots had any significant effect on the aerodynamic efficiency of the rotor system, and certainly would not have been the principal factor for the rotor rpm recovering before the final take-off. In the three-minute period from start-up at the VOR site to rotation into forward flight, the reported weather conditions were likely not severe enough to accumulate sufficient blade ice to cause significant and rapid rotor rpm decay. Since post-accident information revealed no ice accumulation on the main rotor blades, blade ice would have been an unlikely factor in either instance of rotor rpm decay.
+
+
+However, it could not be determined if an accumulation of snow or ice in the engine intake had occurred, or if such an accumulation would have led to an engine performance degradation sufficient to precipitate a loss of rotor rpm under the specific take-off conditions prevailing at the time of the accident.
+
+
+There remain four possibilities to explain the two separate, but apparently similar, instances of rotor rpm decay, namely:
+
+
+engine air intake contamination and restriction; engine airflow modulator rigging or function; fuel volume delivery or scheduling restriction; or a combination of all three.
+
+
+According to the pilot, the EGT exceeded 749 degrees Celsius during the loss of rotor rpm immediately before the accident; further, there is a report of the engine running hotter than usual. This high temperature is not consistent with fuel flow restriction, rather with engine airflow problems.
+
+
+The possibility of airflow restriction/interference is further raised by the report from the pilots that the engine seemed to be lacking power. This lower-than-expected power is unlikely explained by the small amount of blade root ice found when the helicopter shut down on the VOR site pad. Another possible factor in the second instance of rotor rpm decay is the pilot's handling technique; without benefit of recorded flight data, however, this remains an undetermined factor.
+
+
+Prior to the loss of rotor rpm, the helicopter was climbing with high power, and at a weight and density altitude that likely placed the helicopter near the maximum available flight performance. In this situation, the presence of adverse meteorological phenomena, such as freezing precipitation, or any type of mechanical malfunction leading to performance degradation, such as anomalies with the airflow or fuel control systems, could have resulted in a loss of rotor rpm. Such circumstances would have been demanding for the pilot, would have had incrementally deleterious effects on helicopter performance, and would have allowed little margin for handling error.
+
+
+The pilot experienced a sudden decay of main rotor rpm at an altitude, airspeed, and power demand combination that did not permit him to effectively recover the rpm and continue flight. As a result, he was committed to perform a forced landing on a downward-sloping surface.
+
+
+The impact forces were not great enough to activate the armed ELT.
+
+
+The following TSB Engineering Branch report was produced:
+
+
+LP 30/98 - Engine Examination (AS-350B C-GBRC)
+
+
+
+Findings
+
+
+Testing and examination of the engine and its ancillary systems found no defects that would have led to the loss of main rotor rpm. The engine logbook records the removal and replacement of primary engine control components as a result of engine surging. The components were not tested at that time, and no conclusions about their performance can be made. The possibility of mechanical malfunction of one or more of the engine control components being a contributing factor in the loss of rotor rpm cannot be discounted. It could not be determined if snow or ice had accumulated in the engine intake. When main rotor rpm decayed, the combination of altitude, airspeed, and power demand did not permit the pilot to effectively regain the rpm and continue flight. From the location where the rotor rpm decayed, the only available landing area was a downward-sloping, snow-covered surface.
+

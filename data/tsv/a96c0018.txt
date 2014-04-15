@@ -1,0 +1,9 @@
+When the Navajo arrived in the vicinity of Dryden , the pilot did not reset the altimeter from 30.38 to the appropriate setting of 30.08	, although the pilot of the Navajo flew at a VFR cruising altitude of 7,500 feet with reference to the altimeter , the aircraft was actually flying at about 7,200 feet asl
+Because the controller was performing the duties of both radar and data controller , he prioritized his tasks , giving higher priority to the data controller tasks and lower priority to the provision of traffic information	, he spent little time monitoring the uncorrelated digital target symbols
+This prioritization is permitted by the ATC procedures specified in MANOPS	, he did not provide traffic information to the Chieftain
+the Navajo arrived in the vicinity of Dryden	the pilot did not reset the altimeter from 30.38 to the appropriate setting of 30.08
+the controller was performing the duties of both radar and data controller	he prioritized his tasks , giving higher priority to the data controller tasks and lower priority to the provision of traffic information
+the incorrect altimeter setting	the Navajo was flying about 300 feet lower than the indicated altitude
+the aircraft passed	the vertical distance between them was about 300 feet less than the required vertical distance of 500 feet
+Because the controller was performing the duties of both radar and data controller , he prioritized his tasks	higher priority to the data controller tasks and lower priority the provision of traffic information
+The lack of guidance on the use of the recommended en route frequency of 126.7 MHz	the possibility of immediate communication between the pilots

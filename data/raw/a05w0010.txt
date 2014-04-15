@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+All aircraft, airport and NAV CANADA facilities were operating as designed, and were fully functional at the time of the occurrence. The analysis will focus on reasons why visual references were lost at a critical time in the approach, and the risks associated with conducting approaches in runway visual range (RVR) 1400 weather to a Category I runway.
+
+
+The captain continued the approach as he visually acquired the runway environment. During the transition to the visual environment, difficulty was encountered in orienting the aircraft to the runway. Given the weather conditions at the time of the occurrence, it is possible that freezing fog swirling around the aircraft could have created the illusion of movement about the aircraft. While the prevailing visibility was above the minimum value allowed to conduct an approach, the effective visibility due to the downward vision angle was approximately 600 feet at decision height. Even as the aircraft continued in the descent, forward visibility at 100 feet above ground level would have only increased to 1000 feet under ideal conditions. The 10 bank to the left at 65 feet, in combination with the reduced forward visibility, impeded the pilots' ability to judge the aircraft's orientation to the runway. As a consequence, the aircraft touched down left of the centreline and ran off the edge of the runway.
+
+
+The approach was conducted in accordance with current Transport Canada regulations and, as such, demonstrates that the visual aids associated with a Category I approach were less than adequate to maintain directional control during RVR 1400 operations.
+
+
+The following TSB Engineering Branch project was completed:
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+There were insufficient visual cues during the landing phase to enable the pilots to judge the aircraft's orientation to the runway. As a result, the aircraft landed left of the centreline and failed to remain on the runway. The current regulations allow for approaches and landings to be carried out in low visibility, increasing the risk of an ineffective transition to visual flight.
+

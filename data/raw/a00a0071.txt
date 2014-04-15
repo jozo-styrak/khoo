@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+No discrepancies were found with either the aircraft or the engine that would explain why the aircraft failed to accelerate; however, the temperature and the dewpoint were such that serious carburettor icing could occur at any power setting. Therefore, it is probable that ice built up in the carburettor during the long taxi from the Academy ramp to position on runway 01. This condition would have resulted in a power loss, which might have been apparent to the pilot before taking-off, had he stopped the aircraft, applied the brakes, and set full power before commencing the take-off run. Since the pilot performed a rolling take-off, it might not have been obvious that the engine was not producing full power until after the aircraft had travelled some way down the runway. The pilot probably applied carburettor heat then in an attempt to attain more power. The carburettor heat system is more effective as an anti-icing device than as a de-icing device. Depending on the amount of ice built up in the carburettor, it could take a considerable amount of time to clear all the ice and regain full engine power.
+
+
+It is not known why the pilot did not abort the take-off as soon as it became apparent that the aircraft was not accelerating normally. The following conditions may have affected his decision making: it was the pilot's first flight in six weeks, he had limited flying experience, and he was expecting engine power to increase after applying carburettor heat.
+
+
+Although the occupants were all subjected to similar deceleration forces during the impact sequence, the passengers received only minor injuries; the pilot was fatally injured. Differences in physiology between the four individuals and differences in impact forces at the four seat positions make it difficult to compare the injuries suffered by the four individuals. However, the passengers' use of the available seat belts and shoulder harnesses likely prevented more serious injuries. Based on the general knowledge that seat belts and shoulder harnesses prevent injuries, the pilot's injuries would have likely been less severe had he been using his seat belt and shoulder harness.
+
+
+The following TSB Engineering Laboratory Report was completed:
+
+
+LP 60/00__Instrument Examination.
+
+
+This report is available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Conditions conducive to serious carburettor icing at any engine power setting were present. These conditions almost certainly prevented the aircraft from accelerating normally and from attaining safe flying speed. The take-off was not aborted when it became evident that the aircraft was not accelerating normally. The aircraft was forced into the air at or near the aerodynamic stall speed; the aircraft stalled, and control was lost.
+
+
+
+Other Findings
+
+
+The pilot was not wearing his available seat belt and shoulder harness; this contributed directly to the severity of his injuries.
+

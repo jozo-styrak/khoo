@@ -1,0 +1,18 @@
+However , if the pilot did not closely monitor the engine instruments , the formation of carburetor ice would initially be hidden while the governor was maintaining a constant manifold pressure and engine rpm	, whenever icing conditions are suspected , the pilot must apply carburetor heat as required
+the pilot did not closely monitor the engine instruments	the formation of carburetor ice initially be hidden while the governor was maintaining a constant manifold pressure and engine rpm
+both the tension microswitches and the extension limit switch failed to limit both the extension of the actuator and the increasing tension on the drive belts	This overloading occur
+arcing of the GPS power wiring occurred	Failure of the temporary fastening lead to an electrical fire
+The weather conditions at the time of the occurrence	icing
+a mechanical fault or failure	the operation of the engine
+carburetor ice	the engine
+in the air in conditions	carburetor ice
+the ice adversely affected engine performance	the engine stoppage
+the ice	engine performance
+the pilot was	the RPM
+a 1.5-amp , in-line fuse over-current protection is required	the belt tension actuator overloading the drive belts
+Failure of the temporary fastening	an electrical fire if arcing of the GPS power wiring occurred
+carburetor ice adversely affected engine performance	the engine
+carburetor ice	engine performance
+the main rotor rpm decayed rapidly to an unrecoverable speed and the pilot was	the helicopter 's descent
+Incorrect over-current fuse protection of the belt tension actuator	overloading of the drive belts
+Failure of the temporary fastening	an electrical fire

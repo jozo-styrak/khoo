@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+No mechanical reason was found for the first engine power loss on the day of the accident. However, the fact that water was found in several fuel sumps after the engine power loss during the first attempted departure indicates that the aircraft's fuel system was contaminated to some extent at that time. Because the aircraft's engine ran smoothly after water was drained from its fuel system, it is likely that the engine power loss during the first attempted take-off resulted from fuel contamination. It is unlikely that any significant amount of carburettor ice accumulated in the carburettor due to the low ice accretion rate during the take-off phase and the short duration of the flight.
+
+
+Traces of water were found in the carburettor filter and in the main fuel-line filter. Although the water's time of entry could not be definitely established, the finding of a rusty substance, which is consistent with water contamination, in various parts of the fuel system indicates that the fuel system had become contaminated after the system had last been cleaned or replaced. Impact damage resulted in the loss of all but a very small amount of fuel from the centre tank; however, the amount that was obtained from the centre tank's forward sump drain contained water contamination. Because most of the fuel had escaped, the amount of water contamination in the fuel system before impact could not be accurately assessed. Water contamination in the fuel tanks would have migrated by gravity to the fuel sumps. Damage to the tanks and sumps during the impact would have allowed water contamination in the area to escape. Although the fuel system had been drained after the first power loss incident, some contamination probably remained in the system.
+
+
+The most likely accident scenario is that water contamination remained in the fuel system after it was flushed. The water would then have shifted its position during take-off, entered fuel lines and migrated to the carburettor and into the engine, resulting in a loss of power. After the power loss, the pilot changed fuel tanks, activated the fuel boost pump, and worked the throttle, which began to clear the contamination and moved fresh fuel into the carburettor. In this scenario, enough fresh fuel would have been moved to the carburettor area to facilitate the post-crash carburettor fire, but the impact with the trees and ground would have intervened before the fuel entered the engine and allowed it to regain power.
+
+
+The pilot's actions after the power loss correspond to the actions specified in the AFM for restart after engine failure during flight, with the exception of the throttle position. The pilot's action in working the throttle differs from the stated procedure of positioning the throttle to one-third open. However, in the most likely accident scenario--fuel contamination--working the throttle operated the accelerator pump in the carburettor and increased the movement of fuel through the system. The pilot's action therefore hastened the time at which clean fuel would have been supplied to the engine. It was not determined whether the pilot's action would have affected the engine restart once clean fuel was available.
+
+
+Although the pilot and the engineer were subjected to similar deceleration forces during the crash sequence, the types of injuries suffered by the engineer were more serious than those of the pilot. Differences in physiology between the two individuals and differences in impact forces at the two seat positions make it difficult to draw comparisons between the origin of the injuries suffered by the two crew members. However, the pilot's use of the available shoulder harness likely prevented more serious injuries during the impact sequence. Based on the general knowledge that seat belts and shoulder harnesses more often than not prevent injuries, the engineer's injuries would have likely been less severe had he been using both his seat belt and shoulder harness.
+
+
+The following TSB Engineering Laboratory Report was prepared:
+
+
+LP107/99--Magneto Harness Cannon Plug.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The most likely accident scenario during the second take-off is that water contamination migrated from the centre fuel tank to the engine, resulting in a loss of engine power. The engine stopped at a point from which there was insufficient time for the engine to restart, nor from which a safe landing could be made. Indications of water contamination were found in the fuel system after the occurrence; however, the source(s) of the water contamination could not be identified.
+
+
+
+Other Findings
+
+
+Examination of the aircraft and testing of the engine and components did not identify any pre-occurrence structural, mechanical, or electrical defects or malfunctions that would have contributed to this occurrence. The post-crash fire in the carburettor most likely resulted from uncontaminated fuel brought forward by the windmilling engine and the pilot's efforts to clear contamination from the fuel system. The pilot's use of his shoulder harness likely prevented more serious injuries during the impact sequence. The engineer's injuries likely would have been less severe had he been using both his seat belt and shoulder harness. The pilot was certified and qualified for the flight. The aircraft's weight and centre of gravity were within approved limits. The aircraft's records indicated that the aircraft had been certified and maintained in accordance with existing regulations. The aircraft's engine power loss during the first attempted take-off was likely due to water contamination in the fuel.
+

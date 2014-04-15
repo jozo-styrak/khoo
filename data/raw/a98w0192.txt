@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+The engine failed when one blade in the 6th stage HPC failed at the blade root due to high-cycle fatigue fractures. The cause of the fatigue cracking could not be determined.
+
+
+The FDR was used for event analysis. An evaluation of the FDR at the TSB Engineering Branch indicates that the failure would not have been predictable based on an analysis of the engine parameters being recorded on the FDR.
+
+
+Communications on the Calgary ground frequency were complicated due to the unresolved nature of the occurrence, the aircraft crew's need to maintain communications with the AER team and the ATC ground controller, and the need for continuing operation of aircraft using the ground frequency while taxiing to and from the terminal. The frequency congestion experienced by the flight crew did not compromise the safety of the passengers, crew or aircraft during this occurrence. However, the volume of transmissions did cause the flight crew concern that they might miss vital communications that could have jeopardized the safety of the passengers, AER ground crew, and flight crew. A separate frequency would have permitted the crew to communicate directly with the AER team.
+
+
+The following Engineering Branch report was completed:
+
+
+
+Findings
+
+
+The right engine failed shortly after take-off. The engine failure was precipitated by one blade in the 6th stage high-pressure compressor failing due to high-cycle fatigue cracking. The cause of the fatigue cracking could not be determined. Based on runway length and aircraft performance calculations, the captain determined that he did not need to dump fuel prior to landing. Communications between the pilots and the air traffic control authority and the airport emergency response team were complicated after landing because of the use of the ground control frequency for the continued operation of aircraft.
+

@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+There was no indication that a pre-occurrence mechanical discrepancy contributed to the accident.
+
+
+A loss of engine power was not considered to be a factor in this occurrence because the helicopter was seen climbing and under power after the pilot declared a problem with the open door. The explosion was considered to have resulted from the flailing of the transmission to engine main drive shaft after the main rotor separated from the helicopter. The shaft is located in the engine compartment adjacent to fuel and hydraulic lines, any of which, if breached, could have caused the in-flight fire.
+
+
+The pilot left the bubble door unlatched on two occasions during his flight preparation before departure from Stony Rapids. A ground worker latched the door, and the pilot transitioned to the old drill site with the long-line stowed in the rear of the helicopter. To use the long-line, the pilot would have had to exit the helicopter, remove the long-line from the rear cabin area, attach it, and then get back into the left seat position. Because the door latches had been functional just before the occurrence flight, and the door opened during the flight, it is likely that the pilot did not fully or properly latch the door upon re-entering the helicopter.
+
+
+The sudden opening of the door in flight would be a startling event. During this phase of flight, the pilot would likely have been resting his elbow on the armrest attached to the door, which would have pulled away from him while opening. In forward flight, the door bubble would act as an aerofoil with the air stream pressure differential pulling the door open and making it difficult to close. The urgency in the pilot's radio transmissions and his stated action of trying to hold the door so he would not lose it indicates that he was unfamiliar with this type of event. In a prior door-opening event on the same helicopter, the bubble door opened approximately six to eight inches and stayed in a trailing position, with no major flapping of the door or controllability problems with the helicopter. If the pilot had been aware of the nature of a door-opening event, it is likely that he would have been less concerned.
+
+
+The pilot indicated that he could not land because he was holding the door with his hand. This implied that the pilot was holding the door with his left hand and therefore could not operate the helicopter's collective control to adjust the rotor blade angle. To slow the helicopter to the point where he would be able to close the door, he would have had to ease back on the cyclic control with his right hand to raise the nose of the helicopter and bleed off airspeed. Without adjusting collective, the helicopter would climb in a nose-high attitude as observed.
+
+
+The climb got progressively steeper before the nose suddenly dropped. The dropping of the nose is consistent with the pilot pushing forward on the cyclic control in an attempt to recover from the nose-high attitude. The pilot should have been aware of the dangers of mast bumping through the pilot's initial helicopter licensing training and subsequent experience with helicopter operations. It is likely that, in the pilot's preoccupation with the open door, he did not apply the corrective actions required to recover from a nose-high attitude. This allowed the helicopter to enter a low-g condition, which in turn led to mast bumping and the in-flight breakup of the helicopter.
+
+
+The symmetrical oblong nature of the mast fracture indicates that both blade static stops contacted the mast equally. Had a failure occurred in one of the blades, the resulting difference in blade flapping deflections would likely have resulted in an asymmetrical failure or distortion of the mast.
+
+
+It is not known if a pre-existing medical condition had any effect on the pilot during this occurrence.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot's left-side bubble door opened during flight, likely because it was not closed and properly latched. In the pilot's preoccupation with the open door, it is likely that he allowed the helicopter to enter a low-g condition, which led to mast bumping and the in-flight breakup of the helicopter.
+

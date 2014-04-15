@@ -1,0 +1,11 @@
+excessive speed	The captain reduced the engine power to idle 16 seconds prior to touchdown , likely because he recognised that the approach was in jeopardy
+factors such as flare technique , braking technique , and differences between the actual runway conditions and estimated runway conditions	The discrepancy between the stopping distance calculated by the engineering landing simulation -LRB- 5940 feet -RRB- , and the actual stopping distance -LRB- 6400-7100 feet -RRB- may be
+nine-knot tailwind into the landing calculations	the
+the timing of this decision	the omission of the tailwind during the calculation of landing performance
+the tailwind	it difficult to maintain a normal descent profile
+The captain	the engine power to idle 16 seconds prior to touchdown
+The excess speed would have exacerbated the effect of the tailwind	a further increase in the stopping distance
+The excess speed	the effect of the tailwind
+The combination of the high threshold crossing height , excessive approach and touchdown speeds , and the extended touchdown point	the aircraft
+Some of the FDR parameters were faulty	erroneous recordings and difficulty in interpreting actual aircraft performance
+The combination of the high threshold crossing height , excessive approach and touchdown speeds , and the extended touchdown point	the aircraft

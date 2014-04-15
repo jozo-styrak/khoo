@@ -1,0 +1,37 @@
+
+
+Analysis
+
+
+The captain made the decision to conduct a visual approach to the Kelowna Airport, because he was familiar with the Kelowna area and could see the area where he knew the Kelowna Airport was located. Although the crew members could not yet see the Kelowna Airport, the weather was good and they could see the ground, so a visual approach should have presented no difficulty.
+
+
+It was concluded from information gathered from the FDR data and some flight simulations that when the Vernon airport came into view, the captain misidentified it as the Kelowna Airport and turned the aircraft to the right to line up with the centreline of Runway 23 at Vernon. Neither crew member noted that the aircraft heading and the runway heading were 80 degrees off the intended landing runway, Runway 15, nor did they make effective use of the aircraft's navigation system during the approach. The first officer, although unfamiliar with the area, was aware from his cockpit displays that considerable distance remained to the Kelowna Airport. He was, however, initially distracted by radio calls with company personnel and was slow to intervene in the approach to the Vernon Airport.
+
+
+The crew members were not made aware of the reason that instrument approaches were not available at the Kelowna Airport, nor did they ask. Had they known it was because the missed approach paths infringed on the designated fire suppression zone and that all approach aids were fully functional, they could have completed the NDB B approach, or even the ILS/DME 1 approach with its glideslope guidance, provided they remained in visual meteorological conditions and did not fly south of the Kelowna Airport.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+While executing a visual approach to the Kelowna Airport, the captain misidentified the Vernon Airport as the Kelowna Airport and executed a visual approach to the Vernon Airport, descending to 730 feet agl before executing a go-around. The first officer was aware from his cockpit displays that considerable distance remained to the Kelowna Airport. He was, however, initially distracted by radio calls and was slow to intervene in the approach to the Vernon Airport.
+
+
+
+Findings as to Risk
+
+
+The approach to the wrong airport created a risk of collision with other air traffic and a risk of landing on an inappropriate runway for the aircraft type. The Air Canada Route Manual contains a visual transition procedure for Runway 33 in Kelowna, but none for Runway 15. The crew had to improvise a visual approach using the engine-out procedure chart for Runway 33.
+
+
+
+Other Findings
+
+
+After landing at Kelowna, the captain telephoned a supervisory pilot and advised him that the incident was not significant. The CVR data was, therefore, not secured for the investigation. The crew members were not aware of the specific reason why instrument approaches were not available at Kelowna. Had they known the reason, they could have utilized the Kelowna ILS or NDB for guidance. The Vernon Airport and its ATF are not depicted on any Air Canada Route Manual Kelowna charts. Should Air Canada crew members find themselves about to infringe on the ATF zone, they would be unable to find the frequency on which they are required to broadcast their position and intentions.
+

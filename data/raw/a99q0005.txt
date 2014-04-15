@@ -1,0 +1,63 @@
+
+
+Analysis
+
+
+The possibility of a malfunction of one of the aircraft's systems was ruled out because examination of the aircraft did not reveal any deficiency, and the crew members did not mention any malfunction during the fight. Since the examination of the GPWS did not reveal any abnormality and the alarm deactivates at less than 50 feet agl, there is reason to believe that the radio altimeter minimum altitude pointer was set at more than 50 feet agl and was accidentally displaced after the occurrence. There is nothing to indicate that there was an emergency, or that the aircraft exhibited any problems, before the crash.
+
+
+According to the regional forecast, the ceiling on arrival at Saint-Augustin was to be higher than the MDA. The crew could therefore expect to be under the cloud layer before reaching the MAP. The likelihood of sighting the runway upon exiting the approach was therefore greater. Consequently, the decision to proceed to Saint-Augustin was reasonable. At destination, the weather information supplied by the AAU indicated that the ceiling and visibility were below the approach minima. However, as runway 02/20 was not under an approach ban, the decision to conduct an approach was consistent with existing regulations.
+
+
+The captain gave a routine briefing for the approach. Yet the prevailing environmental conditions necessitated a thorough briefing. Bearing in mind the discrepancy between the reported visibility and the visibility on landing, the crew should have expected not to establish visual contact with the required references before reaching the MDA and to have to pull up. Since the captain did not follow standard procedure when he gave the approach briefing, he did not cover several important points that would have let the first officer know his intentions in the various stages of the approach, specifically the MDA that he had set. The point where he wanted to abort the approach was not clearly established because he did not specify the MDA or the MAP. These oversights, and the fact that the first officer did not notice the missing items, reveal a lack of coordination within the crew and a lack of thoroughness, probably due to incomplete formal training and a lack of hands-on training and supervision. Consequently, the crew members did not have a common plan for pull-up, the most dangerous phase of an approach, when the obstacle clearance height was decreasing. The decision to go around appears to have rested implicitly on the loss of sight of the ground, or else the aircraft's position relative to the runway did not allow safe continuation of the landing.
+
+
+Although R gionnair recommends using the PMA method in adverse weather conditions, the captain decided not to do so. The PMA method, however, would not have improved the safety of the flight because conditions did not permit descent below the MDA. Since the crew did not establish visual contact with the required references, PMA would not have simplified the transition to visual flight. The PMA method would thereby offer no safety advantages because the aircraft was being operated under the safety requirements for approach obstacle clearance.
+
+
+The approach was not conducted in accordance with the requirements of existing regulations. After flying level for a few seconds at the MDA, the captain decided to continue descending even though he had not established visual contact with the required references. He also knew that the visibility would at best let him sight the runway half a mile from the threshold, or about one mile past the MAP. The fact that the first officer established and maintained visual contact with the ground before reaching the MDA probably played a role in his decision. The fact that the aircraft of a competing company was coming behind his may also have influenced his decision.
+
+
+The fact that the pilot of C-FGOI (R gionnair's chief pilot) and the crew of the aircraft following him in approach did not comply with the approach minima for Saint-Augustin Airport reveals that "going to look below the MDA or past the MAP" may be a widespread practice on the Basse C te-Nord. The investigation established that, when the weather did not allow the runway environment to be sighted during a non-precision approach, some R gionnair pilots would descend below the MDA and use the GPWS to approach the ground. It may reasonably be asserted that the accident risk is much greater when a crew descends to 100 feet agl without sighting the runway, in low visibility, aboard an aircraft without an automatic pilot, to try to land on a runway devoid of navigation aids and equipment designed for that purpose. The crew consciously decided to descend 200 feet lower than the terrain adjacent to the runway in conditions where visual references were difficult to discern in visibility that left the crew between 8 and 16 seconds to acquire the visual references and cross-check the instruments, check the aircraft's position laterally and vertically, determine a visual flight path, and make the necessary corrections before landing on a snow-covered runway where gusting winds might decrease control of the aircraft.
+
+
+A variety of factors could have motivated the crew members who adopted such an approach procedure not to abide by established safety standards and regulations, including the following:
+
+
+the desire to improve the efficiency of the service provided to a community that practically depends on air transport to travel; competition among the region's operators; concern about financial loss due to diversion; thorough knowledge of the terrain surrounding Basse C te-Nord airports; lack of regulatory supervision; lack of operational control; lack of supervision of the procedures used by crew members; and lack of precise, standard GPWS procedures.
+
+
+When the aircraft reached 100 feet agl, which is the minimum descent height that the crew had set for themselves, the captain, who was flying on instruments, had planned to abort the descent and maintain this height until he could see the runway. Normally, the GPWS warning should have sounded to alert the captain that the aircraft was below 100 feet agl. Three factors might have contributed to the aircraft's continued descent below that limit:
+
+
+The "MINIMUMS" alarm sounded at a height that did not leave the captain time to abort the descent and thus avoid striking the ground. While manoeuvring at an altitude below the safety margin for the approach in adverse weather conditions 28 seconds before impact, the captain had to monitor outside and conduct the instrument descent at the same time. Quite clearly, in trying to establish visual contact, the captain did not effectively monitor the aircraft's flight parameters. In the final moments of the approach, the flight proceeded in the presence of phenomena conducive to whiteout. Depth perception was virtually impossible. In these conditions, the first officer, confident that he could see the ground, did not suspect that the aircraft was descending.
+
+
+It may be concluded that the aircraft continued to descend inadvertently until it flew into the ground. If the captain disregarded the alarm, thinking that the aircraft was 100 feet above the river, then he probably did not have time to initiate pull-up.
+
+
+The chief pilot (the captain of C-FGOI) did not exercise the operational control arising from his duties. He did not follow the SOPs, implement all the training programs, or supervise the flight crews. He set a bad example to the pilots under him by using a dangerous method, that is, descending below the MDA without establishing visual contact with the required references and using the GPWS to approach the ground.
+
+
+The company's management is responsible for controlling the operation of its aircraft and must ensure that pilots comply with existing regulations. As noted by Transport Canada in the audit performed after the occurrence, the operations manager did not exercise good supervision over air operations. The operation manager's multiple operational, administrative, and financial functions within the company probably adversely affected the exercise of his air operations control and supervision responsibilities. It is also conceivable that it was difficult for him to supervise the chief pilots because he did not work at the same base as they.
+
+
+Several of the training and supervision deficiencies identified in the regulatory audit performed after the occurrence probably contributed to the accident. In all likelihood, the irregularities that compromised the safety of the flight appeared between the audit carried out in 1995 and the day of the occurrence. Although the Transport Canada inspectors visited the company numerous times during that time, for undetermined reasons, they did not note these problems.
+
+
+The following TSB Engineering Branch Laboratory Report was completed:
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The crew did not follow the company's SOPs for the briefing preceding the approach and for a missed approach. In the approach briefing, the captain did not specify the MDA or the MAP, and the first officer did not notice these oversights, which shows a lack of coordination within the crew. The captain continued descent below the MDA without establishing visual contact with the required references. The first officer probably had difficulty perceiving depth because of the whiteout. The captain did not effectively monitor the flight parameters because he was trying to establish visual contact with the runway. The chief pilot (the captain of C-FGOI) set a bad example to the pilots under him by using a dangerous method, that is, descending below the MDA without establishing visual contact with the required references and using the GPWS to approach the ground.
+
+
+
+Other Findings
+
+
+The GPWS "MINIMUMS" alarm sounded at a height that did not leave the captain time to initiate pull-up and avoid striking the ground because of the aircraft's rate of descent and other flight parameters. Neither the captain nor the first officer had received PDM training or CRM training. At the time of the approach, the ceiling and visibility unofficially reported by the AAU were below the minima published on the approach chart. The decision to make the approach was consistent with existing regulations because runway 02/20 was not under an approach ban. Some R gionnair pilots would descend below the MDA and use the GPWS to approach the ground if conditions made it impossible to establish visual contact with the required references.
+

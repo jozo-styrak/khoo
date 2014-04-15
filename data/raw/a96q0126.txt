@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+There were no witnesses to the occurrence. The crew was qualified and certified for the flight. The weather conditions were not considered to be a factor in this occurrence. The aircraft's weight was determined to have been above the maximum take-off weight and the maximum landing weight.
+
+
+Company policy requires the captain to do all landings at any off-site landing strips. When the airplane departed Iqaluit, the captain was speaking on the radio, a function normally performed by the pilot not flying. The injuries to the first officer's left leg, ankle, and foot suggest that he may have been at the controls at the time of impact. However, given that the first officer was in the right seat and the initial impact forces were more severe on the right side of the aircraft, it is possible that the first officer's additional injuries were a result of the impact forces and not of his being at the controls of the aircraft. Examination of the off-site landing area revealed that there were signs of nosewheel steering input at the fourth set of tire marks. Because the steering lever is located on the hub of the captain's control wheel, either the captain was flying the aircraft at the time of the occurrence, or he was attempting to take control of the aircraft. Notwithstanding the above, it could not be determined with certainty who was at the controls of the aircraft.
+
+
+The four sets of imprints on the landing strip at Markham Bay indicate that the aircraft bounced into the air three times during the landing attempt, and that the pilot flying the aircraft had difficulty controlling the aircraft on landing. In order to bounce on three different occasions, the airplane needed a speed in excess of the normal landing speed. Excessive speed can come from a higher than normal speed on final approach for the landing or from power application during the landing sequence. The use of full flaps during the approach, in addition to the use of brakes and reverse thrust on landing, will decrease the aircraft's landing speed and shorten the landing roll. It was not possible to determine what flap setting was used for the approach or if the pilot used reverse thrust on landing. The fact that the flaps were at 20 degrees and the engines were developing maximum power indicates that the pilots were likely attempting an overshoot using a short field take-off flap setting.
+
+
+The airplane became airborne 34 metres after the crew released the brakes; the point at which they released the brakes is likely when they decided to overshoot. The fact that the aircraft became airborne in such a short distance is likely the result of the aircraft having a high residual airspeed, a take-off speed close to stall speed, and the downslope terrain. Controlling the aircraft is more difficult at such a low airspeed. The weight condition and the low airspeed did not allow the aircraft to gain sufficient height to clear the obstacle located 185 metres after lift-off. When the landing gear hit the rock and the airplane went over the ridge, the small margin between flying and stall speed was removed. The airspeed decreased below the stall speed and the aircraft fell nose down into the waters of Hudson Strait.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 142/96 - Occurrence Investigation - Regional Support; LP 143/96 - Engines and Propellers Examination; and LP 094/96 - Engine Mount Failure.
+
+
+These reports are available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings
+
+
+The crew was qualified for the flight. It could not be determined with certainty who was at the controls of the aircraft. The aircraft was loaded under the supervision of the captain. The aircraft's weight was determined to be above the maximum take-off weight and the maximum landing weight. The flaps were found set to 20 degrees at the accident site. The inboard isolation mount of the right engine was broken; the time of failure could not be determined. The aircraft stalled when going over the ridge.
+

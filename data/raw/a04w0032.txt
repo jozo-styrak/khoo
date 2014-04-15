@@ -1,0 +1,55 @@
+
+
+Analysis
+
+
+All aircraft systems, airport equipment and NAV CANADA facilities were operating as designed and fully functional at the time of the occurrence. The analysis will focus on reasons why visual references were lost at a critical time in the approach and the risks associated with conducting approaches in 1200 RVR visibility to a Category I runway.
+
+
+The exact position of the aircraft relative to the runway centreline after crossing the threshold could not be determined. The derived position from the TSB Engineering Laboratory report indicates that the aircraft was displaced to the right of centreline to some degree, most likely as a result of pilot input after autopilot disconnect. The use of the VOR/LOC mode for the approach did not have an effect on the stability of the approach or the eventual location of the aircraft while over the runway. However, the VOR/LOC mode does not have some of the safety enhancements that the autopilot can provide in AUTO APP mode while the aircraft is operated in close proximity to the ground.
+
+
+The captain visually acquired the runway environment and continued the approach. Initially, the high intensity strobes of the approach lighting were observed, prior to and at minimums, followed by the runway edge lighting. During the flare, the aircraft travelled toward an area of decreasing visibility with only runway edge lights for reference, and the lights did not provide enough visual guidance. Another indication of the quality of the visual reference was the large 16 left bank angle established by the captain while the aircraft was only 40 feet above the runway and the hard 2.3g touchdown.
+
+
+The flight crew found the runway lights hard to see and dimly lit after the aircraft was brought to a stop. Given that the power generation equipment and the lighting circuit met industry and manufacturer standards, it is most likely that the runway edge lights and the approach lights were producing the required amount of luminance. The dimness observed by the flight crew could be attributed to the thickness of the fog, which the ARFF personnel responding to the scene described as giving a visibility of only 100 to 300 feet.
+
+
+The crew members had been awake for almost all of the 24 hours before the time of the occurrence, and these long periods of wakefulness could have produced some degradation in their performance. It could not be determined to what degree fatigue played a role in the occurrence; however, degradation of a commercial flight crew's performance is a significant risk to the safety of flight operations.
+
+
+The First Air Operations Manual, Section 4.1.3.3, allowed the flight crew to reset their duty day if they were provided an opportunity to obtain not less than eight consecutive hours of sleep. This policy did not address the requirement that the flight crew get sufficient restorative sleep. Moreover, it did not address the requirement that the flight crew get the amount of sleep needed to shift circadian rhythms enough to allow effective performance during a night shift. Transport Canada regulations concerning flight duty time limitations and rest periods do not address these requirements for effective performance.
+
+
+The crew members did not use the First Air SOP for the PMA approach. However, they did use a SOP that they were both familiar with, and crew coordination was maintained throughout the approach. The non-adherence to their company's SOPs could not be shown as contributing to the incident. When the unexpected runway excursion occurred, the first officer reacted instinctively, calling for a go-around and to start to advance the thrust levers, contrary to the First Air SOPs. This breakdown in crew coordination did not contribute to the incident when the captain, who had control of the aircraft, promptly retarded the thrust levers.
+
+
+The following TSB Engineering Branch reports were completed.
+
+
+LP 026/2004 - FDR/CVR Analysis LP 043/2004 - Autopilot/Navigation Instruments LP 054/2004 - Runway Edge Lighting
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+With deteriorating visibility and only runway edge lighting for guidance, the captain was unable to manoeuvre the aircraft to stay within the confines of the runway.
+
+
+
+Findings as to Risk
+
+
+Canadian regulations permit Category I approaches to be conducted in weather conditions equivalent to or lower than Category II landing minima without the benefit of the operating requirements applicable to Category II approaches - in this occurrence, the lack of adequate runway lighting. The approach was conducted in the VOR/LOC mode rather than the AUTO/APP mode, which disabled the desensitizing feature of the autopilot while tracking the localizer. Neither the Canadian Aviation Regulations nor the First Air Operations Manual provides sufficient defences concerning the scheduling of crew duty periods so that extended periods of wakefulness, lack of restorative sleep and rapid changes in crew shift times do not unduly affect crew performance.
+
+
+
+Other Finding
+
+
+The flight crew members were not using the First Air SOP for PMA approaches.
+

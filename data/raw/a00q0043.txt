@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+The investigation revealed that, in both occurrences, the aileron control system had been incorrectly installed, resulting in loss of lateral control of the aircraft in flight. The manufacturer's maintenance manual does not give any specific instructions concerning this installation; rather, the instructions are general, and the technicians have to show judgement when performing this maintenance operation. Removing the card box, however, would have afforded better access to the aileron control system not only to perform the work but also to check for correct system installation.
+
+
+By suggesting rotating the universal joints to the aircraft's owner, instead of replacing the defective joint, the maintenance manager increased the amount of work and the level of difficulty of installation for his staff and himself.
+
+
+In both occurrences, the maintenance manager did not notice that the system was incorrectly installed, and the required independent inspection was not performed. In the first occurrence, the maintenance manager checked the apprentice technician's work and thus carried out the first level of inspection. The maintenance manager did not, however, ensure the integrity of the control system by performing an independent inspection as the regulations require. In the second occurrence, the maintenance manager did the installation alone. No other inspection was done by either an AME or the aircraft's pilot.
+
+
+The work of rotating the universal joints was not recorded in the aircraft journey log or the technical logs, although this is required by the regulations.
+
+
+In the first occurrence, an SDR should have been submitted to Transport Canada. The maintenance manager did not make a report, although this is required by the regulations. In the second occurrence, the maintenance manager was not required to submit such a report because the TSB had already been informed of the situation.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was returned to service twice with the aileron control system incorrectly installed, resulting in loss of lateral control of the aircraft. An independent inspection was not performed in either occurrence. Such an inspection could have revealed the incorrect assembly. The card box was not removed in either occurrence. Such removal would have provided better access to the aileron control system and facilitated detection of the incorrect installation.
+
+
+
+Findings as to Risk
+
+
+Rotating the universal joints instead of replacing the defective joint increased the difficulty of installation, thereby increasing the risk of error.
+
+
+
+Other Findings
+
+
+The work performed on the universal joints was not recorded in the aircraft journey log or the technical logs. Regulations required this work to be recorded. After the first occurrence, no service difficulty report was submitted to Transport Canada to report the difficulties encountered.
+

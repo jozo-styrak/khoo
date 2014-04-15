@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+No aircraft anomalies were identified at the time of the occurrence. The analysis will focus on those aspects that contributed to the loss of control of the aircraft after touchdown.
+
+
+During the descent and approach into Moncton, there were indications to the crew that standing water was present and that there was a crosswind from the left of at least 10 knots (8-knot full crosswind component). Standing water can result in an aircraft hydroplaning and the Transport Canada AIM advises that a runway excursion can occur with standing water and a 10-knot crosswind. Given the presence of standing water at the time of the occurrence and the associated potential for variable wind conditions, directional control difficulty was highly probable but not anticipated by the crew.
+
+
+Even though the pilot was using the recommended techniques, he could not control the aircraft when it began to weathercock and drift right of the centreline. When the aircraft speed reduced to the point at which the tire made runway contact and tire friction became effective, the aircraft proceeded along the vector of the weathercock. Because of the 40-degree heading difference from the runway heading, the aircraft exited the runway before the pilot could make appropriate corrections. Damage to the tires was consistent with that caused by hydroplaning (reverted rubber) and the skidding that occurred when tire-runway contact occurred.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+This report is available upon request from the Transportation Safety Board of Canada.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The crew did not anticipate the effects of the adverse landing conditions and elected to continue the approach and landing. The pilot was unable to maintain directional control of the aircraft because of the combination of hydroplaning and a crosswind. Once tire-runway contact occurred, there was insufficient time for the pilot to avoid the runway excursion.
+
+
+
+Finding as to Risk
+
+
+The flight data recorder (FDR) portion of the cockpit voice and flight data recorder (CVFDR) had not been checked in accordance with regulations and therefore poor data quality with some of the parameters on the recorder had not been identified.
+

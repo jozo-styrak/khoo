@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The engine wet start was caused by a defective igniter plug which had malfunctioned during the engine starting sequence. As a result, proper ignition did not occur and unburnt fuel pooled within the combustion chamber section. The igniter fired through the crack in the ceramic shield outside the combustion chamber itself, and ignited the pooled fuel, causing an internal engine fire. The engine fire was short-lived and was contained within the combustion, turbine, and tail-pipe sections of the engine, and it did not pose a significant threat to the aircraft or its occupants. There were no direct cockpit indications of engine fire because the fire was isolated from the fire sensor system.
+
+
+It was not determined why the captain did not follow the standard phraseology during the engine start sequence; the initial discussion about passenger seating in the cabin seemed to take priority and replaced the standard engine starting phraseology.
+
+
+Historical FDR data shows that the engine typically coasts down from 20 per cent N2 in about 45 seconds, and since engine stop was recorded at about FDR 3286, the starter was disengaged at or before FDR 3240. The drop in N2 rpm at about FDR 3235, however, indicated starter release, and was immediately followed by the parking brake being set at FDR 3236.
+
+
+Because the recorded FDR data did not show the characteristic and rapid decrease in fuel flow to the left engine normally seen when the fuel control lever was selected OFF, it is concluded that the fuel lever was not moved to the OFF position during the starting sequence.
+
+
+It was not determined why the captain did not return the fuel control lever to OFF at the appropriate time; it is likely, however, that his sequence of vital actions was momentarily interrupted by the request from the ground crew to set the brakes. Fuel continued to flow to the engine at a point in the shut-down sequence where continued motoring of the engine would normally have been effective in dispersing any pooled fuel and minimizing the possibility of engine fire. The continued motoring of the engine by the captain with the fuel control lever ON augmented the volume of fuel pooling in the engine and would have exacerbated any fire. Further, after the starter was released, fuel continued to flow into the engine as the engine rpm gradually decreased.
+
+
+There was a time delay between the first and the second reports of the engine fire, and it is likely that the second report was not based on current or accurate information; however, from the captain's perspective, it would have appeared that the reported engine fire had persisted, despite his activating the No. 1 fire extinguisher bottle. Faced with uncertainty regarding the safety of his aircraft, crew, and passengers, the captain responded by activating the second fire extinguisher bottle and by ordering an emergency evacuation of the aircraft.
+
+
+The following Engineering Branch report was completed:
+
+
+
+Findings
+
+
+The abnormal engine start was caused by a defective igniter plug. The engine tail-pipe fire was caused by the ignition of fuel that had pooled in the combustion chambers during the starting sequence. There were no direct cockpit indications of engine fire because the fire was contained within the combustion section of the engine, and was isolated from the fire sensor system. The captain did not return the fuel control lever to the OFF position when he identified a wet start situation. The amount of unburnt fuel introduced into the engine during the start was augmented as a result of the fuel control lever still being ON. The captain's decision to evacuate the aircraft was appropriate, given the untimely and inaccurate reports he received of an uncontained fire in the left engine. During the aircraft evacuation, the escape slide on the right-hand galley door partially deflated, but it remained sufficiently firm for the evacuation.>/LI> The galley door escape slide had unknowingly been punctured prior to the incident as a result of incomplete slide packing procedures and by impact damage to the slide pack assembly. An intensive, fleet-wide inspection of all DC-9 escape slides did not reveal a systemic deficiency in the Air Canada slide maintenance process. The captain did not use standard phraseology during the engine starting sequences, nor did he completely follow the standard procedures for the wet start event.
+

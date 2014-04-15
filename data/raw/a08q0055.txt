@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The compression of the oleo strut allowed the landing gear to migrate out of the uplock latch and fall on to the nose landing gear doors. Some nose wheel rotation was also permitted in this unsecured position because the centring cam was no longer engaged in the compressed oleo strut, thereby resulting in the wheel/deflector assembly not having sufficient clearance for the landing gear to extend normally. The rotation of the nose gear in the well resulted in the right-side gravel deflector becoming stuck, preventing extension of the nose landing gear.
+
+
+C-FURG is equipped with a kit enabling it to operate on unpaved/gravel runways. When the oleo strut does not extend, the clearance between the gravel deflectors and the nose landing gear well is reduced to 0.250 inches on each side. Tests with the oleo strut compressed revealed that the gravel deflectors need only pivot a few inches to become jammed in the well. Nevertheless, when the oleo strut operates correctly, the clearance available is sufficient for the landing gear to deploy as designed.
+
+
+Before leaving Bonaventure, Quebec, a walk-around inspection was done, but it did not reveal any anomaly to suggest that there was a nose landing gear malfunction. During take-off from Bonaventure, the crew noted nothing unusual and the up-and-locked landing gear indications were normal. If the oleo strut had been off-centre once airborne, the system's logic would have prevented retraction of the landing gear. It is therefore conceivable that the oleo strut was operating normally during the take-off from Bonaventure and that it collapsed in flight.
+
+
+The design of the landing gear latch and pin allows movement rearward and ensures that the nose gear is released and comes into contact with the wheel doors. Because the landing gear had already exited the uplock latch and was mechanically jammed in the nose wheel well, the use of the manual release handle in this case was ineffective.
+
+
+Testing was done, but it was impossible to duplicate the loss of nitrogen and/or hydraulic oil. Disassembly did not reveal any anomaly likely to cause the loss of nitrogen. The level of hydraulic oil in the oleo strut was within prescribed limits. According to the manufacturer, Messier-Dowty, the only location where the loss of pneumatic pressure could occur is through the second nut on the filler valve; in that case, the second nut must have backed off. The investigation could not determine that this nut had backed off during the occurrence. Therefore, it is possible that the nitrogen leaked gradually.
+
+
+The FAR 25 construction standards were drafted specifically for tires, but contain no clearance standards other than that the manufacturer must ensure that the tires have adequate clearance for all situations, that is to say when filled to maximum pressure. Also, the standards do not define what is meant by "adequate". Without gravel deflectors, the clearance between the tires and the nose landing gear well structure is clearly greater.
+
+
+Using this aircraft on different types of unpaved/gravel runways and under exceptional operating conditions makes it vulnerable to damage. In light of the damage to the proximity switches and the replacement of the front tires on a regular basis, there is reason to believe that this aircraft is subject to significant vibration during take-offs and landings.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The oleo pneumatic shock absorber (oleo strut) was found to be compressed due to a loss of nitrogen. As a result, the nose landing gear was released from the landing gear uplock latch, which allowed the wheel assembly to pivot and become jammed in the well. The right deflector remained jammed in the nose landing gear well, preventing extension of the landing gear.
+
+
+
+Findings as to Risk
+
+
+The design of the landing gear latch and pin allows the landing gear to be released from the landing gear uplock latch and to drop into the well during flight, causing the right gravel deflectors to jam, preventing extension of the nose landing gear. The clearance between the gravel deflectors and the nose landing gear well structure is very narrow when compared to similar aircraft that are not equipped with gravel deflectors. Another oleo pneumatic shock absorber (oleo strut) compression could result in the same situation occurring again.
+

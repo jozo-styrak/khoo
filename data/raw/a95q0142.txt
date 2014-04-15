@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+As the wreckage has not been recovered, the cause of the engine power loss could not be conclusively determined. However, the yaw, the loss of intake pressure, and the loss of altitude indicate a power loss more substantial than a turbocharger failure alone.
+
+
+Due to his limited experience, the pilot interpreted the initial indications as a partial power loss and, after reporting it, he decided to continue on his route. According to a study by the University of Illinois, decision-making ability degrades during emergencies and highly stressful situations, and the pilot appears to have simplified his decision making by concentrating exclusively on some of the information available to him. In this case, the pilot did not verify all information: that is, whether the engine power loss was complete or only partial. Then, after interpreting the pressure gauge reading, he concluded that the engine was developing enough power to reach his diversion base. As a result, he applied full power on both engines and did not carry out the safety checks for a complete engine failure, which include feathering the propeller. As the propeller was not feathered immediately, drag increased considerably and, to maintain speed, the pilot was forced to descend the aircraft. During this time, the fact that he was the only authorized pilot on board did not make the situation any easier.
+
+
+When the pilot realized that he could not reach his destination, he requested assistance and declared an emergency. However, it is highly probable that the vigilance of the air traffic controller and those participating in the rescue prevented a disaster and, possibly, loss of life.
+
+
+The following laboratory report was completed:
+
+
+LP 125/95 - Radar Data Analysis.
+
+
+
+Findings
+
+
+The cause of the power loss in the left engine could not be determined. The pilot interpreted the indications of the power loss as a partial power loss. The pilot did not feather the left engine propeller before 1,000 feet asl. The pilot did not carry out all the safety checks for a complete engine failure. The aircraft was unable to reach Sept- les and the pilot ditched the aircraft in the river. The aircraft was not carrying life jackets, nor was it required to do so.
+

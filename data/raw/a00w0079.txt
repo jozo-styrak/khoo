@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+The weather briefing given to the pilot prior to departure indicated that icing conditions would be present during the flight. The pilot departed although the aircraft was not certified for flight into known icing conditions. When the pilot first encountered in-flight icing 60 nm northwest of Calgary, he based his decision to continue on the low catch rate of the ice. The absence of icing reports being broadcast on radio by other pilots and ATC supported his decision. Having experienced flights into icing conditions previously in his career and in similar conditions, the pilot decided to continue.
+
+
+When the accumulations reached moderate proportions, the pilot requested a lower altitude to leave the icing area and to enter warmer air to reduce the accumulations on the airframe. The last surface temperature reading the pilot had access to was four degrees Celsius at 1800. By the time the accident occurred, the temperature had dropped to one degree Celsius. The airframe ice was seen departing from the aircraft at times, but it was accumulating faster than it was shedding.
+
+
+The first approach was unsuccessful because of a lack of situational awareness. Without an operating ADF, the pilot was unaware of the aircraft's exact position relative to the airport. A build-up of ice on the ADF antennas is the most likely reason that the ADF was not operating properly. During the second approach, the ADF functioned properly, probably because some ice had shed from the antennas.
+
+
+The prolonged exposure to the icing conditions increased the amount of ice on the aircraft, decreasing its lifting capability. The situation was aggravated by the fuel exhaustion that started to occur on the right engine. With the loss of power on the right engine and the ice accumulation on the airframe, the pilot could not control the aircraft's rate of descent.
+
+
+The low amount of fuel, in combination with the lateral movement of the aircraft, most likely caused the right main fuel tank port to become exposed to air, causing the power loss on the right engine. The higher-than-normal power setting used while in the icing conditions, the extra flying time required for the second approach, and the use of the cabin heater for the duration of the round-trip flight contributed to the lower quantity of fuel in the main tanks, particularly in the right main tank.
+
+
+The elasticity of the carpet and underlay contributed to the detachment of the passenger seats from the airframe. When the seats became detached from the cabin floor, the passengers were no longer secured and were exposed to a high risk of injuries.
+
+
+The pilot remained in position because his seatbelts were attached to the airframe and not the seat. The pilot's facial injuries resulted from a loose shoulder strap, which allowed his head to hit the glare shield.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft did not have enough fuel on departure from Manning to meet the requirements for IFR flight. The aircraft was not certified for flight into known icing conditions. The pilot continued flight into forecast icing conditions. The weather in Calgary had deteriorated faster than forecast. The aircraft was unable to maintain altitude because of ice on the wings. The right engine lost power because of fuel exhaustion. The pilot's shoulder harness was not tightly fastened across the torso.
+
+
+
+Finding as to Risk
+
+
+Carpeting and underlay between the passenger seat rails and the aircraft cabin floor contributed to the passenger seats detaching from the cabin floor.
+
+
+
+Other Finding
+
+
+The pilot did not declare an emergency at any time during the arrival into Calgary.
+

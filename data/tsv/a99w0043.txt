@@ -1,0 +1,34 @@
+Because the timing from the descent through 1 500 feet agl had not yet reached 150 seconds , and the runway was not equipped with a middle marker , the autopilot had not fully desensitized	The corrective action was too aggressive , resulting in the pitch oscillations
+speed was high because of light tailwinds , the relatively high-altitude airport , and a high approach speed	The autopilot did not desensitize in time because the aircraft ground speed was higher than the assumed ground speed of the autopilot design
+speed during the approach was higher than normal because of light tailwinds , the relatively high-altitude airport , and a high approach speed	The occurrence aircraft took about 110 seconds to pass from 1 500 feet agl to 50 feet agl , the minimum altitude for autopilot operation
+the low visibility in Calgary , extended the duty day	The scheduled duty day was more than 11 hours , and the weather delay in Salt Lake City ,
+this point , about 84 seconds after the aircraft descended below 1 500 feet agl	the approach became unstable
+the proximity of the ILS land-based equipment , this slight displacement would appear to the autopilot as a relatively large angular deviation from the glide path	The aircraft was likely displaced slightly from the glide path , but ,
+the timing from the descent through 1 500 feet agl had not yet reached 150 seconds the runway was not equipped with a middle marker	the autopilot had not fully desensitized
+the aircraft ground speed was higher than the assumed ground speed of the autopilot design	The autopilot did not desensitize in time
+light tailwinds , the relatively high-altitude airport , and a high approach speed	The ground speed was high
+the increased landing weight	The approach speed , based on Vref , was higher than normal
+the desensitizing would have been complete or near completion	Had the SB 21-1132-122 modifications been made on this aircraft , the autopilot pitch control would likely have remained stable ,
+the SB 21-1132-122 modifications been made on this aircraft	the autopilot pitch control would likely have remained stable , because the desensitizing would have been complete or near completion
+its flap geometry and swept wing design	the Boeing 727 is prone to wing strikes when landed with only relatively small amounts of bank
+light tailwinds , the relatively high-altitude airport , and a high approach speed	The ground speed during the approach was higher than normal
+the increased landing weight	The approach speed , based on Vref , was higher than normal
+the delay in Salt Lake City while waiting for the Calgary weather to improve	The crew day was extended
+, in addition to the duty day required to operate the flights , they had commuted to their base of operation by air early on the morning of the flight	The captain and the second officer were subjected to a long work day
+company procedures	the time
+The crew schedule is designed	the possibility of fatigue
+the extra time commuting	the level of fatigue
+the aircraft stabilized longer	pilots concentrate more on acquiring visual cues for the transition to landing
+the pitch angle	and
+The autopilot	an aggressive attempt return the aircraft to the glide path
+The corrective action was therefore too aggressive	the pitch oscillations
+The approach speed	Vref
+The captain 's attempt to return the aircraft back to the right at low altitude	bank angles that caused the wing to contact the runway as the aircraft touched down firmly
+The captain 's attempt to return the aircraft back to the right at low altitude resulted in bank angles	the wing to contact the runway as the aircraft touched down firmly
+The captain 's long work day	his performance and ability
+While attempting to return the aircraft to the centre of the runway , the captain applied too much right bank	the wing strike
+The autopilot sensitivity did not fully reduce during the approach into Calgary	pitch oscillations
+The autopilot was designed to desensitize	an assumed ground speed for a 3-degree glide slope
+The approach speed	Vref
+Long work days	fatigue
+A service bulletin -LRB- SB -RRB- for the SP-150 autopilot was issued	the time of autopilot desensitization 105

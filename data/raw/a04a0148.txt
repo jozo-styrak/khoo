@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The snow squalls had not started prior to the accident, so it is unlikely that the flight encountered seriously reduced flight visibility or that the pilots lost outside visual reference. The lower ceiling to the southwest of the airport meant that the entry into the practice glide would have been initiated 1000 feet lower than normal, restricting the time available in the glide for instruction. This could have prompted the delay in initiating the climb until well below the normal 500-foot recovery altitude. However, this does not account for the failure of the aircraft to climb after the practice manoeuvre or the subsequent prolonged flight at low level. If normal engine power had been available to climb out after the practice glide manoeuvre, it is unlikely that the instructor would have intentionally flown the aircraft at low airspeed at a low altitude.
+
+
+The most likely reason for the failure to climb away after the forced landing exercise is insufficient engine power available. Fuel was available and there was no apparent pre-existing mechanical fault with either the carburetor or the engine. Therefore, the most probable reason for the reduced engine power is carburetor icing. Low engine power at impact is supported by the lack of bending to the propeller, the relatively low engine rpm and the cool exhaust stacks. The 20 nose-down attitude at impact and the illumination of the stall warning light suggest that the aircraft wings were stalled at the time of impact.
+
+
+Carburetor ice would have formed during the glide descent if carburetor heat was not used, or if the engine was not cycled as recommended to produce sufficient exhaust heat for the carburetor heat muff. If carburetor ice had already formed, the application of carburetor heat at low altitude could have reduced the rpm to the extent that level flight was not possible. It is likely that the reduced power prevented a climb and led to the subsequent low-level flight at reduced airspeed; eventually the aircraft struck the ground, perhaps as the result of a stall.
+
+
+The following TSB Engineering Laboratory Reports were completed:
+
+
+LP 169/04 - Instrument Analysis LP 170/2004 - Exhaust Temperature Analysis LP 171/04 - Flap Extension Rod
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was flying in conditions conducive to serious carburetor icing at any engine power setting. It is likely that carburetor ice formed and restricted the engine power available to the point where the aircraft would not maintain level flight. The aircraft subsequently struck the ground, perhaps as the result of a stall.
+

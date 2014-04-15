@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+ATC procedures and standard practices concerning flight information handling and tracking are designed to act as multilevel defences so that a failure in one area does not lead directly to an accident. Among these are standard strip handling and marking practices, standardized coordination and information practices, and technology in the automated systems to alert controllers to unusual situations. In this incident, the defences broke down, resulting in a risk of collision between two large transport-category aircraft.
+
+
+The Sandspit data controller did not follow either of the local FPS marking conventions of placing the DUXAR estimate above that fix in the routing in box 6 or writing DUXAR and the estimate in box 14. The controller wrote the B737 DUXAR estimate in a location normally reserved for a Houston estimate. The FPS for the B737 was now indistinguishable from the other flights that had to be passed to ATOS. Even with the subsequent prompting from the ATOS to confirm the flight number for the B737, the controller did not detect the problem and actually confirmed that the estimate given to the ATOS had been for Houston rather than for DUXAR.
+
+
+Nav Canada's local procedures specify the information to be included when passing estimates to ATOSs. In this occurrence, the controller did not pass the fix name to which the B737's estimate applied. Furthermore, the fix name was passed only three times in the group of nine estimates passed at the same time as that of the B737. In essence, this procedural omission delegated to the ATOS the responsibility of determining where the aircraft crosses into the next agency's airspace and of determining to which agency the estimate should be passed. Nav Canada has not provided ATOS personnel with specific instructions to follow when they encounter system errors, such as rejected flight plan messages. Feedback was not provided to the Sandspit data controller, nor was there a requirement to do so, when a problem with the estimate for the B737 was encountered.
+
+
+The Sandspit radar controller did not notice the target for the B737 disappear from the RIM because, at the time, the controller was focused on traffic in the western part of the sector. The automatic transfer of the flight information for the B737 to the arrival list, the subsequent loss of the radar target, and the transfer of the flight information from the arrival list to the coast list were missed by the Sandspit radar controller. The defences that were to be provided by the lists were not effective in alerting the controller that the target for the B737 was no longer being displayed. There were no compelling system-generated warnings to draw the controller's attention to the fact that a radar target was no longer being displayed. With the B737 no longer visible on the RIM, and the controller's attention directed elsewhere in the sector, it was less likely that the controller would recall the requirement to hand off the B737 to Edmonton ACC. In a radar environment, FPSs alone are less often reviewed and, therefore, do not provide as effective a defence against forgetting about a particular aircraft. Controllers have the option of requesting position reports from aircraft under radar control; however, this technique is not widely used when radar control services are being provided.
+
+
+The handover from the Sandspit data controller to the Sandspit radar controller at a time of sector consolidation did not include a detailed review of the status of each flight in the sector. The underlying assumption by both controllers was that they were each aware of all the aircraft in the sector, and they did not match FPS information with each displayed radar target.
+
+
+The area around DUXAR intersection is a critical location for the display of and communication with aircraft. Therefore, procedures for passing estimates and monitoring the progress of the flights in this vicinity is critical to ensure that the required separation is maintained. Because the B737 was not activated on the Edmonton NSiT display, and the Vancouver controller did not notice the aircraft fly beyond the area displayed on his RIM and subsequently out of radar coverage, defences were no longer in place to prevent the loss of separation. The advisories provided by the onboard TCAS equipment were the last defences against a potential midair collision.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The Sandspit data controller did not pass the estimate for the B737 to Edmonton ACC. As a result, the aircraft was not activated on the Edmonton controller's NSiT. The Edmonton controller was therefore not aware of the conflicting traffic when he issued a climb clearance to the DC-10. The Sandspit radar controller did not transfer the B737 to the Edmonton ACC frequency before losing communications with the aircraft. As a result, the aircraft flew into Edmonton-controlled airspace without the Edmonton controller's knowledge. The fix name was not included when passing the B737 estimate to the ATOSs, and it was often not included on other occasions. As a result, the ATOS was not in a position to note that the estimate should have been passed to Edmonton rather than to Anchorage.
+
+
+
+Findings as to Risk
+
+
+The directions for ATOSs to follow if a flight plan reject message is received do not provide specific guidance as to required actions. This has led to the development of ad hoc and nonstandard procedures among the ATOSs. There is no compelling warning to controllers when an aircraft target under the controller's responsibility disappears from the display. The resultant transfer of flight information to one of the lists on the display was, in this occurrence, not sufficient to alert the controller. Not all lists are required to be displayed. The handover between the Sandspit data and radar controllers did not include a detailed review of each flight within the sector. This reduced the likelihood of detecting errors made in coordination and strip marking.
+

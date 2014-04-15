@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+Before departing Halifax, the trainee captain did not receive the updated NOTAMs for St. John's, nor was this information specifically requested. Although obtaining NOTAM information is a basic part of pre-flight planning, particularly when operating under a Type C operational control system, the company direction and expectation of the crew was that NOTAM updates would be provided if there was a major change. Once airborne, the training captain realized that the unavailability of Runway 11/19 significantly altered the landing conditions expected at St. John's. Because of his relatively higher level of experience, he elected to assume the full duties of captain and PF. There was some discussion of discontinuing the flight and diverting to the alternate airport. However, despite the loss of the ILS approach at St. John's and the requirement to land on a shorter runway in poor weather, this option was not discussed again for the remainder of the flight.
+
+
+Landing performance planning by the flight crew was based on incorrect surface wind information. After the decision to approach and land on Runway 16, several transmissions were received and acknowledged, indicating that the surface winds were significantly stronger than those used. However, only once did the trainee captain question the captain about the discrepancy in wind reports, and this was either overlooked or disregarded by the captain. Ultimately, they used the most-favourable reported winds for planning the approach and landing on Runway 16.
+
+
+In addition to using an incorrect wind for their approach and landing calculations, the crew applied an inappropriate correction to the approach and landing speeds to account for the tailwind. The crew considered compensation for the added stopping distance required for landing with the calculated tailwind. However, they did not appreciate that applying an inappropriate wind correction would result in carrying additional speed on approach and landing. This condition was exacerbated by the poorly controlled airspeed during the approach and at touchdown. The misunderstanding of the application of wind correction by an experienced crew and company training pilot, in a relatively mature airline, is a training and operating deficiency that was not detected by Transport Canada.
+
+
+The landing distance calculations provided by the manufacturer confirmed that, even with the increased speed at touchdown, the aircraft should have stopped on the runway remaining if the touchdown point had been at its nominal point of 1000 feet past the threshold.
+
+
+The crew displayed many of the symptoms typically associated with fatigue. Some of these, with examples, follow:
+
+
+Reduced alertness: In spite of several indications of contradictory wind information, the crew was unable to establish the correct conditions. Forgetting or ignoring normal checks or procedures: There was a lack of standard operating procedure airspeed calls during the final approach. Overlooking or misplacing sequential task elements: The crew had difficulty completing approach and pre-landing checks and calculating approach speeds. Mindset: The crew continued the flight to St. John's and unquestioningly accepted risks that likely would not have been acceptable to most crews. This is particularly exemplified by the crew's attempting to land in poor weather with a gusting tailwind on a contaminated, relatively short runway.
+
+
+In summary, the crew performed below the standard expected of an experienced and trained crew. Although their performance was below standard, it could not be established that the crew members were in a fatigued state.
+
+
+The following TSB Engineering Laboratory Report was completed:
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+A combination of excessive landing speed, extended touchdown point, and low runway friction coefficient resulted in the aircraft overrunning the runway.
+
+
+
+Findings as to Risk
+
+
+Before departure from Halifax, the flight crew did not request nor did dispatch personnel inform the crew of the notice to airmen (NOTAM) advising of the instrument landing system's failure for Runway 11 at St. John's International Airport. The St. John's dynamic wind information provided to the Gander Area Control Centre controller was inaccurate. The controller was not aware of this inaccuracy. The crew applied tailwind corrections in accordance with company practices; however, these practices were not in accordance with those stated in the operations manual.
+

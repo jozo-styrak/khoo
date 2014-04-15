@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+The nine-knot tailwind was not factored into the crew's landing calculations. During the descent, the final runway selection was not made until the aircraft was 8.5 nautical miles from the airport. It is not known if the timing of this decision contributed to the omission of the tailwind during the calculation of landing performance. The tailwind had not been factored into the landing calculation, even though the captain asked the tower controller to repeat the surface wind on final approach.
+
+
+During the approach the tailwind made it difficult to maintain a normal descent profile. The rate of decent and airspeed were both higher than normal. The captain reduced the engine power to idle 16 seconds prior to touchdown, likely because he recognised that the approach was in jeopardy because of excessive speed. The touchdown speed of the aircraft was 14 to 24 knots above the calculated VRef. The excess speed would have exacerbated the effect of the tailwind, resulting in a further increase in the stopping distance.
+
+
+The discrepancy between the stopping distance calculated by the engineering landing simulation (5940 feet), and the actual stopping distance (6400-7100 feet) may be due to factors such as flare technique, braking technique, and differences between the actual runway conditions and estimated runway conditions. The combination of the high threshold crossing height, excessive approach and touchdown speeds, and the extended touchdown point resulted in the aircraft overrunning the runway and striking the barricades. The approach was not a stable one, and a missed approach (go-around) would have been an appropriate course of action.
+
+
+Some of the FDR parameters were faulty, resulting in erroneous recordings and difficulty in interpreting actual aircraft performance.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The crew did not factor in the nine-knot tailwind into the landing calculations. The captain did not initiate a missed approach when the aircraft was clearly not on a stable approach. The combination of the high threshold crossing height, excessive approach and touchdown speeds, and the extended touchdown point resulted in the aircraft overrunning the runway and striking the barricades.
+
+
+
+Other Findings
+
+
+Several of the flight data recorder (FDR) parameters were faulty.
+

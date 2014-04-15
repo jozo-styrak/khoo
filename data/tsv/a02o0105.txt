@@ -1,0 +1,34 @@
+The flight was conducted following a briefing that lacked a detailed discussion of procedures or planning for contingencies	, the student and the instructor had different expectations , which allowed a dangerous situation to develop and continue beyond the point of safe recovery before corrective action was taken
+The instructor intervened after a safe recovery was not assured and made an inappropriate decision to continue the autorotation , doubting that power recovery was feasible	, he was unable to arrest the rate of descent before the helicopter struck the terrain
+180 and 360 autorotations	It presents rate of descent , but not height loss information
+demonstrating the effect of speed on range	It presents rate of descent , but not height loss information for 180 and 360 autorotations ; The Flight Instructor Guide has guidance as to altitude
+360 autorotations	It presents rate of descent , but not height loss information for 180 and 360 autorotations ; The Flight Instructor Guide has guidance as to altitude for demonstrating the effect of speed on range , but no guidance as to safe height required
+speed	range , but no guidance as to safe height required for 360 autorotations ; The standards for helicopter flight tests call for entry at a safe height but not lower than 500 feet agl , and only mention 180 autorotations , not 360 autorotations
+starting	the 360 autorotation at a lower altitude than he had previously experienced
+the flight was a review	he expected the student to recognise and correct errors
+When he took control at 200 feet agl and 25 KIAS , the helicopter was already 250 feet lower than would be advised by the flight training manual and the flight instructor guide for the speed they were at	establish the conditions necessary for a proper autorotative flare
+he took control at 200 feet agl and 25 KIAS	the helicopter was already 250 feet lower than would be advised by the flight training manual and the flight instructor guide for the speed they were at in order to establish the conditions necessary for a proper autorotative flare
+applying power and flying away	or attempting to recover the autorotation from a point well inside the shaded area of the height-velocity chart and carrying out the flare and power recovery
+the time	he did not think that a power recovery was feasible from that position , so he elected to attempt to recover the autorotation
+and reduced the severity of the touchdown if not completely averting it	act
+the instructor and student planned for such a contingency during the preflight briefing	the instructor would have been better prepared to make an appropriate decision
+He relied on the instructor to identify and respond to the situation if it became unsafe	, failed to take corrective action to avoid the unsafe situation
+two main elements combined	a significant risk : expectancy on the part of both the instructor and the student pilot , and ambiguous guidance in the reference material
+A thorough briefing	the instructor the opportunity to articulate his expectations to the student before the flight
+This	him less time
+From the lower altitude , a rate of turn	acceptable results
+The tailwind in excess of 10 knots	an illusion of a higher speed
+This expectancy led him	the unsafe situation develop without adequate corrective action being taken
+This expectancy	him to allow the unsafe situation to develop without adequate corrective action being taken
+he	an autorotative landing in case of an engine failure
+it , he is able to determine at what altitudes and airspeeds he can safely make an autorotative landing in case of an engine failure ; or , to restate it another way , he is	those altitude-airspeed combinations from which it would be nearly impossible to successfully complete an autorotation landing
+The addition of power and up-collective even within the shaded area would certainly have added to the total energy of the helicopter	the rate of descent
+up-collective even within the shaded area would certainly have added to the total energy of the helicopter , reduced the rate of descent	more time for the instructor to act
+more time for the instructor to act	the severity of the touchdown
+The instructor 's doubt that adding power would allow him to fly away , together with his tacit acceptance that flight within the shaded area of the height-velocity chart was a normal and acceptable facet of helicopter operations	him continue with the autorotation with the expectation of success despite the critical nature of the situation
+The instructor 's doubt that adding power	him to fly away , together with his tacit acceptance that flight within the shaded area of the height-velocity chart was a normal and acceptable facet of helicopter operations , led him to continue with the autorotation with the expectation of success despite the critical nature of the situation
+Therefore , the student and the instructor had different expectations	a dangerous situation develop and continue beyond the point of safe recovery before corrective action was taken
+The student	the airspeed decay
+The instructor	the helicopter 's speed and height to reach a state from which , according to the height-velocity chart , a safe autorotative landing was unlikely
+he was	the rate of descent
+The Transport Canada guidance material , including the Helicopter Flight Training Manual , Flight Instructor Guide - Helicopter , flight test standards , and Designated Flight Test Examiner Manual , contains ambiguous and conflicting guidance as to what constitutes a safe entry height for the various autorotative landings	the likelihood of autorotations being initiated from heights that offer inadequate defence against errors in execution

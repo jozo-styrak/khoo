@@ -1,0 +1,9 @@
+There were no mechanical failures that contributed to the occurrence	, the analysis will focus on the awareness of runway conditions , the runway touchdown point , the delay in wheel braking , and the reduction in aircraft deceleration
+The fact that the latest weather observation was a special report and was reporting snowfall should have alerted the crew that weather conditions had changed	the runway selected for landing may be contaminated
+stopping the aircraft	This brake application occurred 2000 feet after the touchdown point , leaving only 4800 feet of runway available
+There were no mechanical failures	the occurrence
+the reduced stopping distance available	the chance of the aircraft
+the initial rate of deceleration	the aircraft before the runway end
+this	the available stopping distance
+The contaminated runway surface condition	the distance required to stop the aircraft
+the remaining runway	the overrun

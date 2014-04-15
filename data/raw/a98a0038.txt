@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The evidence clearly indicates the aircraft accumulated airframe icing during its descent and ILS approach into St. John's. This is supported, in part, by the pilot's observation of ice on the lower portion of the windscreen during the approach and by the discovery of ice on the horizontal stabilator by rescue personnel immediately following the accident. Although the pilot did not observe any ice on the wings during the descent, it is likely that ice adhering to the wings would not have been discerned by flashlight on the wing's white background. The adverse effect this ice would have had on the aircraft's performance could not be quantified; however, when attempting to level-off at 2 100 feet asl during the descent, the aircraft continued to descend and the 2 100 feet asl assigned altitude was regained slowly despite full application of power. The surface weather observation taken at the time of the accident indicates the initial appearance of freezing precipitation in the form of ice pellets and light freezing rain. Given this information, it is reasonable to conclude that airframe icing would have been more severe as the aircraft continued its descent through this freezing precipitation.
+
+
+As indicated on the ATIS information, the winds on the approach had been reported as high as 60 knots prior to the accident and were conducive to the moderate and severe turbulence as cautioned in the top left hand of the approach chart. These winds would have resulted in significant airspeed fluctuations for the accident aircraft and would have exacerbated the controllability of the aircraft.
+
+
+The aircraft control problems immediately prior to the aircraft's descent into the trees are consistent with an aircraft approaching a stall or in a stalled condition. While this could be wholly attributable to airframe icing, it would be more reasonable to conclude that the aircraft stalled because of a combination of the build-up of ice on the lifting surfaces, the moderate turbulence on the approach, and the higher than normal aircraft weight plus the weight of the accumulate ice.
+
+
+The area forecast for the aircraft's expected time of arrival at St. John's included the possibility of moderate mixed icing in cloud and moderate to severe clear icing in freezing precipitation below 2 500 feet asl. The pilot had received two extensive weather briefings prior to his departure which included the above mentioned area forecast; which highlighted the probability of encountering icing in cloud. Morever, he was aware that his aircraft was not equipped for flight in icing conditions. His decision to undertake the flight and accept the risks posed by a descent through known icing in clouds may have been influenced by his previous successful experience flying in light icing conditions.
+
+
+It could not be determined why the pilot was not made aware of the SIGMET information which warned of the hazardous icing conditions expected to be in the vicinity of St. John's at the aircraft's expected time of arrival. The display of SIGMET information for Gander ACC controllers is not compelling. Unless they are advised by someone, or happen to be looking at the display, a SIGMET affecting their area of control could be missed. Similarly, it could not be determined what effect this information would have had on the pilot's decision to continue the flight. It is noted, that this SIGMET reflected the contents of the area forecast which had been discussed with the pilot prior to his departure from Bangor.
+
+
+The absence of HF equipment on the aircraft and the use of outdated IFR charts were not considered factors in the occurrence. When viewed in consideration with other elements of this flight, however, the pilot's understanding of North American and transoceanic flight regulations must be questioned. For example, the pilot's decision to commence the transborder flight without filing an appropriate flight plan, his decision to continue the flight in cloud despite the VFR restriction on his American licence, and his intent to conduct the flight VFR over the top despite the absence of requisite weather suggest the pilot's knowledge of rules and regulations may have been flawed. Because aircraft and pilot inspections are no longer conducted by Transport Canada prior to transoceanic crossings, these shortcomings are less likely to be detected.
+
+
+The pilot was flying as a single pilot in a newly-purchased aircraft, which was uncertified for flight in icing conditions, at night in adverse icing and turbulence conditions, relying on outdated approach charts to conduct an unfamiliar precision instrument approach. He was unfamiliar with the aviation weather patterns, and was not sufficiently knowledgeable or cautious regarding the detrimental effects of aircraft icing.
+
+
+
+Findings
+
+
+The flight was commenced into known icing conditions with an aircraft that was not equipped with windshield, propeller, or wing deicing equipment and was not certificated for flight in icing conditions. The pilot did not file a flight plan as required by regulations. The aircraft encountered clear icing and moderate turbulence during its descent and ILS approach into St. John's. Records indicate that the aircraft was certified and maintained in accordance with existing regulations. The normal maximum weight of the aircraft was 5 200 pounds. A Special Flight Permit had been issued allowing flight 25% in excess of the normal maximum gross weight of the aircraft; the maximum weight in accordance with the permit was 6 500 pounds. The weight of the aircraft at the time of the occurrence was calculated to be approximately 5 218 pounds.. The pilot was not licenced for IFR flight in an American registered aircraft. The aircraft was not equipped with an HF radio as required by regulation for transoceanic flight, and the pilot was using outdated charts. The absence of HF equipment on the aircraft and the use of outdated IFR charts were not factors in the occurrence. There are no requirements for operators of light general aviation aircraft departing a Canadian airport to undergo any inspections before attempting an ocean crossing. The SIGMET information was not passed to the pilot nor was it contained in the ATIS. There are no aural or visual alarms to alert the Gander ACC controllers that new SIGMETs have been issued.
+

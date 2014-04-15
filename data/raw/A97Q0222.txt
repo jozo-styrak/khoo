@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+The pilot was certified and qualified for the flight in accordance with existing regulations. The aircraft was airworthy and had no known deficiencies before the flight, and the engine was capable of producing maximum power.
+
+
+The pilot stated that the engine misfired as the aircraft left the ground. The actual causes of the engine misfires could not be determined, but the atmospheric conditions at the time of the accident were conducive to the formation of frost or ice. The filter in the engine air intake system was found to be saturated with water to over three quarters of its thickness, it is possible that the filter froze during the take-off run and blocked the supply of air to the engine. The pilot did not select the alternate air intake system when the engine misfired because the Malibu Pilot's Operating Handbook does not suggest that this be done while operating on the ground.
+
+
+On the day of the flight, snow had begun to fall two hours before the aircraft took off. The runway was contaminated with wet snow. Although the pilot did not notice any impediment on the manoeuvring areas and he said he executed the rotation at the usual location, a contaminated runway will in all cases extend the take-off run.
+
+
+Between 20 and 25 minutes elapsed from the time the pilot moved the aircraft out of the hangar to the take-off. When initiating the take-off, the pilot did not inspect the critical surfaces of the aircraft as prescribed in the Canadian Aviation Regulations. He supposed that if the snow dissipated from part of the wings when he accelerated on the ground the same thing would happen on all other critical surfaces.
+
+
+Immediately after leaving the ground, the entire aircraft shook severely and an audible alarm and warning light activated. These indications show that the aircraft had not attained the speed necessary to sustain flight, even in the ground effect, and it stalled. The pilot was in a situation where the outcome was unavoidable due to the runway length available.
+
+
+
+Findings
+
+
+The pilot was certified and qualified for the flight. Examination of the aircraft log books indicated that the aircraft was certified, equipped, and maintained in accordance with existing regulations and approved procedures. The weight and centre of gravity were within the prescribed limits. The air intake filter was contaminated by water to three quarters of its thickness. The runway was contaminated by a two-hour accumulation of wet snow. The pilot initiated the take-off without checking if the critical surfaces were contaminated by wet snow. The aircraft stalled on take-off just after the rotation.
+

@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+Examination of the debris revealed no signs of fatigue or flutter. Also, the wreckage analysis determined that all fractures resulted from instantaneous overload. The available information suggests that the aircraft broke up in flight after entering a heavy rain shower, and that the turbulence normally associated with that weather phenomenon led to aerodynamic overloading of the wings.
+
+
+Prior to take-off, the pilot obtained a full weather report as part of his flight planning. The weather prognosis, area forecasts, SIGMET C2 and specific reports on the locations of the areas of heavy precipitation were fairly representative of the conditions prevailing en route. Based on this information, supplied by FSS specialists and ATS controllers, the pilot would have been able to conclude that he would have to cross a cold front and a storm line to get to Charlottetown.
+
+
+As the holder of an airline pilot licence and instrument rating, the pilot had the ability, knowledge and experience to recognize the dangers associated with flying near thunderstorms. By correctly calculating the movement of the cold front and where he would catch up with it, the pilot demonstrated that he clearly understood the weather system. Since the pilot could neither fly over the storm line, as he was limited to an altitude of 19 900 feet, nor fly around it, as it extended too far north-to-south, it would have been appropriate to wait on the ground until conditions improved. The investigation did not reveal why the pilot decided to take off from Cornwall and attempt to fly through adverse weather in an aircraft with no weather radar or a Stormscope storm detector. It was determined that there were no operational factors compelling him to continue the flight, since he had enough reserve fuel to wait or divert to another airport.
+
+
+The ATS controllers performed their duties in accordance with established procedures and their assigned responsibilities. They provided radar vectoring to help the pilot avoid adverse weather and transmitted relevant meteorological information, except SIGMETs C3 and C4. As a result, the influence that these two SIGMETs might have had on the pilot's decision to continue the flight could not be evaluated. However, the pilot was aware of the dangers associated with the cold front because before arriving at Cornwall he had received SIGMET C2, which was essentially similar to C3 and C4. The investigation did not determine why the pilot was not advised of these SIGMETs or whether the controllers were advised on OIDS. Also, nine minutes before the crash, the Granby sector controller, acting in accordance with the rules, advised the pilot that the weather straight ahead appeared favourable, while in fact the aircraft was heading toward heavy showers. A specific display of the meteorological conditions was not available to the controller. The controller was therefore unaware of the areas of heavy precipitation because he did not have the equipment needed to display data from the Villeroy weather radar. Consequently, the controller did not have the information or tools required to accurately inform the pilot of safer alternate routes.
+
+
+Although it could not be determined why the pilot initiated and continued the flight, his decision may have been influenced by several factors. His and his family's apparent desire to land at Charlottetown before dusk on the first day of their one-week house rental may have caused him to take risks. The pilot may have overestimated the capabilities of ATS radar and the information provided by the controller on the position and movement of the areas of heavy precipitation. Still, the pilot must have been at least somewhat aware of the limitations of the radar system because the controller occasionally had asked him to describe the weather he observed in front of him. In any case, the pilot was entirely responsible for the aircraft, and he tried to squeeze between the storms despite the risks that he had recognized. He apparently made that decision in order to reach his destination by evading the storms. Whether he did not fully appreciate the limitations of the radar system or he did not have adequate meteorological information, the pilot did have sufficient information to determine that the weather near the cold front was hazardous, especially for an aircraft with no storm detection instruments. Moreover, the pilot must have known that the information provided by the radar controller was provided on an advisory basis and could be inaccurate, especially near areas of storm activity.
+
+
+After penetrating the storm line, the pilot must have decided to maintain heading to get through as quickly as possible and avoid turns so he would not increase structural stresses on the aircraft.
+
+
+The following laboratory report was completed:
+
+
+LP 128/97 - Examination of Aircraft Structure In-flight Break-up.
+
+
+
+Findings
+
+
+The pilot was certified, trained and qualified for the flight in accordance with existing regulations. Based on the autopsy and toxicology records, there was no indication that incapacitation or physiological factors affected the pilots's performance. The pilot knew that to reach his destination that day he had to go through heavy weather, rain and a thunderstorm area. The aircraft was not equipped with weather radar or a Stormscope storm detector. Approximately 10 minutes before the crash, the pilot reported that he was "plowing through" rain showers, although it did not seem very safe to him. The aircraft broke up in flight as a result of penetrating an area of severe turbulence and heavy precipitation.
+

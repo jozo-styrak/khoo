@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+This analysis will discuss the altimeter settings of the two aircraft, and assess the air traffic control procedures and pilot actions.
+
+
+When the Navajo arrived in the vicinity of Dryden, the pilot did not reset the altimeter from 30.38 to the appropriate setting of 30.08. Consequently, although the pilot of the Navajo flew at a VFR cruising altitude of 7,500 feet with reference to the altimeter, the aircraft was actually flying at about 7,200 feet asl. The vertical distance between the two aircraft was about 300 feet less than the required vertical distance of 500 feet.
+
+
+Because the controller was performing the duties of both radar and data controller, he prioritized his tasks, giving higher priority to the data controller tasks and lower priority to the provision of traffic information. Thus, he spent little time monitoring the uncorrelated digital target symbols. This prioritization is permitted by the ATC procedures specified in MANOPS. As a consequence, he did not provide traffic information to the Chieftain. The pilot of the Chieftain, while on an IFR flight plan, correctly maintained a visual lookout, saw the conflicting traffic, and took evasive action. The pilot of the Navajo chose not to ask for en route ATS radar surveillance. This decision precluded the verification of the altitude of the Navajo by the Kenora Sector controller, which probably would have prevented the altitude conflict. The lack of guidance on the use of the recommended en route frequency of 126.7 MHz reduced the possibility of immediate communication between the pilots when the altitude conflict occurred.
+
+
+
+Findings
+
+
+The pilot of the Navajo did not reset the aircraft's altimeter to the nearest station, as required, as the aircraft progressed along its route. Because of the incorrect altimeter setting, the Navajo was flying about 300 feet lower than the indicated altitude. When the aircraft passed, the vertical distance between them was about 300 feet less than the required vertical distance of 500 feet. The Kenora Sector controller was performing the combined duties of the radar controller and the data position. The Kenora Sector controller prioritized his control responsibilities and did not monitor uncorrelated digital target symbols. The Kenora Sector controller did not provide traffic information to the Chieftain nor did MANOPS obligate him to do so. The pilot of the Navajo did not request en route radar surveillance and, therefore, did not get confirmation of altitude or receive traffic information. The pilot of the Navajo did not see the other aircraft prior to the occurrence. The pilot of the Navajo did not monitor the recommended en route frequency of 126.7 MHz in controlled airspace. Guidance on the use of the en route frequency in controlled airspace is not readily available to VFR pilots.
+

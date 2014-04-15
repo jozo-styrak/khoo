@@ -1,0 +1,68 @@
+
+
+Analysis
+
+
+A complicated weather pattern was affecting the area; the essential elements of this weather were the risks of encountering reduced ceilings and visibility in the vicinity of a surface trough or in the area of embedded ACC/towering cumulus (TCU) clouds. With the exception of these localized risks, the flying area was generally overcast and suitable for VFR flight.
+
+
+There was no indication that the pilot obtained a complete pre-flight weather briefing before either flight from Mackenzie or Bear Valley; without such a briefing, he would not have been aware of information contained in the area forecast, the surface analysis chart, the significant weather chart, or the pireps for the area; specifically, he would not have been aware of the risk of reduced visibility below VMC in the vicinity of embedded ACC/TCU clouds.
+
+
+While the pilot was in Bear Valley, the weather in the Mackenzie region began to deteriorate to below VMC minimums. Although specific information about these deteriorating weather conditions had been discussed on the radio by two other pilots, the pilot of the accident aircraft would not likely have heard these transmissions because, at the time they were made, he was flying westward in the Peace Arm and was outside radio coverage. It is unlikely that the reported conditions would have improved significantly over the short period leading up to the accident; in fact, the general trend at Mackenzie was for a continued degradation of both the ceiling and the visibility, to the point that subsequent flights out of Mackenzie were cancelled.
+
+
+When the pilot reported out of the Peace Arm at 1320, the company dispatcher informed him that the visibility at Mackenzie had dropped to two miles. Although informed of the deteriorating visibility, the pilot did not contact the Prince George FSS for a weather update; therefore, he would not have been aware of the new terminal forecast for Mackenzie effective at 1300. As well, he would not have known that the AWOS in Mackenzie was generating numerous special reports on the rapidly changing weather conditions, nor would he have been aware that the visibility in Mackenzie had dropped below VMC.
+
+
+The Terry Air company OM specifically disallows operations under IFR or VFR over-the-top. The pilot, without an instrument rating, only had as permissible options, when encountering deteriorating weather, to turn back to his departure point or proceed to another suitable airport.
+
+
+The crash site location reveals that the pilot entered the area of deteriorating weather and reduced visibility. It is therefore likely that he encountered similar conditions to those reported by the pilots who had flown through the narrows before him. In both those cases, the degraded weather had forced those pilots to descend to about 200 feet agl to maintain visual reference with the shoreline. The risks of conducting VFR flight under these conditions are known and are mitigated, to a degree, by the establishment of a minimum obstacle clearance altitude of
+
+
+300 feet agl and by a minimum visibility requirement of 2 miles. Continuing a VFR flight at an altitude or visibility below these stated minimum values is considered to be unsafe and is not permitted by regulation.
+
+
+The lack of radio calls on frequency 126.7 MHz, as noted on both the outbound and return legs of this trip, increased the risk to the flight by degrading the continuity of the flight-following. The lack of radio transmissions increased the risk of meeting opposing traffic in narrow areas of the lake and reduced the opportunity for other aircraft or FSS facilities to communicate pertinent information related to weather or flight safety.
+
+
+A witness report of the pilot's radio call at about 1330 establishes that, in the time frame immediately preceding the accident, the radio transmitter was operational, was tuned to the Bevel Mountain FM frequency, and electrical power was available to run the radio system.
+
+
+The precipitating cause of this accident is not known; however, because the pilot did not report any ongoing problem to the dispatcher or the FSS, it is likely that this accident occurred suddenly, and with little warning. Because the weather was known to be below VMC, the risk of inadvertently striking the terrain while in controlled flight was increased. However, it is also possible that some unknown mechanical malfunction may have occurred.
+
+
+This aircraft had been involved in a previous accident. Its repair and return to service after that accident were checked and monitored by an approved maintenance organization, and by both the chief pilot and maintenance manager of Terry Air. Additionally, the aircraft had passed an independent inspection conducted by two Transport Canada airworthiness inspectors. The aircraft had flown more than 60 hours after being accepted back into service following the wing repair and was reported to have had no documented unserviceabilities raised against it by either of the company pilots. For those reasons, the possibility of a causal link between the previous repair activity and the current accident is considered unlikely.
+
+
+The likelihood of an in-flight break-up is considered to be remote; a major structural failure at altitude would normally cause aircraft wreckage to be scattered over a wide area; the debris trail associated with this accident was found within a small area which contained the major structural components of the aircraft.
+
+
+There was no evidence of any fire damage on any of the examined pieces which included cockpit, engine and interior cabin components.
+
+
+An evaluation of the recovered wreckage indicates that both aircraft power plants were likely operating at or above normal cruise power settings at the time of the crash. Regardless, pilots should normally be able to maintain control of an aircraft in the event of an engine failure, especially if operating under visual conditions as required by the operating certificate.
+
+
+Crush angles on the recovered wreckage are inconclusive; they may indicate that the aircraft struck the water in a steep nose-down, slightly left-wing-low attitude, or they may have been caused by hydraulic action when the aircraft entered the water in a more level flight attitude.
+
+
+The left horizontal stabilizer exhibited a mechanical damage pattern that appeared inconsistent with damage on adjacent portions of the aerofoil. Despite a detailed engineering examination of the involved components (LP 001/99), results were inconclusive as to whether this impact damage took place in flight, or at some time during the break-up sequence before the stabilizer contacted the water. There was no evidence of paint, bird, animal, or vegetation transfer in the vicinity of the damaged aerofoil. The yellow material found wedged in a fracture adjacent to the outboard trailing edge of the left horizontal stabilizer was not identified, nor was there sufficient physical evidence to conclude that it was part of the object responsible for the damage. Although the left baggage compartment was found with its door open and latch in the open position, it could not be conclusively determined that the compartment door was open before impact.
+
+
+The extensive break-up and fragmentation of large sections of the airframe indicate that the aircraft sustained a rapid deceleration on impact. The deceleration would have produced high g-force levels, above the seat belt design criteria and near maximum human tolerance levels. The likelihood of survival in this case would be low because of the overstress and failure of the seat restraint systems. The presence and the method of securing the interior cargo would have further degraded the chance of survival for the occupants.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 094/98 Exhaust Stacks Analysis LP 001/99 Wreckage Evaluation
+
+
+
+Findings
+
+
+The aircraft had been involved in a previous landing accident at Bear Valley on 18 September 1997; the likelihood of a link between the previous damage and the Williston Lake accident is considered to be remote. There were no reported aircraft unserviceabilities before the flight, and aircraft maintenance records indicate that the aircraft was maintained in accordance with the applicable standards of airworthiness. The aircraft's weight and balance were within the certificated limits. In accordance with its air operations certificate, Terry Air is licensed as a day VFR operation only with operations under IFR or under VFR over-the-top specifically disallowed. A complicated weather pattern was affecting the area; the essential elements of this weather were the risks of encountering reduced ceilings and visibility in the vicinity of a surface trough or in the area of embedded ACC/TCU clouds. There is no evidence that the pilot obtained a complete weather briefing before either the flight from Mackenzie to Bear Valley, or the return. There is no record to indicate that the pilot made any position reports on 126.7 MHz on the flight from Mackenzie or Bear Valley. Over the period of this flight, the weather from Scott Creek, at the northern end of the Williston Lake narrows, through to Mackenzie dropped below VMC because of a localized disturbance related to embedded ACC/TCU clouds. Although two other pilots had reported difficulty with the weather south of Scott Creek, the pilot of the accident aircraft would likely not have been aware of this because he was in the Peace Arm, beyond radio coverage. Based on the crash location, it is apparent that the pilot continued southward and entered the area of reduced visibility. The pilot was experienced at operating under VFR but had recently displayed some weaknesses in his instrument flight ability. His instrument rating had lapsed and he was not authorized to conduct instrument flight under the conditions of his licence. Any attempt to continue the flight at low altitude in below VMC conditions would have increased the risks associated with the operation. Recovered wreckage indicates a likelihood that both engines were operating at or above cruise power at the time of the crash. Flight dynamics before impact are not known. Crush angles on the recovered wreckage are inconclusive; they may indicate that the aircraft struck the water in a steep nose-down, slightly left-wing-low attitude, or they may have been caused by hydraulic action when the aircraft entered the water in a more level flight attitude. The likelihood of an in-flight break-up is considered to be remote. There was no sign of any fire damage to either engine or cabin components. There is evidence to conclude that the leading edge tip of the left horizontal stabilizer was struck by an object before the stabilizer struck the water, but the nature of this object was not identified; likewise, it was inconclusive as to whether this impact took place in flight, or at some time during the break-up sequence before the stabilizer contacted the water. The source of a small piece of yellow material found wedged in the fracture adjacent to the outboard trailing edge of the left horizontal stabilizer was not identified, nor was there sufficient physical evidence to conclude that it was part of the object responsible for the damage. The accident was not survivable.
+

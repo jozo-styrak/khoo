@@ -1,0 +1,20 @@
+the reduced distance to fly to reach Runway 14	This change required the crew to re-program the FMS , conduct another approach briefing for Runway 14 , and also expedite the descent
+nor carry out a pilot monitored approach -LRB- PMA -RRB- , which disabled a critical safety defence established by the company to effectively manage low-visibility conditions	The crew did not brief
+the aircraft was being manoeuvred to correct the situation	the aircraft wing contacted the runway
+limited experience	type and the relatively high-stress , high-workload environment , exacerbated by the dark , low-visibility conditions
+he believed that the co-pilot was correcting back toward the centre of the runway and the landing was salvageable	The captain did not take control or command a go-around after the transition became destabilized
+The crew did not carry out a pilot monitored approach in accordance with company procedures	disabled a critical safety defence established to manage landing safely in the low-visibility conditions
+his limited experience	type and the stress from the low-visibility and relatively high-workload conditions
+the cockpit voice recorder -LRB- CVR -RRB- was not shut down after it was determined that the aircraft wing had struck the ground , depriving the investigation team of possible important information	Significant data were lost to the investigation
+This anticipation was	the ACARS reports from the operator 's dispatch and the ATIS information at Halifax
+they	the approach to Runway 23
+All of these elements increased the crew workload	the inadvertent omission of the required monitored approach procedure
+All of these elements	the crew workload
+Flying a PMA	the more experienced flight crew member landing the aircraft in the reduced visibility conditions
+the dark , low-visibility conditions	the relatively high-stress , high-workload environment
+The touchdown position , in conjunction with the delay in the application of reverse thrust	the aircraft slowing to taxi speed with only approximately 500 feet of runway remaining
+The fact that the CVR continued to operate after the aircraft landed	occurrence information
+The fact that the CVR continued to operate after the aircraft landed resulted in occurrence information being overwritten	the investigation team potentially important information relative to the occurrence
+The transition from the approach to the landing phase became destabilized when the co-pilot disconnected the autopilot	the aircraft wing contacting the runway when the aircraft was being manoeuvred to correct the situation
+The touchdown point , in conjunction with the delay in application of reverse thrust	the risk of a runway overrun
+Significant data were lost to the investigation because the cockpit voice recorder -LRB- CVR -RRB- was not shut down after it was determined that the aircraft wing had struck the ground	the investigation team possible important information

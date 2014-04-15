@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+In order to effectively coordinate a reroute and altitude change with a sector that had not been included in the original FPS distribution, controller No 1 left his workstation to discuss the situation with the Whitecourt sector controller. On completing the coordination, controller No 1 became confused as to which aircraft had been assigned FL350. He concluded, without performing any other checks, that he had erroneously written FL350 on the FPS for NWA11 and re-entered the original altitude of FL310. This action eliminated an early opportunity for this and subsequent controllers in the La Biche sector to detect an impending conflict with SYN21. During handover briefings to the second and third La Biche controllers, there was no realization that a conflict existed. Neither NWA11 nor SYN21 was in radio contact with the La Biche sector when controller No 3 took over.
+
+
+When NWA11 contacted controller No 3, he did not check the FPS to ensure that the altitude provided matched the assigned altitude on the FPS. By not taking this action, controller No 3 bypassed an available line of defence. Targets on the radar display have a tag that includes actual altitude of aircraft. As aircraft targets converged at a 90 angle, the final line of defence was negated when controller No 3 did not monitor the radar targets and information shown on the associated data tags to ensure that the minimum required vertical spacing of 2000 feet was provided. With no ground-based conflict-alerting software available to the controllers, it was only the on-board TCAS equipment that alerted the two aircraft crews.
+
+
+The rapid changeover of controllers at the La Biche sector within a few minutes might have contributed to their lack of situational awareness. It is likely that neither controller No 2 nor controller No 3 had sufficient time to scan all FPSs on the data board and compare that information with information presented on the radar display. Even though SYN21 and NWA11 were not in contact with the La Biche sector until after the second handover, controllers can view flight data on aircraft outside the sector. The La Biche sector was only staffed by one controller at a time of moderate traffic. As a result, in order to accomplish other control-related tasks, less time was available for full-time flight monitoring.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Controller No 1 changed the altitude on a flight progress strip from flight level (FL) 350 to the incorrect altitude of FL310. This change reduced any opportunity for subsequent controllers to detect the impending conflict and develop a plan to ensure that required separation was established. When initially contacted by NWA11, controller No 3 did not compare the altitude on the flight progress strip or the aircraft's data tag on the radar display with the altitude reported by the flight crew. As a result, controller No 3 did not detect that SYN21 and NWA11, on converging tracks, were at the same altitude.
+
+
+
+Findings as to Risk
+
+
+Edmonton ACC does not have an effective method of monitoring lapses in controller practices in areas such as adherence to standard strip-marking procedures. The Nav Canada radar processing system did not have conflict-alerting capability. Successive rapid controller changes at operating sectors could result in errors going undetected, because a controller may not have time to become fully familiar with the current operation before being relieved.
+

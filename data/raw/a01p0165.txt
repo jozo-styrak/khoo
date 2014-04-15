@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+Based on a review of the sequence of events, it is apparent that the landing-gear hydraulic- pump circuit-breaker tripped before the last take-off from Chilliwack. Based on the system configuration at the crash site, the circuit breaker most likely tripped after the undercarriage had been extended for landing at Chilliwack.
+
+
+On departure from Chilliwack, the pilot moved the landing-gear selector to UP. Because the hydraulic-pump circuit-breaker had previously tripped, the hydraulic pump did not operate, and the landing gear remained in its extended position. A pre-flight inspection performed in accordance with the aircraft flight manual would likely have identified the tripped circuit breaker, and it could have been reset before engine start. When the landing gear was selected UP after take-off, both pilots were concentrating on visually monitoring the local traffic, and neither pilot noted that the landing gear had failed to retract. Additionally, the landing-gear indicator lighting system was in the DIM position, thereby reducing the conspicuity of the indicator lights.
+
+
+Other than a system description, there are no specific checklist items in the Wipline flight manual supplement requiring a pilot to confirm that the landing gear has properly retracted after a runway take-off. However, the Wipline STC does require the addition of certain placards to the aircraft panels. One such placard is placed adjacent to the landing-gear control handle and indicates "UP - WATER" and "DOWN - LAND". In this accident, the placarding of the aircraft panel did not provide an effective defence: the landing-gear handle had been selected to the "UP - WATER" position, but the wheels remained extended. A more detailed checklist on the operation of the landing-gear system, rather than an elemental system description, might have reduced the risk of this accident occurring. There is currently no requirement to provide such a checklist or to integrate the items required by the STC into the original aircraft manufacturer's checklist procedures.
+
+
+During their approach to Cultus Lake, the two qualified pilots discussed the requirement to have the undercarriage retracted for the water landing. They did not, however, confirm the gear position using all of the available warning systems:
+
+
+The pilots did not note that the four illuminated landing-gear position lights were green rather than blue (as described in the flight manual supplement). The pilots failed to note that the illuminated lights did not correspond to the gear handle position. Although the flight manual supplement adequately describes the landing-gear system, the relationship between the lights and the handle position may not be clear to all pilots because the placards are next to the landing-gear handle rather than near the indicator lights. The pilots did not use the external visual indicators of the landing-gear configuration.
+
+
+The DIM switch setting might have adversely affected the pilots' ability to distinguish which set of landing-gear lights was illuminated.
+
+
+The pilots would have more likely noticed the discrepancy between the landing-gear configuration and the cockpit indications had they properly used a checklist or the flight manual supplement or better understood all the warning systems associated with the landing gear.
+
+
+Although the pilot-in-command of this flight was aware of a previous problem with the landing-gear system, the aircraft's journey and technical logbooks had not been annotated to document the problem or the resultant maintenance activity. Without such documentation, any other pilots who subsequently fly the aircraft would be unaware of the intermittent problem that had been identified with the landing-gear system and would therefore be placed at increased risk.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+A pressure switch in the landing-gear circuit failed on arrival at Chilliwack, causing the hydraulic pump to continue to run and the landing-gear circuit-breaker to trip. The aircraft pre-start check was incomplete: the pilots did not ensure that all circuit breakers were IN before engine start. The pilot raised the landing-gear selector to the UP position on departure from Chilliwack. However, because the circuit breaker had tripped, the pump did not operate, and the landing gear remained in its extended position. The pilots failed to visually confirm the position of the landing gear before landing on the water and did not note that the landing-gear indicators were showing that the gear was DOWN. The aircraft landed on water with the landing gear extended, causing the aircraft to overturn. The aircraft was being operated with a faulty landing-gear pressure switch. The pilot was aware of this defect.
+
+
+
+Findings As To Risk
+
+
+The aircraft flight manual and its associated checklists were not available on board the aircraft and were therefore not used by the crew. Setting the landing-gear lights to DIM increases the difficulty of distinguishing which set of lights is illuminated when operating in daylight conditions. The aircraft's journey and technical logbooks had not been annotated to document the landing gear problem or the resultant maintenance activity. Therefore, pilots who subsequently fly the aircraft could be unaware of the landing-gear system problem and would be at increased risk.
+

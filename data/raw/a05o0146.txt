@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+Engine power was restored when the pilot applied full rich mixture and selected the auxiliary fuel pump on. The additional fuel pressure from the auxiliary fuel pump was sufficient to maintain engine power. When the auxiliary pump was selected off, the engine immediately lost power again. Re-selecting the auxiliary fuel pump had no effect on the engine operation. Because electrical wiring to the resistor block in the auxiliary fuel pump system was corroded and the contact poor, the pump operation was intermittent, and when the pilot re-selected the pump on, it did not operate.
+
+
+The piece of foreign material lodged between the ball and the seat within the bypass valve of the EDP resulted in inadequate fuel pressure for normal engine operation unless the auxiliary fuel pump was on.
+
+
+The following Engineering Laboratory report was completed:
+
+
+LP 105/2005 - Fuel Pump Debris Identification
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+A piece of thread sealant lodged in the bypass valve of the engine-driven fuel pump created a reduction of fuel pressure, preventing normal engine operation. A poor electrical connection within the auxiliary fuel pump resulted in intermittent operation of the pump. When the pilot re-selected the pump to provide additional fuel pressure to the engine, it did not operate.
+

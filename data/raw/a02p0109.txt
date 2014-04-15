@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+From Hope to the accident site, at the aircraft's average radar observed ground speed, would take about seven minutes, making the time of the accident approximately 1437.
+
+
+Information from the three BC MOT avalanche weather stations and reference to the Coquihalla toll booth surveillance video indicate weather conditions at the time and place of the accident were probably much worse than forecast. The ceiling was probably lower than the forecast 6000 feet asl and the freezing level very close to the surface, around 4000 feet asl. In the area of the accident site, the pilot would have encountered rising terrain. He would also probably have encountered a lowering ceiling, likely forcing him to descend below his cruising altitude of 5000 feet asl in order to maintain VFR flight. Near the base of the cloud, he may have encountered turbulence, snow, and airframe icing. But he would have had very little room to descend as the terrain in that area is relatively high, with no less than five mountain peaks ranging in elevation from 6009 to 7088 feet asl, located within a 10 nautical mile radius of the accident site.
+
+
+While the pilot held a valid instrument rating and had considerable experience in instrument flight, he was not in contact with air traffic control (ATC) and had no IFR clearance. To contact ATC, he would have had to climb several thousand feet because of the high terrain. A climb through cloud from his location would have been risky because of the low performance of the aircraft at its high weight and high elevation, and the close proximity of numerous mountain peaks. Had the pilot abandoned visual flight, made a transition to instrument flight, and attempted to climb to a safe altitude, he would likely have encountered icing and possibly thunderstorms. It is likely that he elected to manoeuvre his way around visually, taking the risk of encountering instrument meteorological conditions.
+
+
+The aircraft's flight path was mainly vertical at the time of impact, indicating the aircraft was not under control. The severity of the damage and the angle at which the aircraft contacted the terrain indicates the aircraft was likely in a spiral dive at impact, not in a stalled condition. As indicated by the last GPS recorded aircraft position and the accident position, the aircraft was travelling southward prior to impact. That the fuselage was pointing 330 (northerly) may be indicative of the aircraft being in a spiral dive. A spiral dive is a steep, descending turn with the aircraft in an excessively nose-down attitude. A spiral dive may be recognized by an excessive angle of bank, rapidly increasing airspeed, and a rapidly increasing rate of descent. The most likely scenario to account for this accident involves a known phenomenon encountered by pilots flying in mountainous terrain. The high ground obscures the natural horizon and, in this occurrence, the difficulty in seeing the horizon would be exacerbated by the low cloud.
+
+
+When he encountered rising terrain and lowering cloud, the pilot probably lowered the aircraft's nose to avoid entering cloud and started a turn to reverse his course. Because no horizon would be visible when looking outside the aircraft, the only way to maintain control during this turn would be by reference to flight instruments. For unknown reasons, the pilot lost control of the aircraft, and because of the relative proximity of the terrain, the aircraft struck a tree before the pilot was able to recover control.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot encountered adverse weather in mountainous terrain, probably attempted to reverse course with limited or no visual references, and lost control of the aircraft. The aircraft was most likely in a spiral dive when it contacted a tree top. The relative proximity of the terrain meant the pilot had little time to recover control of the aircraft.
+
+
+
+Findings as to Risk
+
+
+The aircraft was overweight on departure from Seattle, Washington, and Abbotsford, British Columbia.
+

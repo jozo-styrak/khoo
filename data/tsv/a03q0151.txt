@@ -1,0 +1,23 @@
+The condition of the engines , the angle of impact , and the condition of the pilot indicate that the pilot maintained control of the aircraft until impact	, this accident falls into the category of controlled flight into terrain -LRB- CFIT -RRB-
+and receipt of clearance for the approach and , therefore , preparation for it	This situation , combined with the difficulties that the pilot experienced in establishing initial communications with the FSS , delayed the request
+he was about 7 nm from the airport when he received his approach clearance	the pilot had only a brief period of time to perform the various tasks associated with preparing for an instrument approach , such as
+performing these tasks during the approach	diverting his attention from the CDI , which would explain why he ended up on the right side of the localizer track
+the regulations did not require it	the presence of a co-pilot probably have allowed the pilots to share tasks before and during the approach
+the altimeters had been calibrated recently , no malfunctions were reported by the pilot he correctly read back the altimeter setting provided by the FSS specialist	it is reasonable to believe that the altimeters were properly set and that they indicated the correct altitude asl
+the reported visibility was only mile	it is unlikely that the pilot had the visual reference required to continue the descent below the MDA
+the proposed regulatory amendments concerning an approach ban had been in force at the time of these two accidents -LRB- A03Q0151 and A04W0032 -RRB-	the pilots involved not have received clearance for the approach
+equipped with a ground proximity warning system -LRB- GPWS -RRB- or a radio altimeter , either of which would have allowed the pilot to realize how close the aircraft was to the ground	be
+the battery disconnected on impact	The emergency locator transmitter -LRB- ELT -RRB- could not emit a distress signal
+there had been any survivors	Location of the aircraft was delayed until the day after the accident , which have had serious consequences
+The TAF received prior to departure from Gasp	the pilot reason believe that he could complete the return trip under VFR
+A better analysis of the weather conditions by the pilot	him anticipate the possible deterioration of weather conditions and to plan the flight according to instrument flight rules
+The absence of weather condition updates while he was en route to Gasp	the late realization that the weather conditions at his destination were poor
+This situation , combined with the difficulties that the pilot experienced in establishing initial communications with the FSS	the request for
+Because he was about 7 nm from the airport when he received his approach clearance , the pilot had only a brief period of time to perform the various tasks associated with preparing for an instrument approach , such as : deciding on the type of approach , getting out the approach plate , familiarizing himself with the plate , tuning in the ILS -LRB- instrument landing system -RRB- frequency , activating the ARCAL -LRB- aircraft radio control of aerodrome lighting -RRB- system	the reports associated with an instrument approach at an uncontrolled aerodrome
+the presence of a co-pilot	the pilots share tasks before and during the approach
+the FSS specialist	the altimeter setting
+Several elements	the pilot to execute a go-around : the aircraft was not in landing configuration nor
+GPWSs and radio altimeters	effective protection against CFIT
+The pilot descended to the minimum descent altitude -LRB- MDA -RRB- without being established on the localizer track	himself in a precarious situation with respect to the approach and to obstruction clearance
+The aircraft was not , nor was it required to be , equipped with a ground proximity warning system -LRB- GPWS -RRB- or a radio altimeter , either of	the pilot to realize how close the aircraft was to the ground
+The presence of a co-pilot	the pilots share tasks , which undoubtedly would have facilitated identification of deviations from the approach profile

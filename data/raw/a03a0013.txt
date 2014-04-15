@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The entire aircraft fuel system was found to be heavily contaminated with water and solid particle contaminants. The water in the system probably led to internal corrosion, which resulted in the fuel screens becoming severely contaminated with solid particles.
+
+
+The combination of solid particle contaminants and ice forming after exposure to the cold temperatures at altitude probably resulted in a partial blockage, causing the initial drop in fuel flow. Activating the auxiliary fuel pump increased the fuel pressure and temporarily cleared this blockage. However, the particle contamination and the ice eventually completely blocked the flow of fuel to the engine, and the engine stopped. The fuel transfer failure could also be attributed to ice, with water freezing in the fuel line linking the ferry tank to the transfer pumps.
+
+
+The water contamination could have been introduced into the system from rain leaking through the defective seal on the ferry tank plexiglass window before or during the previous ferry flight attempt, from water condensing in the fuel tanks while the aircraft was on the ground for nine months with partial fuel in the fuel tanks, or during previous fuelling of the aircraft.
+
+
+The conclusion that the initial fuel transfer problem was attributable to incorrect operation of the transfer system was not based on any firm data. An adequate examination of the fuel system after the initial ferry flight attempt would probably have revealed discrepancies (such as an improperly operating fuel system or fuel contamination) that would have been corrected before the second ferry flight attempt.
+
+
+The following TSB Engineering Laboratory report was completed and is available on request:
+
+
+LP30/2003 Fuel Supply Hose Examination
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Water contamination in the fuel system led to internal corrosion and solid particle contamination of the fuel screens. The contamination and water/ice led to a complete blockage of fuel flow to the engine, and the engine stopped. The operator dismissed the fuel transfer problem on the initial ferry flight attempt as being caused by improper operation of the fuel system. The operator did not ask the maintenance company, which was contracted only to carry out specific tasks, to do a thorough inspection of the ferry tank fuel system. An adequate examination of the fuel system after the initial ferry flight attempt would probably have revealed discrepancies (such as an improperly operating fuel system or fuel contamination) that would have been corrected before the second ferry flight attempt.
+
+
+This report concludes the TSB's investigation into this occurrence. Consequently, the Board authorized the release of this report on 22 October 2003.
+

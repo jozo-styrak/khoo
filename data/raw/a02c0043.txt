@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+The incorrect departure time passed by the crew of WEW780 initiated a sequence of events which led to a 15-minute loss of situational awareness by the north low controllers. This analysis will focus on why air traffic control procedures and personnel did not detect or correct this loss of situational awareness.
+
+
+If the first controller had intended any further action or verification of information with respect to the data on WEW780's arrival strip, the ATC MANOPS required him to cock the strip, thereby increasing its visibility. Cocking the strip may have then prompted the second controller to verify WEW780's position and altitude much earlier. However, it was not established whether the first controller cocked the strip.
+
+
+The position information provided by the pilot of WEW780 on initial contact with Winnipeg ACC at 2031 (100 nautical miles north of La Ronge) and written on the departure flight progress strip by the first controller was likely not taken into consideration by the second controller in determining the arrival time for WEW780 at La Ronge.
+
+
+The communication workload, noisy environment and handover activities at the time WEW780 initially reported its position and departure time likely prevented primary analysis of WEW780's departure information by the first north low controller and may have precluded him from finalizing all action with respect to WEW780's arrival strip. Because there was a lot of noise and communication taking place in and around the north low sector, the initial controller had difficulty completing an uninterrupted handover briefing. Due to the multiple handovers of position within a short period of time, the second and third controller may not have had sufficient time to become thoroughly familiar with the traffic situation before the operating irregularity occurred. These factors may have reduced the two controllers' ability to maintain their situational awareness at a high level.
+
+
+After calculating the ETA at La Ronge for WEW780, based on the incorrect departure time on the departure strip, the second controller then sequenced the arrival strip in the La Ronge bay. This resulted in the second controller's perception of the relative positions of the two aircraft to differ from their actual positions, which then led to a loss of situational awareness.
+
+
+One of the primary purposes of the Nav Canada transfer-of-position checklist, is to ensure that all of the information required to provide separation is passed to the relieving controller. Because the relieving controller was unaware of WEW780's actual position, the transfer of position briefing was not effective and the checklist did not serve its purpose.
+
+
+Because the transfer-of-position checklist requires an assumed level of analysis to achieve its intended purpose, it is more susceptible to human error in situations of higher controller workload. Under high workload situations, a simple, more specific checklist would likely decrease the potential for error.
+
+
+An ATC operating irregularity occurred because there was no plan in place to ensure that at least the minimum spacing required was maintained between these two aircraft at the time descent clearance was issued to TW203. Because the controllers involved were not aware of the relative positions of the two aircraft, they did not plan for, or apply, an appropriate separation standard. Consequently, safety was not assured.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The crew of WEW780 passed an incorrect departure time to the first north low controller, which the controller did not detect and which he entered on the flight progress strip. The second north low controller did not detect that an incorrect departure time had been entered on the flight progress strip. He used the incorrect time for his calculations, obtaining an unrealistic arrival time. The controllers did not re-sequence the arrival strip for WEW780 when the revised estimated time of arrival (ETA) for La Ronge was received, as was required by published procedures. This reduced the probability that the conflict would be detected in time to prevent a loss of separation. The first north low controller did not sufficiently brief the second controller regarding the incomplete status of the calculations and sequencing of the arrival flight progress strip for WEW780. Nav Canada's transfer-of-position checklist did not effectively assist the north low controllers in identifying a flight progress strip data entry error. As a result, a potential conflict between two arriving aircraft was not briefed.
+
+
+
+Findings as to Risk
+
+
+Nav Canada's transfer-of-position checklist relies on air traffic controller experience and skill. Both of these human attributes have been found to be highly susceptible to failure during periods of high workload.
+

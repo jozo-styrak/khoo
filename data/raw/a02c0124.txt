@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+The pilot's pre-flight fuel estimate, which led to his conclusion that he would have 50 minutes of fuel on arrival in Winnipeg, was incorrect. The total flight time from Swan River to Winnipeg plus the flight plan estimates for the flight to Gunisao Lake and return was 4 hours and 18 minutes. These flights would have used 993 pounds of fuel using the company's guidance of 240 pph and 210 pph for the first hour and second hours respectively. This would have left a reserve of 99 pounds or 28 minutes of fuel, which was not sufficient for the flight to the filed alternate of Island Lake and the required hold time of 45 minutes.
+
+
+The total actual flight time from the re-fuelling in Swan River until the pilot began the missed approach at Winnipeg was 4 hours and 38 minutes. Since this included three separate flights, the calculation of the expected amount of fuel remaining on arrival at Winnipeg would be approximately 25 pounds or 6 minutes of fuel. The aircraft experienced a complete engine power loss 4 minutes later and, therefore, it is concluded that the power loss was a result of fuel exhaustion.
+
+
+The pilot's decision to fly the ILS well above the glide path and at a higher-than-normal airspeed resulted in a ineffective approach from which a landing could not be made, although the reported weather at the time of the approach was better than the landing minima for the ILS to Runway 13. The pilot's decision to continue the approach well beyond the ILS missed approach point did not assure obstacle clearance while in proximity to the ground in cloud. His decision to modify the approach reduced, rather than increased, flight safety.
+
+
+The average fuel usage determined from the journey log for C-GPOW of 225 pph for similar flights was close to the company's guidance. Therefore, the actual fuel consumption rate of C-GPOW was reasonable and close to what would be expected.
+
+
+Although there were company supervisory personnel present when the pilot began his flight, none took any action when the pilot of C-GPOW began his flight into IMC without an autopilot. The level of supervision that the company should have provided was not achieved on this series of flights. Company practices did not conform to the company operations manual regarding flight release; the operations manual was apparently incorrect with respect to the requirements for flight release.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot did not correctly calculate the amount of fuel required to accomplish the flight from Winnipeg to Gunisao Lake and return, and did not ensure that the aircraft carried sufficient fuel for the flight. The ILS approach was flown above the glideslope and beyond the missed approach point, which reduced the possibility of a safe landing at Winnipeg, and increased the risk of collision with terrain. During the missed approach, the aircraft's engines lost power as a result of fuel exhaustion, and the pilot conducted a forced landing at a major city intersection. The pilot did not ensure that the aircraft was equipped with an autopilot as specified by CARs.
+
+
+
+Findings as to Risk
+
+
+The company did not provide an adequate level of supervision and allowed the flight to depart without an autopilot. The company operations manual did not reflect current company procedures. The company did not provide an adequate level of supervision and allowed the flight to depart without adequate fuel reserves. The company did not have a safety system in place to prevent a fuel exhaustion situation developing.
+
+
+
+Other Findings
+
+
+The pilot did not advise air traffic control of his critical situation in a timely fashion.
+

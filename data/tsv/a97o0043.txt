@@ -1,0 +1,30 @@
+The amount of free play allowable in this mechanism is quite small -LRB- 0.021 inches -RRB-	any wear on the bolt would have a significant impact
+If the push/pull actuating rod moved slightly up or down the trim tab would be completely free to move	there is a possibility that tab flutter could occur at airspeeds well below Vne
+the cotter pin were missing	This decrease the likelihood of the nut backing off even
+overload stresses because there was no evidence of deformation on the clevis or trim tab horn	The fracture would not have been
+there was no evidence of deformation on the clevis or trim tab horn	The fracture would not have been due to overload stresses
+there were cyclic loads of sufficient magnitude present	the bolt have failed in fatigue without damaging the surrounding components
+the shear load	As the shank of the AN173-5 bolt does not extend all the way through the lower arm of the clevis , a fatigue crack could have developed at the threads due to a stress concentration
+a stress concentration as a result of the shear load	As the shank of the AN173-5 bolt does not extend all the way through the lower arm of the clevis , a fatigue crack could have developed at the threads
+The shank of the bolt , however , is thicker than the threads	prevents them from coming in contact with the clevis and bearing any load
+pressing	it out of the horn
+it resulted in the tightest fit	Given the close tolerances required for this fitting and a bushing that had a slightly smaller inside diameter , the possibility exists that a technician have used a non-conforming bolt in this installation
+the close tolerances required for this fitting and a bushing that had a slightly smaller inside diameter	the possibility exists that a technician might have used a non-conforming bolt in this installation if it resulted in the tightest fit
+play in the tab	The vibration may have been a result of a trim tab buzz
+wear on the bolt progressed sufficiently to allow vibrations or buzz to commence	the bolt fail quickly
+the push/pull actuating rod moved slightly up or down	the trim tab be completely free to move
+this occurred	the result be large oscillatory displacement of the rudder
+the push/pull actuating rod moves slightly up or down and inward toward the aircraft body	the arms of the clevis end-butt against the horn -LRB- see Figure 2 -RRB- and force the tab to the left
+this occurred	the rudder be displaced to the right requiring left rudder input to maintain co-ordinated flight
+the trim tab control started in the neutral position	Tests on another King Air showed that when the rod is in this position the trim tab be displaced approximately half its maximum deflection
+the cotter pin in the bolt is within the indentations of the nut to allow the pin to seat properly	As well , the build-up description does not call for any washers , which are necessary to ensure the hole
+him to amend the IPC or issue data acceptable to the Minister to substitute the specified parts for a more logical assembly	According to the CARs , an operator faced with this dilemma must identify the problem to the manufacturer and then wait
+This	the likelihood of the nut backing off even if the cotter pin were missing
+thicker than the threads	them coming in contact with the clevis and bearing any load
+The normal practice when completing this assembly is to try several bolts in the fitting and use the one	the tightest
+a non-conforming bolt in this installation if it	the tightest fit
+The air stream	the tab horn
+the cotter pin in the bolt is within the indentations of the nut	the pin seat
+This delay	an unacceptable grounding of an otherwise serviceable aircraft
+Tests of a sampling of attaching hardware from the operator 's supply system	one bolt did not conform to the AN173 specifications
+Later a severe vibration developed	the crew losing control of the aircraft

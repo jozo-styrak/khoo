@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+Both engines suffered uncontained failures of the power turbine blades because of failures in the drive train from the engine to the final output shaft. The failures of the input shafts for both engines are considered secondary. The primary failure was the failure of the number 1 engine clutch coupling shaft. This shaft sheared due to the excessive loads placed on it when the worn clutch began to slip and then suddenly re-engaged. The power turbine wheel then oversped sufficiently for the turbine blades to fracture. After it failed, the wheel contained only one-quarter of its blades, and the resulting imbalance placed extreme loads on the number 5 bearing. The number 2 engine continued to run while the helicopter was on its side, and the engine eventually failed because of a loss of lubrication.
+
+
+No single factor was found that would have caused the clutch to wear. The bearing races probably began to wear while the clutch was engaged, and the ball bearings wore grooves into the races due to drive system vibrations. The grooves would have caused greater stress on the outer race during clutch freewheeling (when there would have been relative motion between the inner and outer races of the bearings), and this would have accelerated the wear in the bearings. The wear on the clutch engagement surfaces may have been caused by contamination from the wear metals of the bearings.
+
+
+Both the tail rotor system torque overload experienced two weeks before the accident, and the C-box chip light warning experienced eight days before the accident, were likely caused by the wear in the clutch. Although both incidents were investigated by maintenance staff, the maintenance staff did not make a connection between the two events, nor did the symptoms lead them to suspect a clutch malfunction. The operational environment in which the helicopter worked was not unusual, and no operational practice was identified that would have contributed to abnormal clutch wear. Further, there is no significant history of worn or slipping clutches on the Bell 212 helicopter.
+
+
+The following Engineering Branch report was completed:
+
+
+
+Findings
+
+
+The pilot was certified, trained, and qualified for the flight in accordance with existing regulations. The maintenance records indicate that the aircraft was certified, equipped, and maintained in accordance with existing regulations and approved procedures. The weight and centre of gravity were within the prescribed limits. The number 1 engine clutch coupling shaft sheared because of the excessive loads placed on it when the worn clutch slipped and then suddenly re-engaged. The power turbine wheel then over sped sufficiently for the turbine blades to fracture, with blades from both power turbine wheels breaking through their respective steel containment rings. The number 2 engine continued to run while the helicopter was on its side, and the engine eventually failed because of a lack of lubrication. No single definitive cause for the significant clutch wear was determined.
+

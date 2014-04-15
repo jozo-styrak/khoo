@@ -1,0 +1,48 @@
+
+
+Analysis
+
+
+The wreckage examination revealed no evidence of mechanical control problems. All control surfaces were attached and the physical damage signatures indicated that the aircraft's engine was operating with high power at impact. The weather was not a factor for the proposed flight, so this analysis focuses on the operation of the aircraft and human performance.
+
+
+The attitude of the aircraft at impact is consistent with a stall and spin entry. Because the speed had not increased beyond stall (the slap mark made by the airspeed indicator's pointer at impact was at 40 knots) and there was no damage to the trees around the aircraft at the accident site, it is concluded that the aircraft stalled close to the tree tops. That height was not sufficient to recover from stall before impact with terrain. Also, because the aircraft was found pointed downhill and opposite to the expected route of flight, it is likely that the stall occurred when the pilot was reversing course while flying up the valley at low level. The pilot or pilots were applying a right roll aileron control, normally the action to recover from a left roll, but not effective during a stall or spin recovery. In the stall, control was lost.
+
+
+It could not be determined why the aircraft was so close to terrain in the area of the accident. It is possible they were flying low to look at something on the ground. It is also possible they had made a practice landing and take-off at Sarita Lake, but they should have been able to climb above terrain on their presumed route, unless optical illusions delayed their realization of the rising terrain and they were operating in a cruise configuration until the last moments of the flight.
+
+
+Figure 4. Aircraft performance and terrain profile (angles exaggerated for clarity)
+
+
+When an aircraft stalls close to the ground and recovery is not affected, it impacts the terrain at close to right angles, thereby exposing the aircraft and its occupants to high deceleration forces. If control is maintained, that is to say the wings are not stalled and the aircraft is flown into gradually rising terrain, the deceleration forces are likely to be spread over a longer time and are more survivable. Because most general aviation aircraft are not equipped with linear stall warning devices such as angle of attack indicators, pilots may not always be aware of how close to stalling the aircraft they are.
+
+
+In this accident, the horn would not likely have sounded early enough to give either pilot time to take action to avoid the stall.
+
+
+The pilot non flying was trained in mountain flying techniques, but for unknown reasons, the aircraft was being flown close to terrain. It is possible that both pilots were lulled into a false sense of security due to visual illusions and the lack of a linear stall warning device. Also, the experience level of the pilot flying may have caused the pilot-in-command to be less vigilant.
+
+
+The following TSB laboratory report was completed:
+
+
+LP 111/2007 Noise Attenuating Headset Effect on Stall Warning
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The aircraft was operating close to terrain and was reversing course when it stalled and started a spin at an altitude from which there was insufficient height to recover before it collided with terrain.
+
+
+
+Findings as to Risk
+
+
+Pilots are not always aware of how close to a stall they are, as few general aviation aircraft are equipped with linear stall warning devices, such as angle of attack indicators. There are no regulatory standards for mountain flying training in Canada and pilots continue to delay their decisions to turn around until it is too late to safely do so.
+

@@ -1,0 +1,28 @@
+Because of high workload in their sector , the Red Deer en route sector radar and data controllers were not able to effectively cross-check flight progress strips and the radar displayed traffic	, both controllers ' situational awareness became degraded and the potential conflict between CNS213 and CPB888 , which was operating at an altitude inappropriate for the direction of flight , went unnoticed
+The G-8 coordinator was unavailable and the Red Deer sector supervisor , working a controller position , was unable to respond to the controllers ' concern for the building level of traffic	The controllers were unable to obtain effective flow control measures to alleviate traffic concentration in their sector
+high workload in their sector	the Red Deer en route sector radar and data controllers were not able to effectively cross-check flight progress strips and the radar displayed traffic
+the security closure of Calgary terminal was lifted	there was a surge of traffic into and out of Calgary
+was primarily set in consideration of the traffic acceptance rate of the Calgary terminal facilities	delay and air stop flow control procedures at a rate
+the possibility of armed interception of unauthorized aircraft inadvertently entering CYR255	the radar controller focussed much of his attention to westbound airline flights from Calgary that were transiting the narrow airspace between thunderstorm activity and the restricted airspace
+increased cumulative workload associated with G-8 activities and weather diversions	The radar and data controllers , and the supervisor , indicated that they felt somewhat fatigued
+occurrence	this
+CPB888 passed from the La Biche , Alberta , en route sector to the Edmonton north terminal sector	its altitude of 16 000 feet was appropriate for the direction of flight
+both aircraft were not marked by the Red Deer en route sector data controller in accordance with ATC MANOPS instructions	The flight progress strips
+the time of the occurrence	an air traffic conflict alert system was not fully installed and serviceable in the Red Deer en route sector of the Edmonton ACC
+When the new altitude of 16 000 feet for CNS213 was entered on the flight progress strip , there was insufficient review of other flight progress strips on the data board	determine if there was a conflict with other aircraft
+the new altitude of 16 000 feet for CNS213 was entered on the flight progress strip	there was insufficient review of other flight progress strips on the data board in order to determine if there was a conflict with other aircraft
+The occurrence took place during a combination of circumstances involving active weather , restricted airspace	supervision
+ground	and
+The combined effects of weather , restricted airspace , and concentration of traffic volumes in the Red Deer en route sector	concentrating the backlog in the Red Deer sector
+The controllers were	effective flow control measures to alleviate traffic concentration in their sector
+the 16/17 split , which , in effect , reduced the altitudes available to the controllers and added to controller workload	complexity of traffic in the sector
+The complexity of traffic in the sector was increased by the 16/17 split , which , in effect	the altitudes available to the controllers and
+the time	the occurrence , the Calgary en route specialty was not considered to be short-handed
+ACC management had	staffing in anticipation of a higher , more complex workload
+inappropriate timing of tasks	attention levels
+this error	confusion in altitude flight planning and air traffic control
+CPB888 was	to operate at an altitude inappropriate for the direction of flight through the Edmonton terminal and Red Deer en route sectors of the Edmonton ACC
+This	the safety margin required by the CAR for opposite direction traffic operating at segregated altitudes
+This	the likelihood controllers would detect a potential conflict with opposite direction traffic operating at appropriate altitudes
+CPB888 and CNS213 were	to operate at the same altitude in opposite directions
+This	the likelihood of pilots questioning the validity of the use of such altitudes

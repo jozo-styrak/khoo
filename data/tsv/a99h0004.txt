@@ -1,0 +1,14 @@
+controller assumed that , since the airport controller had not actively taken control of runway 25 , it was still under the control of ground control	The airport controller assumed that runway 25 had been transferred to the control of the airport controller when the ground controller advised that the Cessna 421C was released
+posting	the runway strip header in the flight data strip bay as required by Operations Letter 97-11
+introducing	a requirement for additional communication
+The failure to post a runway status strip is attributable more to procedural uncertainty , as to who was	the designation of the active runway , than to the airport controller 's subjective feeling of fatigue
+that aircraft did not enter runway 25 until 48 seconds later	The mandatory scan of runway 25 prior to issuing take-off clearance would probably not have shown the Piper Seminole in proximity to the runway
+the time that the Cessna 421C was issued take-off clearance	the Piper Seminole was likely still on taxiway A or B
+he did not receive the clearance validation , which was the first part of the personal defence process , he did not follow on with the second part of the process , the confirmation of runway ownership	It may be that ,
+doing so	Local operations letters specify that the active runway must be indicated by posting a runway strip header , and also specify who is responsible
+posting a runway strip header	and also specify who is responsible for doing so , but do not detail when the runway should be made active
+the runway	active
+The method of communications with Toronto ACC	the normal internal communications process between the ground and the airport controller
+the runway	active
+no coordination	mutual awareness of the situation
+the lookout duties of the third controller during heavy traffic periods	defence

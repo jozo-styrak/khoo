@@ -1,0 +1,10 @@
+If the adhesive had cured -LRB- solidified -RRB- , it is unlikely that it could have penetrated the cracks	, it is reasonable to believe that the cracks were present when the adhesive was in liquid state , such as during the installation of the bushing at the time of overhaul , and that it penetrated into the pre-existing cracks in the bore arm
+workload , working conditions , tools , operator ability , lack of supervision , misreading or misinterpretation of instructions	The crack should have been identified during overhaul but , for unknown reasons , it was not
+the bore surface was worn and damaged	This could not be proven
+the condition of the tooling	It may have been induced during the machining process of the inner bore surface at manufacture , or possibly
+moisture	entry into this area during the service life of the nose landing gear
+the adhesive had cured -LRB- solidified -RRB-	it is unlikely that it have penetrated the cracks
+the main larger crack	the eventual failure of the nose landing gear
+There were also imperfections on the inner surface of the housing	the initiation of the crack
+the fracture of the oleo strut housing trunnion link arm , which was initiated by an existing fatigue crack in the bore of the link arm	failure
+The crack propagated during the pre-overhaul service life of the nose gear and progressed further during the post-overhaul service of the aircraft	an overload fracture

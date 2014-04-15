@@ -1,0 +1,44 @@
+
+
+Analysis
+
+
+Neither aircraft airworthiness nor environmental conditions contributed to either event in this occurrence. Since two distinct and unrelated events happened during this flight, the analysis will be divided into two parts to cover separately the tail strike and the aircraft pitch-up event.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot not flying (PNF) inadvertently entered an erroneous V1 speed into the MCDU. The error was not detected by either flight crew, despite numerous opportunities. The PNF called "rotate" about 25 knots below the calculated and posted rotation speed. The pilot flying (PF) initiated rotation 24 knots below the calculated and posted rotation speed and the tail of the aircraft struck the runway surface. A glide path signal was most probably distorted by a taxiing aircraft and provided erroneous information to the autopilot, resulting in a pitch-up event. The pitch-up could have been minimized if the autopilot had been disconnected earlier by the PF.
+
+
+
+Findings as to Risk
+
+
+Other than proper cross-checking, as per SOP, and the speeds displayed on the PFD, the flight crew had no other means to know that an incorrect speed was inserted in the MCDU. A lack of situational awareness and airmanship contributed to not detecting the incorrectly set speed. No warnings in the cockpit were provided to the flight crew indicating that the on-board equipment was receiving a false glide path signal. Had the flight crew noted the information depicted on the approach plate, it is likely that the PF would have been better prepared and reacted accordingly. The flight crew was not directly informed of the possibility of glide path interference caused by a taxiing aircraft because the aircraft was not within 12 nm from the threshold, in compliance with ATS procedure. The PF allowed the aircraft to climb 1000 feet during the pitch-up, which could have caused a conflict with other aircraft.
+
+
+
+
+Other Findings
+
+
+While the atmosphere in the cockpit was professional, it is possible that the flat authority gradient contributed to a more relaxed attitude toward cross-checking each other's actions or confirming other information.
+
+
+
+
+Findings as to Risk
+
+
+Other than proper cross-checking, as per SOP, and the speeds displayed on the PFD, the flight crew had no other means to know that an incorrect speed was inserted in the MCDU. A lack of situational awareness and airmanship contributed to not detecting the incorrectly set speed. No warnings in the cockpit were provided to the flight crew indicating that the on-board equipment was receiving a false glide path signal. Had the flight crew noted the information depicted on the approach plate, it is likely that the PF would have been better prepared and reacted accordingly. The flight crew was not directly informed of the possibility of glide path interference caused by a taxiing aircraft because the aircraft was not within 12 nm from the threshold, in compliance with ATS procedure. The PF allowed the aircraft to climb 1000 feet during the pitch-up, which could have caused a conflict with other aircraft.
+
+
+
+Other Findings
+
+
+While the atmosphere in the cockpit was professional, it is possible that the flat authority gradient contributed to a more relaxed attitude toward cross-checking each other's actions or confirming other information.
+

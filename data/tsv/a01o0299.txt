@@ -1,0 +1,46 @@
+There was no clear reason why the north ground controller gave Tractor 197 authorization to proceed on a route that crossed the active runway without co-ordination with the north tower controller	the north ground controller gave Tractor 197 authorization to proceed on a route that crossed the active runway without co-ordination with the north tower controller
+At the time of the occurrence , he was handling a heavy load of ground traffic , though not complex , mostly taxiing for take-off on Runway 15L	the north ground controller gave Tractor 197 authorization to proceed on a route that crossed the active runway without co-ordination with the north tower controller
+His tasks , although quantitatively heavy , were routine and repetitive	His performance was skill-based , essentially responding automatically to routine demands in a highly familiar , but task-saturated , situation
+controller co-ordinates crossings of active runways with the tower controller ; this means that no one outside the control tower , specifically the operators of vehicles or taxiing aircraft , has sufficient situational awareness to offer an effective defence in the event of error in the control tower	It is normal practice for ground traffic to remain on the ground control frequency rather than changing to the tower frequency for clearance across active runways
+The north ground controller also has to handle ground traffic crossing Runway 15L , with the added workload of coordinating with tower and closely monitoring the runway.crossing	, the north ground controller experiences an inordinately high workload when Runway 15L is active
+Airside vehicle operators are not required to stop and hold short of runways , as are pilots , if they do not have an explicit clearance from ATC to cross that specific runway	, vehicle operators do not serve , as do pilots , as an independent defence against air traffic control error
+controller position -LRB- centre ground -RRB- is available for certain high-workload situations , but is not typically used when Runway 15L is in use	The north ground controller has an inordinately high workload whenever Runway 15L is in operation
+The awareness program including the Aviation Safety Newsletter has not publicized new procedures and regulations recently adopted as preventive measures against runway incursions	, the recent changes concerning clearances across runways may have gone unnoticed
+crossed the active runway without co-ordination with the north tower controller	controller gave Tractor 197 authorization to proceed on a route
+the time of the occurrence	he was handling a heavy load of ground traffic , though not complex , mostly taxiing for take-off on Runway 15L
+the hospitalization of his mother	The controller may have been under a degree of personal duress
+holding	short until getting an explicit clearance to cross
+more conspicuous presentation	such as in the Aviation Safety Newsletter
+the SCRI recommendation for a comprehensive awareness program	Transport Canada , under the auspices of IPAT , has undertaken promotional activities to increase awareness of the problem and to encourage adherence to incursion prevention measures
+The media that are relevant to vehicle operators , such as the Aerodrome Safety Circular , posters and a video , are distributed to airport operators and depend on voluntary initiatives and local programmes	reach vehicle operators
+Awareness of potential conflicts by vehicle drivers is limited by them being on a different radio frequency than the aircraft being cleared for take-off ,	drivers are unaware of the precise status of arriving and departing aircraft
+their lower overall capacity , compared to simultaneous parallel operations from Runways 05/23 and 06L/24R	When Runways 15L/33R and 15R/33L are in use , the overall ATC workload in the tower appears to be reduced
+Runways 15L/33R and 15R/33L are in use	the overall ATC workload in the tower appears to be reduced because of their lower overall capacity , compared to simultaneous parallel operations from Runways 05/23 and 06L/24R
+the backlog that builds up on the ground	While the capacity limitation reduces the quantity of traffic being handled by tower controllers , it has the opposite effect on ground controllers
+Runways 15L/R are in use	the backlogged ground traffic from all three terminals is concentrated on the north ground controller
+the RIMCAS , in this configuration , been operating at the time of the occurrence	it
+changes made by the GTAA to procedures that are within their purview	This occurrence has resulted in some changes at Toronto/LBPIA with regard to vehicle operators ,
+weather delays and a runway change , likely contributed to his momentary lapse of attention	Task saturation of the north ground controller ,
+Present efforts to promote awareness of the runway incursion problem do not communicate directly with	do not necessarily reach , airside vehicle operators
+runway and is therefore unable to hear clearances given to aircraft taking off or landing	traffic crossing an active runway is not changed to the frequency of the controller controlling
+the north ground controller	Tractor 197
+the need	workload
+by the need	clearances to many of the aircraft
+It was an unconscious momentary lapse of attention	the controller to authorize Tractor 197 to proceed with an implicit clearance across the active Runway 15L
+The lapse of awareness that led the controller to overlook the fact that the route of Tractor 197 crossed a runway	him omit an explicit instruction to cross or hold short
+The lapse of awareness	the controller to overlook the fact that the route of Tractor 197 crossed a runway , also
+requirement	an explicit clearance
+controllers	an explicit clearance to aircraft and vehicles cross any runway , whether active or inactive , was accompanied by a regulatory change by Transport Canada requiring that pilots hold short of any runway , whether active or inactive , unless they have an explicit clearance to cross
+one page mandated a new procedure	incursions
+promotional activities	awareness of the problem
+They are	awareness amongst airport vehicle operators
+the capacity limitation	the quantity of traffic being handled by tower controllers
+the RIMCAS	a stage 1 alarm , a visual indication on the ASDE display but no audible signal , when an intruding aircraft or vehicle passes the runway edge in good visibility or 100 feet back from the runway edge in poor visibility
+Had the RIMCAS , in this configuration , been operating at the time of the occurrence , it probably would not have alerted tower controllers early enough	them warn the flight crew before they detected and reacted to the incursion on their own
+the GTAA to procedures that are within their purview	a result of changes
+This occurrence has	some changes at Toronto/LBPIA with regard to vehicle operators
+Task saturation of the north ground controller , as a result of weather delays and a runway change	his momentary lapse of attention
+a result of weather	and
+sufficient warning	an accident
+Ground traffic crossing an active runway is not changed to the frequency of the controller controlling that runway	clearances given to aircraft taking off or landing
+the statistical predominance of pilot deviations in day VFR	program

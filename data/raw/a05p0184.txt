@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+The trim actuator motors indicated a near, full-forward cyclic trim position. The pilot did not indicate any problem with the aircraft longitudinal control. Therefore, it is unlikely that a trim runaway occurred or contributed to this accident.
+
+
+There was no evidence to suggest that the previous hard landing and rollover or the subsequent repair contributed to this accident. Although the fire damage precluded a determination of engine rotation, the damage to the main rotor blades and the pilot's observations indicate that the engine was producing power at impact.
+
+
+There are only a limited number of scenarios in which the tail of a helicopter would drop rapidly during a toe-in procedure. The first scenario is that a malfunction of the cyclic or collective pitch controls could cause the pilot to lose control of the aircraft resulting in a tail strike. However, due to the severe post-crash fire, continuity and functionality of the collective and cyclic pitch mechanisms could not be determined.
+
+
+The nature of a toe-in procedure causes the tips of the skids to act as a pivot point for the helicopter. Another scenario is that any momentary loss of engine power or reduction in main rotor torque would likely cause the tail to drop rapidly and the helicopter to yaw nose left-tail right. Due to the damage to the engine and accessory components, it could not be determined if there was a power loss.
+
+
+The tail drop and tail rotor impact marks to the right and rear of the helicopter, indicating a counter-clockwise yaw, are consistent with a reduction in engine torque. Once the tail rotor contacted the ground, the tail rotor drive shaft sheared and the helicopter began to yaw rapidly clockwise. Control of the helicopter at this point would be difficult to regain and, given the terrain, a successful emergency landing was not possible. It should be noted that, because the helicopter flew a short distance from the pickup site before striking terrain, some degree of engine power was likely available after the tail rotor strike. Due to the severity of the post-crash fire, the reason for the loss of control and the corresponding tail drop could not be determined.
+
+
+As a result of the damage to the helicopter, there was insufficient physical evidence to explain what caused the loud bang before the tail strike.
+
+
+Although there was some delay in the initial request for medical assistance from the accident site and some delays in organizing appropriate medevac transportation, the combined delay was not unreasonable given the remote location of the accident site.
+
+
+It should be noted that Canadian Forces search and rescue resources were approximately two hours from the accident site. Due to this two-hour response time, rescue of the pilot was completed faster using local resources. Had JRCC Victoria taken control of the situation on initial notification, it is likely that it would have used similar local resources to rescue the pilot, and there would not have been a significant difference in response time.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The reason for the tail drop and corresponding tail rotor strike could not be determined. Once the tail rotor contacted the ground, the tail rotor drive shaft sheared and the helicopter began to yaw rapidly clockwise. Control of the helicopter was lost and, given the terrain, a successful emergency landing was not possible. The fuel tank ruptured during the crash sequence, spraying the cockpit area with fuel. This resulted in an intense post-crash fire severely injuring the pilot and destroying physical evidence.
+

@@ -1,0 +1,11 @@
+The aircraft was in cloud , the temperature was below freezing , and the pneumatic de-icing boots were not activated	, ice accumulation on critical flight surfaces was possible
+In large transport category aircraft , it would be unsafe to purposely enter a fully developed stall	, current regulations only require that flight crews receive limited training in stall recognition and recovery , with recovery being initiated at the first indication of a stall
+In this instance , because of ice contamination , the stall happened at a higher-than-usual airspeed , and the symptoms of the stall were not those that the pilot had been trained to expect	, the captain did not recognize that the aircraft had stalled and , instead , interpreted the unusual movement of the aircraft as being due to turbulence
+there was no requirement in the SOPs for the crew to announce and confirm the IAS mode selection on the AFCS	This selection error was not detected , in part
+the crew had inadvertently selected an inappropriate AFCS mode and did not detect this error or adequately monitor the airspeed	the airspeed eventually decreased during the climb to the point of stall
+ice contamination , the stall happened at a higher-than-usual airspeed	In this instance ,
+turbulence	As a result , the captain did not recognize that the aircraft had stalled and , instead , interpreted the unusual movement of the aircraft as being
+ensuring the correct selection of AFCS climb modes	The operator 's standard operating procedures -LRB- SOPs -RRB- did not have a prescribed method
+accumulated ice on critical surfaces	The aircraft stalled at a higher-than-normal airspeed , with little advance warning , most likely
+the aircraft was operating in the intended IAS mode	them become complacent about monitoring the airspeed
+This	excessive altitude loss before the aircraft was recovered

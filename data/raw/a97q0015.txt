@@ -1,0 +1,41 @@
+
+
+Analysis
+
+
+Because no pre-impact technical anomaly or mechanical failure that could have explained the aircraft's drift to the left was identified, it appears that the loss of directional control was due to the condition of the runway, the environmental conditions, and the late application of corrective measures.
+
+
+The take-off roll took place at night, on a partially contaminated runway, in a cross-wind of 16 to 23 knots from the right, and in reduced visibility conditions in snow and blowing snow. Analysis of the weather and runway conditions suggests that, at the time of the occurrence, the surface likely was more contaminated than the latest runway report indicated, and that the available width was less than 100 feet as reported.
+
+
+The pilot-in-command should have performed the take-off, since the co-pilot had not received the training required by the existing regulations for take-off in lower than standard minima. Given that the pilot-in-command had little experience in taking off with an RVR of 1,200 feet, it is probable that if he had received simulator training that included take-off exercises in these conditions, he would have been more conscious of the risks involved and that he would have performed the take-off himself. It seems that the following factors affected the pilot-in-command's decision: the flight crew and the company believed that if the pilot-in-command had the necessary qualifications, the co-pilot could take off in an RVR of 1,200 feet; the pilot-in-command considered the co-pilot sufficiently skilled to perform take-offs in the existing conditions; the company encouraged co-pilots to fly from the left seat; and, there were no published procedures for take-off in lower than standard minima.
+
+
+Except for a V1 of 105 knots rather than 100 knots, the co-pilot's briefing was completed in routine fashion, although the environmental conditions dictated a more exhaustive briefing. A more elaborated briefing would have allowed the pilots to plan the take-off in light of the existing conditions and to formulate a joint plan in case of emergency. The fact that the pilot-in-command erroneously thought that the co-pilot had selected a V1 of 100 knots indicates that the instructions were taken for granted, at least in part, and the take-off was commenced with each pilot having a different decision speed in mind. This misunderstanding did not contribute to the accident, since the co-pilot initiated rotation at 100 knots, however, it indicates a lack of co-ordination even before the roll began. In fact, the briefing did not improve cohesiveness in the cockpit, as it should have done.
+
+
+Between 90 knots and 100 knots, the co-pilot had three to four seconds to warn the pilot-in-command that the aircraft was drifting to the left. He did not consider it necessary to report the loss of control immediately, believing that he would be able to correct the turn; subsequently, he was too preoccupied by the events to inform the pilot-in-command. Thus, the pilot-in-command was deprived of information crucial to the flight. The pilot-in-command was only partially aware of what was happening around him. Since he did not have an overall and accurate understanding of the situation, he could hardly make an effective decision. Efficient interpersonal communications are crucial to crew co-ordination. The pilot-in-command might have reacted differently if he had had more time to analyse the situation.
+
+
+The announcements made after the aircraft began to drift were inaudible, non-standard, or non-existent: the co-pilot did not hear the statement "V1" at 100 knots; the co-pilot announced "J'ai la vitesse" [I have reached the speed] instead of V1, which the pilot-in-command did not hear; and, the pilot-in-command did not announce that he was rejecting the take-off. Thus, the crew members did not have the same understanding of what had to be done. The terms "V1", "VR", "Reject" and "Abort" are standard expressions that are unequivocal when they are pronounced clearly. It is possible that the pilot-in-command would not have cut power if the co-pilot had clearly and precisely communicated the loss of directional control of the aircraft and his intention to continue the take-off.
+
+
+The pilot-in-command was surprised to discover that the aircraft was heading off the runway and that the co-pilot was attempting to take off. Because the emergency was so sudden, he had very little time to analyse the situation correctly. He concluded that a runway excursion was imminent and that the aircraft would crash in the snow. The pilot-in-command immediately decided to reject the take-off on the basis of his understanding of the circumstances, understanding that cutting the power would result in a crash. According to his understanding of the situation, cutting the power to reduce the aircraft's speed was the safest action to take. The crew was confronted with an unusual situation for which they were not prepared.
+
+
+According to company procedures and the agreements made in the preflight briefing, it was up to the co-pilot, as the PF, to make the decision to continue or reject the take-off when directional control was lost. In fact, he was the person in the best position to make such a decision. Since the co-pilot had followed the flight progression from the beginning of the take-off run, he could analyse aircraft performance more accurately.
+
+
+When the co-pilot realized that he had lost directional control and that the aircraft had reached VR, he judged that if he pulled back on the control column, the aircraft would clear the obstacles ahead. Since the aircraft did not stall before settling into the snow, and there was no obstacle along its track, it is clear that the aircraft would have continued its flight if the power had not been cut.
+
+
+The crew's actions were not coordinated the way they should have been. The following factors, although not required by existing regulations, contributed to the lack of cockpit coordination: RTO exercises with an RVR of 1,200 feet had never been practised by the crew members; they seldom practised RTO exercises; they had no experience in carrying out a RTO at high speed; the company had no published SOP ; and, the pilots had not received CRM training.
+
+
+
+Findings
+
+
+The co-pilot had been authorized by the pilot-in-command to perform the take-off from the left seat. The pilot-in-command believed that the co-pilot had the necessary qualifications to take off in lower than standard weather minima; however, he did not. The take-off roll took place at night, on a partially contaminated runway, in a strong cross-wind, and in reduced visibility conditions in snow and blowing snow. During the take-off roll, at an indicated airspeed of about 90 knots, the aircraft veered to the left. No pre-impact technical anomaly or mechanical failure that could have explained the aircraft's drift to the left was identified. The loss of directional control was probably due to the condition of the runway, the strong cross-wind, and to the late application of corrective measures. The decision to continue or reject the take-off when control was lost was up to the co-pilot, as the pilot flying. The co-pilot decided to continue the take-off because he judged that if he pulled back on the column, the aircraft would take off and clear any obstacles. The pilot-in-command decided to reject the take-off because he believed that a collision with the snowbank on the runway edge was inevitable; he wanted to slow the aircraft and reduce the force of impact. The aircraft would have continued its flight if the power had not been cut.
+

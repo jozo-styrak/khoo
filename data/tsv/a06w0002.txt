@@ -1,0 +1,9 @@
+the fuel selector was closed as per the subsequent Engine Securing Checklist	the fuel flow stopped
+the fuel selector had been turned off as part of the initial Engine Fire Checklist	the fire have been extinguished earlier
+the different expansion rates of materials	The fuel line assembly of metal tubing , rubber hose couplings , and hose clamps increased the possibility of leaks
+fire damage in the accessory section	This would be consistent with the loss of hydraulic pressure in the gear retraction system
+this aircraft been operating at a higher gross weight	the power loss from two engines , combined with the additional drag from the extended main gear , may have precluded a return to the airport , or resulted in an in-flight loss of control
+turning the fuel selector off is not required as part of the primary Engine Fire Checklist	The fuel-fed fire burned for an extended period of time
+The fuel line assembly of metal tubing , rubber hose couplings , and hose clamps	the possibility of leaks due to the different expansion rates of materials
+Investigation as per the troubleshooting chart in the maintenance manual	the fuel pressure line leakage
+A fuel leak from the main fuel inlet line in the engine compartment of this cargo DC-4	an in-flight fire spread into the nacelle and wing

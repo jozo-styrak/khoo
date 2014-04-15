@@ -1,0 +1,6 @@
+The operation of the King Air landing gear warning system , when the power levers are sequentially retarded , is not clearly described in the POM	, it was not universally known that the landing gear horn , once silenced , does not activate if the second power lever is subsequently retarded
+in recognition that a single-engine missed approach may be required	do
+Both checklists should be completed to cover all items at least once , a procedure	a redundant check of the flaps and the landing gear
+The SOPs	no specific guidance about when to complete the Single-Engine Approach and Landing checklist
+A detailed review of factors	the fatigue state of the PIC
+The King Air standard operating procedures	no specific guidance about when to complete the Single-Engine Approach and Landing checklist

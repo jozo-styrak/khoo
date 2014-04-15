@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+One of the raised bosses in the carburettor float chamber had been broken off for some time as evidenced by the surface finish wear on the broken boss and on the float chamber floor. Had the carburettor been damaged at the engine manufacturer's facility, it should have been identified during the numerous post-run inspections. Fuel would have drained from the carburettor as soon as the test cell inlet air box was removed.
+
+
+It is probable that the carburettor was damaged at the Zenair facility when their inlet air box was installed. Since the carburettor was void of fuel during the air box installation, any internal damage resulting from incorrect bolt application would have been difficult to detect.
+
+
+The aircraft fuel system/components were inspected and found to be serviceable. Aircraft records, flight crew reports, and information gathered at the accident site confirmed that there was sufficient fuel onboard and in each tank to complete the flight. The damaged carburettor was found to be the only part of the aircraft fuel system that could have caused the engine power loss. Had the engine power loss been due to fuel flow interruption during the sideslip, engine power should have returned shortly after recovery from the manoeuvre.
+
+
+The momentary negative "g " that occurred during the sideslip would cause the broken boss to move about in the float chamber. Although the carburettor needle valve was jammed in the closed position following the ground impact, the strong fuel smell experienced during and following the engine power loss does not support the conclusion that the valve was jammed closed prior to impact.
+
+
+Had the broken boss caused the needle valve to remain open, fuel under pressure (electric fuel pump on) would continuously discharge into the carburettor throat. Since the fuel delivery would far exceed the engine's fuel demands, the result would be a quickly flooded engine, a complete power loss, and a strong fuel odour in the cockpit.
+
+
+
+Findings
+
+
+The internal damage to the carburettor was most likely the result of an incorrect bolt application during the inlet air box installation at the Zenair facility. It is probable that the broken boss jammed the carburettor float and needle valve in the open position, flooding the engine with fuel and resulting in a complete engine power loss. The ELT was not armed and, consequently, did not activate during the ground impact. The outboard portion of each lap belt became unsecured when the fuselage structure, to which it attached, separated at impact. The door latch bar (P.N. 20-F-32-3) exhibited excessive wear given its low time in service (41.1 hours TTSN). Examination of the occurrence aircraft cabin heat box supply hose indicated that exhaust gases had entered the air box. The alternate static switch placarding does not provide clear indication of the static source selected. The CH2000 owner's manual does not provide clear direction as to how the airspeed correction should be applied when the alternate static source is selected. The CH2000 side slips can result in a steep nose down pitch attitude, even when entered at speeds greater than normal approach speeds.
+

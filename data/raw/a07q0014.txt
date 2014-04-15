@@ -1,0 +1,54 @@
+
+
+Analysis
+
+
+ince the wing tank fuel level gauges were not very reliable, the pilot used a calibrated wooden stick to determine the amount of fuel in the wing tanks. This method, although recognized, is not always very accurate. If the stick is moved, the fuel can wet more of the stick and give a reading that is higher than the real level. Given the length of the tanks, a small error in the reading could correspond to a difference of several gallons. Considering that the aircraft had flown for only 40 minutes before the engine stopped, it can be concluded that the aircraft took off with less fuel in the wing tanks than the amount estimated by the pilot.
+
+
+The engine stopped as a result of fuel starvation while part of the pilot's attention was focused on looking for caribou tracks. When the low fuel pressure warning light illuminated, the pilot first thought that it was the sun's reflection and did not select another fuel tank before the engine power loss. Given the random operation of the low fuel pressure switch, it is also plausible that the warning light did not indicate the drop in fuel pressure in a timely manner. Since the engine continued to operate, the fact that the propeller pitch was not changed did not have an impact on the restarting of the engine.
+
+
+It is probable that using the priming pump, especially in cold weather, would have helped the engine to restart. However, the low altitude reduced the time available to carry out the emergency procedure. With the wobble pump lever located on the centre console, the flap lever located on the floor to the right of the pilot's seat and the priming pump located on the floor to the pilot's left, it was difficult for the pilot to activate all these devices at the same time and also keep one hand on the controls.
+
+
+The failure of the legs of the second row seats caused the occupants to be thrown against the backs of the front seats. Since the pilot and the front passenger were not wearing their shoulder harnesses, the risk of sustaining greater injuries was increased. In fact, the front passenger sustained head injuries that resulted in the loss of an eye.
+
+
+After AWT's bankruptcy, Propair could no longer rely on the STC holder for any technical support to find a solution to the problems related to the fuel level indication and the selection of the wing tanks in cold weather. Even though choosing the middle position of the selector cancelled the risk of blocked actuating cables in cold weather, this selection was not authorized by the flight manual supplement, and the operator should have reported the problem and researched an alternative. The middle position allowed fuel to flow between the wing tanks. Normally, the non-return valves should have kept the fuel in the first compartment. However, the non-compliant guard and the angle at which the flapper valves were mounted compromised their effectiveness. It is possible that earlier engine power losses were caused by a lack of fuel to the engine after non-coordinated flight, which could have allowed fuel to end up in the outboard compartment of one of the tanks.
+
+
+Tests on the components of the fuel level indication system established that the only time the fuel level in the wing tank was shown correctly was when the tank was empty. However, any water or ice on one of the two fuel senders could incorrectly maintain the indication at approximately .
+
+
+With the wing tank selector in the middle position, the engine was fed fuel from both wing tanks at the same time. As a result, the fuel level in each tank should have decreased equally. The left tank gauge pointer did not move during the flight and stayed at more than . It is likely that the reading for the left tank was distorted by the presence of ice in the fuel. The indication error did not allow the pilot to select another fuel tank before using all the fuel in the wing tanks.
+
+
+No documentation was provided confirming that a certification process for the fuel senders or the triple fuel level gauge had been carried out. When the change to the type design was approved through issuance of the STC, Transport Canada did not notice the fact that these parts, described in the plans, did not comply with airworthiness standards. Similarly, the following deficiencies were not noticed:
+
+
+the bending of the fuel senders; the absence of perforations in the flapper valve guards; the wing fuel selector placard did not conform to drawing MF001-003 (Rev IR); and the description of the fuel system.
+
+
+Consequently, Transport Canada issued an STC that contained several deficiencies.
+
+
+The following Engineering Laboratory reports were completed:
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The engine stopped as a result of fuel starvation; the amount of fuel in the wings was less than the amount estimated by the pilot, the fuel senders gave an incorrect reading, and the low fuel pressure warning light could illuminate randomly. The engine stopped at low altitude, which reduced the time needed to complete the emergency procedure. The pilot was unable to glide to the lake and made a forced landing on an unsuitable terrain, causing significant damage to the aircraft and injuries to the occupants.
+
+
+
+Findings as to Risk
+
+
+The wing tank selection system was subject to icing in cold weather, and the pilots adopted the practice to place the wing tank selector in the middle position, which is contrary to the aircraft flight manual supplement instructions and a placard posted on the instrument panel. When the change to the type design was approved through issuance of the Supplementary Type Certificate (STC), Transport Canada did not notice the fact that the fuel senders and triple fuel level gauge did not meet airworthiness standards; Transport Canada issued an STC that contained several deficiencies. Storage of the shoulder harnesses underneath the aircraft interior covering made them inaccessible; since the pilot and the front seat passenger did not wear their shoulder harness, their protection was reduced.
+

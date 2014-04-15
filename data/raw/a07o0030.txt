@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+Nothing was found to indicate that any mechanical malfunction initiated or contributed to the accident sequence. Weather conditions would not have affected the performance of the helicopter; therefore, the analysis will concentrate on the procedures and actions related to the autorotation.
+
+
+The helicopter departed from Cambridge, Ontario on a maintenance test flight. The purpose of the flight was twofold. First, the aircraft maintenance engineer (AME) was attempting to track the main rotor blades while the helicopter was in an autorotation and, second, he wanted to check the autorotational revolutions per minute (RPM). There is a specific procedure in the maintenance manual for checking the autorotational RPM, though it was not reviewed before the flight and was not being followed. Tracking the main rotor blades in an autorotation is not a procedure that is described in the helicopter maintenance manual.
+
+
+Without a detailed prefight briefing, the pilot might not have been fully aware of what to expect during this maintenance test flight. The consequences of not reviewing the autorotational RPM adjustment procedure prior to the flight included not having enough altitude to properly conduct the test and not being aware that, at its current weight, the target rotor RPM was above the main rotor RPM red line.
+
+
+The flight was normal up to the point where the autorotation was initiated. At some point during the autorotation, the pilot allowed the rotor RPM to drop to approximately 80 per cent and he was unable to recover before the helicopter hit the ground. The upward bending of the rotor blade confirms that, at some point in the autorotation, the rotor RPM was low. Losing rotor RPM could be the result of incorrect technique when initiating the autorotation or it could have resulted from a failure to continually monitor the RPM throughout the autorotation.
+
+
+If, during entry into the autorotation, the pilot rolled the throttle off before fully lowering the collective, there would be a sudden drop in rotor RPM. The low inertia rotor system is sensitive and reacts quickly to changes. In this scenario, the low rotor warning horn and light would be activated almost immediately. However, the warning horn may have been activated for a very short time because the standard reaction would be to immediately lower the collective. The pilot's exclamation may have been simultaneous with the low rotor warning and the AME may not have noted the warning horn.
+
+
+A second scenario would be that the pilot correctly entered the autorotation but diverted his attention from watching the rotor RPM, perhaps to look outside the cockpit to find the strobe targets on the main rotor blades. If the main rotor blade pitch was correct, the relatively high gross weight of the helicopter would tend to overspeed the rotor system as the pilot entered the autorotation (approximately 2.5 per cent). If he noticed an excessively high rotor RPM, the normal reaction to prevent the rotor from overspeeding would be to increase collective, which in turn would increase the blade pitch angle and slow the rotor RPM. If the pilot overcorrected with the collective to the point of slowing the rotor system below 97 per cent, the warning horn and light should have activated as the collective would no longer be fully down. The normal corrective action would be to immediately lower the collective which would silence the warning horn and roll in the throttle.
+
+
+If the main rotor blade pitch was excessively coarse, the rotor system would tend to slow down as soon as the pilot initiated the autorotation. With the collective lever in the full down position, the low rotor warning system would be disabled. The pilot's surprise exclamation suggests that he became aware that something was not right at some point during descent and it attracted the attention of the engineer who then noted that the rotor RPM was down to approximately 80 per cent. In this scenario, rotor RPM could only be regained by the use of engine power.
+
+
+When the helicopter struck the ground, the rotor tachometer was indicating 98 per cent, the rate of descent was 800 feet per minute and the helicopter had very little forward speed. All of this indicates that although full throttle had been reapplied during descent, there was insufficient altitude and time to arrest the descent prior to impact.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft maintenance engineer was attempting to track the main rotor blades while the helicopter was in an autorotation. This procedure was not described in the helicopter maintenance manual. Attempting to combine these two activities likely interfered with the pilot's ability to monitor aircraft performance during the autorotation. The gross weight of the helicopter exceeded the maximum specified by the manufacturer for checking rotor revolutions per minute (RPM) in autorotation. During the autorotation, the rotor RPM decayed to approximately 80 per cent and, although full throttle had likely been reapplied, there was insufficient altitude and time remaining to arrest the rate of descent prior to impact.
+

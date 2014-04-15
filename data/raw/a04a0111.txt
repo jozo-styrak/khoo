@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+Company operations were alerted promptly because of the use of the satellite phone.
+
+
+The helicopter was operating normally at the time of the occurrence, and the weather was suitable for visual flight rules operations. The analysis will, therefore, focus on possible operational reasons for the sudden descent and crash of the helicopter.
+
+
+A possible explanation for the sudden acceleration toward the ground is VRS. The difference in elevation between the previous landing site and the intended landing site was approximately 300 feet. The pilot flew from one to the other at approximately 200 feet above ground. In the short distance between the two sites, it is unlikely that the helicopter was able to climb sufficiently high enough to be in a position to execute a steep approach into the occurrence site. The approach flown would not normally put the occurrence helicopter in a position conducive to VRS. A characteristic of VRS is buffeting and poor control response, neither of which was apparent. If VRS was present, it was likely in the incipient stage of development and did not fully develop in the brief period before impact.
+
+
+The winds were light and westerly throughout the day of the accident. The intended landing site at which the pilot was going to drop the survey crew was 300 feet higher than the take off area and was in a bowl on the lee side of the ridge. Wind conditions are notoriously unpredictable in mountainous regions, and it is likely that the intended landing site was located in an area of down-flowing wind.
+
+
+The pilot had not completed a reconnaissance of the site to ascertain any changes to wind conditions or power requirements, and conducted the approach in a direction that did not leave an escape route if required. It is possible that the helicopter entered an area of down-flowing air at a point on final approach from which there was insufficient altitude to arrest the descent before impact. However, had the pilot been trained to use mountain flying techniques in the approach to the landing site, the outcome might have been different.
+
+
+The following TSB Engineering Laboratory report was completed.
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The reason for the sudden descent of the helicopter could not be determined.
+
+
+
+Findings as to Risk
+
+
+Some company helicopter pilots are operating in the mountainous terrain of northern Labrador without the benefit of mountain flying training. The pilot did not fly a reconnaissance of the intended landing site before attempting a landing.
+
+
+
+Other Finding
+
+
+Using a satellite phone to speedily notify company operations, greatly improved the survival scenario.
+

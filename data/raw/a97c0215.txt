@@ -1,0 +1,47 @@
+
+
+Analysis
+
+
+Examination of the wreckage did not reveal any pre-crash malfunctions of the aircraft's structure, systems, or engines. The shallow angle of the aircraft's impact with terrain, and the speed of the aircraft at impact, are consistent with controlled flight into terrain.
+
+
+A calculation of the aircraft's weight and balance indicates that its gross weight was within allowable limits. Although the zero fuel weight was slightly over the maximum allowed, this would not have degraded the aircraft's handling or performance characteristics.
+
+
+The pilot was certified and qualified for the flight, whether flown VFR or IFR, and his flying record indicates that he had recent experience in night VFR operations.
+
+
+Because the aircraft was not equipped for flight into icing conditions and the area forecast included icing in cloud, the aircraft was not approved for flight into cloud during the accident flight. The aircraft's autopilot was unserviceable and the altimeter required calibration. For these reasons, the aircraft was not approved for flight under IFR, and, in the prevailing weather, was, therefore, not approved for flight into cloud. Although the pilot was qualified to complete the flight under IFR, the aircraft was not equipped for IFR flight under the prevailing conditions.
+
+
+At the time of departure, the cloud ceiling met the requirements for night VFR flight in the Fort McMurray area. As the flight progressed toward La Loche, the cloud ceiling decreased below the minimum required for commercial air operations. Flight below the cloud left the pilot with reduced terrain clearance and increased the requirement for effective manoeuvring to avoid collision with terrain.
+
+
+The lighting conditions on departure were likely sufficient to allow the pilot to maintain a visual reference to the ground. As the flight progressed, however, the available lighting and ground reference progressively decreased. The overcast sky, the decreasing sky illumination, and the dark colour of the forested area along the route and in the area of the accident yielded little light with which the pilot could manoeuver and navigate with reference to the ground. At the low altitude which the pilot flew to maintain clearance from cloud, the lights of La Loche probably provided him with little assistance.
+
+
+It was not determined whether the pilot would have conducted the flight under IFR had the accident aircraft been appropriately equipped. However, if the aircraft had been so equipped, the pilot would have had the option to commence the flight under IFR, or to revert to IFR en route, when weather and lighting conditions made VFR flight impracticable.
+
+
+Although the operator's FOM has detailed information on day VFR flight standards, the section on night VFR contains little guidance on night VFR, and the standard it refers to is misleading.
+
+
+The pilot, who was familiar with the FOM, may have been misled by the lack of information in Section 3.6.1. The requirement for the minimum obstacle clearance height is not contained in the company operations exam. The level of pilot awareness of the requirement within the company indicates that the pilots were not receiving the information from other sources.
+
+
+It was not established whether the pilot was subject to pressures from the customers of the accident flight to fly in adverse weather. However, customer and self-induced pressures were encountered frequently by company pilots in their dealings with other customers. As well, the occurrence aircraft was already loaded with the passengers' baggage prior to the pilot's return from his previous flight, and a company pilot had recently successfully completed a flight from La Loche. It is not known to what extent the pilot's decision to depart was influenced by one or more of these factors.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 166/97 - Instruments Examination
+
+
+
+Findings
+
+
+The pilot was certified and qualified for the accident flight, whether it was flown VFR or IFR. The available information indicates that the pilot's performance was not affected by incapacitation. The aircraft records indicated that the aircraft was maintained in accordance with existing regulations. The aircraft's gross weight and centre of gravity were within allowable limits at the time of the occurrence. Examination of the aircraft's structure, systems, and engines did not reveal any pre-crash malfunctions. The aircraft emergency locator transmitter was destroyed in the crash and did not activate. The aircraft was not equipped for flight into cloud at the time of the accident. The minimum en route altitude allowed by the CARs for the accident flight was 1,000 feet agl. The weather at departure from Fort McMurray was within allowable limits for night VFR flight; however, as the flight progressed toward La Loche, the cloud ceiling decreased below allowable limits for a commercial air operator. The available lighting and ground reference available en route and at the time of the accident decreased markedly from that prevailing on departure. The pilot continued flight into weather and lighting conditions which did not enable him to avoid collision with terrain. The operator's FOM contains little guidance to pilots on the subject of night VFR operations. Company pilots were subject to customer and self-induced pressures from time to time to complete flights in adverse conditions.
+

@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+The accident was precipitated by an unexplained descent below the 25-mile minimum safe altitude as depicted on the approach plate. It could not be determined why the aircraft descended to ground impact or if it was under the control of the pilot at the time. The analysis will examine some factors which may have been involved in this occurrence.
+
+
+Weather forecasts and observations in the High Prairie area indicated that the latter portions of the flight were conducted in instrument meteorological conditions (IMC). Forecast icing conditions and an absence of icing reports in local pilot reports (PIREPS) suggest that aircraft icing was not an influencing factor in this accident.
+
+
+The configuration of the aircraft - flaps retracted and gear up - and the length of the wreckage trail are indicators that the aircraft struck the trees in a fairly steep dive with a considerable amount of speed. Because of the severity of the impact, limited information was available as to the aircraft's performance and functionality. Inspection of the aircraft's engines and propellers indicated that they were developing power at the time of impact. All of the aircraft control surfaces and airframe components were accounted for at the site; it is therefore unlikely that an in-flight component failure occurred.
+
+
+The autopsy and toxicology report, pilot's rest schedule, training and experience indicate that the pilot's performance was not affected by physiological factors. There was nothing abnormal in the pilot's conversations with a company pilot when receiving weather information prior to the occurrence. It is not known if the pilot suffered a loss of situational awareness, as it appears the aircraft was on track to the NDB, and the pilot was familiar with the airport and the approach.
+
+
+Because of low cloud ceilings in combination with low visibilities in rain and mist, the pilot may have had limited external visual references to determine the aircraft's attitude and altitude above the ground for recovery, if control was lost in cloud on descent to the MSA.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+LP 93/02 - Flight Instrument Analysis
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+For undetermined reasons, the aircraft descended below the minimum safe altitude as prescribed on the NDB 25 approach for High Prairie and struck the terrain.
+
+
+
+Other Findings
+
+
+Had the accident aircraft been equipped with a CVDR or similar device, the investigation might have been able to determine the initiating events and associated safety deficiencies that resulted in this accident.
+
+
+This report concludes the TSB's investigation into this occurrence. Consequently, the Board authorized the release of this report on 05 May 2003.
+

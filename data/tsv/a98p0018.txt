@@ -1,0 +1,24 @@
+Based on the pilot 's knowledge of the area north of Vancouver , he had come to expect sporadic radio coverage in the high terrain and , because these communication difficulties were normally encountered and therefore anticipated , he did not consider them to be valid communication failures	, his motivation to initiate the loss of communication procedures published in the CFS was reduced
+the aircraft crossed the MVA line	the controller gave the next step-down clearance to an altitude of 11 000 feet asl
+handing off the aircraft to the arrival controller	After clearing the aircraft to 11 000 feet asl , the controller increased his range of visual scan in preparation
+When operating below published minimum altitudes , there is no independent means for aircrew to easily cross-check MVA boundaries with published information available in the cockpit	, the crew 's ability to recognize or compensate for the controller 's error was greatly reduced
+Based on the pilot 's knowledge of the area north of Vancouver , he had come to expect sporadic radio coverage in the high terrain and , because these communication difficulties were normally encountered	anticipated , he did not consider them to be valid communication failures
+the en route controller anticipated that the aircrew would try to contact the next sector on its route of flight and had the arrival controller known about the problem	the arrival controller could have directed the aircraft to climb immediately on initial contact
+ABL814 crossed the en route sector 's 14 000-foot MVA line	the en route air traffic controller
+the aircraft 's low altitude	The controller 's attempts to recover from the error were impeded by a lack of direct controller-pilot communications capability
+he was unaware of the communication problem , directed the crew to return to their previously assigned en route frequency	The arrival controller received a transmission from ABL814 but ,
+the crew could see the mountains	There was no risk of collision with terrain
+A light traffic load in the en route sector	the controller to concentrate his visual scan on the one aircraft being controlled
+This concentration on one area of the radar display	the controller 's ability
+the time he	the error
+he had	a descent clearance 14
+the controller	the next step-down clearance an altitude of 11 000 feet asl
+the controller	his range of visual scan in preparation for handing off the aircraft to the arrival controller
+the fact they	levelling at 11 000 feet asl
+an MVA when that aircraft is not being radar vectored	confusion about whether the pilot or the controller has responsibility for obstacle and terrain clearance
+an error by the controller in assigning an incorrect altitude can not be cross-checked by the pilot	an aircraft descending below a minimum IFR altitude
+the defences designed	minimum acceptable obstacle and terrain clearance aircraft in flight
+Local interpretation of existing rules and procedures	an erosion of the defences designed to provide minimum acceptable obstacle and terrain clearance for aircraft in flight
+this	the time
+The Vancouver ACC was using an altitude assignment procedure	controllers assign altitudes that were below the minimum published IFR altitudes
+TP 308	no direct mention of a requirement for direct pilot-to-controller communication capabilities either at or below the MVA

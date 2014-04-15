@@ -1,0 +1,33 @@
+He did not realize that his separation plan was flawed because his expectation of climb performance was not disproved	, he did not take any action to ensure separation would be maintained , or to remind himself to reassess the plan as the climb progressed further
+Had the estimate been passed to Broadview before the climb clearance was issued , it is likely the controller would have cocked the flight progress strip when he issued the clearance , and then uncocked it when the new altitude was passed	it is likely he would not have left the strip cocked as a reminder even if he had identified a conflict
+Because of this practice , it is likely he would not have left the strip cocked as a reminder even if he had identified a conflict	, the controller did not have any procedural cues reminding him to monitor the climb because he probably uncocked the flight progress strip , and also because he did not use a red W on the flight progress strips for either aircraft
+he expected no conflict	he did not impose any restrictions for the climb , such as a specified heading or climb rate
+the actual climb rate was less than the controller had expected	However , the plan was flawed
+his expectation of climb performance was not disproved	He did not realize that his separation plan was flawed
+the climb clearance	The flight progress strip for the Boeing 747 had already been cocked to remind the controller that the Lumsden estimate had not yet been passed to the Broadview sector , so he did not need to cock it
+His normal working practice was to uncock a flight progress strip when the action of advising the next sector of an estimate was complete	, it is probable that he uncocked the flight progress strip once Broadview had received the Lumsden estimate and altitude of FL410 for the Boeing 747
+the estimate been passed to Broadview before the climb clearance was issued	it is likely the controller would have cocked the flight progress strip when he issued the clearance , and then uncocked it when the new altitude was passed
+this practice	it is likely he would not have left the strip cocked as a reminder even if he had identified a conflict
+he probably uncocked the flight progress strip , and also because he did not use a red W on the flight progress strips for either aircraft	As a result , the controller did not have any procedural cues reminding him to monitor the climb
+there was no second controller to perform the data position duties , he was maintaining the flight data board , emptying the flight progress strip printer processing flight progress strips	including non-pertinent flight progress strips not relevant to his sector
+the controller cleared the Boeing 747 to climb and allowed the two aircraft to pass with less than the minimum required separation of 5 nm laterally or 2000 feet vertically , as specified in CAR 801.08 and the associated standard	A loss of separation occurred
+monitoring the flight paths of the Boeing 747 and the Airbus A319	The controller was occupied with traffic and other duties that reduced the time available
+a climb rate	adequate spacing from the Airbus A319
+The controller did not recognize information	him realize his climb rate expectation was incorrect
+action	separation would be maintained
+need	separation between the Fokker F28 and other aircraft
+The location of the Fokker F28 , between the Boeing 747 and the Airbus A319	him noticing the developing conflict
+The practice of not using a data controller during periods of low traffic increased the workload of the radar controller	the time available for flight monitoring
+The practice of not using a data controller during periods of low traffic	the workload of the radar controller
+any length of time	a breakdown of the defence
+this monitoring was	the conflict
+the controller cleared the Boeing 747 to climb	the two aircraft pass with less than the minimum required separation of 5 nm laterally or 2000 feet vertically , as specified in CAR 801.08 and the associated standard
+human error	midair collisions
+There are several ground and airborne layers of defence	midair collisions caused by human error
+TCAS , fitted in both occurrence aircraft to comply with the regulations of states other than Canada	the initial conflict alert
+in Canada	a defence against the failure to recognize aircraft conflicts
+a rate	required separation
+he use available IM display tools	the conflict
+The controller was occupied with traffic and other duties	the time available for monitoring the flight paths of the Boeing 747 and the Airbus A319
+The practice of combining the radar and data positions in a sector	the opportunity to detect conflicts and take timely action to prevent a loss of separation
+timely action	a loss of separation

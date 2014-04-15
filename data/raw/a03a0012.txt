@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+The crew acquired visual contact with the runway environment at 100 feet above the decision height. Up to this point, the approach was stable and the crew were making relatively minor corrections. The captain took control, not because of reduced visibility, but because the first officer did not respond immediately to his verbal direction. The captain had ample opportunity prior to this to assess the aircraft flight path. The crew's difficulty seeing the runway centerline markings in the final moments, after the aircraft was in the low-energy regime, combined with sudden heavy wind gusts, prevented the crew from detecting and correcting the aircraft's drift. The captain had other visual references and felt that the aircraft landed slightly left of the runway centerline. As the aircraft was already in the low-energy regime, and a go-around would have been a high-risk manoeuver, the captain continued the approach to landing.
+
+
+The absence of hydroplaning-related damage to the tires and the lack of standing water on the runway suggests that hydroplaning did not occur and was not the reason for the loss of directional control. Immediately after touchdown the aircraft weather vaned. It is likely that the combination of drift, reverse thrust, crosswind, and the wet runway resulted in the aircraft drifting to the downwind side of the runway, as stated in the Boeing operating manual.
+
+
+The Boeing 737 aircraft operating manual procedure of releasing wheel brakes and placing the reverse thrust to idle to regain directional control was not precisely followed. The captain continued to apply maximum right wheel braking throughout the loss of directional control. The continued application of right wheel braking may have delayed the recovery of directional control.
+
+
+The standing water on Runway 24 prevented flight crews from using the best-equipped and most-desirable runway for arrivals and departures. The superior approach and centerline runway lighting on Runway 24 would have afforded the crew better visual cues to detect and correct for drift earlier during the approach to landing. The pooling of water is likely to occur during adverse weather conditions, and renders the best-equipped runway unusable, precisely when it is needed most. The closing of Runway 24 for this type of flooding occurs infrequently and does not pose a reoccurring problem with flight operations.
+
+
+The installation of an incorrect FDR prevented the TSB from completely assessing the aircraft's flight parameters during the incident. Although not critical in this instance, in a more serious incident the loss of data could be crucial.
+
+
+The following TSB Engineering Laboratory Report was completed:
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The crew's visual cues were degraded in the final moments of the approach because of a layer of ground fog, preventing them from detecting and correcting the aircraft's left drift prior to touchdown. It is likely that a combination of drift, reverse thrust, strong gusting crosswind, and the wet runway resulted in the loss of aircraft directional control, and the continued application of right wheel braking throughout the loss of control may have delayed recovery of directional control.
+
+
+
+Other Findings
+
+
+The standing water on Runway 24 prevented crews from using the best-equipped and most desirable runway for landing. The installed FDR was the incorrect model for the aircraft and most of the required parameters were not being recorded.
+

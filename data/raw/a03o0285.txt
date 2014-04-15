@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The aircraft was serviceable for this flight; nothing mechanical was found that would explain the loss of engine power. The aircraft was flying in conditions where carburettor ice was a real possibility, and the engine symptoms were like those associated with carburettor icing. Therefore, it is concluded that the loss of power was related to carburettor ice.
+
+
+Monitoring the engine operation and applying carburettor heat when ice formation is suspected are imperative to reduce the likelihood of an engine power loss during flight. The application of carburettor heat is a normal procedure for pilots when engine power begins to degrade. However, time required for the carburettor heat to be effective and the initial degradation of engine performance following the application of carburettor heat may not be fully understood.
+
+
+When carburettor heat is selected on, engine power is reduced because of the lower volumetric efficiency of warmer air, which results in a richer mixture. As the ice melts, it is ingested into the engine intake as water, increasing engine roughness and further reducing power. To .compensate for the power loss, the throttle must be increased, if possible, and the mixture leaned appropriately. It requires time for the warmer air to eliminate the ice formation and allow the engine to regain power.
+
+
+Weather was a factor in this occurrence, because the ambient temperature and dew point values were in the range where moderate carburettor icing could occur. After the engine began to lose power, the pilot applied carburettor heat as per normal procedures, but did not allow enough time for the warmer air to clear any ice that had formed. Further loss of power after carburettor heat application should have been anticipated. Engine performance continued to degrade as more ice accumulated.
+
+
+Although the straw-coloured fuel found in the fuel line to the gascolator bowl did not meet the specification of grade 100 LL aviation fuel, the concentration of foreign components in the fuel was not enough to affect engine operation. Furthermore, clean and contaminant-free 100 LL aviation fuel was found between this fuel and the engine, and would have been supplying the engine.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Ambient temperature and dew point conditions during the flight most likely resulted in carburettor icing, which caused the engine to lose power. When the engine began to lose power, the pilot applied carburettor heat, but noted it resulted in a further decrease in engine power and selected the carburetor heat off. The heat was not on long enough to remove any ice.
+
+
+
+Other Findings
+
+
+The pilot was unable to find a suitable landing area and intentionally stalled the aircraft into the trees, resulting in substantial damage to the aircraft.
+

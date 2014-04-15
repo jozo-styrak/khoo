@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+The aircraft was certified and maintained in accordance with existing regulations. All the aircraft's systems were operating normally. The pilot was qualified for the flight, but had flown only one hour in instrument flight conditions during the past six months.
+
+
+When the pilot planned the flight to Qu bec, the weather information led him to believe that the ceiling was going to remain at acceptable levels. On approach, however, the weather conditions had deteriorated to the point where landing became hardly possible. In fact, a Boeing 727 that preceded the Cessna by four minutes had made a missed approach and had not requested a new approach for Qu bec.
+
+
+At the time of the overshoot, the pilot did not follow the missed approach procedure. The controller had to intervene to bring him back to the south of the airport and eventually on a heading for a second approach. The ILS missed approach procedure for runway 06 at Qu bec is not complicated, because the first part of the procedure simply requires staying on the centre line of the runway and climbing to 3 300 feet, which allows the pilot to contact air traffic services and prepare for the second part of the procedure. Although this procedure is simple, things quickly become complicated if the workload increases, which is the case during a missed approach. The situation can further deteriorate if the pilot has little experience and training and is the only crew member.
+
+
+The pilot also performed a missed approach procedure on the second approach. The radar data indicates that the aircraft's speed increased while its altitude continued to drop. The pilot did not modify the aircraft's attitude to begin a pull-up after the overshoot, and the aircraft crashed.
+
+
+
+Findings
+
+
+The pilot was qualified for the flight, and the aircraft was maintained in accordance with existing regulations. On the first approach, the weather conditions had deteriorated, and the landing became hardly feasible. The controller intervened because the pilot was not following the missed approach procedure. The pilot had little instrument flight experience or training. The pilot was the sole crew member. The aircraft crashed shortly after the pilot initiated a missed approach. The pilot did not modify the aircraft's attitude after initiating the missed approach procedure.
+

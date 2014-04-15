@@ -1,0 +1,58 @@
+
+
+Analysis
+
+
+There were no anomalies found with the aircraft that would have contributed to this accident.
+
+
+Runway 09 and its overrun area complied with Transport Canada standards. The embankment lies beyond the overrun area, but within airport property. However, it is not located within the runway strip and, therefore, does not fall under any airport guidelines regarding surface preparation. Regardless of the formal requirements, the obstacles and terrain contour beyond the overrun area contributed to the severity of injuries and the damage to the aircraft. Any grading and obstacle removal improvements to this area would enhance the survivability of overrun accidents that may occur there.
+
+
+The weather forecasts issued during the morning of the day of the accident proved to be reasonably accurate, and subsequent forecasts became more so when updated with the actual weather reported throughout the day. The latest TAF for Comox and METARs for Comox and Powell River were obtained by the crew less than an hour before the aircraft taxied for departure from Vancouver. It could not be determined what level of weather analysis and understanding the crew had regarding the effects of the cold front passage on their flight.
+
+
+There were ground stations available at several locations within communication range of the aircraft route. If the flight crew contacted any of these stations, the most recent weather report that could have been provided before their approach was issued at 1628 and indicated that the surface wind was 200 M at 10 knots, and was therefore favouring Runway 27.
+
+
+The crew also could have conducted the recommended procedure of overflying the airport before joining the circuit and their observation of the windsocks likely would have provided the same information. The Powell River weather station was not equipped with air-ground advisory communications. Even though windsocks were within view of the flight crew during both approaches, a current wind update received during the final approach likely would have influenced the crew members to re-evaluate their decision to continue either approach.
+
+
+Throughout the time of the two approaches, the cold front was passing through the Powell River area and the actual local winds were shifting from light southwesterly to gusty conditions (11 to 37 knots) from the northwest. It is evident that any cues received on the first approach were not sufficiently compelling to the crew to cause them to abandon their stop at Powell River or to change runways.
+
+
+The decision to make a second approach was consistent with normal industry practice, in that the crew could continue with the intent to land while maintaining the option to break off the approach if they assessed that the conditions were becoming unsafe. The overall risk exposure increased during the late stages of the flight when the crew elected to continue their second approach when it became apparent that the landing would be long. The downwind condition on approach contributed to the aircraft landing long and with a high ground speed, therefore increasing the landing distance. This, in combination with the hydroplaning, prevented the crew from stopping the aircraft in the runway length remaining.
+
+
+When the decision to abort the landing was made, there was insufficient distance remaining for the aircraft to accelerate to lift-off speed. A perception of sufficient airspeed due to the high groundspeed may have been a factor. The aircraft went over the embankment in an aerodynamically stalled condition with the nose gear retracting and the main gear still extended but unlocked.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP019/2006-GPS Analysis LP031/2006- Shoulder Strap Inertia Reels Analysis
+
+
+These reports are available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The downwind condition on approach contributed to the aircraft landing long and with a high ground speed. This, in combination with hydroplaning, prevented the crew from stopping the aircraft in the runway length remaining. When the decision to abort the landing was made, there was insufficient distance remaining for the aircraft to accelerate to a sufficient airspeed to lift off. The overrun area for Runway 09 complied with regulatory standards, but the obstacles and terrain contour beyond the overrun area contributed to the fatality, the severity of injuries, and damage to the aircraft.
+
+
+
+Finding as to Risk
+
+
+Alert Service Bulletin A25-1124A (dated 01 June 2000), which recommended replacing the inertia reel aluminum shaft with a steel shaft, was not completed, thus resulting in the risk of failure increasing over time.
+
+
+
+Other Findings
+
+
+The weather station at the Powell River Airport does not have any air-ground communication capability with which to pass the flight crew timely wind updates. The decision to make a second approach was consistent with normal industry practice, in that the crew could continue with the intent to land while maintaining the option to break off the approach if they assessed that the conditions were becoming unsafe.
+

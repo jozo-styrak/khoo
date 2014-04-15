@@ -1,0 +1,24 @@
+
+
+Analysis
+
+
+The crew of the CL-600 received a false localizer course capture when they selected the approach mode on their flight management system. False localizer course capture is a known problem, for which AIP has an established procedural defence at COM 3.13.1. When the crew selected approach mode, the aircraft was well outside the parameters that are recommended by AIP COM 3.13.1 and near (or beyond) the limit at which the integrity of the ILS is verified.
+
+
+The recent recurrences of false localizer course captures may indicate a requirement to remind pilots of the guidance provided in AIP. This requirement may be even more compelling in the case of foreign air carriers that operate in Canada, because these carriers may not have easy access to AIP.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+When the crew selected approach mode, the aircraft was inside the recommended distance from the airfield but near or beyond the limits at which the integrity of the ILS is verified.
+
+
+
+Other Findings
+
+
+AIP COM 3.13.1 outlines an established procedural defence that, if used, will reduce the risk of false or incorrect localizer captures.
+

@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+The pilot commenced slinging with a reported fuel quantity indication of 30 per cent, which would normally provide approximately one hour of flight time. When the low-level fuel warning light illuminated, the pilot believed, based on the fuel quantity gauge reading, that there was still 18 per cent, or about 35 minutes of fuel remaining. He considered this sufficient to move two more sling loads at the camp and to transport one net load six miles to the staging area. Post-crash testing determined that there could have been as little as 50 litres of usable fuel in the tank when the warning light illuminated. The fuel quantity gauge should have indicated this amount as 10 per cent, which would normally have provided less than 20 minutes of flight time during slinging. An in-flight check of fuel gauge indications against fuel consumption and flight time might have alerted the pilot to the fuel gauge discrepancy.
+
+
+The pilot was accustomed to flying the helicopter at a low fuel state as he frequently conducted short tourist flights. Five thousand hours of flying experience on the Bell 206B, which does not have a low-level fuel warning light, may have conditioned him to consider the fuel quantity gauge more accurate than the warning light. This would have been reinforced by his understanding that the fuel quantity indications had recently been checked by a company maintenance engineer and found to be accurate.
+
+
+It would appear, from the amount of safety information published by the manufacturer, that problems with the resistor-type fuel quantity indication system on the AS 350B helicopter were well recognized. As helicopters are frequently operated at a low fuel state, manufacturers should endeavour to ensure that the installed fuel indicating systems are the most accurate available.
+
+
+The AS 350 flight manual states that if the amber, low-level fuel warning light illuminates, the remaining usable fuel allows approximately 25 minutes of flight, when in fact less than 20 minutes of flight time may be available.
+
+
+The flame-out occurred at low altitude and low airspeed. The pilot immediately released the load, initially selected the nearby road as a forced landing site, and attempted to increase the airspeed to that recommended for autorotation. The ensuing rapid loss of altitude precluded successful autorotation to the road, and resulted in the helicopter striking the creek bank at high vertical speed.
+
+
+The malfunctioning ELT resulted in a long delay in the rescue.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 158/95 - Emergency Locator Transmitter Examination.
+
+
+
+Findings
+
+
+The engine flamed out due to fuel exhaustion. The pilot continued to operate the helicopter for some time after the fuel low-level warning light illuminated. The fuel quantity gauge was reading up to six per cent high. The low-level warning light illuminated at 18 per cent on this helicopter, whereas it illuminated at 12 per cent on the other AS 350B based at Canmore. The pilot was comfortable operating the helicopter at a low fuel state because he frequently conducted short tourist flights. The pilot was slinging at low altitude and 15 miles per hour below the best autorotational airspeed when the flame-out occurred, which precluded a successful autorotation. The ELT did not function properly because of a faulty transistor, and as a result, the rescue took about seven hours. Less than 20 minutes of usable fuel may be available following illumination of the amber, low-level fuel warning light; however, the AS 350B flight manual states that approximately 25 minutes of usable fuel is available.
+

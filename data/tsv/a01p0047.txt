@@ -1,0 +1,8 @@
+the bumper plug was missing	The uncoupling occurred
+the contracted AME was unfamiliar with the helicopter type and model	he only inspected the visible ends of the T/R drive shaft and did not notice that the bumper plug was missing
+inspecting and replacing the bumper plugs	The Schweizer maintenance manual contains instructions
+The AME at AandL Helicopter Maintenance was unaware of the requirement to check the bumper plug for wear	, it is likely he did not refer to the manuals for this installation
+the bumper plug was missing from the aft end of the drive shaft	The tail-rotor drive shaft became disengaged
+This	the drive shaft move aft such that the splines of its coupling became disengaged from the T/R transmission input gear
+The contracted AME at Starwest Aviation	worksheets the initial build-up to AandL Helicopter Maintenance
+The 25-hour and daily inspections	specific reference an end play and backlash check for the T/R drive shaft

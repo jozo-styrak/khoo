@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+The bonding and rivets securing the abrasion strip to one tail rotor blade released and allowed the abrasion strip to separate from the blade. Without the weight of the bonding strip, the tail rotor blades were out of balance, and the severe vibration caused by this imbalance tore the tail rotor assembly from the helicopter.
+
+
+It was not determined what caused the bonding and rivets to release; however, it is apparent that the addition of these rivets did not provide the anticipated fail-safe protection against abrasion strip separation.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 71/94 - Tail Rotor Gearbox Separation.
+
+
+
+Findings
+
+
+The abrasion strip on one tail rotor blade failed adhesively, and the retaining rivets pulled free, allowing the abrasion strip to separate from the blade. The loss of the strip caused a tail rotor blade imbalance which resulted in separation of the tail rotor transmission assembly from the helicopter. There was no evidence of improper torquing of the tail rotor transmission mounting fasteners. The tail rotor transmission retaining studs had fractured as the result of rapid, low cycle, fatigue cracking. The operator had completed the daily visual pre-flight inspection of the tail rotor blades. All applicable AWDs had been complied with. The cause of the failure of the abrasion strip bond was not determined. No single cause factor relating to bond design, installation, or operating environment could be identified.
+

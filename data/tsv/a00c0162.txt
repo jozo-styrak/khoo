@@ -1,0 +1,12 @@
+impact damage or as a result of cable failure when the carburettor heat was selected	The carburettor heat valve was found in a neutral position , either
+the failure site and several of the wear sites on the carburettor heat control wire were located at a position that would be extended beyond the cable outer shielding when carburettor heat was applied	it is probable that the wear on the cable was not detected during the annual inspection
+the pilot had landed the aircraft straight-ahead , in a controlled manner , on the wheat field	It is probable that the impact forces have been greatly reduced
+carburettor icing	The aircraft engine lost power , likely
+The carburettor heat cable was weakened by fretting wear	of fatigue
+either in a neutral position during impact or as the pilot applied carburettor heat	fail
+The engine teardown and analysis did not reveal any mechanical condition	a complete loss of engine power
+The aircraft was operating under conditions	serious carburettor icing at all power settings
+A neutral position of the carburettor heat valve would extend the time required to clear any ice from the carburettor ; however	the low altitude
+This	the airspeed to reduce to the point where the aircraft entered an aerodynamic stall and descended in an uncontrolled manner to the ground
+the pilot	the airspeed to decrease to the point that the aircraft stalled and descended uncontrollably to the ground
+This weakening	the cable

@@ -1,0 +1,79 @@
+
+
+Analysis
+
+
+Examination of the wreckage and components revealed no evidence of airframe failure, control malfunction or loss of power that could have caused the accident.
+
+
+The pilot's qualifications and experience undoubtedly would have enabled him to recognize the risks associated with night flight in marginal conditions. Paradoxically, the adverse weather forecasts, the fog in the surveillance area and the fact that he felt tired were not enough to deter the pilot from carrying out the mission. The investigation did not determine whether there was any pressure on the pilot to make the flight. However, his decision may have been influenced by the following factors:
+
+
+an inclination to carry out the flight with the option to turn back in the event of adverse weather; the fact that this was the last anti-poaching operation of the season; and a desire to catch poachers.8
+
+
+Although the pilot mentioned that he was tired when he got back from N miscau, the extent of his fatigue could not be determined due to a lack of information. However, it is reasonable to believe that the pilot had a heavy workload because he was performing the duties of assistant chief instructor, flight instructor and charter pilot. Furthermore, he was described by the company as a workaholic. The following information would be essential for an assessment of his level of fatigue, but they were not available:
+
+
+the amount and quality of sleep he had during the 72 hours preceding the accident; how his work schedule was structured; and the pilot's flight time, flight duty time and rest time while acting as instructor or assistant chief instructor for Grondair.
+
+
+For these reasons, the pilot's work schedule could not be established, and the effect of his work schedule on his rest time could not be assessed. Consequently, it was not possible to correlate the pilot's decisions and actions with the level of fatigue that he mentioned.
+
+
+Although the aircraft was certified and equipped for IFR flight, the company's operating certificate did not authorize it to be operated in IMC. As a result, the flight plan had to be based on night VFR. As such, the visibility had to be at least 3 miles to meet the minimum required by regulation.
+
+
+On an aerial surveillance operation, the officer in the front seat directs the pilot to the suspect areas and the officer/navigator, seated in the rear, follows the progress of the flight in relation to ground references and advises the ground teams of the aircraft position and, as required, directs them to the intercept point. The Quebec minist re des Ressources naturelles et de la Faune did not specify any meteorological or operational criteria for night aerial surveillance of poaching activities; consequently, the wildlife protection officers had no meteorological references to aid them in deciding whether the mission was feasible. Since the flight was to be conducted with visual references on the ground, the information available before the flight would have enabled the pilot and wildlife protection officers to conclude that, in all probability, the wildlife protection officers in the aircraft would have a hard time carrying out their tasks; given the weather forecast and the fog observed in the area before take-off, the occupants could have expected to be unable to determine the geographical position of the aircraft. Moreover, before the flight, the pilot had anticipated that the weather might possibly prevent him from landing back at the Saint-Fr d ric aerodrome.
+
+
+Lacking visual references on the ground and a GPS on the aircraft, the pilot was unable to fly to Disra li and decided instead to head for the Beauce VOR. Because he regularly used the Saint-Georges aerodrome to practise IFR approaches with his students, the pilot should have known that the VOR inbound approach radial for Runway 06 was the 045 radial.
+
+
+A little less than halfway from the Beauce VOR to the Saint-Georges aerodrome, the aircraft was tracking on 067 M when it struck some trees mile west of the 045 radial for the VOR Runway 06 approach of the Saint-Georges aerodrome. The location of the accident site and the swath cut through the trees by the aircraft suggest that the pilot was using the Beauce VOR to get to the Saint-Georges aerodrome. By following a heading of 067 M, the pilot could either intercept the 045 radial to the right or proceed directly to the town of Saint-Georges.
+
+
+Since the aircraft had no autopilot or GPS navigation system, the pilot's workload was heavier; however, with the aircraft flying at low altitude, the usefulness of these devices would have been diminished. In this case, it appears that the aircraft descended without the pilot determining his altitude above ground accurately. Although the aircraft was fitted with the instruments required for night flight and IFR flight, it did not have the instruments (such as a radar altimeter or a GPWS) that would have alerted the pilot before impact that the Cessna was close to the ground.
+
+
+Since the pilot filed a flight plan and the operations manager, who was providing flight following service, was available by telephone, the regulatory requirements with respect to flight following were fulfilled. In reality, the company was unaware of the aircraft's take-off time, its itinerary or its diversion to Saint-Georges.
+
+
+With the aircraft flying below the altitude that would have enabled it to communicate with the Qu bec FIC, ATC services received no messages from the pilot. Moreover, there was no flight follower on duty at the Saint-Fr d ric or Saint-Georges aerodromes. Under the circumstances, the pilot could not announce his intentions or obtain information that would be pertinent to the flight. The fact that the pilot modified his flight plan but had no one to report the modification to suggests that flight following, while in compliance with the regulations, was deficient. Because the aircraft crashed outside the planned surveillance area, the search took longer. If the pilot had been able to advise the Qu bec FIC of his intentions, the wreckage would have been located sooner because it was in a clearing nearly on the inbound radial for Runway 06 at Saint-Georges.
+
+
+Since there is no regular weather observation station at the Saint-Fr d ric or Saint-Georges aerodromes, the local weather information is transmitted by witnesses, pilots and automated weather observation stations. Based on the information received, the conditions were generally worse than the official regional forecasts. Several indicators suggest that the weather prevented the wildlife protection officers in the aircraft from identifying ground references and may have hampered the pilot's ability to navigate:
+
+
+the area to be overflown was partly covered by fog; messages received from the aircraft indicate that the weather conditions prevented the wildlife protection officers from determining their position relative to the terrain; the meteorological conditions were conducive to the formation of fog; and shortly after take-off, the team in the aircraft redeployed the ground teams to the Disra li area, which lies to the southwest of the area initially selected.
+
+
+Consequently, it is probable that the pilot departed in weather conditions that were acceptable from a regulatory standpoint but that later deteriorated. Normally, after the surveillance plan was modified, the aircraft should have proceeded to the south-southwest to the rendezvous point. Given that the aircraft crashed 20 miles east of Disra li, it is plausible that the weather conditions deprived the pilot of the external visual references that would have enabled him to find the agreed rendezvous point.
+
+
+The nearly level attitude of the aircraft when it struck the trees suggests that it was flying below the minimum obstruction clearance altitude (MOCA) for IFR cruise flight. The risks associated with this type of flight are greater when the aircraft is below the MOCA. In IMC, the pilot would have been expected to fly with reference only to his on-board instruments and to comply with the minimum IFR altitude requirement. The investigation could not establish why the pilot proceeded that way, but it is possible that, given that the aircraft could not be operated IFR, the pilot did not want to proceed under IFR. If he had elected to go IFR, he would have been required to declare an emergency and notify ATC to get IFR clearance. Also, since there were no IFR charts on board, the pilot would be compelled to request ATC assistance. It is possible that, when faced with these options and their consequences, the pilot tried to maintain visual references with the ground.
+
+
+Even through the fog, the many lights in the town of Saint-Georges would have created a visible glow. The dark terrain below the aircraft and the lights in the distance would have allowed the pilot to think that he was higher than he was. In such conditions, the pilot is travelling at a speed where the margin of error at low altitude is slim.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The visual flight rules (VFR) night flight was conducted in marginal VFR conditions at an altitude below the minimum obstruction clearance altitude prescribed by the Canadian Aviation Regulations for night flight; the aircraft struck trees with no loss of control.
+
+
+
+Findings as to Risk
+
+
+The aircraft was not equipped with instruments that could have alerted the pilot before impact that the Cessna was close to the ground, nor are such on-board instruments required by the existing regulations. Although the regulatory requirements for flight following were complied with, the company was not aware of the aircraft's take-off time, its flight itinerary or its diversion to Saint-Georges. The aircraft proceeded towards Saint-Georges without the knowledge of the operator or the wildlife protection officers on the ground; as a result, the search took longer because the aircraft crashed outside the agreed surveillance area. The Canadian Aviation Regulations do not require that a pilot's work time as an instructor be recorded in a log. Consequently, although the pilot mentioned that he was tired before the flight, his level of fatigue could not be assessed due to a lack of information.
+
+
+
+Other Findings
+
+
+No emergency locator transmitter (ELT) signals were received because the ELT was destroyed after impact. The Quebec minist re des Ressources naturelles et de la Faune had not specified any meteorological or operational criteria for night aerial surveillance of poaching activities; consequently, the wildlife protection officers had no meteorological references to aid them in deciding whether the mission was feasible.
+

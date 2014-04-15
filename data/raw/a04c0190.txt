@@ -1,0 +1,58 @@
+
+
+Analysis
+
+
+The environmental conditions within and surrounding the North Warning System site were deceptive. Objects, including the hanger mile away, could be seen clearly. As stated in Transport Canada's Aeronautical Information Publication, the real hazard in whiteout is that pilots do not suspect the phenomenon because they may be in clear air. The crew did not discuss the whiteout hazard; however, the crew correctly identified the loose snow as an imminent danger because of the recirculation anticipated and planned a vertical take-off. The vertical take-off itself should have reduced the threat of white-out; however, the crew did not consider any other defence.
+
+
+The chosen departure path had three advantages: it was in the direction of the destination, it was clear of artificial obstacles that would be obscured in recirculating snow, and it had the additional safety factor of the terrain sloping downward. Conversely, the departure path had several disadvantages: the wind, while light, was at 90 to the take-off heading; the hanger, which was mile away, could not be seen on the take-off heading and could not be used for attitude reference; and, the terrain in the direction of flight was featureless with no visible horizon. The choice of departure path increased the threat of white-out.
+
+
+The 15% torque margin available in the low hover indicates that the helicopter had the performance available to safely accomplish the take-off and departure. However, both the Instrument Procedures Manual and the company's standard operation procedures (SOPs) stress that the priority is rate-of-climb before rotation. Information from the video and the cockpit voice recorder indicates that the available power was used to bring the helicopter into a high hover, a hover in which the helicopter was allowed to drift backwards.
+
+
+The crew spent some 15 seconds while drifting over the pad discussing visual references. This expended the vertical momentum of the helicopter, and when rotation was made to transition to forward flight the helicopter was in level flight. The rushed nature of the rotation is indicated not only by the sense of urgency of the PNF, but also by the over-torque of 10% above the maximum allowable torque of 100%. Because the vertical take-off was not executed in accordance with the SOPs, the time that the helicopter was in the recirculating snow was extended, and this occurred while in close proximity to the terrain as the helicopter moved into the white-out conditions.
+
+
+Although the PNF called climbing, information from the video, and short time of flight before the helicopter struck the terrain, indicate that it is unlikely that a positive climb rate had been established. Several factors could have caused the PNF to misidentify a climb. First, a standard vertical speed indicator can lag the true vertical movement of the helicopter. It can also bounce misleadingly in the recirculating air. Secondly, the radio altimeter would have shown an increase as the helicopter moved over the terrain sloping away from the pad. Thirdly, the altimeter of the PNF had read 150 feet while on the pad which was actually at 135 feet; this could give the appearance of a climb. Additionally, the instruction by the PNF to keep climbing could indicate that he was not certain that a positive rate had been properly established. Because the radio altimeter was set to 200 feet above ground level, the decision height light would have remained on throughout the procedure and would have given no indication as the helicopter descended into the terrain. An instantaneous vertical speed indicator would have given the crew more timely information about the helicopter's vertical movement.
+
+
+Although the crew were using the stability and control augmentation system as recommended in the Federal Aviation Authority's study, the amount of coaching by the PNF and the lack of responses from the PF during the transition indicate that the PF was becoming task saturated and likely unsure of his attitude references. When the PNF made the power change from 110% to 100% there would have been a tendency for the helicopter to pitch down and yaw to the left. Likely close to task saturation, the PF did not compensate for these tendencies quickly enough, and the helicopter lost the remaining terrain clearance and struck the terrain in a nose-low, left-banked attitude.
+
+
+Once the decision was made to rotate into the transition after vertical momentum had been lost, the crew needed to establish and maintain a positive rate-of-climb. Some seven seconds prior to impact, the PNF interpreted instrument readings to indicated that the helicopter was climbing. The crew then attempted to maintain that attitude to climb away. The primary focus was on maintaining that attitude, even though in reality the helicopter must have been descending. Consequently, as indicated in the Transport Canada instrument manual, the crew's cross-check was hampered by prolonged 'eye rest' on the attitude indicator. The slow instrument scan did not provide the crew with the information needed to stop the descent into the terrain. Contributing factors were the proximity to the terrain, the loss of vertical momentum, and the 10% reduction in power.
+
+
+The crew were very experienced helicopter pilots; however, the PF had limited time on type. This likely contributed to his lack of proficiency in accomplishing a vertical take-off and also increased his workload. Neither pilot had significant recent instrument experience, and the training of both pilots in this type of departure had been conducted in an area with external visual cues. These factors may have accounted for the tendency for prolonged 'eye rest' on the attitude indicator and the slow instrument scan.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 153/2004 - GPS Analysis LP 156/2004 - Examination of Fractured Rod End LP 159/2004 - Instruments Analysis
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The helicopter departed into environmental conditions conducive to white-out and loss of micro texture for attitude reference. The potential for entering white-out conditions was masked by the visibility of objects in the vicinity of the departure point. The crew did not maintain the priority of rate-of-climb during the rotation to forward flight, did not maintain an adequate instrument scan, and were not able to overcome the white-out conditions and establish a positive rate-of-climb.
+
+
+
+Findings as to Risk
+
+
+The helicopter was not equipped with an instantaneous vertical speed indicator, nor was one required. Transitory false indications of a climb were possible from the vertical speed indicator installed in the helicopter. The crew's training was conducted in a setting that did not demonstrate the effects of lack of micro texture, and the crew did not anticipate white-out other than the effects of recirculating snow. The crew's training did not develop the rapid instrument scan required to compensate for the pilot flying's minimal experience on type and in arctic conditions.
+
+
+
+Other Finding
+
+
+The emergency locator transmitter was damaged and rendered inoperative when the main rotor struck the cockpit area.
+

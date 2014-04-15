@@ -1,0 +1,17 @@
+During the initial performance calculation , an error in the weight of fuel on board -LRB- FOB -RRB- for take-off was introduced	, the performance data generated was not correct
+SOPs must be effective in circumstances where the crew is working under pressure , interrupted or distracted , facing non-standard situations , and in periods of high workload	, there must be human performance considerations during the design , development , and use of these critical defences
+Although the SOPs required that the crew transcribe the EFB performance generated data to the operational flight plan , there was no specific location on the operational flight plan to transcribe the take-off performance figures	, the crew wrote them down on the top right corner of the page
+a combination of the crew deviating from SOPs and the operational flight plan form design that prevented easy identification of discrepancies	In this occurrence , the crew took off using incorrect take-off performance references
+both pilots deviated from SOPs and the PF calculated the take-off data	However , on this day , this was not done
+the verification of the preliminary performance calculations been accomplished correctly	the discrepancy
+the planned figures were located in the opposite corner	at the bottom left of that same page , it was difficult to compare the calculated performance figures and the planned figures
+generating the performance figures would have been easier to identify	Had there been a specific area , adjacent to the planned figures , to transcribe the calculated performance data , the discrepancy between the planned take-off weight and the take-off weight used
+there been a specific area , adjacent to the planned figures , to transcribe the calculated performance data	the discrepancy between the planned take-off weight and the take-off weight used for generating the performance figures would have been easier to identify
+transcribing calculated performance data	There is no area on the operational flight plan
+The analysis will therefore focus on the safety defences	the crew from attempting to take off using incorrect take-off performance references
+This	the use of a lower-than-required thrust setting for take-off , V speeds that were inappropriate for the weight of the aircraft , and less-than-optimum performance and handling characteristics
+the situation	an increased workload
+This was a result of a combination of the crew deviating from SOPs and the operational flight plan form design	easy identification of discrepancies
+this	substantial aircraft damage and loss of life
+This	easy identification of the take-off weight discrepancy
+A take-off performance monitoring system	the crew an accurate and timely indication of inadequate take-off performance

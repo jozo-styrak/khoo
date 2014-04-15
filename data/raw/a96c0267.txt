@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+The analysis will concentrate on the issue of the surging left engine, and the procedure followed by the pilot in reaction to the engine problem.
+
+
+The magnitude of the engine surge that was observed during the initial engine run in the test cell likely duplicated the reported engine surge experienced during the occurrence. Consequently, it is likely that the engine was producing partial power during the take-off. It should be noted that the drop of 500 rpm experienced during the initial engine test run would not likely occur when the engine and its governing propeller system are mounted in the aircraft; however, a similar drop in manifold pressure and engine power would be expected. A scenario of partial power is consistent with the pilot's observation of not having to use a significant amount of rudder to counteract yaw. Because no other fault could be found in the engine to explain the surge, it is possible that the loose clamps allowed an unsealing of the duct, thereby producing an instantaneous change in the turbocharger discharge pressure which then resulted in the engine surge. Because it was not feasible during the test cell run to reproduce an instantaneous change in the turbocharger discharge pressure, it was not possible to directly link the loose ducting to the engine surge. However, if such a leak had occurred, the engine could have momentarily reverted to the normally aspirated mode, and the engine power would have been reduced by as much as 25%, producing a surge in the engine. It is likely that the loss of thrust when the engine surged caused the left wing to drop.
+
+
+Under the circumstances, with the aircraft's left engine likely producing partial power, the right engine producing full power, and a deep gully lying along the flight path, the pilot's decision to continue with the take-off was likely the best decision. However, the pilot's unawareness of his actual airspeed and aircraft attitude during the event and his maintenance of full aft pressure on the control yoke probably placed the aircraft in an abnormally high pitch attitude. The higher-than-normal pitch attitude, coupled with the available engine power, likely caused the higher-than-normal departure path of the aircraft as observed by the company pilot waiting on the taxiway. Although the engines were likely producing sufficient power to continue the take-off, the higher-than-normal pitch attitude, the slow speed regime, and the high drag configuration of the aircraft probably combined to further reduce the airspeed of the aircraft until it approached the aerodynamic stall speed. The stall warning horn heard by the pilot and by several passengers also corroborates the scenario that the aircraft was approaching an aerodynamic stall. As the aircraft approached the stall, it descended rapidly into the terrain.
+
+
+
+Findings
+
+
+The pilot was certified and qualified for the flight in accordance with existing regulations. The left engine surged immediately after the aircraft became airborne. During a test cell run, the engine surged momentarily; however, the surge could not be subsequently reproduced or isolated. The two clamps securing the duct between the compressor discharge housing and the engine fuel controller inlet housing were loose. A sudden leak at this location could cause the engine to surge. The clamps may not have been adequately tightened during maintenance conducted three weeks prior to the occurrence. After the engine surge, the pilot pulled back fully on the control column in an attempt to clear rising terrain. The aircraft was likely approaching an aerodynamic stall prior to ground impact.
+

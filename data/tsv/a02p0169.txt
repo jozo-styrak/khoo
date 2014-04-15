@@ -1,0 +1,19 @@
+events is an engine overspeed and shutdown	However , the white smoke coming from the engine exhaust area after the engine sounds stopped suggests that , although the engines were still turning and fuel was being introduced , the fuel was not being burnt
+the investigation determined that the helicopter was within weight and balance limits , had sufficient fuel to conduct the flight weather was not a contributing factor	this analysis focuses on the mechanical issues
+cutting	off the fuel to the engine if an overspeed is sensed but do not leave any indication that an overspeed has occurred
+The engines are not equipped with auto-relight systems	do not automatically relight after fuel is reintroduced to the engine
+an overspeed condition , probably induced during IFWU spit-out	It is concluded that the engines shut down
+this defect may have	the IFWU 's ability to maintain engagement
+slipping	and spitting out
+vibration	However , the quantity of fine bronze particles found would indicate that the oilites were subject to repeated small loads and motion , such as would occur
+the loss of rotor rpm , the height available	It is unlikely that the helicopter entered fully-developed autorotative descent
+Inspection of the engines did not find any anomalies	the engines
+Damage to the oilites	a loss of support the roller retainer
+This in turn can cause a loss of alignment of the rollers	the likelihood of roller spit-out
+This in turn	a loss of alignment of the rollers , which increases the likelihood of roller spit-out
+Contamination of the roller path with oilite material	the likelihood of roller spit-out
+A history of accidents shows that when one engine or one IFWU fails on a Sikorsky S-61 , a significant risk exists that the second IFWU will also fail	a dual engine power loss
+instability of the rollers and bronze contamination in the roller path	reduced ability of the IFWU
+The oilite bushings in the IFWUs deteriorated	instability of the rollers and bronze contamination in the roller path resulting in reduced ability of the IFWU to maintain engagement
+Both IFWUs malfunctioned in rapid sequence	the engines to overspeed and subsequently shut down
+Following the loss of power of the engines , drive to the main rotor was lost	rotor rpm decay and loss of control of the helicopter

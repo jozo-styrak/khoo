@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+The pilot may have been aware of the new operating airspeeds in effect after the gross weight was increased. However, the layout of the airspeed indicator would have made it difficult to interpret airspeed readings in mph on the smaller inner scale, since it would have been easier and more natural to refer to the larger outer scale. The incorrect coloured arcs would also have been misleading.
+
+
+The fretting corrosion on the lower wing attachment points indicates that heavy aircraft g loads had been applied over time. Since the limit load factor of 3.8g was established at the gross weight of the original design, the limit load factor would be reduced to 3.4g when the aircraft was flown at a higher weight.
+
+
+Although the presence of convective clouds in the area of the accident cannot be verified, a pilot report of such activity in the area 1 hours before the accident makes it highly probable. Turbulence is normally associated with convective clouds; the larger the cloud, the more turbulence. Flight through or near convective clouds can be very rough.
+
+
+At the time of the accident, the aircraft was approximately 200 pounds below its maximum allowable gross weight. Weight affects the limit load factor . The limit load factor decreases faster than the gust-imposed load factor when weight is increased; therefore, heavily loaded aircraft can be damaged without particularly high g loadings.
+
+
+The aircraft may have been flown above its maximum design manoeuvring speed of 107 mph, the maximum speed at which flight controls could be safely moved through their full operating range. A large movement of the flight controls at the maximum design cruising speed could, in itself, cause structural damage, especially if the structure had been weakened by previously exceeding the aircraft limit load factor.
+
+
+The aircraft likely encountered a strong gust, causing the slats to deploy asymmetrically and then to be torn off the wing structure. This likely caused wing torsional oscillations which may have resulted in the flaps separating. The gust, which may have exceeded the aircraft's limit load factor, might also have exceeded the aircraft's ultimate load factor, causing the right wing main spar to fail in overload. The gust encountered would not have had to actually exceed the aircraft's ultimate load factor. If the gust rolled the aircraft significantly from level flight and the pilot tried to correct the roll with a large aileron control input, the average g loading might not have been critical, but the downgoing wing would have had a higher angle of attack and therefore sustained a higher load factor. In addition to the wing lift loads possibly not being equal, deflecting the ailerons to try to roll level exerts torsional forces on the wing. If a wing is close to its limit load factor when torsional forces are introduced, the forces may be sufficient to cause structural failure.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+As indicated by the fretting corrosion on the lower wing attachment points, the aircraft had previously exceeded its limit load factor, compromising the ultimate load factor. A strong gust likely exceeded the aircraft's ultimate load factor in cruise, causing the right wing main spar to fail in overload.
+
+
+
+Findings as to Risk
+
+
+The airspeed indicator displayed ranges that were no longer valid once the aircraft's gross weight was increased, and its layout might have been misleading. The ailerons were not properly maintained, balanced or rigged due to a lack of readily available reference information, thus possibly compromising the aircraft's airworthiness.
+

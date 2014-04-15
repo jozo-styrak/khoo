@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The pilot was certified and qualified for the flight in accordance with existing regulations. The aircraft was airworthy, and there were no known deficiencies before the flight.
+
+
+Before submitting an amendment to a maintenance schedule, the maintenance manager must review all recommendations issued by the engine manufacturer, such as service bulletins, directives, letters, etc. The maintenance manager must study the recommendations to determine whether incorporation of a given element to the new program is appropriate. The engine manufacturer had issued Service Instruction 1009AJ, clearly stating the possibility of engine deterioration. The maintenance manager, in his analysis, and TC, in granting its approval, did not take those recommendations into account.
+
+
+The operator had its own AMO. Except for the position of maintenance manager, all other duties related to AMO operations were delegated to the AMO president. Three of the four duties ordinarily carried out by the maintenance manager had been delegated to the assistant to the maintenance manager, who is the AMO president. This seems to indicate that a single individual directed the operator's operations and maintenance, especially since the maintenance manager was not a full-time employee. This organizational structure had been approved by TC.
+
+
+The engine manufacturer has established a limit for hours of operation for each engine type it manufactures. The limit varies depending on the type of operation and the quality of the maintenance done on its product. However, the engine manufacturer allows no flexibility as to the number of years of use, and clearly recommends never exceeding the 12-year limit, as specified in Service Instruction 1009AJ.
+
+
+The TSB Engineering Branch determined that the presence of corrosion pitting in various areas resulted from a lack of proper corrosion prevention measures. Examination of the technical records revealed that no action had been taken to that effect. The presence of corrosion caused an accelerated wear, considering the relatively low number of hours of operation of the engine. The possible increased play and the fatigue from corrosion pitting both contributed to the failure of the propeller shaft-driven gear. This failure in turn led to the destruction of the propeller housing case, and the propeller separated in flight.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 90/98--Engine components examination.
+
+
+
+Findings
+
+
+Review of the records indicates that the pilot was certified and qualified for the flight in accordance with existing regulations. The aircraft was certified and maintained in accordance with existing regulations and approved procedures. The first amendment to maintenance schedule Q-2360 was approved on 22 May 1998. The main purpose of this amendment was to include in the maintenance schedule Airworthiness Notice B041, which refers to the on-condition engine program. Textron Lycoming Service Instruction 1009AJ recommends a time between overhauls of 1 200 hours or 12 years. The engine had accumulated 1 247 hours, and 19 years and 3 months had elapsed since it was overhauled. The AMO's organizational structure had been approved by TC. The condition of certain internal engine components could not be assessed due to the level of inspection performed under the on-condition engine inspection program. The propeller housing case was destroyed, and the propeller separated in flight.
+

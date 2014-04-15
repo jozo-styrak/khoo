@@ -1,0 +1,28 @@
+the other three events that happened on Runway 25R at KLAS were not reported	the investigators were deprived of important data that could have helped to identify contributing factors leading to this event
+the runway side stripe been interrupted at the runway and Taxiway B intersection	it could have prevented the misalignment
+the flight crew was more familiar with Canadian airport markings	where side stripes are interrupted at the intersection between the taxiway and the runway merging point , they probably were not expecting to see a white runway side stripe marking
+they lead directly to the runway edge line rather than to the runway centreline	The lead-in lines from Taxiways B1 and A2 may cause confusion
+it is located nearly 1400 feet down the paved surface at the displaced threshold area	The flight crew could not rely on the runway designation marking to ensure that the aircraft was properly aligned with the runway centreline
+the aircraft been completely stopped on the runway before take-off	it may have given the flight crew an opportunity to notice that the aircraft was not aligned between the two rows of the red runway edge lights
+the flight crew realized that they were not properly aligned with the runway centreline	the aircraft speed was well below 100 knots and sufficient runway remained to complete a rejected take-off
+there was no ECAM warning , there was no significant vibration	The crew decided to continue the take-off
+the requirement to maintain separation with the aircraft departing ahead	The pilot flying likely relied on peripheral vision to taxi the aircraft
+conducting a thorough outside visual check and verifying runway alignment before initiating the take-off roll	A rolling take-off reduces the crew 's time
+night	this could result in pilots aligning their aircraft with the runway side stripe marking instead of with the runway centreline
+factors	this event
+Because the other three events that happened on Runway 25R at KLAS were not reported , the investigators were deprived of important data	to identify contributing factors leading to this event
+Neither aircraft airworthiness nor environmental conditions	this event
+The analysis will cover the factors	a certified and qualified flight crew misalign the aircraft and initiate a take-off roll from the side of the runway
+visual contact with the aircraft departing in front of them	the captain 's attention to the ground visual aids while he was aligning the aircraft for take-off
+it	the misalignment
+The lead-in lines from Taxiways B1 and A2	confusion
+this marking	a strong visual cue the location of the runway centreline
+However , in this occurrence , the taxiway centreline lead-in lights did not catch the flight crew 's attention	a lack of visual guidance toward the runway centreline
+it	the time for the PNF to complete the departure checks and
+it	the flight crew an opportunity to notice that the aircraft was not aligned between the two rows of the red runway edge lights
+This , combined with the aerodrome markings	the misalignment of the aircraft
+A rolling take-off	the crew 's time for conducting a thorough outside visual check and verifying runway alignment before initiating the take-off roll
+this	pilots aligning their aircraft with the runway side stripe marking instead of with the runway centreline
+Failure to declare such events	investigators important data
+Failure to declare such events deprives investigators of important data that could help to identify the contributing factors	this type of event
+Failure to declare such events deprives investigators of important data	to identify the contributing factors that lead to this type of event

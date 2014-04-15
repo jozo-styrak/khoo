@@ -1,0 +1,75 @@
+
+
+Analysis
+
+
+There was no information of any pre-existing flight control or tail rotor drive system malfunction that would have contributed to a loss of tail rotor function. The analysis will focus on the pilot's experience and familiarity with the site, environmental factors, performance that was available from the helicopter, helicopter take-off weight, and survivability factors.
+
+
+
+Pilot Experience and Familiarity with the Site
+
+
+The pilot was experienced on Bell 206B helicopters, knowledgeable on the conditions that contribute to unanticipated right yaw, and familiar with the Nose Mountain landing area. He had departed the landing area in a westerly direction many times in the past. He was aware that the winds were gusting and variable in direction, and was able to maintain directional control of the helicopter downwind as he hover-taxied to avoid the brush pile. This may have provided reassurance that a westerly take-off could be safely accomplished in the existing wind conditions. Despite the pilot's high level of knowledge and experience, there was no information that he had recognized or considered the possibility of URY before commencing the take-off.
+
+
+Avoidance of rotorcraft phenomena, such as URY, requires recognition of the conditions that contribute to an event and initiation of corrective action before experiencing the event. Repositioning the helicopter to avoid the brush pile may have increased the risk associated with the take-off. This reduced the take-off distance available and made it less likely that the helicopter would achieve translational lift speed in downwind conditions before reaching the escarpment.
+
+
+
+
+Environmental Factors
+
+
+Three environmental factors presented a greater than usual challenge on this take-off:
+
+
+the winds were easterly and shifting, with gusts, due to the recent passage of a thunderstorm through the area; a take-off to the east was hampered by the presence of trees; and a brush pile within the clearing prevented a take-off directly from the landing area toward the escarpment.
+
+
+The wind direction was particularly significant, in that a departure to the west placed the tail of the helicopter within the critical relative wind azimuth area. This increased the risk of URY. As well, departing in a tailwind required significantly more distance to accelerate through transitional lift. Departing in the tailwind also increased the likelihood of the helicopter encountering down-flowing air over the rim of the escarpment.
+
+
+
+
+Helicopter Performance
+
+
+The helicopter left ground effect before achieving translational lift speed. This meant that more blade pitch (higher power demand) was required on both the main rotor and the tail rotor to maintain height and directional control. Furthermore, the pilot likely increased collective pitch initially as the helicopter crossed the rim of the escarpment. This rapidly degenerating condition placed the helicopter in a situation where the power required to fly exceeded the power available from the engine transmission system. As a result, rotor performance and engine power limits were exceeded.
+
+
+The high engine power demand, the low airspeed, the high density altitude, and the tailwind conditions contributed synergistically to a loss of tail rotor efficiency and thrust. The helicopter began an unanticipated turn to the right, as there was insufficient tail rotor thrust to counter the torque from the main rotor.
+
+
+The only option available to the pilot was to lower the collective lever in an attempt to prevent the helicopter from turning. This action stopped the turn, but initiated a descent onto treed and sloping terrain. There was insufficient height above ground to effect a recovery before the helicopter touched down and rolled over.
+
+
+
+
+Weight at Take-off
+
+
+Although ASRD-FPB had implemented a firefighter weight monitoring program, it was ineffective. There was no mechanism to provide helicopter pilots with actual individual firefighter weights, and no instruction had been given to the firefighters that extra weight was critical in small helicopters such as the Bell 206.
+
+
+The pilot had estimated the weight of the load on the helicopter because there was no system in place to provide helicopter pilots with actual firefighter crew and gear weights. As a result, the take-off weight of the helicopter was underestimated by approximately 140 pounds and the helicopter was approximately 320 pounds over the HOGE chart limit of 2925 pounds. These factors contributed to the helicopter being operated outside its performance capabilities.
+
+
+Multiple small weight increments of personal items and equipment can cause a progressive and remarkable degradation to the specification hover and take-off performance in smaller helicopters. Assiduous monitoring by pilots of passengers and equipment loads is the sole solution to prevent overloading the helicopter, particularly in challenging environmental conditions of high density altitude and unfavourable winds.
+
+
+
+
+Survivability Factors
+
+
+It is probable that the passenger in the rear left seat was not wearing the available shoulder harness. This likely increased the severity of his injuries. One blade of the two-bladed main rotor struck and penetrated the left cockpit and cabin during the accident sequence, which significantly increased the occupant injuries.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The conditions of a shifting tailwind, over-gross weight, and high density altitude collectively exceeded the rotor and engine performance limits of the helicopter, and the helicopter was unable to take-off in the distance available. Rotor performance was further lost when the helicopter flew out-of-ground effect over the rim of the escarpment, precipitating a degenerating situation of insufficient power available, and the helicopter could not sustain flight. In the conditions encountered during the take-off, the helicopter entered a vulnerable regime where unanticipated right yaw occurs. There was insufficient tail rotor thrust to counter the torque from the main rotor, and the helicopter turned right. Although the pilot's recovery actions arrested the right turn, there was insufficient height to prevent the helicopter from striking the terrain. The inhospitable characteristics of the terrain immediately below the helicopter prevented the pilot from carrying out an uneventful landing and the helicopter rolled over on touchdown. The weight of the helicopter at take-off was incorrect because of inaccurate estimates of the weights of the firefighters, their gear, and the equipment. For the existing conditions, the take-off weight exceeded both the maximum gross weight limit and the hover out-of-ground effect (HOGE) ceiling limit. The main rotor penetrated the left-side cockpit and cabin, contributing to the severity of the injuries to the passengers. It is probable that the passenger in the rear left seat was not wearing the available shoulder harness; this likely increased the severity of his injuries. There was no system in place for the Alberta Ministry of Sustainable Resource Development Forest Protection Branch (ASRD-FPB) to provide helicopter pilots with actual individual weights of fire crew and their personal gear.
+

@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+Weather was not considered to have been a factor in this occurrence.
+
+
+When the TS controller cleared JZA8257 for take-off from the Runway 08R threshold, he did not issue traffic information regarding WCA305 because he did not anticipate a conflict. His thinking was based on his previous experience of intersection departure paths and anticipated climb rates. He anticipated that JZA8257 would be further east and well above WCA305, and that no conflict would develop. Although they did not ask for an en route altitude of 2000 feet, the crew of JZA8257 expected to be cleared to 2000 feet because it had become a common practice. It was this expectation that led them to substantially reduce their climb rate before reaching 2000 feet. The earlier turn to the south and the reduced climb rate resulted in the conflict with WCA305 while the two aircraft were flying on their assigned departure tracks.
+
+
+Three different controllers (TS, TA, and DS) were involved in handling both aircraft, but no coordination took place among them regarding traffic information or conflict resolution. Because he was busy with traffic north of the airport, the TA controller did not see JZA8257 converging on WCA305 from behind and did not provide the degree of monitoring required to detect the potential conflict. JZA8257 sighted WCA305 and took evasive action, but without the benefit of timely traffic information provided by the ATC, and safety was not assured.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The tower south (TS) controller cleared JZA8257 for take-off from the Runway 08R threshold without considering the change to the aircraft's departure profile from the usual intersection departure. As a result, an air proximity occurred between JZA8257 and WCA305. The coordination among the TS, traffic advisory (TA), and departure south (DS) controllers that is necessary to fulfill the requirement for traffic information and conflict resolution did not take place. As a result, the two departing aircraft did not receive the air traffic control (ATC) services specified for the class of airspace within which they were flying. The TA controller's attention was diverted to other traffic under his responsibility, and he did not see JZA8257 coming up behind WCA305. As a result, the two aircraft came into close proximity before JZA8257 saw the other aircraft and took evasive action. Because the JZA8257 crew expected a clearance to remain at 2000 feet, they substantially decreased their rate of climb, creating the conflict with WCA305 and extending its duration.
+

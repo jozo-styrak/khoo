@@ -1,0 +1,30 @@
+Throughout the climb , normal checklist procedures did not result in the checklist sequence being resumed -LRB- at several opportunities -RRB- , situational awareness on the flight deck was not maintained , and events were not prioritized in accordance with SOPs	, the focus of this analysis will relate to four system components : checklists , training , passenger care , and cabin emergency equipment
+The incompatible equipment on the occurrence aircraft went undetected because of the number of different oxygen equipment fittings available and the absence of a standard requiring commonality between portable oxygen equipment within an aircraft cabin	, there was a delay , although not serious , in supplying oxygen to the infant passenger
+The After Take-off checklist was not completed after an interruption	, the air conditioning and the pressurization system were not reconfigured for flight after a bleeds-off take-off
+Completing checklist tasks alone , without the participation of the other pilot , eliminates error tolerances	, situational awareness may not be assured
+The crew did not declare an emergency	, the flight was deprived of beneficial services from air traffic control and , if required , the immediate assistance of airport emergency services and medical attention
+the After Take-off checklist was not completed after an interruption	the pressurization equipment was not reconfigured for flight
+the limitations of this memory and human vulnerability to distracting events	the likelihood of this item being omitted is relatively high .2 Reconfiguration was not completed during the after take-off check , upon climbing through 10 000 feet , or on reaching cruise altitude , times when checks should have alerted the crew to set up the pressurization as required
+completion of this checklist did not correct the problem	further diagnosis was not successful until the travelling company pilot arrived on the flight deck
+the crew had not encountered a similar situation	through experience or training , they likely lacked awareness of the limitations of the Auto Fail or Unscheduled Pressurization Change checklist
+incorporating	redundancy -LRB- both pilots cross-checking items -RRB- and reducing ambiguity -LRB- requiring verbal responses stating the actual value or status of an item -RRB-
+Checklists	Flight-Deck
+adequate communication practices	a form of built-in action cross-check is by-passed , subjecting individuals to their own errors or omissions when completing tasks alone
+having	two pilots
+the crew did not declare an emergency	the flight was deprived of priority handling by air traffic control and medical services at Kelowna
+the number of different oxygen equipment fittings available and the absence of a standard requiring commonality between portable oxygen equipment within an aircraft cabin	The incompatible equipment on the occurrence aircraft went undetected
+a lack of passenger knowledge	The inflation of the passenger oxygen mask reservoir was a concern to many passengers
+the cabin altitude warning horn	and depressurization
+one oxygen bottle in the aircraft cabin were not compatible -LRB- interchangeable -RRB- with the other portable passenger oxygen bottles in the same cabin	Portable passenger oxygen masks
+human vulnerability	events
+The lack of timeliness in reconfiguring the pneumatic system	the assessment
+This practice	a lower level of situational awareness when one crew member is removed from the operational loop
+redundancy -LRB- both pilots cross-checking items -RRB-	ambiguity -LRB- requiring verbal responses stating the actual value or status of an item -RRB-
+defences - consisting of but not limited to SOPs , dual pilots , training , and checklists - were in place	such an event developing
+This	situational awareness not being assured among the crew , thereby losing the defence of redundancy by having two pilots
+Crew resource management -LRB- CRM -RRB- practices help crew members communicate better	their interaction
+Crew resource management -LRB- CRM -RRB- practices	crew members communicate better , which can affect their interaction and greatly enhance their situational awareness during all aspects of a flight
+In this situation , failure to understand PA messages from the flight deck , when crew workload prevented the relay of messages through the flight attendants	confusion
+crew workload	the relay of messages through the flight attendants
+The shutdown	cabin depressurization
+This	their regaining control of cabin pressurization

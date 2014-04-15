@@ -1,0 +1,8 @@
+of the fatigue cracking could not be determined	The engine failed when one blade in the 6th stage HPC failed at the blade root due to high-cycle fatigue fractures
+of the fatigue cracking could not be determined	The engine failure was precipitated by one blade in the 6th stage high-pressure compressor failing due to high-cycle fatigue cracking
+high-cycle fatigue fractures	The engine failed when one blade in the 6th stage HPC failed at the blade root
+the unresolved nature of the occurrence	Communications on the Calgary ground frequency were complicated
+high-cycle fatigue cracking	The engine failure was precipitated by one blade in the 6th stage high-pressure compressor failing
+the use of the ground control frequency for the continued operation of aircraft	Communications between the pilots and the air traffic control authority and the airport emergency response team were complicated after landing
+However , the volume of transmissions did cause the flight crew concern that they might miss vital communications	the safety of the passengers , AER ground crew , and flight crew
+the volume of transmissions	the flight crew concern they might miss vital communications that could have jeopardized the safety of the passengers , AER ground crew , and flight crew

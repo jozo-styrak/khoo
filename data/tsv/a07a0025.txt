@@ -1,0 +1,7 @@
+their different schedules , the controller was aware that the descending aircraft and the two outbound climbing aircraft would need to be separated	Though there was not normally a conflict between these flights
+there may be a sense that the strategy has already been successful	A multi-aircraft plan that provides a partial solution , but that requires further monitoring for complete success is even more subject to error
+no vectors or offset headings were given	lateral separation
+no vectors or offset headings were	to ensure lateral separation
+A multi-aircraft plan	a partial solution
+The controller	the memory-dependent conflict condition
+Such equipment	early warning of the loss of separation

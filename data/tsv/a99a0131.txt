@@ -1,0 +1,15 @@
+The flight crew , however , had been advised of reports of moderate turbulence five minutes earlier and , after that , had been given two advisories of strong gusting wind	, even if the crew had received the SIGMET , it is doubtful that they would have done anything different at that stage of the approach
+The Transport Canada-approved drawings depicting the number of wing bar lights required to mark the location of the displaced threshold were not in accordance with TP312	, only four wing bar lights were used on each side of the displaced threshold where five were required
+the crew had received the SIGMET	it is doubtful that they have done anything different at that stage of the approach
+full , nose-up side-stick was applied to counter the steepening descent	true AOA was limited to less than 8 by activation of the Alpha Prot mode to compensate for the decaying airspeed caused by the longitudinal gusts of wind
+the lack of visual cues and a runway-upslope visual illusion during the night approach	the lower-than-nominal flightpath
+The flight crew , however , had been advised of reports of moderate turbulence five minutes earlier and , after that	two advisories of strong gusting wind
+The weather conditions were such that the aircraft experienced strong vertical and longitudinal gusts near the ground	a steepening of the descent in the latter stages of the approach
+the longitudinal gusts of wind	the decaying airspeed
+to less than 8 by activation of the Alpha Prot mode	the decaying airspeed caused by the longitudinal gusts of wind
+the aircraft protection	aircraft response to aft side-stick movement limited
+the absence of outside visual cues and the presence of black-hole-illusion conditions	it difficult for the crew to assess adequately the aircraft 's vertical situation and the rate of change relative to the desired flightpath in sufficient time recognize that the approach path was significantly low
+The environment near the runway	black-hole illusion during the night approach runway 29
+the lack of visual cues during the night approach and runway-upslope visual illusion	the lower-than-nominal three-degree flightpath on the approach
+Strong gusting wind conditions	a sudden loss of head wind near the ground
+The absence of visual cues	this late recognition of the unsafe condition

@@ -1,0 +1,84 @@
+
+
+Analysis
+
+
+
+The Dairy Turn
+
+
+The Dairy Turn, as originally conceived and flown, had not caused problems when the Waco was too far behind the Pitts because the Waco turned between the Wolf-Samson and the spectators. This resulted in flight paths that did not cross and gave the pilot of the Waco visual contact with the Wolf-Samson or its smoke during the second 90 turn. While this variation of the manoeuvre gave the crowd the illusion of danger, safety was readily controlled by the performers.
+
+
+The modified Dairy Turn, however, resulted in flight paths that crossed twice resulting in two points of possible collision (see Figure 3). The first point of possible collision was more dangerous because the tracks intersected at 90 , with the potential for both aircraft to be banked away from the other. Because of the manoeuvre's timing, it was critical for either pilot to obtain visual contact with the other pilot. As shown in Figure 3, the manoeuvre becomes dangerous if the Waco is a few seconds late. This is a significant difference from the original manoeuvre, and the risk of collision was no longer just an illusion. The modified manoeuvre did not ensure safe execution unless at least one of the pilots had visual contact with the other. Because of the increased risk, the two pilots should have ensured that a clearly understood contract was in place.
+
+
+
+
+Actions of the Wolf-Samson Pilot
+
+
+The climb initiated and maintained by the Wolf-Samson pilot was not part of the planned manoeuvre. The climb was consistent with the pilot concluding that the Waco was late and, because he did not have visual contact with the Waco, that there was an imminent risk of collision. His climb would have permitted the Waco to pass ahead and below. If the Wolf-Samson pilot's contract was to maintain separation, his action would have established an altitude separation between the two aircraft. However, his action did not positively regain visual contact at a critical point in the manoeuvre. Visual contact was the only means to ensure safe separation.
+
+
+
+
+Actions of the Waco Pilot
+
+
+The climb of the Waco pilot was consistent with the pilot concluding that the lateness of his turn toward the Wolf-Samson had created an imminent risk of collision if the manoeuvre was continued as scripted. If the Waco pilot's contract was to maintain separation, his action would have established an altitude separation between the two aircraft. However, his action did not positively regain visual contact at a critical point in the manoeuvre. His subsequent turn to the left is consistent with an attempt to fly away from the potential collision and may indicate that the pilot was uncertain that a safe contract was being flown.
+
+
+
+
+The Effect of Weather
+
+
+The wind blew the smoke from the display away from the performers and provided them with a clear view of the display airspace. The wind would have blown the Wolf-Samson during his turn toward the 1500-foot show line and may have resulted in the pilot holding his bank angle longer than normal, possibly increasing the period of time he was not in visual contact with the Waco.
+
+
+
+
+The Use of Radios
+
+
+Although the open cockpit of the biplane interferes with the intelligibility of radio transmissions, a radio call by one of the pilots might have ensured that only one pilot climbed to achieve separation.
+
+
+
+
+Public Safety
+
+
+The immediate public address announcements by the air show commentator likely kept spectators from moving toward the crash site, thereby increasing public safety after the accident.
+
+
+The length of the debris field of the Waco indicates that there was sufficient energy after the collision for debris to have reached the spectator area if the energy vector had been directed toward the show line. The Dairy Turn was not described in the sequential list, and its potential for an inappropriate energy vector could not have been properly evaluated. While it is unlikely that the Dairy Turn would have resulted in such a vector, the debris field clearly indicates the importance of a critical review by TC of the sequential list of manoeuvres during the SFOC approval process. The limited information provided for the other manoeuvres in the sequential list would have also precluded an assessment of energy management.
+
+
+The display was not used in the annual SAC renewals for the performers, and there was no TC presence at the air show.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 78/2005 - Failed Rudder Control Cable and Aileron LP 79/2005 - Failed Rudder Control Cable LP 82/2005 - Document Analysis
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The Dairy Turn manoeuvre had been modified such that a temporary loss of visual contact could occur immediately before the aircraft crossed flight paths. This modification made timing critical and added two potential points of collision. The manoeuvres immediately before the collision indicated that the performers had not established a clearly understood contract for the revised manoeuvre. The actions of each performer negated the actions of the other, and neither pilot took positive action to regain visual contact. The timing of the manoeuvre was lost when the Waco turned late at show centre.
+
+
+
+Finding as to Risk
+
+
+The sequential manoeuvre information provided to Transport Canada was not detailed enough to allow a thorough review of the energy management of the display.
+

@@ -1,0 +1,14 @@
+The area around DUXAR intersection is a critical location for the display of and communication with aircraft	, procedures for passing estimates and monitoring the progress of the flights in this vicinity is critical to ensure that the required separation is maintained
+The Sandspit data controller did not pass the estimate for the B737 to Edmonton ACC	, the aircraft was not activated on the Edmonton controller 's NSiT
+As a result , the aircraft was not activated on the Edmonton controller 's NSiT	The Edmonton controller was not aware of the conflicting traffic when he issued a climb clearance to the DC-10
+The Sandspit radar controller did not transfer the B737 to the Edmonton ACC frequency before losing communications with the aircraft	, the aircraft flew into Edmonton-controlled airspace without the Edmonton controller 's knowledge
+The fix name was not included when passing the B737 estimate to the ATOSs , and it was often not included on other occasions	, the ATOS was not in a position to note that the estimate should have been passed to Edmonton rather than to Anchorage
+, at the time , the controller was focused on traffic in the western part of the sector	The Sandspit radar controller did not notice the target for the B737 disappear from the RIM
+passing estimates and monitoring the progress of the flights in this vicinity is critical to ensure that the required separation is maintained	Therefore , procedures
+the B737 was not activated on the Edmonton NSiT display the Vancouver controller did not notice the aircraft fly beyond the area displayed on his RIM and subsequently out of radar coverage	defences were no longer in place to prevent the loss of separation
+In this incident , the defences broke down	a risk of collision between two large transport-category aircraft
+in place	the loss of separation
+the onboard TCAS equipment	advisories
+This has	the development of ad hoc and nonstandard procedures among the ATOSs
+The resultant transfer of flight information to one of the lists on the display was , in this occurrence	the controller
+This	the likelihood of detecting errors made in coordination and strip marking

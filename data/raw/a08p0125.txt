@@ -1,0 +1,158 @@
+
+
+Analysis
+
+
+The helicopter was functioning normally until an event caused the engine to either lose power or shut down. The cause of the loss of engine power was not determined. The interruption to engine power resulted in rapid loss of rotor rpm to the point where the pilot was unable to effectively control the helicopter. The helicopter descended almost vertically and collided heavily with the street and collapsed. The three occupants could not have endured the impact forces and the pedestrian was struck forcefully by a rotor blade. In summary, there are two causal events: a loss of engine power and a loss of flight control, in that order.
+
+
+The analysis will focus on the loss of engine power, the possibility that FCU or PTG function contributed to the accident circumstances, and the flight performance that was available from the helicopter and its effect on the accident circumstances. Further, the interpretation of applicable CARs will be discussed.
+
+
+
+Loss of Engine Power
+
+
+A loss of engine power is the result of either pilot action or mechanical event. A pilot can roll off the throttle or close the firewall fuel valve, but given the low profile of the accident flight, there is no scenario in such flight conditions to cause an experienced pilot to do so, with one exception a complete loss of tail rotor thrust. The tail boom and tail rotor survived the accident and an examination revealed no tail rotor anomaly. Accordingly, it is unlikely that deliberate pilot action precipitated the engine power loss.
+
+
+A helicopter comprises three major parts the engine(s) including related systems, the rotor system drive train, and the airframe with its related systems. It can be reasonably argued that few airframe failures can cause a helicopter turbine engine to lose power or stop. Despite the destruction of much of the helicopter, critical components did survive, and no evidence was found that an airframe or drive train event caused the engine to lose power.
+
+
+From an engine-related perspective, fuel exhaustion or starvation can also be a cause. In this accident, fuel exhaustion was not a factor as demonstrated by the large amount of spilled fuel at the accident site. Fuel starvation, resulting from blocked or fractured fuel lines for example, cannot be ruled out.
+
+
+
+
+Loss of Flight Control
+
+
+There was no indication of any pre-accident malfunction of any flight control or rotor drive system on the helicopter that could have contributed to a loss of control of the helicopter.
+
+
+
+
+Engine Performance
+
+
+No evidence was found to suggest that any of the engine modules had suffered any pre-impact mechanical event that would have contributed to a loss of engine power.
+
+
+
+
+Fuel Control Unit Performance
+
+
+Had the FCU malfunctioned in some manner, the effect on the engine operation could have been immediate. The FCU could have malfunctioned as a result of internal anomalies, blocked or leaking pneumatic lines, or as a result of anomalous signals from the PTG. Either way, the FCU would have commanded the engine improperly. Depending on the type of malfunction, the FCU could have commanded the engine to either increase or decrease speed, with the associated rotor rpm increase or decrease. It is known that the engine rpm and the rotor rpm suddenly decreased seconds before impact, and the rotor speed decayed remarkably in descent.
+
+
+The accident FCU was thermally damaged, precluding functional testing, and as a result, the in-service function of the FCU was not assessed. Examination of the FCU and its components did not identify a failure mode that could have led to the sudden loss of engine power. However, this does not rule out the possibility that the FCU did malfunction. It could have precipitated the loss of power either individually or in combination with the PTG.
+
+
+
+
+Power Turbine Governor Performance
+
+
+Because the PTG was installed new and remained on the engine since that time, it can be deduced that the spacer shim found loose was placed on the shaft during manufacture in accordance with pre-design change specifications. There had been no reported functional anomalies with the PTG in over 1100 hours of service since its installation on the accident engine in June 2006. However, given the remarkable shortfall in average service life of the units, it is possible that the PTG malfunctioned.
+
+
+
+
+Operating Environment
+
+
+Several operational conditions existed to present the pilot with a greater-than-usual challenge for an emergency landing following the loss of engine power, namely:
+
+
+obstructions on the final flight path; low airspeed; low height above the terrain; low rotor rpm; and short time frame.
+
+
+The above factors individually represent significant difficulty for a pilot to achieve a successful outcome, but when combined, they pose operational challenges that a pilot may not overcome. Furthermore, each factor has a negative synergistic effect on the other, and the resulting situation deteriorates rapidly.
+
+
+
+
+Rotorcraft Flight Manual Information
+
+
+The RFM includes valuable information that identifies operational conditions posing high risk in the event of a loss of engine power. The HVD shows that low altitude and low airspeed combinations present a significant challenge to pilots in landing successfully from an event that requires an immediate landing, such as an engine malfunction. On the HVD, such higher risk zones are labeled "avoid" areas and represent the worst circumstances for recovery.
+
+
+
+
+Accident Flight Conditions
+
+
+In reviewing the accident flight path, it can be seen that the helicopter was frequently exposed to the higher-risk avoid zones of the HVD during its passage over the built-up areas of Cranbrook. Under these conditions, the helicopter would not have had sufficient altitude or time to develop autorotative flight following a sudden loss of engine power. As a result, the pilot would have had no opportunity to conserve rotor rpm and a high rate of descent would have developed rapidly. Any manoeuvring by the pilot to avoid obstacles would have exacerbated this deteriorating condition.
+
+
+
+
+Low-Altitude Flight
+
+
+The likelihood of a loss of power is independent of the altitude, the speed, or the terrain. However, the risk of an unsuccessful landing following a power loss increases with lowering altitudes and speeds, and worsening terrain. The HVD assumes that the terrain is suitable and considers altitude and airspeed only, without any discrimination for other operational factors, such as pilot skill or experience, weather, or obstacles. The HVD is thus a best-case scenario and shows the optimum flight path profile for take-off, landing, and en-route regimes, based upon helicopter aerodynamic performance.
+
+
+The CARs prescribe conditions for low-altitude flight in helicopters over built-up areas that, in general, ensure the manner of operation does not create a hazard, and that the altitude (height) of a flight is such that an immediate landing can be made without creating a hazard. The provisions of the CARs are based upon hazard management and do not specifically take aerodynamic risk, such as the HVD, into account. For example, though the CARs permit deviation from the prescribed altitude minima, they do not imply that the helicopter is safe to fly at the same height inside the avoid areas of the HVD.
+
+
+The operation of the helicopter inside the HVD avoid areas, or the apparent non-compliance of the operations with the applicable CARs respecting low-altitude flight, had absolutely no link to the loss of engine power, and neither was causal. The severity of the outcome, however, was influenced by the low altitude and airspeed, and the landing site environment.
+
+
+
+
+Low-Altitude Flight Safety Defences
+
+
+Information contained in the RFM (such as the HVD) assist operators and pilots in choosing the most appropriate flight profiles for their missions and take into account helicopter performance. Even though the CARs prescribe regulatory limitations and procedures, it is important that they be applied in concert with the RFM information. It is noteworthy that a constantly repeating theme throughout the CARs is that flight operations must not create a hazard to people or property on the surface. Accordingly, the final responsibility for safe operational practices remains with individual helicopter operators and pilots.
+
+
+
+
+Canadian Aviation Regulations Requirements for Low-Level Flight over Built-up Areas
+
+
+The requirements governing flights over built-up areas are located in several areas of aviation regulation; they are complex and subject to wide interpretation, such as when an aircraft is or is not over a built-up area and which requirements would apply where and under what circumstances.
+
+
+While the accident flight involved the aerial inspection of power lines, these were located within a residential community. The helicopter performed manoeuvres over homes in the vicinity of the power lines. Therefore, the accident flight took place over a built-up area and would have been bound by the general prohibition under Section 602.14 and/or the conditions set out in Subpart 702.
+
+
+Like many operators, Bighorn Helicopters Inc. interpreted its low-level power line operations to be either a flight inspection or being conducted other than over a built-up area. If the former was true, Bighorn Helicopters Inc. would likely have seen itself exempt from the general prohibition as granted under SubSection 602.15(1). But flight inspection is limited to navigation aid inspection and obstacle assessment.
+
+
+If the company viewed its operation as being conducted elsewhere than over a built-up area, the general prohibition would have required the helicopter to be operated at 500 feet. However, paragraph 602.15(2)(b) allows operation at lower altitudes and distances if the aircraft is operated without creating a hazard to persons or property on the surface and the aircraft is operated for the purpose of aerial inspection, including power line patrol. Under these circumstances, Ministerial approval or authorization is not required.
+
+
+Regardless of the specific requirements, the condition that such flights shall not create a hazard to persons or property on the surface is constantly repeated. In the absence of clear direction and guidance, companies may select the requirements that impose the least stringent conditions. Therefore, low-level aerial inspection flights over built-up areas will continue, thereby creating a hazard to persons and property on the surface. While TC may not have articulated the criteria by which it will grant or withhold authorizations for low-level flights over built-up areas, it became clear during this investigation that this flight would not likely have been authorized using a single-engine helicopter.
+
+
+The following TSB laboratory report was completed:
+
+
+This report is available upon request from the Transportation Safety Board of Canada.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The engine lost power at an altitude and airspeed combination that did not permit fully developed autorotative flight, resulting in rapid loss of rotor rpm, an extremely high rate of descent, and a severe collision with the terrain. The helicopter was being operated at a height and airspeed combination that the helicopter manufacturer had determined would, in the event of an engine power loss, preclude a successful descent and landing. During the final seconds of the flight path, the pilot was hindered by several obstacles that afforded him only one clear landing site that was beyond the gliding range of the helicopter. The pilot's efforts to avoid the house and reach that site exacerbated the already high rate of descent. The helicopter was not in a controlled descent and, coupled with the decaying rotor rpm, the pilot's ability to control the helicopter was decreasing so rapidly that the last 85 feet of height was in free-fall.
+
+
+
+Findings as to Risk
+
+
+Flights conducted at altitudes that do not permit safe descent, manoeuvring and landing following an event that requires a single-engine helicopter to land immediately create risk to persons and property, particularly in built-up areas. The Canadian Aviation Regulations requirements for low-level aerial inspection flights over built-up areas are complex and subject to wide interpretation. In the absence of clear direction and guidance, companies may select the requirements that impose the least stringent conditions. Therefore, low-level aerial inspection flights over built-up areas will continue, thereby creating a hazard to persons and property on the surface.
+
+
+
+Other Finding
+
+
+The cause of the loss of engine power was not determined; it is possible that a mechanical event with the fuel control unit or the power turbine governor occurred, or fuel starvation, or some combination of these.
+

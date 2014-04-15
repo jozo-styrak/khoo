@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+The high current condition on the SMU processor board 12-volt trace could have been caused by one of the following.
+
+
+A mechanical short circuit - A mechanical short could have been caused by the dislodged CPU fan. However, the fan assembly did not exhibit signs of pitting or arcing, as it would have if it had contacted live electrical components. As well, the burn patterns on the fan assembly indicate that it remained properly attached to the CPU for some time after the fire started. An over-voltage condition at the SMU power supply - It is unlikely that the SMU power supply produced an over-voltage condition sufficient to cause electrical heating on the 12-volt copper trace. The SMU power supply is protected against over-voltage conditions, and it functioned normally after the occurrence. An internal failure of an electrical component on the processor board - The U18 switching regulator was replaced twice in the months prior to the occurrence. The U18 component was susceptible to premature failure and a manufacturing process deficiency was identified. Heat damage to U18 is consistent with an internal failure. Failure of the U18 switching regulator would not have been detected by the SMU and power would not have been removed from the component.
+
+
+This investigation concluded that an internal failure of the U18 component on the processor board resulted in an excessive draw of current over the 12-volt trace, which produced excessive heat and caused the processor board to burn.
+
+
+The duration and intensity of the fire was not characteristic of merely a component failure. When main power was removed from the SMU, the processor board continued to receive electrical energy from the backup batteries, likely contributing to the duration of the fire. There was no effective mechanism to disconnect the battery from the SMU, a deficiency not addressed in existing Airbus service bulletins or FAA airworthiness directives.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Internal failure of the U18 switching regulator caused a high current draw and excessive heat on the 12-volt input trace, causing the processor board to ignite. The main power switch does not remove battery power from the processor board and the 12-volt input trace is not protected. As a consequence, the over-current condition could not be interrupted, likely extending the duration of the fire.
+
+
+
+Findings as to Risk
+
+
+The absence of a burn-in process increases the likelihood of electrical component failure on in-service equipment. The inability to remove all electrical power from the entertainment system, and potentially reduce the duration and intensity of a fire, is not addressed by the Federal Aviation Administration (FAA) airworthiness directives (AD) series, or the Airbus service bulletins (SB).
+

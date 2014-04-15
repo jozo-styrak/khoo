@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+The AFM procedure for setting full engine power (throttles - full forward, check manifold pressure 43 inches) would have produced a higher engine power output on take-off than the operator's method of setting take-off power. The airport elevation and the higher-than-standard ambient temperatures would have increased induction temperatures and thereby reduced induction air density. This would have required increased manifold pressure during the take-off, which could have been produced automatically by the turbocharger controllers had the throttles been fully advanced. The engines were likely capable of greater than 42 inches manifold pressure; the left engine produced up to 49 inches manifold pressure during the return to Matheson Island. The operator's use of the procedures in the QRH had the effect of reducing manifold pressure and engine power during take-off.
+
+
+The aircraft was within its weight and centre of gravity limits, although it was near its maximum allowable weight. The operator's power setting procedure, operation from a gravel strip, and the use of a rolling take-off all contributed to a lengthened take-off roll. Performance information is not available to calculate the increased distance required. The lift-off, near the departure end of the runway, provided a limited distance for aircraft acceleration and climb before the aircraft crossed the trees located north of the runway end. Crosswind turbulence would also have reduced aircraft performance during initial climb. As a result, the aircraft did not attain its best rate of climb airspeed after take-off, and did not have enough altitude to be able to descend in order to accelerate after the loss of engine power. The increased drag resulting from low airspeed reduced the aircraft's performance, from the value provided in the AFM, to the point where it was barely able to maintain airspeed in level flight and lost altitude in the turns required to return to Matheson Island. The pilot's decision to force-land the aircraft in the marsh allowed him to maintain control and place the aircraft in a landing site where its speed could be gradually dissipated and the aircraft would not submerge. These actions reduced the risk of injury to passengers during the forced landing.
+
+
+The right-engine turbocharger differential pressure controller was defective and near the limit of its adjustment range. These anomalies significantly reduced available engine power at a critical time in the take-off sequence. The black smoke produced by the engine and the condition of the spark plugs indicate that the fuel-air mixture in the engine was too rich to produce power efficiently.
+
+
+After the engine power loss was noted, some measure of engine power could have been restored by reducing the right throttle, which would have had the effect of leaning the fuel-air mixture. However, the pilot did not have sufficient time to troubleshoot the system and no procedure to recognize or handle a turbocharger system malfunction was provided. After the engine power loss was recognized, the pilot faced a difficult choice: the aircraft was below its single-engine best rate of climb airspeed, but following the AFM procedure for engine failure below 106 knots would have required a landing into the trees north of the runway, likely resulting in significant injuries. The pilot chose to attempt to fly the aircraft away, albeit at reduced airspeed and impaired performance. The pilot maintained airspeed above the minimum single-engine control speed and directed the aircraft to a safer landing site. As a result, it can be concluded that the pilot's action in securing the engine and propeller and continuing flight was appropriate under the circumstances.
+
+
+The aircraft's seat belts and seat-belt extension were not sufficient to restrain all the passengers, increasing the risk of injury during a forced landing. The aircraft was based on an island. Its equipment was not adequate for a water landing, increasing the risk to occupants during the over-water portion of the planned flight had such a landing become necessary.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The operator used an unapproved power-setting procedure in its Piper PA-31-350 operation. This reduced engine power during take-off, and combined with the gravel runway and rolling take-off, resulted in an increased take-off distance. The right-engine turbocharger differential pressure controller malfunctioned at a critical time in the take-off sequence, resulting in a loss of engine power. The length of the take-off run and the timing of the engine power loss did not allow the aircraft to accelerate to its best single-engine rate of climb airspeed. As a result, the aircraft did not climb after the engine power loss. There was insufficient altitude and airspeed to manoeuvre the aircraft to a successful landing at the Matheson Island aerodrome following the loss of engine power.
+
+
+
+Findings as to Risk
+
+
+The aircraft was not equipped with seat-belt extensions to accommodate all the passengers who required them. As a result, one passenger was not restrained during the flight, increasing the risk of injury. The aircraft was not adequately equipped for over-water operation, increasing the risk to the occupants during such operations.
+
+
+
+Other Finding
+
+
+The pilot's selection of the forced-landing site in a marsh reduced the risk of injuries or fatalities as a result of this occurrence.
+

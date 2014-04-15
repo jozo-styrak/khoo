@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+ATC radar data and VHF radio communications between the pilot and ATC were available; however, radar data and VHF communications ceased at the same time, at 1615, indicating that a catastrophic event likely occurred at that time. Because there was no flight data recorder or cockpit voice recorder, other data (such as precise airspeed, g load, autopilot status, and position of the flight controls and control column) could not be determined.
+
+
+The absence of any identified evidence of flutter or pre-existing structural weakness, such as fatigue, corrosion, loss of rigidity, improper repair, or incorrect material, suggests that the left wing was subjected to an overstress condition that exceeded the design strength. An in-flight event capable of loading the left wing beyond its design strength would likely also cause permanent deformation elsewhere on the aircraft. However, the severe structural damage caused to the aircraft during the break-up and the ground impact obscured the more subtle indications of overstress. The positive g deformation of the right wing skin and spar might have been the result of an in-flight overstress but could also have occurred during the ground impact.
+
+
+Possible causes of an overstress condition include aircraft manoeuvres, gust loads, or a combination of the two. The direction of the deformation in both wings indicates that the aircraft was subjected to a severe positive g load factor. The fact that the left wing failed before the right may be due to the two wings not being precisely of the same strength or may indicate that there was an asymmetric component to the manoeuvre or gust.
+
+
+The pilot began a descent approximately 120 nm from Smiths Falls. During the descent, the airspeed increased significantly and the aircraft turned approximately 30 left, maintained direction for approximately one minute, and then began a right turn. No VHF transmission indicated any reason for the descent or the turns. Routine radio communications between the pilot and ATC indicated that the flight was proceeding normally until radio and radar contact was lost. Radio communications from the pilot, including the final clipped transmission, gave no indication of a significant g load; however, the airspeed was approximately 175 KIAS, well into the yellow cautionary range of 165 to 195 KIAS, and the autopilot speed limit might have been exceeded. The speed was well in excess of the manoeuvre speed, or speed at which a damaging load factor can be attained without stalling the aircraft. A combination of high speed, pilot-induced g load, and gust-induced g load could have been present. For a given magnitude of gust, the resulting incremental load factor on the aircraft becomes greater with increased airspeed. Travelling at a higher airspeed increases the probability that the aircraft will encounter a structurally damaging gust.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 054/2001 Instrument Examination LP 055/2001 Radar and Audio Analysis LP 059/2001 Structural Examination
+
+
+These reports are available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The left wing failed in overload and separated from the aircraft, rendering the aircraft uncontrollable. Portions of the left wing struck the empennage, causing the empennage to also separate in flight.
+
+
+
+Other Findings
+
+
+There were no indications of flutter or pre-existing structural weakness of the aircraft structure from fatigue, corrosion, loss of rigidity, improper repair, or incorrect material.
+

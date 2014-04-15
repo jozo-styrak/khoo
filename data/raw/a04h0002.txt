@@ -1,0 +1,57 @@
+
+
+Analysis
+
+
+The investigation did not determine the reason why the aircraft struck the water. Several theories were examined to determine the most likely scenario, including the possibility that the pilot was suddenly incapacitated, a mechanical failure in the airframe, or engine failure.
+
+
+Even if he was piloting mostly for pleasure, the pilot had accumulated considerable flying experience over the previous 14 years. However, his last previous flight had been over seven months before. This interval can cause a degradation of the pilot's skills and decision-making process. Although the pilot was in compliance with the regulatory requirements, his decision to make a flight after a seven-month hiatus, without making a training flight with an instructor, is questionable.
+
+
+In training, the pilot was accustomed to using flaps for all take-offs and landings, a procedure that he had adopted. Also, he always landed into the wind. These two conditions help reduce the speed at which the aircraft touches the surface of the water, thereby reducing the landing run. Compared with a wheeled aircraft landing on a runway, the reduction of the water landing speed of a seaplane in high winds is doubly important because the wind normally creates waves that make the initial contact with the water surface much more violent. An upwind approach reduces the initial impact, the length of the landing run and stresses on the aircraft structure. The crash site is in a very wide section of the river that provides no shelter from the elements.
+
+
+It could not be determined why the aircraft:
+
+
+was two miles east of its original position; was in a section of the river that provided no protection from the elements; was approaching the surface of the water with a tail wind gusting to 17 knots; had the flaps retracted; and was in an excessive nose-down attitude of over 20 degrees.
+
+
+All of these elements combined, which are unlike the usual practice and procedures followed by the pilot, do not seem to indicate that there was a loss of control during landing. They suggest that the aircraft was experiencing a mechanical problem or that the pilot was suffering from a sudden incapacitation. However, examination of the aircraft revealed no evidence of a pre-impact deficiency or engine or system malfunction. Since the risk of bird strike is high when flying over water at low altitude, it is possible that a bird strike occurred, causing a loss of control or sudden pilot incapacitation. No bird residue was found on the wings, propeller or on the pieces of windshield that were found, nor on the pilot; however, since the aircraft was submerged for a period of time, any bird residue might have been eliminated.
+
+
+Although the pilot appeared to be in good health and the results of the autopsy and toxicology testing do not indicate that his performance was degraded by physiological factors, the possibility of a sudden incapacitation cannot be ruled out.
+
+
+The aircraft sank so quickly that the signal emitted by the ELT did not have time to be picked up. In any event, the signal probably would not have been received due to the reduced range of the signal when an ELT is submerged, and the immediate damage to the circuits that water can cause.
+
+
+The owners of the aircraft did not know that they were responsible for ensuring that the airworthiness directives applicable to their aircraft were completed. Notwithstanding Transport Canada's awareness campaigns, some owners mistakenly believe that an approved maintenance organization doing an annual inspection on their aircraft has to ensure that all applicable airworthiness directives are completed before the aircraft is put back in service. In the case of the occurrence aircraft, the fact that a pilot from the approved maintenance organization made a ferry flight after the annual inspection would only have reinforced the impression that the aircraft was airworthy.
+
+
+There was no evidence that an emergency situation existed or that the aircraft was experiencing problems prior to impact. However, since six airworthiness directives had not been entered in the technical logs at the time of the last inspection, an examination of the components affected by these airworthiness directives was carried out. This examination ruled out the possibility of mechanical failure of the parts retrieved. Since the left elevator has not been found, the possibility was considered that it separated from the aircraft in flight, causing handling problems. A fragment of the left elevator attachment flange, which was still attached to the elevator torque tube, was examined. The damages to this fragment are very likely attributable to the impact. However, the absence of impact marks on the components of the surrounding structure preclude a definitive conclusion that the left elevator was still in place at the time of impact.
+
+
+The following laboratory reports were completed:
+
+
+LP 085/2004 - Airframe Clusters Examination LP 086/2004 - Instruments and Components Examination LP 087/2004 - Engine and Propeller Analysis LP 135/2004 - Side Scan Sonar Search LP 137/2004 - Examination of Left Elevator Separation
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The aircraft struck the water for undetermined reasons.
+
+
+
+Findings as to Risk
+
+
+The certificate of airworthiness was not in effect at the time of the accident because of the airworthiness directives that had not been completed. The distress signal emitted by the fixed, automatic emergency locator transmitter (ELT) was not received because of the reduced range of the signal once the ELT was submerged, which could have increased the response time of search and rescue units if there had been no witnesses to the accident. The pilot had not made a training flight with an instructor for more than 19 months, which could have resulted in a degradation of his skills and decision-making process.
+

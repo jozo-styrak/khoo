@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The trim-tab/clevis assembly was inspected and serviced approximately 150 hours prior to the failure and, at that time, the inner bushing was found seized in the outer bushing and corroded. The seizing of the inner bushing likely initiated the wear observed on the inner faces of the clevis and may have initiated the fatigue cracking of the pushrod end if the rotational resistance of the clevis at that time was sufficient.
+
+
+The elevator trim pushrod failed as the result of fatigue cracking of the threaded section of the rod end. The fatigue crack was initiated by the increased bending load generated from a progressively stiffening pushrod to trim-tab attachment. The original fit between the inner and outer bushings was less than ideal, with an interference fit occurring between these two parts at points around the interface. The non-cylindrical nature of the outer bushing inner bore is consistent with the non-cylindrical nature of a new bushing found in TC stores. However, it could also be indicative of manual reaming, some time after manufacture, to facilitate the insertion of the inner bushing. Reaming of the bushings without the associated drawings could lead to a risk of seizure if the dimensional and out-of-round limits are not strictly observed. TC, Aircraft Services indicates that the associated drawings for this practice are not readily available to aircraft maintenance engineers. Movement between the two ill-fitting bushings, aided by the higher-than-prescribed installation torque on the through bolt, likely produced the galling, which resulted in eventual seizure.
+
+
+Because the bushing had seized, the trim pushrod had rotated about the inner face of the clevis and outer faces of the inner bushing. However, the through bolt was overtightened, which effectively eliminated rotation and increased the bending loads on the pushrod until it eventually failed in fatigue. This whole process was considered to have been progressive in nature: as assembly lubricant was displaced, fretting debris accumulated, galling/wear developed, and friction in the overall assembly increased. The steel-on-steel design of the elevator trim-tab bushings increases the risk of seizure if there is inadequate lubrication.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+LP 028/2003 - Elevator Trim Tab Rod Failure.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The elevator trim pushrod failed from fatigue cracking in the threaded section of the rod end. The fatigue crack was initiated by the increased bending load generated from a progressively stiffening pushrod to trim-tab attachment, resulting in limited elevator control. The original fit between the inner and outer bushings was less than ideal, with an interference fit occurring between these two parts at points around the interface. Movement between the two ill-fitting inner and outer bushings, aided by the higher than prescribed installation torque on the through bolt, likely produced the galling, which eventually resulted in seizure. The elevator trim-tab pushrod attachment bolt was found to be tightened to a value higher than that prescribed by the manufacturer. As a result, when the inner bushing became seized, the pushrod clevis was not free to rotate.
+
+
+
+Findings as to Risk
+
+
+The design of the bushing arrangement is such that the close tolerance nature of the inner and outer bushing pair requires strict adherence to manufacturing tolerances, quality control, and optimal maintenance procedures. The elevator trim-tab inner and outer bushings are both made from stainless steel, which increases the risk of seizure if there is inadequate lubrication. Several new bushings obtained from the manufacturer did not meet the dimensional design specifications. Distribution of such bushings could result in the machining or reaming of bushings to facilitate installation. Reaming of the bushings without the associated drawings increases the risk of seizure if dimensional and out-of-round limits are not strictly observed.
+

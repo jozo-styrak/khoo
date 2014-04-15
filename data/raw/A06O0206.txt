@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+There was no indication that crew performance played a role in this accident or that either aeroplane was ill-equipped as to conspicuity devices or that those devices were not used appropriately. A realistic probability of either aeroplane detecting the other was 25 per cent, and without detection, the collision was unavoidable. The two aeroplanes were on a constant collision course; therefore, there was no relative angular movement that could be detected by peripheral vision to aid in detection. There was no other means of alerting either aeroplane as to the presence of the other. ATC does not provide traffic advisories in that airspace and TIS, which is capable of providing specific alerts and was carried by C-GCHN, depends on a ground radar service that is not available in Canada. The failure of the see-and-avoid principle to avert this collision reflects the residual risk that is inherent in sole reliance on unalerted see-and-avoid.
+
+
+The probability of two aeroplanes being on a collision course is essentially a function of traffic density, and the risk of collision is proportional to the square of the traffic density. The Class C airspace around Toronto/Lester B. Pearson International Airport naturally concentrates circumnavigating traffic around its periphery. The airspace above the arc between Milton, Ontario, and Caledon also concentrates traffic vertically. The combination of surface elevation of 1400 feet, flight at or above 1000 feet agl, and a Class C floor of 2500 feet results in all traffic being concentrated vertically at the single altitude of 2400 feet.
+
+
+It is unavoidable that Class C airspace results in concentration of circumnavigating traffic around its periphery and this has proven to be a factor statistically in one-half of the collisions that have taken place between non-associated aircraft. Risk of collision can be reduced by dispersing traffic laterally, such as building a VFR route structure with lateral separation between opposite-direction traffic. Such a routing structure would have to be clearly depicted on the VFR terminal area (VTA) chart. However, this structure would not eliminate conflict between aircraft on intersecting tracks, as in this occurrence.
+
+
+Reduction to the risk of collision between aircraft on intersecting tracks requires that traffic be dispersed vertically. Having 2000 feet of vertical airspace between terrain and the Class C floor rather than 1000 feet at the location of the collision would provide a vertical space of 1000 feet rather than the 100-foot space that existed in this case, reducing the likelihood of a collision. The risk could be reduced further by publishing routes and, where applicable, specific altitudes, in a form that is readily available to VFR pilots.
+
+
+Measures such as improving aircraft conspicuity, pilot scanning technique, and pilot traffic awareness can reduce risk, but they do not overcome the underlying physiological limitations that create the residual risk associated with unalerted see-and-avoid. There is only limited potential to further reduce risk by fine-tuning the unalerted see-and-avoid concept, and such an approach does little to address the risk of collision between VFR light aircraft and IFR commercial traffic in congested areas.
+
+
+A meaningful improvement to the ability to see-and-avoid between uncontrolled VFR aircraft requires a practicable, affordable method of alerting pilots to the proximity of conflicting traffic. Reduction of conflicts between VFR aircraft and IFR traffic depends on making aircraft that are presently not transponder-equipped visible to ATC or to the IFR traffic.
+
+
+Recent developments in Europe, specifically with respect to low-cost, low-power, lightweight LAST technology and collision-protection systems such as FLARM, which are compatible with ADS-B, indicate that technological solutions are emerging that can accomplish both of these objectives. These systems are not yet integrated into airworthiness and airspace standards or universally accepted by user communities. Taking into account the drawbacks of existing transponders due to cost, weight and power consumption, and the foreseeable evolution of ATM from a radar environment to ADS-B, these new systems offer a means to reduce the risk of mid-air collisions in the future provided that they are integrated into the Canadian regulatory, airworthiness, airspace and navigation framework and supported by general aviation.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Toronto airspace design provides only limited vertical space beneath Class C airspace northwest of Toronto. Consequently, both aeroplanes were at the same altitude when their tracks intersected, and they collided. There are inherent limitations and residual risk associated with the see-and-avoid principle; as a result, neither aeroplane saw the other in time to avert a mid-air collision.
+
+
+
+Finding as to Risk
+
+
+There is a high residual risk of failure inherently associated with the unalerted see-and-avoid principle as the sole defence against mid-air collision in congested airspace.
+
+
+
+Other Findings
+
+
+A technological means of alerting pilots to potential conflicts would augment the current see-and-avoid approach to averting mid-air collisions. Canadian air traffic control radars do not support traffic information service (TIS); therefore, aircraft equipped with TIS cannot obtain traffic advisory information. Light aircraft in Canada are not required to carry traffic alert and collision-avoidance system (TCAS) or any other form of traffic alerting system. As a result of technological advances, practicable light aircraft/glider collision warning devices and secondary surveillance radar (SSR) transponders are being developed. There has been little progress in implementing recommendations made by a safety review of visual flight rules operations in Toronto airspace following a previous mid-air collision.
+

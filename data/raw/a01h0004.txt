@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The flight crew's communications with the Peace River FSS specialist after the go-around indicated that the crew thought that they had landed on Runway 22 when, in fact, they had landed on a grassy area beside the runway. Their actions were consistent with an error known as perceptual confusion2 which occurs when, during a highly routine task, one object is accepted as a match for the intended object because it looks like the intended object, is in the expected location, and does a similar job.
+
+
+In this occurrence, the crew landed on the grassy area for the following reasons:
+
+
+the grass area looked like the intended runway. It was rectangular in shape, approximately the same length and width as the runway, and was oriented in the same direction. The crew expected to see a snow-covered runway with brown sand patches; the grass area was snow-covered with brown grass protruding above the snow. Ground vehicle tire tracks in the grassy area could have been confused with tracks from other aircraft; the landing area was in the expected location, where the approach plate indicated the runway would be. Although the threshold of what was believed to be the runway was further along the approach path than the actual runway - in relation to taxiways, terminal building, PAPI lights, etc. - this difference was not sufficient to alert the crew; Runway 22 and the associated taxiways were snow-covered and blended in with the surrounding area, also snow-covered. Runway markings were not visible and the runway could not be located by reference to the adjoining taxiways; cues which could have indicated that the aircraft was not landing on the runway were not compelling. The lateral displacement from Runway 22 was not sufficient to cause a noticeable deflection of the VOR needle. The PAPI lights were further to the left of the landing area than normal, but not displaced enough to be noted by the crew. The crew probably would not monitor the VOR and PAPI indications on short final. Although the approach and runway lights were on, the lights would have been hard to see3 because of their intensity, the time of day, and the snow-covered background; and, the runway was not equipped with RILS or ODALS, which would have provided more compelling cues that the aircraft was landing in the wrong place.
+
+
+The airport maintenance worker did not sweep Runway 22 prior to the arrival of CDR8321 for two reasons. Firstly, he was concerned that sweeping the runway might make it more slippery. Secondly, he was not aware of the requirement to provide a visual contrast between the runway environment and surrounding fields. His lack of training concerning the contents of the AOM likely contributed to this lack of awareness. Also, the lack of a requirement for such training contributed to him not receiving it. TC's proposed standards for airport winter maintenance and planning address knowledge, training, and testing of airport personnel with duties related to winter maintenance; however, the standards do not address the issue of maintaining a visual contrast to delineate the runway environment from the fields surrounding it.
+
+
+Based on historical occurrence information, the probability is low that an aircraft will land in an area mistaken for the intended runway even when the intended runway is snow-covered. The severity of consequences associated with such occurrences has also been low, indicating an overall low level of risk. Nevertheless, the risk could be reduced by increasing pilot awareness of the issue, by maintaining runway contrast, and by providing more compelling runway identification lighting.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The airport maintainer did not receive training concerning the contents of the AOM, which likely contributed to him not being aware of the requirement to provide a means by which a visual contrast can be provided to delineate the runway environment from the fields surrounding it. The airport maintainer was not aware of the requirement to provide a means by which a visual contrast can be provided to delineate the runway environment from the fields surrounding it, which likely contributed to him not sweeping Runway 22 prior to the arrival of CDR8321. The airport maintainer was concerned that sweeping the runway would make it more slippery, which contributed to him not sweeping Runway 22 prior to the arrival of CDR8321. Runway 22 was snow-covered, which contributed to the flight crew not distinguishing it from the surrounding snow-covered fields. A strip of uncut grass, similar in colour and size to the intended runway, protruded above the snow in an area beside the runway. The flight crew mistook the grassy area for the runway and landed on it. There were no compelling cues, such as those that could have been provided by RILS or ODALS, to alert the flight crew that they were not landing on Runway 22, which contributed to them landing off the intended runway.
+
+
+
+Findings as to risk
+
+
+Proposed standards for airport winter maintenance and planning do not address the issue of maintaining a visual contrast to delineate runways from the surrounding terrain. There is currently no requirement for non-TC airports to have standardized plans for winter maintenance. There is currently no regulatory requirement for airport maintainers at non-TC airports to receive training in airport winter maintenance and planning.
+

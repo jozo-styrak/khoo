@@ -1,0 +1,18 @@
+The size , slope , construction , and orientation of the landing pad did not permit the accident helicopter to return and land successfully following the rotor rpm decay and the resulting uncommanded descent	, once the helicopter began its vertical , climbing turn from the hover , and the full power condition was reached , it was impossible to successfully land on the sloping pad
+The helicopter climbed vertically out of the hover at near-maximum gross weight , it encountered down-flowing air , which resulted in a situation in which there was insufficient power to maintain controlled flight	, the rotor rpm decayed rapidly , and the helicopter descended in an overpitched condition until it struck the terrain
+the down-flowing air in the area , the pilot may have unwittingly applied more collective pitch than he had intended to maintain his turning hover-climb , thus precipitating the rapid rotor rpm decay	In this accident ,
+the helicopter encountered down-flowing air	this rate would have been reduced proportionately until neutralized by a wind of 820 feet per minute or in the order of eight knots
+considering the adverse surface conditions beneath the helicopter	recover
+No mechanical conditions were identified	this accident , therefore , this analysis focuses upon the operational factors surrounding the flight
+the topography and location are	the formation of down-flowing winds , the velocity of which can change quickly
+Unpredictable down flows are challenging for a helicopter pilot	uncommanded descent from which the helicopter may not have sufficient power to recover
+To counter this increased rotation , the pilot would have had to apply right pedal	the engine power available to the main rotor system
+Winds of at least such strength were reported at the accident site , and it is likely that the vertical performance was eroded by the down-flow wind	the helicopter climbing as required
+The pilot turned left during the climbing take-off	the transmission torque assist the turn , thereby delaying the power demand by the tail rotor
+the transmission torque to assist the turn	the power demand by the tail rotor
+insufficient power	or
+A demand for more power than available , in combination with the high collective pitch	rotor rpm decay and a descent with the rotor system in an overpitched condition
+the right turn	the tail rotor power demand and
+In contrast , had the pilot turned right and then reached the same maximum power situation	or
+the tail rotor power demand	it available to the main rotor
+The helicopter climbed vertically out of the hover at near-maximum gross weight , it encountered down-flowing air	a situation in which there was insufficient power to maintain controlled flight

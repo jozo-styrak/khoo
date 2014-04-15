@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+The steady rate of climb after autopilot engagement indicates that the crew had inadvertently selected VS mode instead of IAS mode. This selection error was not detected, in part because there was no requirement in the SOPs for the crew to announce and confirm the IAS mode selection on the AFCS. The indicated airspeed then fluctuated near the value the crew intended, perhaps bolstering the crew's belief that the aircraft was operating in the intended IAS mode, and leading them to become complacent about monitoring the airspeed. Also contributing to the monitoring error was the co-pilot's preoccupation with paperwork during the climb. Because the crew had inadvertently selected an inappropriate AFCS mode and did not detect this error or adequately monitor the airspeed, the airspeed eventually decreased during the climb to the point of stall.
+
+
+The stall occurred at about 14 000 feet. The aircraft was in cloud, the temperature was below freezing, and the pneumatic de-icing boots were not activated. Therefore, ice accumulation on critical flight surfaces was possible. The stall occurred at an airspeed higher than expected for a clean wing with very little pre-stall warning from the stick shaker. It is likely that ice had accumulated on the aircraft's critical surfaces before the stall.
+
+
+In large transport category aircraft, it would be unsafe to purposely enter a fully developed stall. Therefore, current regulations only require that flight crews receive limited training in stall recognition and recovery, with recovery being initiated at the first indication of a stall. Such training does not allow pilots to become familiar with symptoms of a fully developed stall or allow for practise in recovering from a full aerodynamic stall. In this instance, because of ice contamination, the stall happened at a higher-than-usual airspeed, and the symptoms of the stall were not those that the pilot had been trained to expect. As a result, the captain did not recognize that the aircraft had stalled and, instead, interpreted the unusual movement of the aircraft as being due to turbulence. He therefore continued to try to lift the nose of the aircraft, deepening the stall and lengthening the period of time that the aircraft was out of his control. This led to excessive altitude loss before the aircraft was recovered.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+During the climb, the captain inadvertently selected vertical speed (VS) mode on the automatic flight control system (AFCS) instead of the intended IAS mode, and neither flight crew detected the selection error. The operator's standard operating procedures (SOPs) did not have a prescribed method for ensuring the correct selection of AFCS climb modes. The flight crew did not activate the pneumatic de-ice equipment while climbing in icing conditions. The flight crew did not detect the decreased airspeed until the aircraft was near the stall. The aircraft stalled at a higher-than-normal airspeed, with little advance warning, most likely due to accumulated ice on critical surfaces. The captain, believing that they had encountered severe turbulence, did not recognize that the aircraft had stalled, and did not apply the standard stall recovery technique.
+
+
+
+Findings as to Risk
+
+
+Typically, flight crews receive only limited training in stall recognition and recovery, where recovery is initiated at the first indication of a stall. Such training does not allow pilots to become familiar with natural stall symptoms, such as buffet, or allow for practise in recovering from a full aerodynamic stall. A significant proportion of Dash 8 pilots may hold outdated beliefs on the use of pneumatic de-icing equipment.
+

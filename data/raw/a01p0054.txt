@@ -1,0 +1,37 @@
+
+
+Analysis
+
+
+To maintain minimum separation, controllers impose and then rely on pilots to adhere to speed restrictions. In 4 nm, the DHC-8 appeared to slow from a displayed speed of 200 knots, to 150 knots, to 110 knots. Radar data showed a 60-knot speed differential over a period of 34 seconds, or 7 radar updates. The radar display of the aircraft's speed might have lagged the actual speed and led the arrival low controller to underestimate the DHC-8's speed reduction.
+
+
+Although air traffic control procedures provided for the transfer of control of the aircraft at 2 nm, the arrival low controller was in the habit of transferring communications of landing aircraft to the tower after he had determined that he had no further need to retain the aircraft. As a result, when the DHC-8 unexpectedly slowed, he was unable to directly contact that aircraft by radio. Although the A319 had already been instructed to contact the tower, the arrival low controller fortuitously was able to issue one speed reduction instruction to that aircraft, but later could not issue another because the aircraft had changed frequency as directed.
+
+
+The practice of permitting trainee controllers to resolve potential conflicts on their own, before the OJI intervenes, is effective pedagogy within limits. However, because there is no margin provided for normal levels of human error, the following three operational circumstances invariably contribute to loss-of-separation incidents:
+
+
+when the trainee aims for the minimum permitted level of separation (2.5 nm in this incident) and then does not recognize a deviation, when the trainee hesitates in taking corrective action when an aircraft deviation affects separation, and when OJIs are hesitant to intervene at an early stage.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The arrival low controller did not detect the rate of overtake by the A319 on the DHC-8 in sufficient time to issue appropriate speed control instructions to the A319. As a result, his initial control instruction to the A319 was insufficient to avert the loss of separation. The arrival low controller transferred direct controller-pilot communications with the DHC-8 and the A319 to the tower before relinquishing control responsibility, which inhibited timely control instructions to both aircraft. The DHC-8 slowed down before the DAWG fix, contrary to the instructions previously accepted and without advising air traffic control. The on-the-job instructor recognized the developing overtake situation but did not intervene in sufficient time or with sufficient assertion to alter the arrival low controller's instructions and prevent the loss of separation.
+
+
+
+Findings as to Risk
+
+
+The use of the minimum 2.5-nautical mile separation standard in an on-the-job training environment leaves no margin for error. The use of this minimum standard increases the possibility that unexpected aircraft deviations - that may be missed or unrecognized by the trainee controller and in which the on-the-job instructor does not immediately intervene - will lead to a loss of separation.
+
+
+
+Other Findings
+
+
+The actual speed of the DHC-8 might have decreased more rapidly than the speed displayed on the indicator module, leading the arrival low controller to underestimate the rate of deceleration.
+

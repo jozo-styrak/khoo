@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+Because of the absence of flight recorder information and pilot interviews and because many of the aircraft components were destroyed by a post-crash fire, it is difficult to draw definite conclusions with respect to the loss of aircraft control.
+
+
+ATC radar information shows the aircraft decelerated toward minimum airborne control speed. It is likely that the aircraft transitioned from a normal approach into an unrecoverable manoeuvre, such as a spin or stall. What induced this type of uncontrolled manoeuvre is unclear. There was a rapid deceleration toward Vmca, with no apparent aircraft stabilization, immediately prior to the stall. It is likely that the aircraft continued to slow below the minimum control speed of 80 mph. The aircraft was then in a flight regime where control of the aircraft was lost and was not recoverable. The positions of the engine controls - except the left engine mixture cable and the left magneto switch - were consistent with the configuration expected during attempted recovery from an aircraft upset or a sudden altitude loss.
+
+
+The rudder trim was positioned at 15 units of right trim, and the left mixture cable was in the idle cut-off position. Both of these indicate that either an engine failure was being simulated or that the aircraft had experienced an actual engine failure prior to the time control of the aircraft was lost. Damage and blade angle scoring of the propellers show that both engines were at high power and high RPM at impact. It is unlikely, therefore, that the left mixture was actually at idle cutoff and that the magneto switch OFF before the impact. It is probable that the left mixture control and the left magneto switch were moved as a result of the high impact forces or by being struck by flying debris inside the cockpit on impact.
+
+
+The absence of any communications advising ATC of an emergency situation reduces the likelihood that an actual engine failure occurred. The rudder trim also indicates that a simulated engine failure check had been actioned by the pilots prior to the loss of control. A simulated engine failure therefore was not likely the initiating factor in the control loss.
+
+
+ATC Manual of Operations directs controllers to caution pilots against wake turbulence with the phrase " Caution possible turbulence" or "Caution wake turbulence". In this instance only the words "wake turbulence" were issued after the tower controller advised the pilots of their traffic. However, the instructor's level of experience and his reply to the controller's advisory suggest that he understood those words were issued as a caution. Consequently, the controller's non-standard phraseology likely did not contribute to a possible wake turbulence encounter.
+
+
+Operating the aircraft in a simulated single-engine configuration would place the aircraft in a low-energy and asymmetric flight regime. Flight in a low-energy state at low altitudes greatly increases the difficulty of recovery from stalls or unusual attitudes. Consequently, although a simulated failure of the left engine was likely not the initiating factor of the control loss, it would have made recovery from an upset or stall at that altitude unlikely.
+
+
+Because they were operating VFR, the pilots of C-FCNU were solely responsible for wake turbulence avoidance. Under the high cockpit workload conditions of engine failure training, it is likely that the pilots of C-FCNU did not comprehend the significance of the controller's wake turbulence comment or, with understanding, did not see the need to take action to address the possibility of wake turbulence. As a result they continued to fly the approach in a manner where wake turbulence from the preceding Airbus A320 aircraft was likely encountered. The light wind conditions provided an ideal environment for the persistence of wake turbulence. In the absence of other plausible reasons for the aircraft upset, the aircraft most likely encountered wake turbulence, which, at the low speed of the aircraft, led to a vortex-induced roll and loss of aircraft control from which the crew could not recover.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilots of C-FCNU experienced loss of aircraft control at an altitude and flight configuration from which recovery was not possible. The control loss most likely resulted from a combination of low aircraft speed and encountering wake turbulence, during a simulated engine failure approach.
+
+
+
+Findings as to Risk
+
+
+There are no mandatory air traffic control wake turbulence separation criteria for VFR aircraft on approach, specifically VFR training aircraft. There is a continued risk that training aircraft operating in high traffic areas among heavier aircraft types, can inadvertently encounter wake turbulence.
+

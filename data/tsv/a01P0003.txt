@@ -1,0 +1,33 @@
+rate of climb when total power loss	The spiral bevel pinion and the main spiral bevel gears demonstrated wear patterns consistent with improper alignment
+In addition , there was a difference of 0.029 inch in the measurements of surfaces between the No. 4 bearing inner race and the fixture at the time of overhaul build-up	concluded that these gears were misaligned during the build-up at the time of the last main-rotor transmission overhaul
+The only anomalies identified during the teardown that could cause such vibrations were the misalignment and subsequent movement of the Nos. 3 and 4 bearings , the spiral bevel pinion , and the main spiral bevel gears	likely that vibrations and high forces initiated movement of the misaligned components and that movement caused the backlash to be extremely out of its specifications
+the roller retainer rests on the Oilite bushings	This created instability of the rollers
+the other IFWU was also worn and contaminated	it failed within a very short time of the initial IFWU failure
+the load of driving the main rotor was lost	the engines oversped and shut down
+impact forces exceeded the design criteria of the seat	The seat and restraint system of the pilot not flying broke free from its mountings , likely
+neither engine was able to produce the maximum 123 per cent torque for the IFWUs	it was not likely that overtorques/loading of the IFWUs caused a failure
+it was manufactured with large pores and incomplete sintering	An Oilite bushing broke down
+the roller retainer rests on the Oilite bushings	This created instability of the rollers
+the first IFWU disengaged	all power demanded by the rotor system was transmitted to the remaining IFWU , which was worn and contaminated , causing it to fail within a very short time of the first failure
+This	instability of the rollers
+The instability	pinch
+The instability , increased pinch angle of the rollers and cams -LRB- caused by dents in the cams -RRB- , and bronze contamination	the rollers
+-LRB- When one IFWU disengages , all power demanded by the rotor system is transmitted to the remaining IFWU	the likelihood the remaining IFWU will quickly fail
+Loss of drive from both engines , while a helicopter is climbing at a high rate -LRB- high pitch angle on the blades -RRB-	rapid rotor rpm decay
+This would have substantial effect on gear operation	torsional oscillations or torsional vibrations
+The only anomalies identified during the teardown	such vibrations
+movement	the backlash to be extremely out of its specifications
+This	vibrations and movement of the casting
+the spiral bevel pinion and the main spiral bevel gears had	wear on every fifth tooth
+no indications of vibrations	the IFWUs during the first 500 hours
+overtorques/loading of the IFWUs	a failure
+neither engine was	the maximum 123 per cent torque for the IFWUs
+This	instability of the rollers
+The instability	pinch
+The instability , increased pinch angle , and bronze contamination most likely	the rollers
+When the first IFWU disengaged , all power demanded by the rotor system was transmitted to the remaining IFWU , which was worn and contaminated , causing it to fail within a very short time of the first failure , and total drive to the main rotor was lost	the loss of control of the helicopter
+the first IFWU disengaged , all power demanded by the rotor system was transmitted to the remaining IFWU , which was worn and contaminated	it to fail within a very short time of the first failure
+the material used	the Oilite bushings nor is there any requirement the material be completely sintered
+The spiral bevel pinion and the main spiral bevel gears were misaligned during build-up at the time of the last main-rotor transmission overhaul and moved during operation	an abnormally high level of vibrations
+Neither engine was	the maximum 123 per cent torque for the IFWUs
+over torques/loading of the IFWUs	a failure

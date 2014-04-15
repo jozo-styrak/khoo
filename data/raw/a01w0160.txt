@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+ACA3697 and CDR8510 were initially properly separated, both vertically (FL350 versus FL290) and laterally (J476 versus J504). The problem the controller faced was to descend ACA3697 to an appropriate altitude in order to hand over the flight to the next sector for landing at Calgary Airport. The controller chose to clear ACA3697 to FL290, a wrong-way altitude. However, he did not mark the flight progress strip for ACA3697 to indicate that the flight was at an altitude inappropriate for the direction of flight, nor was he in the habit of doing so in this situation. Controllers are not prevented, by regulation or procedures, from assigning altitudes not appropriate for the direction of flight to aircraft being positioned for landing at an airport. However, by clearing ACA3697 to FL290, the flight was placed at a higher risk of being involved in a loss-of-separation incident with opposite-direction traffic, with a resulting greater potential for a midair collision.
+
+
+In order to descend ACA3697 to the required altitude before handoff to the Calgary arrival sector, the controller first had to ensure the appropriate lateral spacing with another westbound flight, ACA579 several miles to the north at FL310. The controller's attention then became focused on this separation problem, to the detriment of his overall situational awareness. To solve the separation problem between the two Air Canada flights, the controller chose to clear ACA3697 to FL290 and issue a vector to the southwest, away from the other aircraft. In doing so, the controller created a conflict with CDR8510 where none had existed.
+
+
+The controller did not see the impending conflict with CDR8510. He did not indicate the conflict between ACA3697 and CDR8510 on the RSiT, nor did he perceive the conflict even though the PTL from ACA3697 pointed directly at CDR8510. The controller's attention was fixed on one separation problem to the exclusion of another, significantly increasing the risk of a midair collision. The controller relied solely on his own memory to retain situational awareness and did not establish other effective defences for CDR8510.
+
+
+In the absence of ATC radar-based conflict alerting, only a TCAS RA to the pilots of CDR8510 prevented a much closer encounter between the two aircraft.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The Alsask controller lost situational awareness when his attention became focused on separating two of the five aircraft in his sector, to the detriment of seeing and resolving another separation problem involving CDR8510. The controller did not use appropriate procedures to mark the flight progress strips for ACA3697 and CDR8510 to indicate inappropriate altitudes or potential conflicts. As a result, two aircraft converged with a clearance to the same altitude. The controller did not adequately scan the radar display and detect the conflict between ACA3697 and CDR8510 because his attention was focused on two of the five aircraft he was controlling.
+
+
+
+Finding as to Risk
+
+
+NAV CANADA radar systems in Edmonton ACC are not yet equipped with automatic defences to alert controllers to impending aircraft conflicts. TCASs/ACASs are not mandatory for transport-category aircraft in Canada. No other airborne defences are in place to assist pilots in preventing a midair collision in cases where aircraft are not provided with at least the minimum separation required by regulations. There are no air traffic control procedures in place that require controllers to indicate potential conflicts on the radar display in a standard manner, similar to that required for flight progress strips. This increases the risk that controllers will forget about a conflict because it may not be evident on the radar display.
+

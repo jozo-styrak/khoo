@@ -1,0 +1,4 @@
+the crew selected approach mode	the aircraft was well outside the parameters that are recommended by AIP COM 3.13.1 and near -LRB- or beyond -RRB- the limit at which the integrity of the ILS is verified
+these carriers may not have easy access to AIP	This requirement may be even more compelling in the case of foreign air carriers that operate in Canada ,
+the crew selected approach mode	the aircraft was inside the recommended distance from the airfield but near or beyond the limits at which the integrity of the ILS is verified
+AIP COM 3.13.1 outlines an established procedural defence that , if used	the risk of false or incorrect localizer captures

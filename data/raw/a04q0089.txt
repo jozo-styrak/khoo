@@ -1,0 +1,64 @@
+
+
+Analysis
+
+
+The incident occurred in daylight in good visibility at a time when airport traffic was light. The decision by the pilot of the Cessna 172 to take off after being instructed to taxi to position on the runway and the manner in which control procedures and administrative procedures are applied at the Qu bec tower played a significant role in the risk of collision.
+
+
+Given that the controller was transmitting on the ground and air frequencies before the Airbus A320 took off, the pilots of both aircraft were able to hear what was being said to the other aircraft. In reality, the Airbus A320 was not aware that the Cessna 172 was on Runway 30, and the Cessna 172 was not aware that the Airbus A320 had been cleared for take-off on Runway 24. Since the captain of the Airbus and the pilot of the Cessna 172 were bilingual, the use of both English and French by ATC did not contribute to their failure to be aware of the situation. They were either inattentive to external communications or preoccupied with piloting tasks. In any event, even if he had known that the Cessna 172 was on Runway 30, the pilot of the Airbus A320 could not anticipate the unexpected take-off of the Cessna 172. For his part, the pilot of the Cessna 172 would not have taken off if he had been aware that another aircraft had been cleared for take-off on the crossing runway. The fact that the pilot of the Cessna 172 believed that the instruction to taxi to position constituted a clearance for take-off suggests a lack of knowledge of ATC procedures on his part. It appears that the theoretical and practical training for his initial private pilot licence and the subsequent refresher training did not correct the pilot's misunderstanding of the meaning of the instruction to taxi to position.
+
+
+Like the controller on duty at the time of the occurrence, some controllers feel that the number 2 aircraft in the departure sequence becomes the number 1 as soon as the preceding aircraft is cleared for take-off. Other controllers are of the view that an aircraft remains number 1 until its take-off is completed. As a result, there is a lack of consistency among controllers for assigning departure numbers. Because the ATC MANOPS does not clearly indicate at what point an aircraft becomes number 1 in the departure sequence, an aircraft can be on a runway without having been assigned a sequence number at the same time as another aircraft is taking off from an intersecting runway. In this incident, the situational awareness of the Cessna pilot was likely reduced, and the erroneous expectation on his part that he was expected to continue with a take-off immediately was reinforced. Had the Cessna pilot been told that he was number two in the departure sequence, it is reasonable to assume that he would have waited for a take-off clearance before taking off.
+
+
+After clearing the Cessna 172 to taxi to position on Runway 30, the controller had to wait until the Airbus A320 passed the runway intersection before clearing the Cessna 172 for take-off. For that reason, the Cessna 172 was second in the departure sequence because it had to wait in position on the runway. In this situation, the controller had to ensure that the Cessna 172 would not start its take-off roll until after the Airbus A320 had passed the intersection of the two runways. The controller should have advised the Cessna 172 that it was number 2 for take-off to an Airbus A320 that was taking off from Runway 24 and could have instructed the Cessna 172 to taxi to position and wait; the Cessna 172 normally would have acknowledged this message by reading back the restriction. As a result, by all indications, the Cessna 172 would probably not have taken off without clearance. Furthermore, as the investigation revealed, some controllers would not have requested a read back of the instruction "ATTENDEZ," depriving themselves in part of the certainty that the pilot clearly understood the instruction to wait.
+
+
+The difference between the instructions "TAXI TO POSITION" and "TAXI TO POSITION AND WAIT" is that the second requires that the controller inform the pilot of the reason for holding. The instruction "TAXI TO POSITION" therefore reduces the pilot-controller communication workload and may enhance operational efficiency. However, after receiving the instruction "TAXI TO POSITION," the pilot must await clearance for take-off after moving into position on the runway. In fact, it is understood that "TAXI TO POSITION" also means "AND WAIT" if take-off clearance is not given immediately. Because the instruction "TAXI TO POSITION" suggests that the pilot wait without clearly stating it, it is possible that a pilot for some reason would not hold and would take off without clearance, creating a dangerous situation.
+
+
+Under the current procedure, if there is only one aircraft, the controller could ask it to taxi to position without specifying that it should wait even if a vehicle is on the runway. In that case, the redundancy provided by the instruction to hold is lost, and the pilot could unexpectedly take off. It is reasonable to conclude that the instruction "TAXI TO POSITION" does not provide the same level of safety to protect aircraft on a runway as the instruction "TAXI TO POSITION AND WAIT."
+
+
+An examination of the radios in the control tower revealed that the communication problems between the tower and the Cessna did not originate with the tower communication equipment. The controller deactivated the air frequency in an effort to correct the problem. This action, however, had no effect on the quality of reception of the ground frequency. When a faulty radio is suspected, the controller can switch on a backup receiver or a backup transmitter, or both. The action of the controller indicates unfamiliarity with the radio system installed in the tower and the procedures for operating it. On this point, the investigation also revealed that some controllers in the Qu bec tower had insufficient or incorrect knowledge of the operation of the radio console.
+
+
+When the controller realized that the Cessna 172 had taken off without clearance, he immediately attempted to contact first ACA513 then the Cessna 172. Since the transmit function had been disabled by the controller, the aircraft could not receive his instructions. The stress generated by the suddenness of the occurrence likely diminished the controller's effectiveness in responding properly to the emergency. It is possible that the lack of simulation of emergency situations and equipment failures in ongoing training contributed to his inability to solve the problem he was confronted with. It was the vigilance of the Airbus A320 pilot and his effective management of an emergency situation that prevented the situation from getting worse.
+
+
+There have been no reports of take-offs without clearance at the Qu bec Airport in at least the last five years. The investigation determined that, in fact, incidents involving a take-off without a clearance did occur and were not reported. It appears that some controllers and pilots alike do not understand that it is crucial to report each and every incident or error in the system in order to measure the effectiveness of aviation safety programs, including those that measure risks of collision. NAV CANADA and Transport Canada audits of the Qu bec tower did not detect this deficiency.
+
+
+Although the supervisor had the authority to combine control positions and authorize controller breaks, his management of the work schedule contributed to this incident. There was sufficient staff available (counting the supervisor) to operate both control positions separately. Had the ground position not been combined with the air position, the air controller would not have deactivated the transmit button of the air frequency in an effort to solve a problem thought to originate with interference between the airport and ground control frequencies. The airport/ground controller's intervention to stop the Cessna from continuing its take-off roll would most likely have been successful.
+
+
+There is a significant disparity between the number of phraseology errors found in the evaluation of the supervisor by the NAV CANADA evaluator and the number of phraseology errors found by the TSB. A phraseology review of the ATC occurrence tape revealed many of the same types of errors that had not been detected by the NAV CANADA evaluator. It should be noted, however, that these errors did not contribute directly to the incident. Nevertheless, this disparity can suggest the following:
+
+
+the NAV CANADA quality control program is partly ineffective; evaluation of the skills of a supervisor by a fellow supervisor lacks impartiality; the controls are not rigorously applied; standard phraseology is not always used; and Transport Canada supervision is partly inadequate.
+
+
+Although the errors noted in standard phraseology are minor, they are indicative of some laxity that could eventually interfere with the effective communication of information. It appears that the performance evaluation program does not enable each controller to maintain their skills and knowledge up to date and apply them while complying with prescribed standards.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The Cessna 172 took off without clearance from Runway 30, causing a risk of collision with the Airbus A320. The controller instructed the Cessna 172 to taxi to position on Runway 30, but did not instruct it to wait and did not advise that the Airbus A320 was taking off on Runway 24. The controller did not anticipate that the Cessna 172 might take off without clearance, causing a risk of collision with the Airbus A320. Given that the controller deactivated the transmit button for the air frequency, neither the Airbus A320 nor the Cessna 172 could hear the controller's instructions to abort take-off.
+
+
+
+Findings as to Risk
+
+
+The Air Traffic Control Manual of Operations (ATC MANOPS) does not clearly define criteria for numbering aircraft in the departure sequence. Some controllers in the Qu bec tower misunderstood the operation of some functions of the radio console. Canada and United States phraseologies used to clear an aircraft onto a runway are similar in wording to International Civil Aviation Organization (ICAO) phraseology to hold an aircraft short of a runway. Those similarities open the door to misinterpretation by crews with potential for catastrophic consequences.
+
+
+
+Other Findings
+
+
+The absence of simulation of emergency situations and equipment failures in ongoing training contributed to the controller's inability to solve the problem that he was confronted with. A review by the TSB of NAV CANADA's evaluations revealed that the division responsible for NAV CANADA's evaluations did not realize that some controllers were not complying with standard practices and procedures.
+

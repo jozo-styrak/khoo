@@ -1,0 +1,38 @@
+
+
+Analysis
+
+
+The sequence of events could not be determined. However, the factual information established that there was a stall and loss of control at low altitude, that the engine was producing little or no power, and that the propeller was barely rotating at the time of the crash. In addition, the normal exhaust temperature indicates that power decreased rapidly shortly before impact.
+
+
+The cause of the rapid power decrease could not be determined. There was no evidence that the decreased power on impact was caused by engine component failure. It is unlikely that the pilot throttled back to idle to reduce impact deceleration forces because, based on the marks and the tachometer reading near zero, the propeller was barely turning. However, the decrease in power could have been the result of a power loss due to fuel system contamination or carburettor icing. Although it could not be determined that the fuel was contaminated, the rapidity of the power decrease suggests that it is more likely that a power loss was caused by fuel contamination than by carburettor icing.
+
+
+The cause of the stall and loss of control at low altitude could not be determined. Meteorological conditions do not appear to have been conducive to icing on the surfaces before or during the flight, and probably did not contribute to the loss of control. However, the aft centre of gravity and excessive weight of the aircraft were conducive to stalling.
+
+
+If a power loss occurred during the initial climb, the pilot would have had to react to this emergency while very close to the ground, and with obstacles in his path. Dealing with this problem could have diverted his attention from his primary task of flying the aircraft, or caused spatial disorientation, resulting in a stall and loss of control.
+
+
+The exact time of the accident could not be determined. However, based on the pilot and passenger's schedule and the 15 to 20 minutes of preparation normally required, the take-off probably occurred in night VFR conditions around 0600 EDT. The location of the crash site, near the airport and along the usual take-off path, indicates that the accident occurred during the initial climb after take-off, which was corroborated by the absence of radar returns in the immediate area during the relevant period. In addition, the absence of the cracking sounds that are associated with engine cool-down indicates that the crash occurred well before the first person arrived at the site.
+
+
+Outside visual references were probably limited because: 1- the take-off was executed during the hours of darkness from an unmarked runway; 2- the horizon was difficult to see in the dark; 3- poor outside light conditions existed along the take-off path over unlit fields; 4- the pitched-up attitude obscured the view of the ground below and ahead of the aircraft during the initial climb. Lack of external visual references during the initial climb may have resulted in a stall and loss of control following spatial disorientation.
+
+
+The stall and loss of control occurred at low altitude, and the available external visual references, which were probably limited, did not allow the pilot to effect recovery before the crash.
+
+
+The following laboratory reports were completed:
+
+
+LP 174/94 - Instrument Analysis; and LP 175/94 - Exhaust Pipe Analysis.
+
+
+
+Findings
+
+
+The engine was developing little or no power and the propeller was barely turning at the time of the crash. The cause of the rapid decrease in engine power shortly before the crash could not be determined. It could not be determined whether the rapid decrease in power occurred before or after the aircraft stalled at low altitude. The aircraft was 110 pounds overweight and its centre of gravity was beyond the aft limit, contributing to the possibility of a stall. The low altitude and the available external visual references, which were probably limited, did not allow the pilot to effect a recovery after the stall and loss of control.
+

@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The chain of events that led to this loss of separation and ultimately to the risk of collision comprised deficiencies in controller planning, executing, and monitoring, and a breakdown of the radar controller's situational awareness (a mental picture of relevant traffic). It could be argued that the actual loss of separation was initiated when the radar controller cleared C-GKOS to 17 000 feet, since at that time he did not accurately assess the relative positions and the progress of the two flights toward each other.
+
+
+When the data controller passed an estimate and an altitude for C-GKOS to Comox, the flight progress strips were not annotated to indicate a conflict, because there was no attempt to assess the relative positions of the two aircraft where the tracks would cross. The collision path geometry of the radar targets was evident on the radar controller's radar information display for at least 12 minutes before the potential collision was pointed out to him. However, he did not indicate the potential conflict between C-GKOS and VAL712 on the flight progress strip and continued to rely on his initial assessment that the two aircraft would not conflict at the time their flight paths crossed. The radar controller did not use any of the radar display tools to assist him in monitoring the progress of the two aircraft toward their flight paths' intersection point. Without the use of the available display tools, neither the information on flight progress strips nor on the radar display was compelling enough to alert the controllers to the potential conflict.
+
+
+Once the radar controller recognized the quickly developing risk of collision (at about 1351:50), he sought to employ an altitude change to C-GKOS to avoid a collision. He did not warn each aircraft of the other, he did not ascertain if either aircraft had the other in sight, and he did not issue a flight path change to VAL712. His difficulties were made more complex by the short time available to assess the dynamic situation and execute an evasive plan after the Comox controller alerted him to the conflict. Initially, the radar controller did not know if the pilots in VAL712 had seen C-GKOS, thus compounding his aircraft management difficulties. It would have been prudent for the radar controller to have also issued evasive instructions to VAL712, whether altitude change, directional change, or both. However, since he was required to display a large range to ensure the entire airspace for which he had responsibility, the radar targets of the two aircraft were likely so close that they were overlapping to some extent. This proximity or overlap would have made it difficult to quickly determine the exact lateral relationship between the two aircraft and to issue a suitable vector to resolve the conflict.
+
+
+Had the radar controller used the correct call sign when he first issued the instruction to C-GKOS to descend and had the collision geometry remained constant, the descent instruction alone might have provided sufficient vertical spacing to avert a collision. The radar controller's evasion instruction issued to and acknowledged by C-GKOS was, however, ineffective because the altitude change occurred after the aircraft flight paths had crossed. However, the line of relative bearing had, by this time, begun to increase because C-GKOS had accelerated to cruising speed; hence, the risk of collision dissolved. The radar controller's improper aircraft identification nullified the chance of success for his plan of action, since this error added to the delay before the pilot received and actioned the altitude instruction.
+
+
+Radar data show that C-GKOS began to descend about 20 seconds after the pilot received the clearance to maintain 15 000 feet; therefore, the pilot likely did not associate any degree of urgency to the altitude instruction. The pilot of C-GKOS likely became aware of the conflicting traffic through hearing the communications between the radar controller and VAL712 about the TCAS alert and the proposed descent to 15 000 feet. Had the radar controller used more imperative instructions to C-GKOS to descend (for example, by using the word "immediately") or pointed out the conflicting traffic, the pilot of C-GKOS would have been alerted to the developing situation and could have employed a more aggressive or earlier evasive descent. Either scenario would likely have established sufficient vertical spacing.
+
+
+It was not determined why the radar controller did not consider VAL712 when issuing altitude clearances to C-GKOS. There were opportunities for him to be alerted to the conflict between VAL712 and C-GKOS: the flight progress strip for VAL712 indicated 17 000 feet and was laid out for the same direction of flight as C-GKOS, and radar information was correctly displayed. In the five minutes before issuing C-GKOS the clearance to 17 000 feet at 1341:24, the radar controller had significantly less activity, a situation that normally is not conducive to a loss of situational awareness. However, in the few minutes before the risk of collision, he was engaged in controlling two aircraft in and out of Port Hardy; he might have focused on these activities to the exclusion of monitoring C-GKOS and VAL712.
+
+
+In essence, the radar controller lost situational awareness at about the time he cleared C-GKOS to 17 000 feet and caused a loss of separation between the two aircraft. He did not take any action to calculate crossing times or use any of the display tools available to him to update his original mental model of the relative positions and progress of the two aircraft. When later presented with a rapidly developing conflict, he issued instructions that were ineffective to reduce the risk of collision. The collision geometry was changed by C-GKOS's acceleration. The last defence mechanism available to prevent an in-flight collision and the only factor that safeguarded against a collision was the VAL712 pilots seeing C-GKOS and the subsequent TCAS alert.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The radar controller lost situational awareness, issued an altitude clearance to C-GKOS that directly conflicted with VAL712, and, thus, initiated the loss of separation. The radar controller and the data controller did not identify the developing traffic conflict until, at the handoff, the Comox controller apprised the radar controller of the conflict. As a result, the radar controller had little time to manoeuvre the aircraft effectively to reduce the risk of collision. The radar controller twice used the wrong call sign for C-GKOS when he issued corrective instructions. As a result, the pilot received the descent instructions too late to reduce the risk of collision.
+
+
+
+Findings as to Risk
+
+
+Because the radar controller did not use imperative radio phraseology with the C-GKOS pilot, the timely response the controller had expected did not take place. Imperative phraseology would have indicated a degree of urgency to descend. The radar controller and the data controller did not mark the flight progress strips to indicate the potential conflict, either when the estimate for C-GKOS was initially passed to Comox or when C-GKOS was cleared to maintain 17 000 feet. As a result, the likelihood of detecting the conflict during a later scan of the strips was reduced. The radar controller relied on an initial cursory comparison of the flight paths of the two aircraft to determine whether a conflict existed. He did not update his situational awareness through more exacting means, such as estimating crossing times or using radar display tools.
+

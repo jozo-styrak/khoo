@@ -1,0 +1,23 @@
+the existing ambient temperatures	snow entering the stall warning system would probably have melted on contact , leaving the resulting water in the stall warning system
+cooling	the stall warning system , allowing the water in the system to freeze during the station stop at Island Lake
+the lift transducer vane tolerances in this particular aircraft resulted in a vane position normally in the wing stalled position when the aircraft was at rest	the vane would have frozen in that position during the station stop
+the first officer believed that the aircraft might not be capable of flight	he called for a reject , even though the airspeed was beyond V1
+the time required for recognition , decision , and reaction , engine power was reduced four seconds after rotation	The quick-reference speeds for V1 of 103 knots , and VR of 106 knots used by the crew , were slightly higher than those -LRB- 101 knots and 101 knots respectively -RRB- listed in the more-detailed reference in the AFM ;
+the factors listed above , the crew used reverse thrust	both engines
+increasing the rolling resistance increased the stopping distance by decreasing tire traction	thereby increasing the accelerate-stop distance of the aircraft by an undetermined amount
+performance data were not available	the crew was not able to determine how much snow on the runway was acceptable for continued operation of the aircraft , or to what extent such snow and a slippery runway would affect the take-off and rejected take-off performance of the aircraft
+After the system was turned off , no heat was provided to the system ; thereafter , the ambient airflow over the wing during the taxi from the runway to the ramp , and the ambient temperature , would have had the effect of cooling the stall warning system	the water in the system to freeze during the station stop at Island Lake
+this particular aircraft	a vane position normally in the wing stalled position when the aircraft was at rest
+it	them avoid the false stall warning after take-off
+its	operating voltage
+the wings were	lift and
+engine power was	four seconds after rotation
+The snow on the runway increased both the aircraft 's acceleration distance by increasing the rolling resistance , and increased the stopping distance by decreasing tire traction	the accelerate-stop distance of the aircraft by an undetermined amount
+The snow on the runway increased both the aircraft 's acceleration distance by increasing the rolling resistance	the stopping distance by decreasing tire traction , thereby increasing the accelerate-stop distance of the aircraft by an undetermined amount
+manufacturer	performance charts
+such snow and a slippery runway	the take-off
+The Beech 1900 stall warning test function does not detect a condition in the stall warning system	a false stall warning on take-off
+Neither pilot received instruction on faults related to the stall warning system	a false stall warning
+The reduced heat provided to the stall warning system during the short taxi time was	the ice
+The pilots ' use of the cockpit quick reference take-off speed chart	slightly increased aircraft 's accelerate-stop distance
+The higher-than-V1 speed from which engine power was reduced , together with the snow-covered runway conditions	the aircraft 's accelerate-stop distance

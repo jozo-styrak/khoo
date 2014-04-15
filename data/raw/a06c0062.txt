@@ -1,0 +1,64 @@
+
+
+Analysis
+
+
+The aircraft was at an unusually low airspeed on short final approach when the flaps were lowered from 24 to 28 . The resulting increased drag combined with the low power setting likely produced the rapid rate of descent. The weather at La Ronge at the time of the occurrence indicated that wind shear was unlikely.
+
+
+Following the rapid rate of descent on short final approach, an unintentional shutdown of the left engine and propeller occurred when the first officer rapidly advanced the power levers. An inadvertent engine shutdown can normally be handled without losing control of the aircraft, given the performance capabilities of the aircraft and crew training for such emergencies. This analysis will focus on why the control loss was not avoided.
+
+
+The crew's handling and perception of the engine power settings, the unexpected autofeather, and the crew members' inability to identify the emergency all contributed to a loss of situational awareness with respect to the aircraft's energy status and the nature of their emergency.
+
+
+The autofeather system does not incorporate a delay between the time a low propeller thrust condition is detected and the time the autofeather occurs. Therefore, with the propellers in a low-thrust condition, parameters were met for an autofeather and engine shutdown when the first officer rapidly advanced the power levers beyond the 60 position.
+
+
+Several abnormal events occurred in rapid succession during the last seven seconds of the final approach. Consequently, the captain was unaware of the cause of the high sink rate, and when he made the decision to go around, he was not aware that the left engine had shut down. Attempting a go-around at or below V1 with a malfunctioning aircraft is contrary to the SOPs for this type of aircraft. This crew was not in a normal or anticipated situation. Go-around procedures are developed with the expectation that the procedure will be initiated before landing, while the aircraft is still airborne. Rejected take-offs, and their associated safety speeds, assume an engine failure or malfunction during the take-off roll. The accident crew found themselves in a situation that fell somewhere between a go-around and a rejected take-off.
+
+
+Attempting a go-around at a point where the crew had intended to land, deviating from the go-around SOP, and the captain's retarding the power levers all contributed to the crew losing situational awareness. The result was confusion in the cockpit and a breakdown of crew coordination, which impeded the crew's ability to recognize and deal with the engine autofeather and shutdown.
+
+
+At the airspeed and landing weight at which the aircraft touched down, there was more than sufficient distance remaining to stop under normal conditions, and the aircraft's heading was closely aligned with the runway. However, inconsistencies between different sections of the AOMs, the lack of a checklist for training in the circuit, and the absence of information on rejected landings likely contributed to the confusion that the crew experienced, which affected the decision to initiate a go-around.
+
+
+The impact marks on the right engine's coordinator cam indicate that the captain had reduced the right power lever to approximately the 60 position, where it likely remained until impact. The first officer did not provide engine power status to the captain. Consequently, the captain was not aware that the remaining (right) engine was not set to deliver maximum power. The aircraft's TD system provides engine over-temperature protection; therefore, there was no immediate requirement for the captain to retard the power levers. Reducing power on the operating engine decreased the aircraft's energy status and likely contributed to its inability to accelerate to an airspeed at which control could have been maintained.
+
+
+Because the flaps were not retracted to 15 upon initiation of the go-around, the aircraft did not accelerate and climb as it was capable of doing. When the flaps were retracted, the aircraft was in a left bank flight attitude, and the aircraft's bank angle and rate of descent increased. The aircraft then descended uncontrollably into the wooded terrain.
+
+
+The erratic power lever movement increased the risk of an undesired activation of the right engine's NTS system, which may have produced an engine underspeed, reducing available power, and possibly causing the right engine to flame out. This situation would be consistent with the reported horsepower fluctuations. Without normal power on the remaining right engine, it would have been impossible for the aircraft to accelerate to an airspeed at which the aircraft was controllable.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 070/2006 - Fuel Analysis LP 049/2006 - Instrument Panel Caution Light Analysis LP 050/2006 - Electronic Flight Display Analysis
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The flight crew attempted a low-energy go-around after briefly touching down on the runway. The aircraft's low-energy state contributed to its inability to accelerate to the airspeed required to accomplish a successful go-around procedure. The rapid power lever advancement caused an inadvertent shutdown of the left engine, which exacerbated the aircraft's low-energy status and contributed to the eventual loss of control. The inadvertent activation of the autofeather system contributed to the crew's loss of situational awareness, which adversely influenced the decision to go around, at a time when it may have been possible for the aircraft to safely stop and remain on the runway. The shortage and ambiguity of information available on rejected landings contributed to confusion between the pilots, which resulted in a delayed retraction of the flaps. This departure from procedure prevented the aircraft from accelerating adequately. Retarding the power levers after the first officer had exceeded maximum power setting resulted in an inadequate power setting on the right engine and contributed to a breakdown of crew coordination. This prevented the crew from effectively identifying and responding to the emergencies they encountered.
+
+
+
+Findings as to Risk
+
+
+The design of the autofeather system is such that, when armed, the risk of an inadvertent engine shutdown is increased. Rapid power movement may increase the risk of inadvertent activation of the negative torque sensing system during critical flight regimes.
+
+
+
+Other Findings
+
+
+There were inconsistencies between sections of the Conair aircraft operating manual (AOM), the standard operating procedures (SOPs), and the copied AOM that the operator possessed. These inconsistencies likely created confusion between the training captain and the operator's pilots. The operator's CV-580A checklists do not contain a specified section for circuit training. The lack of such checklist information likely increased pilot workload.
+

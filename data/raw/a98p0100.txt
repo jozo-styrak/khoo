@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The pilot noted fuel pressure fluctuations on the cockpit engine instrument gauges. These fluctuations would have been caused by the fuel leak at the EDFP. This leak was the result of the gradual loss of torque on the four screws that hold the fuel pump relief valve cap to the body of the pump. The problem had been previously identified and SBs on the pump had been issued by the engine manufacturer as early as 17 November 1976. No record could be found of this SB being carried out to the EDFP on the occurrence aircraft.
+
+
+Because of the requirement to operate the EDFP for 5 to 10 hours before retorquing the screws, this SB cannot be complied with at pump overhaul and is unlikely to be performed at engine overhaul. It is more likely that the aircraft maintenance facility would perform the SB after the specified time had been accumulated on the component. The fuel boost pump leak was a direct result of not performing the work set out in the SB.
+
+
+The EDFP leaked fuel into the engine compartment, providing a source of fuel that could contribute to an in-flight fire when in contact with hot components such as the turbocharger or the exhaust system.
+
+
+To respond to this in-flight fire emergency, the pilot had to remove his headset jacks to access the boost pump circuit breaker. This extra action impeded his check-list response and degraded his communication with his maintenance facility and air traffic control resources in a serious contingency situation.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 054/98-Fuel Pump Examination
+
+
+
+Findings
+
+
+Company maintenance had previously noted fluctuating fuel pressure to the number-two engine and had attempted to correct the problem by changing its fuel flow transducer. The manufacturers of the engine and of the EDFP had both been aware of circumstances causing the pump to leak and had issued SBs to correct the problem. No record was found to show that the SB pertaining to the fuel pump leak had been performed on the accident aircraft. SBs may be performed on components, signed off against the aircraft, then the component replaced with one that has not had the SB performed on it--with no record to indicate this to be the case. Service Bulletins, even mandatory SBs, do not have to be complied with in Canada. The EDFP is located near the turbo charger and other hot exhaust system components. The EDFP leak was the result of loss of torque on the relief valve cap attaching screws. The leaked fuel was likely ignited by the turbocharger/exhaust system. The location of the headset jacks required the pilot to remove the jacks to access the fuel pump circuit breaker, thereby degrading the pilot's ability to communicate during a contingency situation and impeding the response to the in-flight emergency.
+

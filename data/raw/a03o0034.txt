@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+In this occurrence, a number of factors combined, resulting in the runway excursion. This analysis will examine those factors, including the flight crew's unfamiliarity with and non-adherence to uncontrolled aerodrome procedures, the flight crew's failure to activate the ARCAL lighting system in a timely manner, the illusions created by drifting snow during low visibility taxi and ground manoeuvring, and lastly, the flight crew's non-conformance with company SOPs.
+
+
+The first officer was unfamiliar with procedures at uncontrolled aerodromes. He transmitted the initial aircraft manoeuvring on the apron on the appropriate ATF and then, in error, requested the IFR departure clearance on this frequency. He then contacted London FIC on the appropriate radio frequency to obtain the departure clearance. The first officer made it known to the captain that he was not familiar with uncontrolled aerodrome procedures and as a result the captain assisted the first officer in his PNF duties, thereby increasing his own workload. The captain made the subsequent appropriate radio calls while manoeuvring on the taxiways and prior to back-taxiing on the runway; however, these radio calls were transmitted on radio frequencies other than the ATF. This non-use of the ATF and the captain's expectancy to receive a response on either the tower or ground frequency indicated that he was not fully aware of the environment in which he was operating. The flight crew did not monitor the published ATF, and, as a result, they did not hear any of the radio transmissions directed to them by Staff 28.
+
+
+During the runway back-taxi and after conducting the before take-off check, the flight crew discussed the lack of runway lighting and the means of activating the ARCAL lighting system. Skyservice Airlines does not specifically address the operational use of ARCAL lighting systems in either its initial or recurrent ground school for flight crew members. It likewise does not address operations at night at uncontrolled aerodromes in either company SOPs or the company operations manual. There is no Transport Canada regulation requiring them to do so; however, instructions for using ARCAL lighting exist in the Canada Flight Supplement (CFS) as well as the Air Canada Route Manual Supplement, which is Skyservice's primary source of airport supplementary information. Both of these documents are part of the on-board library and were available to the flight crew.
+
+
+The flight crew back-taxied the aircraft on the runway in conditions of rear quarterly gusting winds and blowing snow at night without the benefit of runway lighting. During the low visibility taxi, both flight crew members indicated that they could visually reference the end of the runway; however, they did not consider the illusions of relative movement to which they were being subjected. The strong tailwind with blowing snow conditions would have given the crew the illusion of moving slower than they were actually moving. Activation of the ARCAL lighting system prior to entering the runway is not only good airmanship, as it indicates to other airport vehicles that the runway is in use, but it also would have provided the flight crew with a visual cue as to the aircraft's relative movement as it back taxied about 5500 feet of runway. It also would have clearly indicated the end of the runway to the flight crew.
+
+
+Contrary to company SOPs, the flight crew did not monitor the aircraft ground speed to ensure a safe taxi speed while back-taxiing on the runway. The aircraft exceeded the normal maximum straight line taxi speed of 30 knots and exited the end of the runway at approximately 35 knots.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+LP010/2003 - FDR/CVR Examination
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The flight crew continued to taxi at night in low visibility conditions after the airfield lighting had extinguished, which deprived the crew of important visual cues to clearly identify the end of the runway and cues as to the taxi speed of the aircraft. The flight crew did not monitor the aircraft's ground speed to ensure a safe taxi speed while back-taxiing on the runway. The aircraft exceeded the normal maximum straight line taxi speed of 30 knots and exited the end of the runway at approximately 35 knots. The flight crew did not consider the illusion of relative movement caused by the tailwind and blowing snow on the runway. This contributed to the aircraft ground speed inadvertently increasing to 35 knots. The captain observed the runway end lights after the ARCAL lighting system was activated and applied heavy braking; however, because of the aircraft's proximity to the end of the runway and the speed at which the aircraft was taxied, it failed to remain within the confines of the runway. The first officer was unfamiliar with procedures for operating at uncontrolled aerodromes and in the use of ARCAL lighting and, as a result, the captain conducted both PF and PNF duties, which increased his workload.
+
+
+
+Findings as to Risk
+
+
+The captain made the appropriate radio calls while manoeuvring the aircraft on the taxiways and prior to proceeding onto the runway; however, these transmissions were not made on the ATF of 124.7 MHz.The flight crew did not adhere to uncontrolled aerodrome procedures and as a consequence were not aware of any communiques directed to them on the ATF. Skyservice does not include operations at uncontrolled aerodromes in either initial or recurrent ground training for flight crews.
+

@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+The findings of the TSB Engineering Branch report suggest that the coarse thread of stud number one was significantly damaged prior to installation in the thread of the stud boss. Installation of stud number one resulted in damage to the thread of stud boss number one. Eventually, the remaining thread material in stud boss number one could no longer maintain the required hold down stress, failed in shear, and began to work in the stud boss, polishing the bore as observed.
+
+
+The loss of clamping force at stud number one resulted in a disproportionate load on studs two and four. Eventually, the stud boss thread holding studs two and four in the front accessory support weakened and failed in shear, again followed by some working in the bore, generating the rub damage observed. Finally, the total hold down clamping force provided by studs one, two and four was insufficient to resist the applied loads, and the nose dome levered stud number three out of the front accessory support, bending stud number three and breaking off stud boss number three in the process.
+
+
+The damage to stud number one was most likely a result of rotational engagement with a harder material. As the front accessory support is manufactured from a cast magnesium alloy, which is a significantly softer material than the stud material, and there are no threaded inserts in the front accessory support, stud number one could not have been damaged during installation. Damage as a result of previous installation in a heli-coil repaired stud boss was initially suspected; however, the symmetrical nature of the thread crest damage to the stud and the large number of affected thread crests suggests that this was not the cause. Possible scenarios which would lead to the type of thread damage observed on the stud include rotation of the stud while held in a vise or rotation of locking pliers around the threads of the stud.
+
+
+Other operators of Boeing 737-200 that have experienced worked or damaged threads in accessory supports have initiated repair schemes to strengthen the stud boss by installing stainless steel inserts. This modification reduces progressive stud boss thread wear. If the incident accessory support had the strengthened stud bosses, it is possible that the nose dome would not have come loose, even with one damaged stud.
+
+
+The loud bangs heard by the crew and passengers, combined with the engine indications presented to the pilots are indicative of an engine compressor stall. The compressor stall was created by the dislodged dome disrupting the airflow into the engine and thus the engine was not capable of producing full thrust.
+
+
+Engine tear down confirmed that there were no signs of fire in the engine. Flames from the engine, seen by passengers in the aircraft, were likely the result of engine surges due to distortion of the inlet flow field.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 08/02 - Nose Dome Detachment
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The engine suffered a series of compressor stalls resulting from the in-flight detachment of the inlet nose dome assembly. The nose dome detached from the front accessory support as a result of loss of the hold-down clamping force. The threads on stud number one were damaged before installation in stud boss number one.
+

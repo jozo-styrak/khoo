@@ -1,0 +1,76 @@
+
+
+Analysis
+
+
+The analysis will examine the nature of the control restriction, its origin, including the possible influence of freezing rain, and the residual risk in view of the inherent limitations of procedures and regulations that are aimed at reducing the hazards of aircraft icing.
+
+
+FDR data indicated that something had physically interfered with movement of the left elevator. In the absence of a mechanical problem or other foreign object in the flight control system, the investigation focussed on icing. Based on the mechanical arrangement of the elevator controls and on previous occurrences, icing could have affected the controls in the following ways:
+
+
+Movement of the left elevator spring tab may have become restricted by snow, ice, or frozen rehydrated anti-icing fluid residues. This was rejected because the FDR already showed discrepancy in elevator movement during the control check at taxi speed, too slow for the tab to have an influence, and there was no indication of contaminants during post-occurrence inspections. Ice may have formed on the elevator horn and interfered with elevator movement. This type of ice is associated with in-flight icing adhering and building up from the leading edge of the horn. This possibility is not supported by the transitory nature of the restriction and the lack of ice on the horn when it was inspected after the incident. Ice may have been present in the gap between the elevator and the shroud at the trailing edge of the horizontal stabilizer. Previous occurrences have shown that contamination in this location can interfere with elevator movement by jamming between the elevator and the shroud. This was considered the most likely method of interference in this occurrence.
+
+
+In view of the initially unrestricted movement of the elevator, the transitory nature of the restriction, and the lack of contaminant in the location during post-occurrence inspection, it was considered unlikely that contamination was frozen in a fixed position in the gap. Rather, a remnant of ice was likely floating in the anti-icing fluid on the left elevator. During the control check, it probably moved into the gap between the elevator and the shroud at the trailing edge of the stabilizer and caused the discrepancy that was recorded by the FDR between left and right elevator position during the lateral control check. The remnant of ice did not need to be very large; the clearance between the shroud and the elevator is only 0.15 to 0.25 inches as shown in Figure 1. In view of the freezing rain on the previous approach and on the ground between flights, it was likely clear ice, and it escaped visual detection during de-icing. When the elevator trailing edge was moved from the trailing edge down position (the locked position prior to this point of the flight as shown in Photos 1 and 2) to the trailing edge up position (as shown in Photo 3) during the control check, the ice likely migrated forward and lodged between the elevator and the shroud. When the pilot checked the lateral controls, the elevator was approximately neutral, being held without any restraining or locking device against its own weight and wind gusts with no intentional movement. Under these conditions, the elevator position discrepancy was not discernable by feel to the pilot. There is no cockpit indication of elevator position or of differences between the elevators.
+
+
+Photo 1. Left horizontal stabilizer with elevator trailing edge down
+
+
+Photo 2. Underside of stabilizer showing gap, controls in locked position
+
+
+Figure 1. Horizontal stabilizer and elevator cross section
+
+
+Photo 3. Horizontal stabilizer with elevator in trailing edge up position
+
+
+The ground de-icing program is intended to ensure that the critical surfaces of an aircraft are free of ice and contaminants at take-off. It relies on the aircraft being de-iced in accordance with the operator's approved procedures and inspected prior to take-off. In this occurrence, there was a minor deviation from usual practice when both sides of the tail were de-iced from one side of the aircraft. The procedure was co-ordinated between the boom operators, the icing lead, and the flight crew in order to reduce the total time for the de-icing process. The equipment was capable; the telescopic boom had adequate reach to put the boom operator in the normal position required to de-ice the aircraft. There was nothing to indicate that the procedure used in this instance influenced the occurrence; however, the operator has taken steps in the interests of standardization to ensure that, when two trucks are used, they operate symmetrically.
+
+
+The Air Canada Jazz ground de-icing program relies on visual inspection by the boom operator to confirm that the critical surfaces are free of contamination after the aircraft is de-iced. A small remnant of clear ice would have minimal visual contrast between it and the wet elevator surface; therefore, it may not be detected despite due diligence and proper qualification of de-icing personnel. While such an ice remnant would most often blow off when airspeed increases during the take-off, there is a risk that it could migrate into an aerodynamically quiet location such as between control surfaces, as it likely did in this occurrence, and where its presence would cause a control jam in aircraft without power controls.
+
+
+The investigation considered if a pre-take-off contamination inspection could have been an effective defence against this occurrence. In this occurrence, it was not carried out and it was not required because there had been no precipitation since completion of de-icing and there was no other requirement in the Air Canada Jazz COM to perform one. Visual examination of the left wing outboard roll spoiler, the representative surface, would not reveal, nor is it intended to reveal, ice elsewhere that had previously escaped detection. The Air Canada Jazz COM does not require a tactile, pre-take-off contamination inspection, but if it did, it would focus on the upper surface and leading edge of the wing and probably would not detect a fragment of ice on the tail. The practicality of a tactile inspection including the horizontal stabilizer and elevator of a T-tail aircraft immediately before take-off is doubted. It is concluded that a pre-take-off contamination inspection is not likely to offer an effective defence in the occurrence circumstances.
+
+
+The control check performed by the flight crew prior to the rejected take-off was consistent with company SOPs. However, the aircraft manufacturer considered that the rate of elevator movement was too rapid to reliably detect restrictions to the tabs and/or torque tubes. The AFM did not present information that would make pilots aware of this. The manufacturer has since issued revised guidance19 that calls for slow, smooth control checks following application of de-icing or anti-icing fluids. The revised procedure will improve the effectiveness of the control check, but it cannot detect ice that has not migrated between the control surfaces. In this occurrence, the elevator restriction was not evident in the FDR until after the pitch control check had been completed.
+
+
+The presence of an undetected remnant of clear ice on an aircraft critical surface after de-icing prior to take-off is an unsafe condition for which the existing defences are inadequate to preclude beginning to take off. The adverse consequence is that the ice may migrate between control surfaces. For aircraft without power controls, this would be perceived by the pilot as a control jam on rotation. Based on the lack of previously documented occurrences of this nature, this is considered an unlikely event. Once the aircraft is airborne, ice of this nature would probably have blown off the aircraft. An airborne jam would be most improbable and procedures exist to respond safely to that situation. The correct pilot response to a control restriction at rotation is to reject the take-off. In most operations on the Dash 8 aircraft, decision speed (V1) and rotation speed (VR) are equal and aircraft operated in accordance with CAR 704 or 705 are assured of having sufficient stopping distance available to safely reject the take-off. If V1 is less than VR, then the aircraft would not be assured of stopping safely and the potential exists for severe injury and major aircraft damage. For the occurrence flight, V1 and VR were both 92 KIAS.
+
+
+The adequacy of guidance for flight in freezing rain conditions was examined since the source of the ice may have been freezing rain from the preceding flight, and the planned flight was into forecast freezing rain conditions. A suggestion that these flights should not have been attempted because the forecast freezing rain was outside the certification envelope is not supported by CARs, the CBAACs that are still posted on the Web site, the AFM, or the COM.
+
+
+There is ambiguity in the manner that this issue - flight in freezing rain and operating in icing conditions - is presented in the guidance publications TP 10643 and TP 14052. They both focus mainly on the ground icing program, but both also contain material relevant to in-flight icing. CARs standards place operations in icing and recognition of in-flight icing within the scope of surface contamination training, which is the purview of TP 10643, although TP 10643 acknowledges that other guidance may supersede it. TP 14052 presents itself as a higher authority when it states that it replaces all previous CBAACs and "must" be included in the company training program. Although the intent is probably limited to ground icing training, CAR Standard 725.124 does not recognize ground icing training separately from surface contamination training, within the scope of which are operations in icing and recognition of in-flight icing.
+
+
+The material in the TPs is not technically wrong and did not contribute directly to this occurrence. However, the failure to discriminate between certification criteria and operating rules and the lack of reference to the two CBAACs may result in the following:
+
+
+a false impression that there is a regulatory prohibition against flight in freezing rain; a reduction of the conspicuity of important safety material relevant to such operations; and a differing understanding as to the hazards and procedures involved in aircraft operations in icing conditions.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+A remnant of clear ice most likely migrated into the gap between the nose of the left-hand elevator and the shroud at the rear of the stabilizer when the elevator was moved trailing edge up during control checks and interfered with movement of the elevator when the pilot attempted to rotate for take-off.
+
+
+
+Finding as to Risk
+
+
+Existing defences cannot preclude the presence of undetected remnants of clear ice on an aircraft critical surface that is wet with de-icing fluid after de-icing. This ice may interfere with control movement during take-off and result in the pilot rejecting the take-off in aircraft without power controls; resulting in risk of severe injury or major damage for operations where decision speed (V1) is less than rotation speed (VR) and the aircraft cannot stop on the remaining runway.
+
+
+
+Other Finding
+
+
+Transport Canada guidance documents TP 10643 and TP 14052 present incomplete information concerning flight in freezing rain and operations in icing conditions. As a result, flight and ground crews may develop a differing understanding of the hazards and procedures involved in aircraft operations in icing conditions, and flight crew may not be aware of important safety material relevant to flight in icing conditions.
+

@@ -1,0 +1,7 @@
+Helicopters engaged in external load operations are not limited by the diagram	, pilots operating the Bell 205 helicopters in external load operations are exposed to a heightened level of risk because the potential to recover from a malfunction , such as power and drive train failure , is significantly reduced
+which was a decoupled engine	was no longer driving the rotors
+the engine was no longer driving the main rotor	the rotor rpm began to decay with a corresponding low rotor rpm warning and subsequent loss of lift
+the decoupling occurred at an altitude of 150 feet and at an airspeed of less than 40 knots	the helicopter was operating in a flight regime from which the likelihood of establishing a successful autorotation was low
+the potential to recover from a malfunction , such as power and drive train failure , is significantly reduced	Consequently , pilots operating the Bell 205 helicopters in external load operations are exposed to a heightened level of risk
+a progressive failure or damage that was not detected at the time of the grease seal replacement	The main input drive shaft of the helicopter failed at the forward coupling , most likely
+Failure of the main input drive shaft decoupled the engine from the transmission	a decrease in main rotor rpm

@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+At the time the pilot departed the Mould Bay Airport, marginal VFR weather conditions prevailed, with the ceiling and visibility estimated to be 500 to 1,000 feet overcast and 1 to 4 miles in fog and light snow. In these conditions, a whiteout probably would have existed over the eight-mile-wide expanse of sea ice on Mould Bay. Wreckage examination indicated that the helicopter was banked left and descending when it struck the ice, indicating that it was out of control. The severe breakup of the helicopter and the scattered wreckage trail are typical of numerous whiteout accidents. It is probable that the pilot lost visual reference because of the whiteout conditions, became disoriented, and lost control of the helicopter. It is possible that the pilot was tuning the radio at the time of the occurrence, which would have contributed to his disorientation.
+
+
+Because of its ease of use and accuracy, GPS encourages straight-line tracking. The data retrieved from the GPS following the crash and the location of the accident site on a direct line between the departure airport and destination indicate that the GPS was functioning and that the pilot was using GPS as his primary method of navigation. His decision to initiate and continue flight into weather conditions which were conducive to whiteout might have been influenced by the availability of GPS, by the favourable area forecast, and by the fact that he knew the weather was good in Sachs Harbour.
+
+
+The AWOS at Mould Bay was not accurately recording actual weather conditions at the time of the accident; however, this was not considered to be a factor in the occurrence.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 59/96 - Instrument Examination; and LP 58/96 - Servo Actuators Examination.
+
+
+
+Findings
+
+
+The pilot was certified and qualified for flight in accordance with existing regulations. Records indicate that the helicopter was certified, equipped, and maintained in accordance with existing regulations and approved procedures. It is probable that the pilot lost visual reference and became disoriented over sea ice during whiteout conditions. The pilot had limited instrument flying experience. Because of impact damage, the ELT did not transmit. The AWOS at Mould Bay was not accurately recording actual weather conditions at the time of the occurrence; however, this was not considered to be a factor in the occurrence.
+

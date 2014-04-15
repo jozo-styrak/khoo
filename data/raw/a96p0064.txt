@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+In general, in the event of an uncommanded engine deceleration in flight, the indications to the pilot would have been similar to those resulting from an engine flame-out, and would have given the pilot the same operational options. Such a deceleration would have been caused by a malfunction of the engine's fuel control unit (FCU). The engine run in the test cell after the accident repeatedly demonstrated consistent, specification engine performance, and normal function and performance of the FCU. The FCU examination and disassembly revealed no abnormalities, and demonstrated again that the FCU was functioning correctly. It is possible that foreign matter had entered the FCU at some time, caused it to malfunction, and yet became dislodged at impact; however, the undisturbed fuel samples taken before and during the first engine run contained no discernible contaminant, nor was any significant contaminant found at FCU disassembly. Given the success of the test cell runs and the FCU examinations, and in the absence of any contaminant found in the fuel system, it is unlikely that contamination of the FCU caused an uncommanded deceleration and led to the accident. Since no causal mechanical deficiencies with the engine or helicopter were found, this analysis concentrates on the operational factors of this accident.
+
+
+As a result of the engine examination, it was concluded that the engine was not delivering significant power at impact, although capable of doing so. As well, the damage to the rotor system is consistent with low torque and low rpm at impact. Although the engine throttle control was found in the closed position, there is evidence to conclude that it was moved by impact forces.
+
+
+Consequently, snow ingestion remains as the most likely reason for the engine stopping in flight. It was not possible to determine either the time of take-off from Goldstream or the duration of the flight prior to the engine stoppage. It is possible that (a) the helicopter flew into adverse snow showers and accumulated sufficient snow to flame out the engine, or that (b) unseen by the pilot, snow had accumulated inside the engine intake while the helicopter was on the ground at Goldstream, and slipped into the engine during in-flight manoeuvring and caused the flame-out. It is also possible that a combination of the above occurred.
+
+
+A sudden loss of engine power would have committed the pilot to conduct an autorotative descent and landing over inhospitable terrain, and possibly in adverse weather conditions. The in-flight circumstances immediately preceding the engine stoppage could not be determined; however, when the helicopter struck the trees during the last stage of descent, the main rotor rpm would have been reduced and, if the rpm had already decayed, likely would have rendered the helicopter uncontrollable, leading to inevitable impact with the surface.
+
+
+The TC Airworthiness letter dated 07 January 1994 which sought to clarify the DGAC AD restrictions on flight in falling snow, did not either identify the possibility of, or resolve, the ambiguity in the AD, nor did it further interpret the in-flight time restriction of 10 minutes. That Canadian operators of the AS-350 helicopter independently interpreted the AD with fundamental differences in their application of the in-flight time restrictions indicates that the AD is ambiguous and unclear, that it leads to mis-interpretation, and is not applied uniformly.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 67/96 - Systems Examination; LP 77/96 - Control and Drive Systems Examination.
+
+
+
+Findings
+
+
+Records indicate that the helicopter was certificated and maintained in accordance with existing regulations, and no evidence was found of any pre-impact failure or malfunction which could have contributed to the accident. The actual weather conditions at the accident site or the last known take-off location are unknown. Conditions of falling snow and reduced visibility were reported in the vicinity at about the time of the accident. The helicopter engine flamed out in flight, likely as a result of snow ingestion. The pilot was committed to an autorotative descent and landing into inhospitable terrain. The helicopter struck trees during the final stage of descent for undetermined reasons . The ELT was not ARMED for this flight for undetermined reasons. The DGAC AD pertaining to flight in falling snow is ambiguous, and leads to misinterpretation. The locking key which coupled the phonic wheel to the main rotor shaft had been incorrectly installed; it was concluded that this did not contribute to the accident.
+

@@ -1,0 +1,37 @@
+
+
+Analysis
+
+
+The aircraft was within weight and balance limits, had sufficient fuel to conduct the flight, and weather was not a contributing factor.
+
+
+Although the occurrence pilot reported that the engine was backfiring, the pilot of number four aircraft did not observe actuation of the backfire valve. As well, the pilot of the number four aircraft was able to maintain spacing with the number three aircraft without having to reduce power, which suggests that the engine of number three aircraft was producing sufficient power to maintain flying speed. The softwood trees cut by the rotating propellor and propeller damage at impact also indicate that the engine was producing power. The cause of the engine problem could not be determined during wreckage examination; however, a decrease in power, or even a complete power loss, should not have resulted in loss of control of the aircraft.
+
+
+It is not possible to determine the pilot's exact actions after making the radio call, however, it is likely he would have attempted to resolve the problem. The most appropriate action(s), according to the AFM, is to complete the emergency procedures for a rough running engine. Accomplishing the items in sequence requires the pilot to divert attention away from his outside references and into the cockpit. Also, the check requires the pilot to change hands on the control stick to reach the items on the right side of the cockpit. During the switching of hands on the control stick, inadvertent control inputs may be introduced. These inadvertent control movements may go undetected if the pilot's attention is focussed inside the aircraft. As there was no observed attempt at a recovery, it is possible that the pilot's attention was focussed inside the aircraft while he was troubleshooting his engine difficulty, and he did not detect the developing spiral dive until a recovery was not possible in the altitude remaining.
+
+
+When operating aircraft at very low altitudes the most appropriate immediate action may be to initiate a climb to a safer altitude prior to starting involved checklist procedures. Only the most critical checklist items should be actioned while in a low-level environment.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+For undetermined reasons, the pilot lost control of the aircraft; it entered a spiral dive and struck the ground.
+
+
+
+Finding as to Risk
+
+
+The AFM emergency procedures section provides guidance when an engine problem occurs during take-off, after take-off, and in flight; however, it does not provide guidance for emergencies which occur at the very low altitudes required during aerial application.
+
+
+
+Other Finding
+
+
+Neither the nature nor the cause of the reported engine problem could be determined.
+

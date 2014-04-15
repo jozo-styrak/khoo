@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+As indicated in the factual section of the report, the faulty fuel selector valve did not contribute to the engine failure. There was no indication of sudden stoppage in the engine-to-propeller reduction gearbox; therefore, the prior propeller strike was not a factor in the failure of the crankshaft. The analysis will focus on the factors directly related to the occurrence: the fatigue failure of the crankshaft, and the ensuing stall and spin that followed the power loss.
+
+
+The crankshaft failed as a result of a fatigue crack that developed on the forward fillet radius of the number six connecting rod journal. The crack most likely originated in an area where there was corrosion pitting. The fatigue crack developed at an undetermined time during the lifecycle of the engine and was not discovered on any of the three overhauls that were recorded in the aircraft logbooks. The crack appeared to have spread under normal operating conditions until the crankshaft could not support the required operating loads. The absence of a case-hardened layer on the fillet radius in the region of the fatigue crack initiation also contributed to the failure. The deficiency in the material heat treatment condition is believed to have been the result of a manufacturing error. Fatigue failure of the engine crankshaft resulted in a complete loss of power.
+
+
+Maintaining proficiency and adequate flying skills can be a challenge, particularly for general aviation pilots who fly relatively infrequently. The pilot was current, and had adequate experience; therefore, it could be expected that he would have had no problem flying the aircraft during normal operations. However, depending on training, experience and personal characteristics, a pilot may become incapable of performing the required procedures during an emergency. The more training a pilot has on emergency procedures, the better the performance. A paramount distraction, such as an engine failure, can cause the pilot to focus on the immediate emergency instead of on flying the aircraft.
+
+
+There is no indication that the pilot's flying abilities had been assessed by a qualified person since his initial licensing in 1974. Although this pilot's flying activity exceeded the minimum requirements of Subsection 401.05(1) of the CARs, it is unlikely that critical flight skills and procedures were practised to ensure proficiency. The current recency requirements in Canada allow pilots to go for extended periods without any retraining in critical flight skills, creating the risk that pilots will not be prepared to deal with unusual or critical flight situations when they arise.
+
+
+It could not be ascertained whether the pilot made an attempt to return to the airport for landing, or if he was sufficiently distracted with the engine failure to lose control of the aircraft. Regardless, he did not follow the emergency procedures for engine failure after take-off, and as a result, the airspeed decreased below a safe flying speed, and the aircraft stalled and entered a spin from which there was insufficient altitude to recover.
+
+
+The following Engineering Laboratory reports were completed:
+
+
+LP 139/2005-Crankshaft Failure Analysis LP 131/2005-GPS Analysis
+
+
+These reports are available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+A fatigue crack developed in the engine crankshaft as a result of corrosion pitting and the absence of a case-hardened layer on the fillet radius of the number six connecting rod journal. The fatigue failure of this section of the engine crankshaft resulted in a complete loss of power. Control of the aircraft was not maintained during the power loss event, and consequently the airspeed decreased below a safe flying speed. The aircraft stalled and entered a spin from which there was insufficient altitude to recover.
+
+
+
+Findings as to Risk
+
+
+The propeller ground strike incident was not recorded in either the aircraft journey log or the technical logs, and there is no indication that the aircraft was inspected afterwards to determine its airworthiness. After the overhauled propeller was installed, the aircraft was flown five times before receiving a certified maintenance release. Until such a release is obtained, there is an increased risk that the aircraft may not be airworthy. Transport Canada recency requirements allow pilots to fly for extended periods of time without retraining in critical flight skills. The gradual erosion of these skills reduces a pilot's preparedness to react appropriately during emergency situations. The fuel selector valve revealed internal leakage during testing. Although not a factor in this occurrence, continued use of a component for which the manufacturer has recommended replacement poses a risk to the safe operation of the aircraft.
+

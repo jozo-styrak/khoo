@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+The pilot lost yaw control of the helicopter when the T/R drive shaft became uncoupled. The uncoupling occurred because the bumper plug was missing. This allowed the drive shaft to move aft such that the splines of its coupling became disengaged from the T/R transmission input gear.
+
+
+The contracted AME at Starwest Aviation provided worksheets for the initial build-up to AandL Helicopter Maintenance. These worksheets reflected that he had inspected the T/R drive shaft. However, the drive shaft was not adequately inspected. Because the contracted AME was unfamiliar with the helicopter type and model, he only inspected the visible ends of the T/R drive shaft and did not notice that the bumper plug was missing.
+
+
+AandL Helicopter Maintenance personnel performed a 200-hour inspection and replaced the tail boom and installed the T/R drive shaft. A 200-hour inspection requires that all preceding inspections be carried out, namely the 100-, 50-, and 25-hour, daily, and special inspections. The 25-hour and daily inspections make specific reference to an end play and backlash check for the T/R drive shaft. Performed correctly, these checks are meant to detect an incorrect installation and a worn or missing bumper plug as per 269 Series - Basic HMI, sections 10-83 and 10-87. It is probable that these checks were incorrectly performed, and that the missing bumper plug went unnoticed after the installation of the drive shaft.
+
+
+The Schweizer maintenance manual contains instructions for inspecting and replacing the bumper plugs. The AME at AandL Helicopter Maintenance was unaware of the requirement to check the bumper plug for wear; therefore, it is likely he did not refer to the manuals for this installation.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot lost yaw control when the tail-rotor drive shaft's splined drive became disengaged from the tail-rotor transmission input gear. The tail-rotor drive shaft became disengaged because the bumper plug was missing from the aft end of the drive shaft. The aircraft maintenance engineer at AandL Helicopter Maintenance likely did not refer to the manuals for this installation and did not detect that the bumper plug was missing. The fact that the bumper plug was not installed was not detected on subsequent inspections.
+
+
+
+Other Findings
+
+
+The pilot was not endorsed for helicopters and was flying solo and unsupervised. The aircraft maintenance engineer hired to perform the assembly work under the direction of Starwest Aviation was unfamiliar with the helicopter type. This aircraft maintenance organization was not approved to carry out helicopter maintenance.
+

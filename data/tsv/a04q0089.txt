@@ -1,0 +1,31 @@
+Other controllers are of the view that an aircraft remains number 1 until its take-off is completed	, there is a lack of consistency among controllers for assigning departure numbers
+After clearing the Cessna 172 to taxi to position on Runway 30 , the controller had to wait until the Airbus A320 passed the runway intersection before clearing the Cessna 172 for take-off	, the Cessna 172 was second in the departure sequence because it had to wait in position on the runway
+The controller should have advised the Cessna 172 that it was number 2 for take-off to an Airbus A320 that was taking off from Runway 24 and could have instructed the Cessna 172 to taxi to position and wait ; the Cessna 172 normally would have acknowledged this message by reading back the restriction	, by all indications , the Cessna 172 would probably not have taken off without clearance
+he had known that the Cessna 172 was on Runway 30	the pilot of the Airbus A320 not anticipate the unexpected take-off of the Cessna 172
+he had been aware that another aircraft had been cleared for take-off on the crossing runway	For his part , the pilot of the Cessna 172 not have taken off
+the ATC MANOPS does not clearly indicate at what point an aircraft becomes number 1 in the departure sequence	an aircraft can be on a runway without having been assigned a sequence number at the same time as another aircraft is taking off from an intersecting runway
+the Cessna pilot been told that he was number two in the departure sequence	it is reasonable to assume that he would have waited for a take-off clearance before taking off
+it had to wait in position on the runway	For that reason , the Cessna 172 was second in the departure sequence
+reading	back the restriction
+the pilot must await clearance for take-off after moving into position on the runway	POSITION
+the instruction TAXI TO POSITION suggests that the pilot wait without clearly stating it	it is possible that a pilot for some reason would not hold and would take off without clearance , creating a dangerous situation
+a vehicle is on the runway	Under the current procedure , if there is only one aircraft , the controller ask it to taxi to position without specifying that it should wait even
+The controller deactivated the air frequency	correct the problem
+a faulty radio is suspected	the controller can switch on a backup receiver or a backup transmitter , or both
+operating it	The action of the controller indicates unfamiliarity with the radio system installed in the tower and the procedures
+the controller realized that the Cessna 172 had taken off without clearance	he
+the transmit function had been disabled by the controller	the aircraft could not receive his instructions
+measure the effectiveness of aviation safety programs , including those that measure risks of collision	report each and every incident or error in the system in order
+Had the ground position not been combined with the air position , the air controller would not have deactivated the transmit button of the air frequency	solve a problem thought to originate with interference between the airport and ground control frequencies
+A review by the TSB of NAV CANADA 's evaluations revealed that the division	NAV CANADA 's evaluations did not realize that some controllers were not complying with standard practices and procedures
+the use of both English and French by ATC	their failure to be aware of the situation
+The instruction TAXI TO POSITION	the pilot-controller communication workload and
+Because the instruction TAXI TO POSITION suggests that the pilot wait without clearly stating it , it is possible that a pilot for some reason would not hold and would take off without clearance	a dangerous situation
+the instruction	the redundancy
+the lack of simulation of emergency situations and equipment failures in ongoing training	his inability to solve the problem he was confronted with
+It was the vigilance of the Airbus A320 pilot and his effective management of an emergency situation	the situation getting worse
+his management of the work schedule	this incident
+A phraseology review of the ATC occurrence tape	many of the same types of errors that had not been detected by the NAV CANADA evaluator
+The Cessna 172 took off without clearance from Runway 30	a risk of collision with the Airbus A320
+The controller did not anticipate that the Cessna 172 might take off without clearance	a risk of collision with the Airbus A320
+The absence of simulation of emergency situations and equipment failures in ongoing training	the controller 's inability to solve the problem that he was confronted with

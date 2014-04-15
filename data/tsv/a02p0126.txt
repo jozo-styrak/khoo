@@ -1,0 +1,25 @@
+Under Canadian Aviation Regulations , service letters and bulletins themselves are not mandatory unless mandated by the foreign civil aviation authority or referenced by an airworthiness directive -LRB- AD -RRB-	, MDHI rotor blades are subjected to a fatigue factor that may not be accurately tracked by operators
+the manufacturer relies on the inspections to reveal cracks and retire the component	The blades essentially reach on-condition status
+identifying lightening hole cracks , or any documented standards to accept material flaws in this part of the main rotor blades , so the crack in the C channel rendered the rotor blade not airworthy .5 The blades may not reach their expected life of 3530 hours TIS	There are no prescribed inspections
+the helicopter does not automatically register and record the number of times that it transitions from a hover to forward flight , and/or the number of lifts	In operations where the helicopter is subjected to a high number of torque events , accounting of torque events may be more difficult and imprecise
+a finger swipe along the length of this channel may not reveal slight imperfections which are best detected with magnification	The manufacturer 's method of inspection for the C channel consists of running a finger over the lightening holes to check for surface flaws or imperfections , such as burrs or nicks ; this may be inadequate
+integrity of the main rotor blade and its fatigue life	the structural
+the four unsecured blades flutter in the wind and exert leveraged bending forces as they rise and fall	Tying down only one blade may exacerbate the bending forces ,
+metal fatigue , which originated from relatively large pits or imperfections on the C channel lightening hole surface	The main rotor blade cracked
+a crack propagation may develop rapidly and/or be difficult to detect with the prescribed visual inspection	Maintenance interventions to correct for the out-of-track condition were not successful
+accounting of torque events relies on the pilot 's recollection of the operations	Main rotor blades are subjected to a fatigue factor that may not be accurately tracked by operators
+these imperfections are best detected with magnification	The quality assurance finger swipe inspection method for surface flaws or imperfections at the lightening holes of the C channel is inadequate ,
+the four unsecured blades flutter in the wind and exert leveraged bending forces as they rise and fall	Tying down only one blade may exacerbate the bending forces ,
+These imperfections or pits	a stress riser
+the crack that propagated to the lower skin	condition of the main rotor blade
+the manufacturer relies on the inspections	cracks
+MDHI developed the inspection interval	their evaluation of crack growth analysis
+This inspection may not detect slight sub-surface anomalies or imperfections	the structural integrity of the main rotor blade and its fatigue life
+only one blade	the bending forces
+a manufacturing defect at the first lightening hole	the structural integrity of the main rotor blade
+These pits	a stress riser
+pits	integrity of the main rotor blade
+the crack in the blade , which propagated to the lower skin	condition of the main rotor blade
+imperfections in the C channel	cracking under certain operations and ultimately compromise the structural integrity of the blades
+to cracking under certain operations	the structural integrity of the blades
+only one blade	the bending forces

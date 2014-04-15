@@ -1,0 +1,11 @@
+pilot input after autopilot disconnect	The derived position from the TSB Engineering Laboratory report indicates that the aircraft was displaced to the right of centreline to some degree , most likely
+the unexpected runway excursion occurred	the first officer reacted instinctively , calling for a go-around and to start to advance the thrust levers , contrary to the First Air SOPs
+the runway edge lights and the approach lights were	the required amount of luminance
+the ARFF personnel responding to the scene described	a visibility of only 100 to 300 feet
+these long periods of wakefulness	some degradation in their performance
+The First Air Operations Manual , Section 4.1.3.3	the flight crew reset their duty day if they were provided an opportunity to obtain not less than eight consecutive hours of sleep
+their duty day if they	an opportunity to obtain not less than eight consecutive hours of sleep
+This breakdown in crew coordination	the incident when the captain , who had control of the aircraft , promptly retarded the thrust levers
+the captain was	the aircraft to stay within the confines of the runway
+Neither the Canadian Aviation Regulations nor the First Air Operations Manual	sufficient defences concerning the scheduling of crew duty periods
+extended periods of wakefulness , lack of restorative sleep and rapid changes in crew shift times	crew performance

@@ -1,0 +1,69 @@
+
+
+Analysis
+
+
+
+General Concept of Safety
+
+
+Safety in the aviation system is rooted in the concept of defences in depth, or redundancy, and the timely and accurate dissemination of information to reduce the likelihood of a single failure leading to an accident. Safeguards have been built into many air traffic services, procedures, and systems to ensure that operations can be conducted safely, such as the use of checklists during position handover and reliable dual channel radar, communications, and electrical systems. Whenever information is compartmentalized to the extent that a single individual or system is the exclusive conduit for that information, a lapse in memory, a deviation from standard procedures, or a technical failure has the potential to result in an accident.
+
+
+In the absence of a sufficient depth of defence, a single lapse resulted in this occurrence. It did not become an accident due only to an unanticipated and unplanned defence, in that the operator of Staff 61 received information about a landing aircraft from the sound of the approaching jet engines. The vehicle operator showed great presence of mind to react so quickly and move the vehicle to the edge of the runway in the few seconds available. This action most likely prevented an accident.
+
+
+
+
+Use of Visual Scan
+
+
+Visual scanning assists a person's memory retrieval process to recall information into conscious or working memory so that that individual can make safe and effective decisions. Although it was the specialist's habit to scan the entire length of the runway prior to an aircraft landing, as he did in this instance after NAVCAN 200 advised joining downwind, it was ineffective because the fog was not perceived to be an obstruction to vision sufficient to hide the vehicle from view. As recently as a few minutes before the occurrence, the specialist's routine visual scan of another part of the airport had been sufficient to confirm that there was no conflict between an arriving helicopter and a vehicle transiting along Bravo taxiway.
+
+
+Seeing that the runway was clear based on his visual scan (although the observation was inaccurate), the specialist would not have felt a need to search other displayed information, such as the data strip board, to confirm what he saw out the window. This subtle shift to relying on one source of information, the visual scan, would not normally be detected by an individual. Only a disciplined, practised scan of his entire work area, including the manoeuvring areas and all displayed information, and/or an active technology-based reminder system might have been sufficient for the specialist to recall the fact that he had authorized a vehicle to operate on an area that included runway 33. The specialist's techniques for scanning the entire work area, learned during qualification training, were not effective, and, as a result, he did not recall the presence of the vehicle on the runway.
+
+
+Although the FSS MANOPS provides guidance for conducting efficient and effective visual scans of the manoeuvring surfaces, no guidance or techniques are provided for the overall scanning of the specialist's entire work area in order to integrate information into a complete mental picture: situational awareness. A lack of effective integration of internal and external cues by the individual providing air traffic services results in an incomplete mental picture being used to make decisions. As in this occurrence, using only the visual scan to provide situational awareness while inadvertently disregarding other displayed information increases the risk that critical information will be missed.
+
+
+
+
+Data Strips
+
+
+The defence that should have been provided by the data strips was not effective in this occurrence. Although the specialist remembered updating the strips after the initial call from NAVCAN 200, the process of conflict detection was not engaged. Studies have also shown that a person's peripheral vision is not designed to differentiate between different colours. The differently coloured data strips were ineffective in drawing the specialist's attention to the fact that a vehicle was on the runway.
+
+
+The data strips serve well as repositories of information, but in themselves may not act as a sufficient stimulus to cause an individual to recall specific information from memory. Additional stimuli would, therefore, be required to cause the specialist to consciously look to the data strips for additional information so that his or her own mental picture would be continuously updated.
+
+
+
+
+Work Areas
+
+
+Work areas established at Terrace Airport to facilitate snow-clearing operations reduce the coordination and communications workload for the FSS and vehicle operators. This procedure allows unrestricted travel within the work area, and no additional communications contact was required between the vehicle operator and the FSS. The absence of radio communications to and from the vehicle may have prevented the specialist from recalling the presence of the vehicle at a critical time. Routine communications requirements, such as position reports in the work areas, could have served as a reminder for the specialist that a vehicle was on the runway, when NAVCAN 200 initially reported above the airport.
+
+
+
+
+System Defences
+
+
+A more positive intervention is required to change a specialist's established routine for gathering information to ensure that the pertinent facts are recalled into working memory at the correct time. For example, NAV CANADA has installed a SONALERT system at some of its FSS facilities, which serves to actively remind specialists that they have authorized a vehicle to operate on a runway. Terrace FSS and technical staff are also developing another system that would activate as soon as a vehicle strip is placed into the data strip board. This type of active warning could provide the positive intervention required to ensure the specialists do not overlook other sources of critical information. However, technological systems alone will not be effective unless the FSS specialist consistently follows a disciplined approach in the provision of air traffic services, that is, scanning the immediate work area as well as the outside environment to gather all available and required information.
+
+
+Under the current procedures at FSS facilities, when a vehicle control service is being provided, vehicles and aircraft monitor different frequencies; only the FSS specialist has all the information required to maintain complete traffic awareness. The redundancy that would be achieved by providing more than one person/agency access to the information necessary for safe operations is lost when the information is restricted to only the FSS. The capability to listen to the other active frequency by the aircrew or the vehicle operator would have reduced the likelihood of this occurrence happening.
+
+
+Given the right set of circumstances, any statistically rare event such as a runway incursion will eventually occur. This has been demonstrated by the continuing reports of aircraft-vehicle conflicts at airports. Given the potentially catastrophic consequences of these occurrences, barriers independent of the specialist's function ought to be considered. For instance, the addition of another observer (or set of observers) to the conflict avoidance team certainly increases the resources for error detection and reduces the chance of this type of occurrence from happening again.
+
+
+
+
+Findings
+
+
+The FSS specialist did not inform the pilot of NAVCAN 200 that a vehicle was operating on the runway at the time the airport advisory information was relayed to the pilot. Fog covered part of the infield and runway 15/33, obscuring the vehicle from the view of the FSS specialist and the crew of NAVCAN 200. The pilot of NAVCAN 200 was not aware a vehicle was on the runway, and the vehicle operator did not know that an aircraft was inbound for landing. The aircraft and the vehicle were operating on different radio frequencies, which was in accordance with established procedures. No active warning system that would serve as a reminder for the FSS specialist that a vehicle is operating on a runway is in place at the Terrace FSS. Vehicles operating on work area 15/33 or work area Bravo are not required to make routine position reports to the FSS specialist while operating within the bounds of the work area. Just prior to the occurrence, the FSS specialist may have been distracted by a request from the pilot of NAVCAN 200 to advise the refuelling company of the aircraft's arrival at the airport just prior to the aircraft landing on runway 33. There was a risk of collision between the landing aircraft and the vehicle operating on the runway. Staffing at the Terrace FSS met unit standards. All necessary equipment was serviceable and being used. Workload at the time of the occurrence was reported as light with no complexity, although the workload was reportedly moderate for most of the morning prior to the occurrence. The vehicle, Staff 61, was equipped with a functioning strobe light that had been on while the vehicle was operating on the runway. All active data strips were properly completed and updated by the FSS specialist. Due to the workload during the four hours prior to the occurrence, neither FSS specialist on duty was afforded the opportunity for a relief break.
+

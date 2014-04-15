@@ -1,0 +1,45 @@
+
+
+Analysis
+
+
+Although the pilot had completed pilot decision making training, he did not apply these principles when deciding to manoeuvre and observe the caribou. The decision was made without consideration of the safety issues for over-water flight or knowledge of the hazards of the glassy, or near glassy, water phenomenon. The pilot likely fixated on the caribou and lost situational awareness, thereby allowing the helicopter to enter a high rate of descent at low altitude. When the pilot became aware that the helicopter was in a steep descent over the trees, he attempted to stop the descent but the helicopter continued out over the water surface. It is likely that difficulty with height judgement over glassy or near-glassy water impeded his recovery. As a consequence, he flew the helicopter into the lake at high speed while attempting to level off.
+
+
+The pilot's medical condition had been under treatment for about 48 hours. It is unlikely that the symptoms were a source of distraction for the pilot.
+
+
+It was not possible to determine when the generator-out light illuminated. However, the loss of the generator capacity would not have affected the flight characteristics of the helicopter. The illumination of the light indicated that battery power was available.
+
+
+Since photographs revealed that the tail rotor bell crank support arm was still intact and had not broken apart before the crash, the developing fracture in the bell crank support arm likely did not contribute to the accident. Operation of the helicopter resulted in some movement of the bell crank support arm and caused paint to flake along the fractured area. The flaking of the paint was probably missed during the inspection because the tail rotor area was examined in darkness with the aid of a flashlight.
+
+
+It is likely that the slightly worn pitch bearings resulted in the reported vibration of the tail rotor pedals. The vibration would not have affected the pilot's ability to control the helicopter in the turn.
+
+
+The non-surviving passenger was impeded by injuries, heavy work clothing, and low water temperature. Personal floatation equipment could have assisted in the rescue of this passenger.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 087/2006 - Analysis of Instruments; LP 090/2006 - Tail Rotor Gear Box Examination.
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The pilot lost situational awareness while turning and entered a high rate of descent at low level. The recovery stage continued over glassy or near-glassy water and the pilot flew the helicopter into the water at high speed.
+
+
+
+Finding as to Risk
+
+
+Serviceability inspections of the helicopter did not detect the fatigue crack developing in the support arm.
+

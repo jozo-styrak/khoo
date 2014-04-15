@@ -1,0 +1,88 @@
+
+
+Analysis
+
+
+The approach and landing were conducted in calm VMC weather, with all the aircraft systems functioning as designed. The PF was experienced, qualified, and had recently completed the transition training back to the B744 from the A320. Nothing indicates that fatigue could have played a role in the occurrence. Therefore, the analysis will focus on the actions of the crew during the landing rollout and the environment in which those actions took place.
+
+
+The initial crew actions during the landing rollout were in compliance with the company SOPs. In addition, the PF held the control column forward of neutral to keep pressure on the nose wheel. A few seconds after the thrust reversers were brought to idle reverse, the control column was released. One second later, at a speed of approximately 65 knots, the PF voluntarily placed his hand on the tiller, possibly in anticipation of using the next available runway exit, which was at approximately 1300 feet on the left. A careful analysis of the nose wheel skid mark widths along the runway centreline (see Photo 6) confirm that the tiller was initially pushed and maintained forward approximately 50 corresponding to a right nose wheel deflection of approximately 25 . At that speed, the rudder control surface was still effective and the PF successfully used left rudder to overcome the right turn initiated by the tiller input. However, this caused the loss of adherence of the nose wheels with the runway surface, inducing the skid. Additionally, the autobrake provided directional stability by applying even braking on all main gears; therefore, rudder deflection was no longer required for the aircraft to remain on the runway centreline and the PF removed the left rudder correction. However, the nose wheel skid marks straight down the runway centreline over the next 600 feet confirm that the PF maintained the forward (right) tiller input throughout the deceleration and did not notice the presence of a forward tiller input.
+
+
+Although the initial nose wheel tiller input can not be explained, the arm's angular position corresponds to an equivalent angular position it had when it was on the control column one second earlier. It is possible that the PF inadvertently pushed the tiller forward thinking it was the control column.
+
+
+As the aircraft speed decreased, the thrust reversers were stowed and the autobrake was disengaged. The loss of directional stability provided by the autobrake combined with the nose wheels regaining lateral adherence with the runway surface at the lower speed of 45 knots caused the aircraft to veer to the right. In reaction to this right turn, the PF applied full left rudder and intended to apply left nose wheel tiller command. Instead, the PF pushed the tiller further forward and down, increasing nose wheel deflection to the right. From his previous experience as a first officer in the right seat of the B744, this forward and down input (on the right hand tiller) would have produced a left nose wheel deflection. However, it could also be the result of an unintentional attempt to apply an A320 tiller input, which would have been located lower and to the left in comparison to the B744 tiller position in the cockpit.
+
+
+Because nose wheel steering inputs override rudder steering inputs at low speed, the left rudder deflection was ineffective in stopping the turn. However, had the tiller been released, it would have returned to the centre/neutral position and the turn would have stopped.
+
+
+Boeing documentation advises against use of the tiller above taxi speed. Although placing the hand on the tiller is not formally discouraged in existing procedures, placing a hand on a control at a speed where it should not be utilized increases the risk of it being activated or used inadvertently.
+
+
+There was no pressing reason to turn the aircraft at the point where the skid marks appear because no taxiways were within close proximity on either side of the runway. Furthermore, LAHSO were not used for the landing; therefore, the full length of the runway was available. This indicates that the initial tiller application was an involuntary movement. When the aircraft later veered to the right, the PF was presented with a time critical situation. With his hand already on top of the tiller, the PF was likely influenced by habit recall from his previous experience on the A320 or his right seat experience on the B744. While rapidly trying to execute a left tiller input, he inadvertently pushed the already deflected tiller further down, resulting in an increased right turn, causing the aircraft to depart the runway surface.
+
+
+
+Site Protection and Preservation of Evidence
+
+
+ADM personnel initiated work around the aircraft without prior consultation with the TSB investigators in order to re-open the runway as soon as possible. Because the emergency response plan used at the time of the incident did not include provisions for dealing with reportable incidents, it is likely that ADM personnel did not realize TSB approval was required.
+
+
+TSB regulations require the preservation and protection of any evidence relevant to a reportable incident. However, the guidance for reportable incidents found in the AIM does not include a provision for the protection of aircraft or the occurrence site. This inconsistency can contribute to the uncertainty as to the obligation to protect the occurrence site, as well as the requirement to preserve evidence following a reportable incident.
+
+
+
+
+Cockpit Voice Recorder
+
+
+The voice recordings of the landing incident were overwritten, indicating that electrical power to the CVR remained on for a significant period of time after the event. Because the automatic shutdown feature was not installed on the event aircraft, the CVR had to be manually deactivated by pulling the appropriate circuit breaker. Unfortunately, after the aircraft was stopped, the CVR circuit breaker was not located and pulled, and all conversations relevant to the occurrence were lost.
+
+
+Chapter 11 of the Air France G n ralit s Op rations (GEN.OPS) manual, section 6, implies that the preservation of the CVR recordings is at the discretion of the captain, while the checklist in section 8 requires deactivation of the CVR following a serious incident or accident. This inconsistency greatly increases the chance that critical CVR data will be lost despite the regulatory obligation to preserve evidence following a reportable incident.
+
+
+This loss of CVR data is not unique to Air France; it occurs frequently when aircraft are involved in reportable incidents. This hampers investigators' ability to obtain a timely, complete, and accurate understanding of the event.
+
+
+
+
+Image (Video) Recording
+
+
+The aircraft was not equipped with an image (video) recording device. As a result, critical information may have been lost which would have proven helpful in determining the events that led up to the occurrence.
+
+
+The following TSB laboratory report was completed:
+
+
+LP 113/2008 - DFDR/QAR/CVR Analysis.
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The placement of the hand on the tiller at high speed resulted in an unintentional tiller deflection, causing the nose wheels to skid when rudder was used to counter the turn. With his left hand already placed on the tiller, the pilot flying (PF) inadvertently pushed the deflected tiller further forward and down, resulting in an increased right turn, causing the aircraft to veer to the right and depart the runway surface.
+
+
+
+Findings as to Risk
+
+
+The cockpit voice recorder (CVR) was not deactivated after the event. As a result, cockpit conversations were overwritten and critical information that could assist TSB investigators was lost. Failing to protect an occurrence site and preserve evidence jeopardizes a TSB investigator's ability to carry out an investigation.
+
+
+
+Other Finding
+
+
+The use of image (video) recording devices that include imaging within the cockpit would enhance transportation safety by providing investigators with a reliable and objective means of expeditiously determining what happened during an occurrence.
+

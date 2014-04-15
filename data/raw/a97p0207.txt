@@ -1,0 +1,49 @@
+
+
+Analysis
+
+
+The pilot may have decided to attempt the crew pick-up in adverse weather conditions because of his reluctance to leave the survey crews stranded and his desire to do well in his first unsupervised assignment. His assessment of the potential risks involved may have been influenced by his limited experience.
+
+
+The survey crews saw the helicopter emerge from the low clouds in an extreme flight attitude, which was not consistent with controlled flight in this type of helicopter. The crews' description of the brief flight path before impact, as well as wreckage and impact characteristics, indicate that the pilot had insufficient time or altitude to prevent the collision with the terrain. Such a loss of control most likely was the result of spatial disorientation.
+
+
+While the possibility exists that a mechanical malfunction did occur, no definitive conclusions about the mechanical condition of the helicopter can be drawn from the available wreckage. The remainder of the analysis will focus on the possible human performance aspects of this accident.
+
+
+The absence of the DG, while not affecting the pilot's ability to navigate in VMC, could have limited his ability to maintain control in IMC. Although the weather conditions reported by ground observers were not consistent with VMC, the actual in-flight conditions experienced by the pilot are not conclusively known. It is probable the pilot encountered the same conditions as those that were observed and that, as a result, he rapidly became disoriented.
+
+
+The pilot had, on occasion, exceeded the limitations concerning flight time, duty time, and rest periods. As well, several days before the accident, he had entered into a period when, although individuals can vary, the average person would have experienced serious cumulative sleep debt. Although the pilot recorded a normal sleep period immediately before the day of the accident, it is possible that the effect of the recent sleep debt may have adversely affected his performance or decision-making ability. It could not be determined if fatigue-related factors contributed to the circumstances of this accident; nonetheless, the workload and schedule of the pilot included periods when the risk of fatigue-related performance decrements would have been elevated.
+
+
+TC audit findings show that the operator had not exercised effective operational control of the company's maintenance and operational activities. In particular, the method for tracking pilot flight and duty time was ineffective and inaccurate. This allowed the accident pilot to exceed the maxima, and it prevented the operator from monitoring and regulating the pilot appropriately. Such lack of operational control and administrative support may have increased the burden of workload on the accident pilot, perhaps exacerbating his overall stress and fatigue levels and diminishing his judgement.
+
+
+The TC audit of the company in 1992 revealed several areas of non-conformance, and the company pledged to rectify the areas of concern. However, it was not until the regulatory audit from 11 to 22 May 1998, following this occurrence, that TC carried out another audit of the company.
+
+
+TC issued repeated warnings of suspension of the company's maintenance and operational activities during the period between the audits, ultimately precipitating the most recent Notice of Suspension of the Air Operator Certificate in June 1998. Following the 1992 Transport Canada audit, deficiencies related to the company's air operator certificate and the approved maintenance organization certificate, were either not eliminated or were allowed to re-emerge.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The weather in the vicinity of the accident made it unlikely that the flight could be completed in visual meteorological conditions. The helicopter emerged from the low cloud base in a steep, nose-down turn, and there was insufficient altitude and time to prevent the aircraft from striking the ground. The pilot likely experienced spatial disorientation and lost control of the helicopter.
+
+
+
+Findings as to Risk
+
+
+The pilot's work/rest schedule increased the probability of him making fatigue-related errors in both aircraft handling and judgement. According to the company records, the pilot had, on several occasions, exceeded the legislated flight- and duty-time limitations of the CARs. Transport Canada audits carried out after the accident revealed deficiencies in the company's control of maintenance and operational activities. Following the 1992 Transport Canada audit, deficiencies related to the company's air operator certificate and the approved maintenance organization certificate, were either not eliminated or were allowed to re-emerge. The pilot had no formal instrument flying training or experience beyond that provided in his commercial helicopter flight training syllabus.
+
+
+
+Other Findings
+
+
+The pilot was licensed and qualified for VFR flight. The pilot did not hold an instrument rating nor was one required for the planned operation. Records indicate that the helicopter was certified, equipped and maintained for the operation. No indication was found of any pre-impact failure of the helicopter, its engine or systems.
+

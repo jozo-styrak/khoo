@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The GPS data and images retrieved from the pilot's camera indicated that the flight was normal until minutes before impact. The technical examination of the aircraft engine showed that it had stopped due to water contamination of the fuel. The analysis therefore will focus on the source of the contamination, the reason it was not detected, and the delay in SAR notification after the accident.
+
+
+Fuel from the ferry and main tanks was used to fly from KLWM to KBGR and beyond. Because the ferry and main tanks were used successfully on the flight from KLWM to KBGR, it is not possible that the water contamination came from the fuel source at KLWM. Likewise, fuel from the main tank was used from KBGR until near Plaster Rock. Had the aircraft fuel system been contaminated with water from the fuel source at KBGR, the effects of water contamination would have been apparent shortly after engine start. Therefore, the only remaining sources of water contamination were the wing tanks.
+
+
+Water contamination in the wing tanks should have been removed when the wing tanks were filled and then drained on 11 September 2006. It is possible therefore that the contamination occurred between the time of this servicing and the pilot's departure from Lawrence Airport. However, the investigation was not able to determine how the wing tanks came to be contaminated with water.
+
+
+The only fuel drain was near the engine, and this single drain was far removed from the wing tanks. Sampling fuel from this single source could not have provided the pilot with an indication of pre-existing water contamination of the wing tanks. There is no indication that the pilot attempted to ascertain that the wing fuel tanks were free of contamination, or that he had transferred fuel from the wings at any time before his departure from KBGR.
+
+
+As the only source of water contamination was the wing tanks, and the fuel transfer switch was found in the ON position after the accident, it is likely that a transfer from the wings to the main tanks had been initiated. Water would have been transferred from the wing tanks to the main tank, where it settled and was delivered to the engine, causing the engine to stop.
+
+
+The flight was conducted at a relatively low altitude of about 1600 feet agl. Following the engine stoppage, the pilot had little time to attempt a restart of the engine, and the selection of forced landing areas was limited in the rugged terrain.
+
+
+The delay in SAR notification occurred because the VFR flight plan had not been activated by the pilot upon his departure from KBGR. The pilot may not have been aware of the requirement to activate his flight plan, or he may have forgotten to do so because this was not a part of his flying routine. Because he did not survive the impact, the delayed search did not affect his chances of survival; otherwise, it would have significantly reduced them.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The wing tanks had become contaminated with water; however, the source of the water contamination could not be determined. The aircraft did not have fuel tank drains to allow for easy pre-flight inspection of the entire fuel system. The engine stopped when water, transferred from the wing tanks to the main tank, settled in the main fuel tank and was subsequently delivered to the engine. The flight was conducted at a relatively low altitude, limiting the pilot's opportunity to cope successfully with the engine stoppage.
+
+
+
+Findings as to Risk
+
+
+Because the flight plan had not been activated, Canadian air traffic control and search and rescue authorities were not aware of the flight, and the initiation of the search was delayed for three days. The emergency locator transmitter signal was not detected, primarily because the antenna had been broken during the accident.
+

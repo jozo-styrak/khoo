@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+A number of operational factors contributed to this occurrence. During night instrument meteorological conditions, the captain observed the approach become laterally unstable when the first officer had difficulty maintaining the localizer. As a result, he elected to take control of the aircraft and fly the rest of the approach. When the flight crew visually acquired the airport environment, Runway 30 was to the right of the aircraft. The captain turned the aircraft to centre the localizer and realign the aircraft to Runway 30 for landing.
+
+
+Given the weather and contaminated runway conditions, the flight crew would have been aware of the approximate landing distance required and the need for an early touchdown point on the 4000-foot runway. Similarly, the flight crew would have been aware that a slower, flap-30 approach would result in a shorter landing distance. Nevertheless, the crew conducted the faster flap-15 approach, based on company advice in accordance with AOM No. SD002/04 to not use full flap. This would have resulted in a higher touchdown speed. This AOM was superseded on 20 October 2004 by AOM No. SD006/04, which cancelled any potential flap-setting prohibition. The flight crew most likely did not reference the AFM performance chart "Effect of a Slippery Surface on Landing Distance Required" to determine that landing the aircraft on the 4000-foot, snow-covered runway with flap-15 was inappropriate.
+
+
+On touchdown on the snow-covered runway, the captain, being aware of the runway condition, applied full reverse before he determined that the rate of deceleration was slower than expected. By selecting reverse thrust on touchdown, the captain was no longer operating the aircraft in accordance with the AFM, as reverse thrust is authorized for ground manoeuvring only. With the runway end lights rapidly approaching, he called for a go-around at a point on the runway where it would have been prudent to continue full braking and remain on the ground.
+
+
+With the application of maximum take-off power and premature rotation by the pilot flying, the aircraft became airborne in ground effect and remained in ground effect until striking the airport perimeter fence. When the aircraft struck the fence, the damage was limited to the tail section of the aircraft, indicating that the aircraft was in a nose-up attitude when it struck the fence.
+
+
+The crew members made some questionable decisions during the preparation and execution of the approach and landing.
+
+
+They flew an approach to and landed on a 4000-foot runway when the required runway length (for a dry, uncontaminated runway) was over 4100 feet. They flew an approach and landed at night in weather conditions (reported to them as a layer at about 100 feet, visibility mile) that were well below the minimum descent altitude and advisory visibility. Under current Canadian regulations, this is allowed. They were advised on final approach that the runway was snow-covered and slippery. Apparently, they did not take this information into account before landing. They continued with the approach and landing at Oshawa when they had a suitable alternate. The captain elected to conduct a go-around after landing and applying reverse thrust.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The crew planned and executed a landing on a runway that did not provide the required landing distance. The flight crew most likely did not reference the Aircraft Flight Manual performance chart "Effect of a Slippery Surface on Landing Distance Required" to determine that landing the aircraft on the 4000-foot, snow-covered runway with flap-15 was inappropriate. After landing long on the snow-covered runway and applying full reverse thrust, the captain attempted a go-around. He rotated the aircraft to a take-off attitude and the aircraft became airborne in ground effect at a slower-than-normal speed. The aircraft had insufficient power and airspeed to climb and remained in ground effect until striking the airport perimeter fence, rising terrain, and a line of large cedar trees. The flight crew conducted a flap-15 approach, based on company advice in accordance with an All Operator Message (AOM) issued by the aircraft manufacturer to not use flap-30. This AOM was superseded on 20 October 2004 by AOM No. SD006/04, which cancelled any potential flap-setting prohibition.
+
+
+
+Other Finding
+
+
+The flight crew members were not advised that the potential Airworthiness Directive announced in the original AOM was not going into effect and that the use of flap-30 was acceptable, as relayed in the follow-up AOM.
+

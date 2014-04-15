@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+Both aircraft were at the appropriate altitude for their direction of flight. They were converging at a relative angle of 120 when a loss of separation occurred between NW69 at FL310 and NWT962, which was descending from FL310 to FL290.
+
+
+Although both the East radar and East data controllers had NWT962's revised estimate for a position abeam Gimli available to them, neither controller recognized that flight's conflict with NW69. Estimates for NW69 and NWT 962 were not posted for a co-located point and the required mental calculation necessary to correlate the estimates made it harder for the East controllers to recognize a conflict between the flights.
+
+
+Because of the difficulty in communications that might have resulted if the aircraft were handed off early, the East radar controller delayed transferring control of NW69 for as long as possible; the controller then became preoccupied with data work rather than radar monitoring as NW69 left the sector.
+
+
+Because the workload in the North sector was high, the incoming North radar controller was not given a status briefing when he assumed that position. The data controller was updating the information in the NADS system, but, because he had not yet completed the update, the NADS system was operating on outdated information. Although the NADS conflict warning indicated a six minute crossing time separation between NWT962 and NW69, NWT962 was six minutes early; therefore, the time separation decreased to nil. Although both North controllers were aware of the new estimate, they did not compare NWT962's revised strip with that of NW69 to update their mental picture of the separation between the aircraft. Formulation of an accurate mental picture was made more difficult by the lack of a co-located time estimate for the two flights. By concentrating on the NADS system, the North controllers relied more on the NADS separation calculation to detect conflicts than on their analyses of the flight progress strips.
+
+
+The North radar controller's IM setting helped him avoid screen clutter by deleting the data tags of targets not under his control. However, the deletion of the data tags of the targets controlled by the sectors geographically adjoining the North sector decreased his ability to detect information about the incoming NW69, for which he had not yet accepted control.
+
+
+Although one of the crew members of NWT962 responded that they were leaving FL310 when the North radar controller first issued an instruction to NWT962 to descend, a period of about 40 seconds passed before the crew commenced the descent from FL310. Because the crew members were not expecting a descent clearance, they did not fully understand the message or the reason for it, and initially took no action. During this time, the separation between the two aircraft decreased by 7 nm, and the situation was only resolved when the crew asked for clarification. This confusion might have been averted if the controller had used phraseology such as that in MANOPS 507.1, which incorporates the reason for the controller's instruction. Although section 507.1 is mainly used in mixed IFR/VFR traffic, its use in IFR/IFR traffic could improve pilots' understanding of the meaning and urgency of ATC messages.
+
+
+The TCAS system in NWT962 issued a traffic advisory after the conflict with NW69 was already recognized by ATC and NWT962 was descending. The TCAS system in NW69 activated in the absence of an ATC traffic advisory and helped that crew monitor the position and altitude of NWT962. Although the TCAS systems were not needed to resolve the conflict between the two flights, they helped the crews visually acquire and monitor their aircraft traffic.
+
+
+There was no radar system conflict advisory system available to alert the controllers to the impending loss of separation.
+
+
+
+Findings
+
+
+A loss of separation occurred about 160 nm NE of Winnipeg between NW69 at FL310 and NWT 962, which was descending from FL310 to FL290. Neither the East nor the North sector flight progress strips displayed co-located position estimates for NW69 and NWT962. The required mental calculation necessary to correlate the position estimates of the two flights made it more difficult for the North and East controllers to recognize the conflict between the flights. The East controller delayed NW69's hand-off to the North sector in an attempt to avoid potential communications problems in the North sector. The East controller became preoccupied with data functions and did not hand off NW69 before it left the East sector. The North data controller's workload prevented him from providing the incoming North radar controller with a status briefing. The NADS system listed an incorrect separation warning at the time of the occurrence, based on an outdated time estimate for NWT962. The North controllers relied more on the NADS separation calculation to detect conflicts than on their analyses of the flight progress strips. The North radar controller's IM setting prevented him from receiving information about aircraft not under his control. The North radar controller's descent instruction to the NWT962 crew did not use MANOPS 507.1 phraseology, and did not convey the desired sense of urgency to that crew. Both aircraft TCAS systems helped the respective crews visually acquire the other aircraft and monitor the situation. No radar system conflict advisory system was available to alert the controllers to the impending loss of separation.
+

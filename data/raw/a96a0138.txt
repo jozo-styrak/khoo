@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+The controller is considered to be a proficient and good controller, well regarded in the Gander ACC, even though this was his third incident in 17 months. Considering his abilities and the traffic situation, the controller should have detected and resolved the conflict between AFR055 and MPH806 well before the risk of collision occurred. Had the controller been aware of a possible conflict because of the converging tracks, he probably would have placed a range bearing line (RBL) between the two aircraft to determine the exact distance between them.
+
+
+Despite the frequency of incidents involving this controller (3 in 17 months), the controller's reputation and demonstrated ability during performance reviews suggest that the incidents do not reflect a problem of ability. Rather, the incidents stem from human errors that can be corrected by a controller awareness program. The Gander ACC management put a disciplinary letter in the controller's file as a corrective action and to make the controller more aware of his job responsibilities in the future.
+
+
+The controller had marked the AFR055 flight progress strip to indicate that it would be crossing other air traffic. If the controller had heard the Moncton controller's warning, he would have been alerted to the crossing traffic situation. In this case, important information in a hotline conversation was missed because the controller did not listen completely.
+
+
+The controller was inattentive to the radar display and the traffic situation or he would have detected the conflict between MPH806 and AFR055 earlier and resolved it. When he re-routed AFR055 direct to St. John's, he should have looked at the radar display where he could have detected the conflict with MPH806 at that time. The minute and forty-two seconds of radio silence prior to his detection of the conflict suggests that the controller was not scanning the radar display during this time.
+
+
+The controller was not aware of the conflict between MPH806 and AFR055. TCAS equipment on board the two aircraft and the quick response of the flight crews possibly prevented a mid-air collision. An operational conflict alert function as part of the RDPS software would also provide a safety alert for a degradation of radar service which could result in a loss of separation or risk of collision not otherwise detected by controllers.
+
+
+
+Findings
+
+
+The Gander controller missed a warning from a Moncton controller that a conflict was developing between MPH806 and AFR055. When the controller re-routed AFR055 direct to St. John's, he did not confirm whether the turn would create a conflict with other traffic. The controller did not have CJSs displayed for the aircraft for which he was responsible. Although the controller was involved in two prior incidents during the previous 17 months, the deficiencies seen in this incident were not similar to those seen previously and do not reflect a trend. The controller's demonstrated ability during performance reviews suggests that the incidents involving the controller (3 in 17 months) were due to human error rather than limitations in ability. TCAS equipment on board the two aircraft prevented a more serious risk of collision. An operational conflict alert function as part of the RDPS software would help to detect risks of collision that otherwise go undetected.
+

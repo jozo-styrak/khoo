@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+Several factors created the unsafe situation that led to the occurrence. Task saturation, UHF radio congestion, and inadequate training in radio telephone procedures will be discussed in this section. The lack of a fail-safe method to confirm beta truck positions before issuing aircraft taxi authorizations will also be examined.
+
+
+The ZDC usually controls the operation of three de-icing pads. Task saturation and radio frequency congestion became a serious problem when four de-icing pads were operated using one ZDC and one UHF radio. The UHF was more congested than normal because of the additional radio traffic from the activities of the extra pad. The safety and the effectiveness of CDF operations are affected by the number of aircraft to be handled, weather conditions, lighting, visibility, and the skill and the experience of individual operators. The CDF's standard operating procedures do not state the maximum number of de-icing pads that one ZDC can oversee and the maximum number of operators that can use the UHF at one time.
+
+
+Operators who did not hold a restricted radio telephone operator's licence showed a general lack of radio discipline. Extraneous comments and conversations over the UHF radio increased the congestion of an already busy frequency. Just before the accident, the ZDC had to instruct the drivers/operators of the de-icing vehicles using UHF to listen before keying their radio microphones. The operator of truck 13 tried several times to request permission to approach the aircraft. The ZDC tried to identify and ascertain the position of the requesting operator numerous times. Each time, other operators on the same frequency interrupted the operator's and the ZDC's attempts to communicate. CDF standard operating procedures do not specify a procedure for operators to approach an aircraft to re-apply anti-icing/de-icing fluid. ZDCs rely on memory to determine whether the north and south sides have both called in safe. Relying on memory is less of a problem if both sides call in safe at the same time. If one team is delayed, the ZDC has no formal way to record on the de-icing strip who is in the safe zone and who is still engaged in de-icing activities. The ZDC can become task saturated trying to keep a clear picture of who is where on several de-icing pads.
+
+
+Iceman is unable to visually confirm that all de-icing vehicles are in the safe zone following the de-icing/anti-icing procedure. Receipt of the de-icing strip from the ZDC is the only assurance Iceman has that it is safe for a de-iced or anti-iced aircraft to taxi.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+By passing the de-icing strip, the zone de-icing controller (ZDC) indicated to Iceman that the de-icing procedure was complete. In fact, beta truck 13 was still in position ahead of the aircraft's right wing. On receipt of the de-icing strip, Iceman concluded that the de-icing equipment was clear and issued movement instructions to the flight crew of the aircraft while beta truck 13 was still in position ahead of the aircraft's right wing. One ZDC was monitoring four active de-icing pads instead of the usual three pads. This increased activity resulted in task saturation and frequency congestion for the ZDC. Because of the increased activity and the radio congestion, the driver/operator of beta truck 13 was unable to effectively establish radio communication with the ZDC to advise that he was still in position in front of the aircraft.
+
+
+
+Findings as to Risk
+
+
+Standard operating procedures at the central de-icing facility (CDF) did not restrict one ZDC from overseeing more than three de-icing pads at a time. Standard operating procedures at the CDF did not restrict the number of operators on one ultra-high frequency (UHF). Drivers/operators of beta trucks were not required to undergo radio telephone operations training nor were they required to obtain a restricted radio telephone operator's licence. This lack of qualification adversely affected UHF radio discipline, which did not meet an acceptable standard for safe operations at the CDF. The CDF did not have a procedure for fluid re-application.
+

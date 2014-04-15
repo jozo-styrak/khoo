@@ -1,0 +1,67 @@
+
+
+Analysis
+
+
+The vacuum system appeared to have been operating normally, although possibly at a lower setting than specified by the manufacturer due to an over-reading gauge. Given the problems with the KI256 gyro/horizon noted on previous flights, such as the unstable autopilot outputs from the gyro/horizon and noisy bearings, the instrument shop recommended that it be replaced or overhauled. Although there was no specified overhaul/replacement life on the instrument, the condition of the bearings and other internal components indicates that 13 years and 1200 hours were excessive intervals between service or overhaul.
+
+
+The lack of maintenance on the KI256 gyro/horizon resulted in considerable internal component drag from the deteriorated bearings. This drag, possibly in combination with the system vacuum that was not operating at the minimum required, would have resulted in the attitude gyro spinning at a speed considerably below the value required for proper stabilization, causing the autopilot to become unusable, while the subsequent toppling of the gyro deprived the pilot of attitude information.
+
+
+The aircraft GTOW exceeded the maximum limit by about 857 pounds at take-off and about 712 pounds at the time of the occurrence. The C of G was beyond the aft limit by about 0.87 inches, approximately 23 per cent of the 3.8-inch C of G range. During the pilot's upgrade training and on the safety seminars he had attended, the issues of weight and balance were emphasized as concerns with this particular model of aircraft. The non-standard breakup pattern and the level fuselage attitude at impact are consistent with an extreme aft C of G loading before and after the in-flight breakup.
+
+
+The extreme aft C of G loading of the aircraft increased the elevator sensitivity of an aircraft known for its light elevator control forces and decreased the aircraft's longitudinal stability. This decrease in stability would have resulted in an increase in pilot workload because the aircraft would not easily maintain its trimmed airspeed. Any nose-down divergence from level flight would continue to increase the angle of dive or spiral, leading to a very high airspeed excursion within a very short period of time. The constant ground speed indicates that the pilot was maintaining a high cruise speed for several minutes as he attempted to maintain control before entering the spiral, thus reducing the margin before the speeds and aerodynamic loads exceeded structural limits.
+
+
+The pilot's last recorded partial panel training was on 06 May 2001 during recurrent training on the company's previous aircraft, a PA-46-310P. There was no requirement for partial panel exercises during his recurring proficiency flight tests or his transition training from the PA-46-310P to the PA-46P Jetprop aircraft. It is likely that the pilot was not proficient in partial panel flight. The reduced aircraft handling characteristics, combined with the malfunction of the KI256 gyro/horizon, exceeded the pilot's ability to control the aircraft in instrument meteorological conditions.
+
+
+Single-pilot IFR operations in this type of high-altitude, turbine-powered and pressurized aircraft requires a high level of proficiency. The COM required the aircraft to have a functional autopilot to relieve part of the pilot's workload, with the autopilot normally used to fly the aircraft from shortly after take-off to final approach. The pilot normally would not hand-fly the aircraft other than for take-off and landing, and therefore would not likely be prepared to deal with an unserviceable autopilot as well as a primary attitude indicator failure in instrument meteorological conditions.
+
+
+There were no indications of structural or other deficiencies prior to the in-flight breakup. The calculated airspeed at breakup was about 390 KIAS, which was more than double the Vmo and about 46 per cent above the flutter dive test airspeed during certification. The structural limitations of the aircraft were exceeded during the uncontrolled descent; this resulted in the in-flight breakup.
+
+
+TC was previously responsible for inspections and audits of POC holders until the POC program was transferred to the CBAA. Audits are now conducted by independent CBAA accredited auditors, chosen by the POC holder, and the conditions of the audit negotiated between the two parties.
+
+
+There were a number of deficiencies identified in this investigation, such as no pilot records, no quick-donning oxygen masks, flying overweight and out of C of G range, no records of weight and balance, and unapproved maintenance. In accordance with the CBAA standards, the company was required to have a SMS to detect and mitigate such deficiencies, and a risk assessment should have been completed within 12 months of the issue of the POC. However, a risk assessment was not done.
+
+
+The partial audit conducted in December 2007 was not designed to detect any risks or deficiencies and did not identify that the SMS of this new POC operator was ineffective. One of the most powerful monitoring tools is independent auditing, an effective way to avoid complacency and highlight slowly deteriorating conditions. Audits that simply seek to confirm the existence of controls required by regulation are ineffective; good audits look at how effective the controls are in practice and whether the control strategy is functional. In this occurrence, there were several organizational and human performance deficiencies that contributed to the occurrence chain of events. Subsequent monitoring of the developing SMS program of this new POC operator was ineffective due to the auditing interval being set at the maximum allowed of three years.
+
+
+If effective oversight of POC holders is not exercised by the regulator or its delegated organization, there is an increased risk that safety deficiencies will not be identified and properly addressed.
+
+
+The following TSB laboratory reports were completed:
+
+
+LP 060/2008 Instrument Examination LP 064/2008 Structural Examination LP 092/2008 Breakup Analysis
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The gyro/horizon failed due to excessive wear on bearings and other components, resulting from a lack of maintenance and due to a vacuum system that was possibly not at minimum operating requirements for the instrument. The gyro/horizon was reinstalled into the aircraft to complete the occurrence flight without the benefit of the recommended overhaul. The autopilot became unusable when the attitude information from the gyro/horizon was disrupted. The pilot had not practised partial panel instrument flying for a number of years, was not able to transition to a partial panel situation, and lost control of the aircraft while flying in instrument meteorological conditions. The aircraft was loaded in excess of its certified gross weight and had a centre of gravity (C of G) that exceeded its aft limit. These two factors made the aircraft more difficult to handle due to an increase of the aircraft's pitch control sensitivity and a reduction of longitudinal stability. The structural limitations of the aircraft were exceeded during the uncontrolled descent; this resulted in the in-flight breakup. There were a number of deficiencies with the company's safety management system (SMS), in which the hazards should have been identified and the associated risks mitigated. The company did not conduct an annual risk assessment as required by its SMS; this increased the risk that a hazard could go undetected. The Canadian Business Aviation Association (CBAA) audit did not identify the risks in the company's operations.
+
+
+
+Findings as to Risk
+
+
+Lack of adequate instrument redundancy increases the risk of loss of control in single-pilot instrument flight rules (IFR) aircraft operations. The pilot did not reduce his airspeed while attempting to maintain control of the aircraft; a lower speed would have allowed a greater margin to maximum operating speed (Vmo) while manoeuvring. There were no quick-donning oxygen masks on board and the pilot was not wearing an oxygen mask at the time of the occurrence, as required by regulation. If effective oversight of private operator certificate (POC) holders is not exercised by the regulator or its delegated organization, there is an increased risk that safety deficiencies will not be identified and properly addressed.
+
+
+
+Other Finding
+
+
+The approved maintenance organization (AMO) that was maintaining the aircraft did not have the approval to maintain PA-46 turbine aircraft.
+

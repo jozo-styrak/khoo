@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+The pilot applied the general rule for red warning lights that he had learned in Penticton, and immediately began a precautionary landing. However, during the approach, he did not carefully follow the flight manual procedures necessary to manage a red GOV light emergency: slight adjustments to fuel flow, and only apply small amplitude adjustments, synchronized with the collective pitch control in order to maintain Nr in the green range. The initial decrease in twist grip throttle setting was accompanied by both a descending turn and the lowering of the collective. The descending turn and decreased collective masked the effect of the decreased throttle, resulting in too high a fuel setting for the flight regime, a corresponding increase in rotor rpm, and the subsequent overspeed. By returning the throttle to the "FLIGHT" detent, the pilot increased fuel flow, setting the fuel metering valve to the position it was in just prior to the illumination of the GOV light. This exacerbated the overspeed and reinforced his belief that the fuel system had failed to switch to manual mode.
+
+
+The amount of initial type flight and ground training provided to the occurrence pilot was less than that normally received during the recommended factory training course. The mishandling of the governor problem, and the lack of recall of any related in-flight training, suggests that the level of flight training the occurrence pilot received on governor failures was insufficient to allow him to understand and respond appropriately to the red GOV light illumination.
+
+
+RCMP Air Services management were not aware that the two Moncton-based pilots had not received sufficient and appropriate in-flight emergency training. Because a proficiency or competency check was not conducted, there was no opportunity to verify the effectiveness of the training or the competency of their helicopter pilots. If the pilot had been required to fly a competency check prior to the commencement of line operations, the deficiencies in flight training may have been detected.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot had not received adequate flight training for the red GOV light emergency and did not realize that the twist grip throttle still controlled fuel flow to the engine. Consequently, the emergency was mishandled, resulting in a severe overspeed of the aircraft's dynamic components. Examination of the digital engine control unit (DECU) confirmed the origin of the red GOV light to be an internal component "U 13 optocoupler" of the DECU.
+
+
+
+Findings as to Risk
+
+
+At the time of the occurrence, the RCMP Air Services operations manual did not require either a pilot proficiency check or a pilot competency check for their helicopter pilots, which would help detect deficiencies in flight training and any lack of proficiency. The RCMP Air Services management was not aware that the pilot had received less than adequate training on the occurrence helicopter type.
+

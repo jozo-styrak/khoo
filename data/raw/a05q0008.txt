@@ -1,0 +1,37 @@
+
+
+Analysis
+
+
+In electing to land at the edge of the woods near the lakeshore, the pilot could maintain visual contact with the trees during the landing. However, the existing white-out conditions deprived him of depth perception. As a result, he did not see that the slope of the terrain exceeded the lateral limit for a safe landing. During the vertical descent, the rotor wash blew powdery snow outward and upward, which created a snowball effect and restricted visibility. The pilot could not land rapidly because the slope of the terrain exceeded the aircraft's critical roll angle. The result was that prolonged hovering must have exacerbated the snowball effect. The conditions inside the helicopter contributed further to a reduction in visibility; frost on the side windows and the left windshield clearly restricted the pilot's view and would have prevented him from seeing external reference points clearly.
+
+
+It is highly likely that, in the operational and environmental conditions existing at the time, the helicopter pilot lost all visual reference with the ground. That is why he could not perceive the lateral movement of the helicopter and could not keep his roll angle below the critical angle dictated by the maximum lateral deflection of the cyclic control. Consequently, the aircraft pivoted about the left (uphill) skid, which was in contact with the ground, and rolled onto its side.
+
+
+On ground impact, the passengers in seats 1C and 1D were ejected from the aircraft and the front seat anchors were deformed. The main rotor blades had already cut through the cabin, tearing off the aircraft's roof in the process. From this, it is clear that, although the service bulletin (25.00.63) recommending reinforcement of the front seats had not been executed on this helicopter, that did not contribute to the injuries sustained by the front seat occupants.
+
+
+The basic safety requirements were not complied with by any of the three pilots transporting hunters that day. And yet, the prevailing winter conditions necessitated strict safety precautions. Because their seat-belts were not fastened, the passengers risked serious injury in the event of an accident. Also, the passengers were neither prepared for the possibility of an accident nor briefed on search and rescue procedures or the use of the ELT. Moreover, they did not know that the aircraft was carrying survival gear.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot did not notice that the slope of the landing area exceeded the maximum roll angle allowable for this aircraft because the existing white-out conditions deprived him of depth perception. The helicopter rolled onto its left side in a dynamic rollover. The pilot did not perceive the lateral movement of the helicopter because the snowball effect and the ice on the aircraft's windows prevented him from seeing external references.
+
+
+
+Findings as to Risk
+
+
+The front seats were not consistent with service bulletin 25.00.63 and separated from their anchors when the helicopter rolled onto its left side. The rear seat occupants were not given a safety briefing prior to take-off. Their seat-belts were not fastened, they did not know where the emergency locator transmitter (ELT) was or how it worked, and they did not know that the helicopter was carrying survival equipment.
+
+
+
+Other Findings
+
+
+Service bulletin 25.00.63 recommending reinforcement of the front seats had not been executed on this helicopter, but that did not contribute to the injuries sustained by the front seat occupants. The investigation revealed that the other pilots who transported the occupants of the accident helicopter did not give the passengers a safety briefing as required by the Canadian Aviation Regulations. The survival equipment in the left baggage compartment was not accessible after the accident because the aircraft came to rest on its left side.
+

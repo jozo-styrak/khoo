@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+From the available information, it was concluded that the red blade, with the clean break, failed in flight and was the initiating event in this accident. When the section of the blade was lost, a large imbalance was created in the rotor system leading to the failure of the lead and lag dampers. The imbalance would also cause extreme vibrations. The pilot would have difficulty holding onto the cyclic control stick but would be able to lower the collective control stick. There are two scenarios, either of which, or both, could result in the main-rotor blades severing the tail section. The first scenario is that extreme vibrations compromised the tail-boom strength, causing the tail section to break and flex into the path of the main rotor. The second scenario is that the loss of a large portion of a main-rotor blade created such an imbalance that the blades flew in an erratic and extreme path and struck the tail boom.
+
+
+In-flight loss of the tail section would cause the pilot to lose attitude control, and the helicopter would spin around its mast. In an attempt to stop the helicopter from spinning, the pilot would likely carry out the emergency procedure for loss of yaw control due to a lack of tail-rotor thrust: that is, lower the collective and close the throttle. However, even after the pilot had closed the throttle to remove engine torque, the spinning would not stop quickly because there would be no tail surface to resist the yaw. The spinning was evident by the circular distribution of helicopter pieces and contents. These objects struck the terrain vertically, indicating that they had separated from the helicopter at a relatively high altitude. The helicopter's autorotation characteristics would have been destroyed by the loss and damage of the main-rotor blades, causing the rotors to stop before impact. The loss of the tail section would move the centre of gravity far enough forward to cause the helicopter to pitch nose-down uncontrollably.
+
+
+The crack in the spar of the failed rotor blade did not manifest itself through the outer skin because of the lack of bonding between the main-rotor blade spar and the outer skin. Therefore, the crack would not have been identifiable by visual inspection before the blade failure.
+
+
+Tap inspections were not done on the blades manufactured before 1999. Because voids were found on these early blades, it was possible that there were more blades in the system that were susceptible to the same corrosion, fatigue cracking, and failure.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Two thirds of one of the helicopter's five main-rotor blades separated in flight, and one or two of the remaining main-rotor blades struck and severed the tail section in flight, all of which made the helicopter uncontrollable. There was no bonding on part of the skin on the main-rotor blade that separated, which allowed corrosion pits to form in the blade. A crack propagated from one of the pits, and the blade failed in fatigue. The crack in the main-rotor blade was not visually identifiable before the flight.
+
+
+
+Findings as to Risk
+
+
+It is possible that main-rotor blades manufactured by the approved parts manufacturer before 1999, that were not tap inspected, have voids in their bonding and are susceptible to the same corrosion, fatigue cracking, and failure.
+

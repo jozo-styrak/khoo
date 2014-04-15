@@ -1,0 +1,45 @@
+
+
+Analysis
+
+
+The magnesium count in the oil was the result of fretting wear between the second-stage ring gear and the magnesium mating splines of the RGB case. Fretting between the second-stage gear teeth and the mating splines of the RGB case will result in magnesium dust particles being released into the engine oil. The magnesium dust particles are heated as a result of the friction to a point where the oil immediately surrounding the particle will breakdown, depositing a thin carbonaceous layer around the particle. These particles were eventually captured by the oil filter. The pure carbon particles captured by the filter were produced in the system prior to the incorporation of PandW Service Bulletin No 14320 R2 ("Replacement of Compressor Turbine Air Seal and No 2 Bearing Oil Nozzle and Housing Cover and Flange").
+
+
+A combination of oil sample analysis and borescope inspection is used to monitor the RGB case. Implementation of these inspections and compliance with the service bulletin have been successful: there have been no reported catastrophic failures due to excessive fretting of the RGB housing splines.
+
+
+The sudden power loss of the PT6A-67B engine most likely resulted from an interruption in fuel supply; however, this could not be determined with certainty. Inspection of the fuel system did not reveal any sign of water, and testing and disassembly of the FCU, fuel pump, and flow divider did not reveal any anomalies that would have contributed to the power loss.
+
+
+During the initial battery start of the engine, the condition lever was set at ground idle (65% Ng), and the equipment that was turned on demanded a large electrical load. With the engine remaining at ground idle for only 90 to 120 seconds, the generator might have been slow to meet the demands of charging the battery and running the equipment. Once flight idle (75% Ng) was selected, the generator was more able to meet these demands, which resulted in a 300-A draw on the amperage gauge. Because the engine was able to accelerate from ground idle to flight idle speed with the electrical equipment already selected, it is likely that the 300-A draw and the engine power loss were coincidental and that the draw did not contribute to engine power loss.
+
+
+The engine power loss and fretting of the RGB case mating splines were not considered an engine failure and therefore did not affect the engine's reliability record.
+
+
+The following TSB Engineering Laboratory Report was completed:
+
+
+LP 107/2001 - Oil Filter Debris Analysis
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The engine power loss most likely resulted from an interruption in fuel supply.
+
+
+
+Other Findings
+
+
+Fretting between the second-stage ring gear teeth and the magnesium reduction gearbox (RGB) case resulted in a magnesium count in the engine oil. The magnesium particles were coated with a thin carbonaceous layer and eventually became trapped by the oil filter. Carbon particles in the oil filter originated from the #2 bearing area prior to the incorporation of PandW Service Bulletin No 14320 R2 ("Replacement of Compressor Turbine Air Seal and No 2 Bearing Oil Nozzle and Housing Cover and Flange"). The electrical power draw resulted from battery charging and the electrical equipment that was selected. The electrical power draw likely did not contribute to the engine power loss.
+
+
+This report concludes the TSB's investigation into this occurrence. Consequently, the Board authorized the release of this report on 19 September 2002.
+
+
+1. Ng is a percentage of the speed (rpm) of the gas generator (engine compressor).
+

@@ -1,0 +1,22 @@
+weighing aircraft is analysed	In addition , the use of electronic , low-profile , platform scale systems
+issuing the SB	the manufacturer relied on replacement of any attach angles found cracked at FS 497 to prevent failure of the attach angle at FS 577
+that time	there was no requirement within the Lockheed or First Air L382 maintenance programs to replace previously repaired attach angles
+fatigue shortly after the C check	The component failed
+new cracks are detected at FS 497	A manufacturer 's requirement to establish a maximum cycle life on previously repaired attach angles to reduce the risk of attach angle fatigue cracking and failure have accomplished the same failure prevention goal as the recommendation in SB 382-53-61 / 82-752 Revision 2 to replace attach angles
+was used to weigh the aircraft used digital indicators that provided single-point calibration only , which limited overall precision	the occurrence , the electronic , low-profile , platform scale system
+weighing an aircraft that had the weight , and nose tire and main tire footprint sizes of a Lockheed L382	The system , as configured and calibrated , was unsuitable
+weighing aircraft , without awareness of the potential and inherit shortcomings of the system , may increase the risk of recording erroneous aircraft basic empty weights	The continued use of this type of electronic , low-profile , platform scale system
+extended time in service	The DER approved repair at FS 497 restored the right attach angle to original strength ; however , the repair approval did not include a continuing maintenance program to cover crack detection at FS 577 , increasing the risk of attach angle cracks occurring at FS 577
+weighing a Lockheed L382	The electronic , low-profile , platform scale system that was used to weigh the aircraft was unsuitable , as configured and calibrated ,
+A crack in the wing-to-fuselage attach angle of a Lockheed L382/C -130 aircraft	failure of the attach angle , pressurization blow out , and subsequent loss of cabin pressure
+the manufacturer	stop drilling and repair of cracks in the wing-to-fuselage attach angles
+aircraft structure	these same methods being effective in the area of FS 577
+at FS 497	failure of the attach angle at FS 577
+A manufacturer 's requirement to establish a maximum cycle life on previously repaired attach angles	the risk of attach angle fatigue cracking and
+the SB recommendation	the risk for undetected
+While not a factor in the occurrence , the electronic , low-profile , platform scale system that was used to weigh the aircraft used digital indicators	single-point calibration
+This	the aircraft flying approximately 75 hours with a large error in the recorded basic empty weight on the weight and balance report
+The continued use of this type of electronic , low-profile , platform scale system for weighing aircraft , without awareness of the potential and inherit shortcomings of the system	the risk of recording erroneous aircraft basic empty weights
+Fatigue crack initiation and propagation occurred in the bend radius of the left attach angle at FS 577	failure of the component
+SB 382-53-61 / 82-752 , including the Basic release and Revisions 1 and 2 , did not address replacement of previously repaired attach angles	the risk L-382 or C-130 aircraft -LRB- serial numbers 4383 to 5305 -RRB- that were operating with repaired attach angles might have experienced an in-flight failure of the attach angles at FS 577
+The DER approved repair at FS 497 restored the right attach angle to original strength ; however , the repair approval did not include a continuing maintenance program to cover crack detection at FS 577	the risk of attach angle cracks occurring at FS 577 due to extended time in service

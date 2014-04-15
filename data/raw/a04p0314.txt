@@ -1,0 +1,48 @@
+
+
+Analysis
+
+
+The V-drive belts were found to be shorter than the minimum dimensional standard with significantly mis-matched lengths. For excessively short belts to get into the system, they would have to be manufactured improperly by the sub-contractor and would have to go un-noticed through Robinson's multi-level quality control checks. Following the accident, the shortest of the two involved belts could not be re-installed on the accident helicopter by TSB personnel, nor could it be installed on a serviceable helicopter by factory personnel. Although the longer of the two accident belts could be installed, it took excessive force and would have been noticed during the original installation process. It is considered unlikely that these belts were too short at the time of installation. It follows, therefore, that the drive belts had to change dimension at some point after they were originally installed.
+
+
+The belt-tension actuator assembly that was on the helicopter at the time of the accident, as well as the actuator motor that had been removed at the maintenance facility just prior to the accident, were tested at the Robinson Helicopter facility. All of these components were found to be serviceable based on factory standards. It is unlikely, therefore, that these components precipitated the accident.
+
+
+The presence of corrosion on both the in-line fuse and fuse terminal, coupled with the poor solder joint caused an increase in resistance in the electrical circuit to the belt-tension actuator motor. This would have either slowed or stopped the actuator motor. Slow operation of the actuator motor would increase the time required to properly tension the belts. Because heat is generated during the tensioning process, any increase in the tensioning time will increase the heat transfer to the belts. Belts are known to shrink if their temperatures reach levels that are beyond their normal heat range. It is, therefore, likely that the slow operation of the actuating motor precipitated the belt shrinkage.
+
+
+Any change to the dimensions of the belts after installation will cause a change to the original rigging and alignment of the upper drive shaft and an increased mis-alignment of the sheaves. Mis-alignment of the drive train sheaves is known to contribute to drive train failure.
+
+
+The drive belts shrunk by different amounts, and any belt mismatch would result in the shorter of the belts tensioning first and taking a higher percentage of the engine power. An excess of horsepower being applied to the drive belt system is known to increase the risk of belt failure.
+
+
+In this accident, regardless of the specific cause, both belts came off the sheaves in flight, thus disconnecting the engine from the rotor system. The loss of power to the rotor system required the pilot to enter an autorotation. In the latter stages of that manoeuvre, the main rotor rpm decreased and the helicopter's rate of descent increased rapidly. Because of the Robinson R-22's low-inertia rotor system, recovery under these conditions is virtually impossible, even with the collective fully down. The helicopter entered the water with a high vertical descent rate and limited forward speed.
+
+
+The pilot/owner had reported an intermittent problem with the rotor engagement system after the overhaul. Although tapping the tensioner motor to initiate engagement appeared to have worked as a temporary fix, it is not an approved maintenance procedure and, in part, led to an incorrect conclusion that the tensioner motor was the underlying cause of the engagement problem. The correct use of the Maintenance Manual's Clutch Actuator Electrical Trouble-shooting Guide would have provided an opportunity to identify the electrical defects that were subsequently noted following the accident.
+
+
+Use of a 10-amp fuse in place of the required 1.5-amp fuse in the electrical circuit to the belt tensioning actuator eliminated the intended defence and, under certain circumstances, could have allowed the actuator to over-tension and damage the belts.
+
+
+The following TSB Engineering Branch Report was completed:
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+At some point after installation, both V-drive belts were subjected to changes in dimension, probably as a result of shrinkage due to excess heat. Any changes to belt length would increase the risk of the belts coming off the sheaves and disconnecting the engine from the rotor system. Corrosion on an in-line fuse end and improper connection of the fuse holder raised the resistance in the electrical circuit to the belt-tensioner and slowed the operation of the belt-tension actuator motor. This slower operation would have caused an increase in tensioning time and in belt temperature during engagement/disengagement, which likely precipitated the belt shrinkage. During the latter stages of the autorotation, the helicopter's main-rotor rpm was allowed to drop below safe limits, resulting in insufficient rotor energy to arrest the descent.
+
+
+
+Findings as to Risk
+
+
+Use of a work-around procedure to engage the actuator motor (tapping the motor) increases the risk of component failure and, in this case, masked the actual cause of the engagement problem. Use of a 10-amp fuse in place of the required 1.5-amp fuse in the electrical circuit to the belt-tension actuator motor eliminated the intended defence and, under certain circumstances, could have allowed the actuator to over-tension and damage the belts.
+

@@ -1,0 +1,6 @@
+accident	the
+the aircraft was examined	the only discrepancy identified was the missing carburettor inlet screen
+the aircraft flight controls were intact and functional	the steep banked turns that caused the aircraft to stall during the turn to final were likely pilot-induced manoeuvres
+Since the aircraft flight controls were intact and functional , the steep banked turns	the aircraft to stall during the turn to final were likely pilot-induced manoeuvres
+The functional flight controls also	that the pilot have been able to recover from a stall , had there been sufficient altitude
+the Prozac	his performance

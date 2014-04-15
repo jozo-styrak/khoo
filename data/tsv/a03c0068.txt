@@ -1,0 +1,14 @@
+The elevator trim-tab pushrod attachment bolt was found to be tightened to a value higher than that prescribed by the manufacturer	, when the inner bushing became seized , the pushrod clevis was not free to rotate
+fatigue cracking of the threaded section of the rod end	The elevator trim pushrod failed
+the bushing had seized	the trim pushrod had rotated about the inner face of the clevis and outer faces of the inner bushing
+Reaming of the bushings without the associated drawings	a risk of seizure if the dimensional and out-of-round limits are not strictly observed
+Movement between the two ill-fitting bushings , aided by the higher-than-prescribed installation torque on the through bolt , likely produced the galling	eventual seizure
+Movement between the two ill-fitting bushings , aided by the higher-than-prescribed installation torque on the through bolt ,	the galling , which resulted in eventual seizure
+rotation	the bending loads on the pushrod
+The steel-on-steel design of the elevator trim-tab bushings	the risk of seizure
+The fatigue crack was initiated by the increased bending load generated from a progressively stiffening pushrod to trim-tab attachment	limited elevator control
+Movement between the two ill-fitting inner and outer bushings , aided by the higher than prescribed installation torque on the through bolt , likely produced the galling	seizure
+Movement between the two ill-fitting inner and outer bushings , aided by the higher than prescribed installation torque on the through bolt ,	the galling , which eventually resulted in seizure
+The elevator trim-tab inner and outer bushings are both made from stainless steel	the risk of seizure
+Distribution of such bushings	the machining or reaming of bushings
+Reaming of the bushings without the associated drawings	the risk of seizure

@@ -1,0 +1,55 @@
+
+
+Analysis
+
+
+While there were thunderstorms in the area, light winds prevailed at the airport at the time of the occurrence, with no indication of windshear. A stable approach was flown; however, the rate of descent at the time of touchdown contributed to a hard landing and bounce.
+
+
+After the second touchdown, the captain decided to carry out a go-around and not to stop on the Runway in the remaining distance. The investigation determined that the aircraft could have stopped on the remaining runway, which was bare and wet. It could also have safely flown away, following a go-around after wheel touchdown, if the spoilers had been stowed.
+
+
+However, in this occurrence, the go-around was initiated with the spoilers deployed. This resulted in added drag that precluded a safe lift-off and caused the tail and the number 2 engine to strike the ground. While the manufacturer's manual contains guidance on how to respond to a bounced landing event, during simulator training, crews are not required to conduct the bounced landing recovery procedure. Furthermore, this crew had not practiced the go-around after touchdown manoeuvre during simulator training. Therefore, they were never exposed to either scenario and never had the opportunity to learn to retract the spoilers when conducting a go-around.
+
+
+The decision of the captain to carry out a go-around was based on the concern that insufficient Runway remained to bring the aircraft to a stop, especially with the potential for standing water on the runway. This is consistent with Boeing's bounced landing recovery procedure for a hard high bounce where excessive Runway is used; in this circumstance, a go-around is mandatory.
+
+
+While the take-off configuration warning horn should have warned the crew that the aircraft was not properly configured, the aircraft was moving at high speed, leaving the crew with very little time to analyse the situation. The crew had to reconfigure the aircraft and these actions had to be completed under conditions of high stress and workload. The complexity level of the manoeuvre was also increased due to the transfer of control that took place. Combined with the fact that the bounced landing recovery manoeuvre had not been practised previously, this likely contributed to the crew not stowing the spoilers.
+
+
+When the take-off configuration warning horn sounded, the crew did not immediately recognize that the spoilers were not stowed. This could be because the crew members had heard the warning horn during touch-and-go training in the past and did not recognize it as a warning and that they expected it to stop sounding once the aircraft was reconfigured, or simply that they were too busy to hear it. Ultimately, the warning horn did not provide the signal necessary to draw the crew's immediate attention to the position of the spoilers.
+
+
+The crew carried out the go-around procedure as described in the manufacturer's and the operator's manuals. However, unlike the windshear recovery procedure and the GPWS pull-up terrain avoidance procedure, this procedure does not specify that speedbrakes have to be retracted. Without procedures to ensure that the spoilers are retracted in the event of a go-around after touchdown, crews may leave the speedbrake lever in the extended position, increasing the risk of the aircraft not being able to meet the required climb gradient.
+
+
+By the time power was removed by maintenance staff, all CVR information regarding the incident had been overwritten. The lack of information from the 30-minute CVR regarding the go-around event hampered investigators' ability to obtain a timely and complete understanding of the event and hindered the investigation. A two-hour CVR would have captured the event and provided important information.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The go-around was initiated with the spoilers deployed. This resulted in added drag that precluded a safe lift-off and caused the tail and the number 2 engine to strike the ground. The crew had not received any training for a bounced landing or a go-around after touchdown and therefore did not retract the spoilers.
+
+
+
+Findings as to Risk
+
+
+The bounced landing recovery and go-around procedures do not direct crews to stow the spoilers. In the event of a go-around after touchdown, crews may leave the speedbrake lever in the extended position, increasing the risk of the aircraft not being able to meet the required climb gradient. Cockpit voice recorder (CVR) information regarding this incident was overwritten. The lack of CVR data hampered investigators' ability to obtain a timely and complete understanding of the event.
+
+
+
+Other Finding
+
+
+While vertical acceleration was recorded at 1.9 g and 2.3 g, it is likely that the actual g values experienced by the aircraft were higher.
+

@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+An operating irregularity occurred when the controller cleared ICN 2240 to land on runway 24 beyond the intersection with runway 33, without making sure that the approach path was clear. ARN 811 had not taxied through the intersection at the time ICN 2240 flew by, with a clearance to land on runway 24.
+
+
+The airport controller was now conducting sequential landing operations using two intersecting runways after having cancelled the hold short restriction (as required for the simultaneous operations) for ARN 811. Once he realized that the runway was not going to be clear for ICN 2240, he instructed ICN 2240, now at 0.3 miles from the threshold of runway 24, to initiate a missed approach. Had ICN 2240 complied with the instruction, no occurrence would have taken place. The request by the pilot to land long instead of carrying out a missed approach forced the airport controller to quickly re-evaluate his own plan. The decision to allow ICN 2240 to land was based on the airport controller's visual perception from his vantage point in the tower that ARN 811 had now passed through the intersection and that ICN 2240 would touch down beyond the intersection, which proved to be erroneous. The short time available to make a change to the original decision combined with the shallow viewing angle from the tower toward the intersection of the two runways did not allow the controller to properly evaluate the situation. Although the controller had indicated to the pilot of ICN 2240 that further clearance would not be issued until the aircraft was at about one-half mile on final, he did not warn the pilot that the runway might not be clear and that a missed approach might need to be initiated.
+
+
+As a result of the controller's action, the inherent safety of a standard procedure, that is the SIRO procedure, was replaced by a less certain, ad-hoc procedure. The human factors section of NAV CANADA's own training material on situational awareness supports the use of standard procedures. By using a non-standard operating procedure, increased vigilance and additional safety checks were required to maintain the level of safety as was intended had the standard procedure been followed. Waiting until the last possible moment to make a significant decision, such as instructing an aircraft to execute a missed approach, may not allow enough time for the pilot to initiate action to ensure safe spacing with another aircraft. Even with both aircraft on short final to crossing runways, the controller still hoped to allow both aircraft to land, but without having the SIRO procedure's safety requirements in place.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The airport controller cancelled the SIRO procedure without ensuring that sufficient separation existed to conduct sequential operations to two intersecting runways. The controller cleared the two aircraft to land sequentially without ensuring that one aircraft would be stopped prior to the intersection or had taxied through the intersection before the other aircraft crossed the landing threshold. The pilot of ICN 2240 did not immediately comply with the controller's instruction to execute a missed approach, which resulted in the two aircraft coming into close proximity at the intersection of the two runways with little vertical spacing.
+

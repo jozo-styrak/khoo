@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+Nothing was found to indicate that there was any airframe or system malfunction before or during the flight. This analysis focuses on weather, decision making, aircraft performance, ELT performance, and flight following.
+
+
+The weather at Port Hardy was VFR, consistent with the forecast. Even though the ceiling was at 1000 feet agl, the visibility was very good at 20 sm. The pilot likely expected the clouds observed along the mountain ridge to the south and southwest of the airport to be patchy as per the graphical area forecast. Knowing that the weather at Chamiss Bay was sunny with good visibility, the pilot likely considered the clouds on the mountain tops as local phenomena, which he could negotiate to successfully cross the ridge. This assessment of the weather likely led the pilot to choose the direct route.
+
+
+As the flight proceeded towards the higher terrain, the pilot likely discovered that the cloud coverage was more extensive than observed from the ground, with hilltops obscured. Considering that the pilot was not instrument rated and the aircraft was not certified for instrument flight rules (IFR) flight, he would have rejected the idea of climbing into the clouds and proceeding under IFR. Instead, his options would have been to turn around (either return to Port Hardy or double back to follow the low-level route along the coast), continue towards a pass that would allow him to cross the ridge into better weather, or try to fly above the clouds on the ridge and below the overcast ceiling. It is likely that he found the weather conditions at the pass to be unsuitable and instead elected to climb above the ridge and below the overcast ceiling. The climb began, gently at first, then more abruptly with what was probably full climb power. With clouds obscuring the ridge, the pilot would have recognized the risk of flight into terrain if he allowed the aircraft to penetrate the clouds. During the climb, the aircraft reached the stall angle and the left wing dropped. This caused the aircraft to lose considerable height. The pilot was able to recover from the stall in a nose-down attitude. Before he could raise the nose to the level position, the aircraft struck the tops of several trees, which slowed the aircraft before it fell to the ground.
+
+
+The failure of the ELT to activate upon impact significantly increased the risk to survivors. In this case, the ELT was destroyed on impact, which hindered SAR efforts to locate the downed aircraft.
+
+
+It is unknown whether the pilot attempted to contact flight following in the moments before the accident. The fact that the aircraft could not be reached did not alarm the company flight following because it was not unusual for aircraft to be out of radio range of the flight watch facility. It was also not unusual for pilots to land somewhere along their route to wait for weather to improve before continuing to destination. As a result, the company did not notify the Victoria Joint Rescue Coordination Centre until 0953, about one hour after the aircraft's expected arrival time back at Port Hardy. The lack of an effective means of tracking the flight progress led to delays in SAR action. These delays increased the risk to survivors.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+While likely climbing to fly above a cloud-covered ridge and below the overcast ceiling, the aircraft stalled aerodynamically at a height from which full recovery could not be made before striking the trees. The aircraft broke apart upon impact, and electrical arcing from exposed wires in the presence of spilled fuel caused a fire that consumed most of the aircraft.
+
+
+
+Findings as to Risk
+
+
+While the company's established communications procedures and infrastructure met the regulatory requirements, they were not effective in ascertaining an aircraft's position and flight progress, which delayed critical search and rescue (SAR) action. The emergency locator transmitter was destroyed in the crash and failed to operate, making it difficult for SAR to find the aircraft. This prolonged the time the injured survivors had to wait for rescue and medical attention.
+

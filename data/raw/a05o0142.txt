@@ -1,0 +1,24 @@
+
+
+Analysis
+
+
+Lock wiring a turnbuckle is a relatively basic aircraft maintenance task, but it is a critical task that ensures the safety and security of aircraft control systems. All AMEs learn this task during their formal education and continue to perform it, to varying degrees, throughout their careers. The AME who did the majority of the work was relatively new on the Bell 204. While his past experience included work on similar helicopters and smaller helicopters equipped with cables and turnbuckles, this was the first helicopter the AME had worked on which had this type of quick-disconnect turnbuckle (speed rig). As well, the hole where the lock wire goes through the threaded end of the speed rig was difficult to see. The maintenance manual reference to figure 7-32 clearly shows a lock wire in place at both ends of the speed rig. The text reference does not describe how to complete the task, but rather refers to the figure for an example of a properly lock-wired speed rig. Despite the AME's professional approach to maintenance tasks and flight safety, the basic task of lock wiring the turnbuckle was improperly performed.
+
+
+The AME chose to have the pilot conduct the independent inspection because the pilot was familiar with the machine, qualified by the company to perform this task, and available. In spite of his qualification, when the pilot looked at the speed rigs on several occasions and saw lock wire, he assumed that the speed rig was correctly lock wired, when in fact it was not. The pilot had received elementary maintenance training on the aircraft, which included independent control system inspections. However, this instruction was not in depth and did not include detailed instructions on what to check or how to check the system. The potential for similar occurrences exists within any organization that uses personnel who are not fully trained and experienced on the type of system operation and installation being inspected.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The tail rotor pitch change cable speed rigs were not lock wired in accordance with approved methods. As a result, one cable speed rig came undone, and tail rotor authority was lost. The independent control inspection was not carried out in accordance with the standards described in the Canadian Aviation Regulations or relevant Airworthiness Notification, and the missing lock wire was not detected.
+
+
+
+Findings as to Risk
+
+
+The pilot conducting the independent inspection was qualified and had received elementary maintenance training that included independent control checks. However, without specific training on maintenance procedures and standards, there is an increased risk of missing maintenance-related deficiencies.
+

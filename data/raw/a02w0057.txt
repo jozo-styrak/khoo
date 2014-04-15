@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+The two areas on which the investigation focussed were the atmospheric conditions at the site and a possible loss of power when the collective was raised after aborting the approach.
+
+
+Winds at the site, as forecast and as reported from surrounding stations, were probably from the south or southwest at speeds of 20 to 40 knots. This resulted in subsidence, turbulence, and wind shears on the east (lee) side of the mountain. An updraft on final approach caused the pilot to lower the collective slightly, probably followed by a downdraft or wind shear which caused the helicopter to suddenly descend. From an altitude of approximately 50 to 100 feet above the trees, at a near-hover speed, there was little margin for the helicopter to recover. Maximum rate of climb of the helicopter at the altitude and load was about 1500 fpm, in downdrafts which could have exceeded 3000 fpm.
+
+
+The engine was reported to have lost power, because the main rotor rpm decreased to between 270 and 335 rpm and the warning horn sounded when the collective was raised during the turn. A pilot's training and normal reaction would be to raise the collective when encountering a sudden downdraft at a near-hover airspeed, in close proximity to the terrain, especially if the collective had been lowered just prior to encountering the downdraft. An excessive increase of the collective during the abort could have over pitched the main rotor blades, resulting in the loss of rotor rpm. The momentary activation, then silencing, of the low rotor warning horn would indicate that the main rotor speed drooped below the warning horn activation threshold rpm, then immediately accelerated to above that speed. Considerable engine power would have been required for the rotor rpm to accomplish this recovery with only a slight lowering of the collective. The engine acceleration sounds, main rotor blade damage, and continued operation after coming to rest would rule out engine failure. Further indications that a power loss was unlikely was the absence of any fault being found during the engine and component examination and testing.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot was attempting to land the helicopter in wind conditions which most likely exceeded the performance limitations of the helicopter. The helicopter encountered strong downdrafts or wind shear on the second approach, which was not encountered on the first approach, and the pilot was unable to adequately control the helicopter.
+
+
+This report concludes the TSB's investigation into this occurrence. Consequently, the Board authorized the release of this report on 14 May 2003.
+
+
+1. All times are mountain standard time (Coordinated Universal Time minus seven hours) unless otherwise noted.
+

@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+Since the tank selector was in the "FRONT TANK" position, the contamination in the sample drained from the delivery line strainer after the occurrence would have come from the front tank. The engine operated normally during the flight, using fuel from the rear and centre tanks, and the power loss occurred after the front tank had been selected; therefore, the water contamination was likely confined to the front tank. The fact that the engine operated normally with fuel being fed from the front tank during the previous flight indicates that the front tank fuel was probably uncontaminated at that time. Therefore, the contamination was likely introduced into the front tank while the aircraft was at Big Trout Lake.
+
+
+The company reported that it has not experienced any other contamination problems using fuel transported in jerry cans; therefore, it is likely the water contamination came from the drums into which the fuel was poured just before the aircraft was refuelled. Since only the front tank was contaminated, it is probable that only one of the two drums was contaminated. The filter on the hand-operated wobble pump was not designed to prevent water contamination; therefore, water from the drum would have been transferred into the aircraft's fuel system.
+
+
+The aircraft fuel tank sumps were drained into a sample glass both after the refuelling and before the departure from Big Trout Lake, but no contamination was detected. It is possible that after the refuelling, the sample was taken before the water had time to settle into the sump. Once the aircraft was beached, its attitude was nose-level rather than the normal slightly nose-up. Because the tank sumps are at the rear of the tank, it is possible that the nose-level attitude prevented the water from reaching the sump for the pre-flight fuel sample. The temperature was below freezing, so it is also possible that the water froze and could not be drained.
+
+
+If the tank sump was drained during the pre-flight check, it is probable that contamination remained undetected in the front tank. Any ice in the tank could have melted as a result of heat from the engine, exhaust system, and cabin heating system. When the pilot selected the front tank en route, the water entered the fuel lines and migrated to the carburetor and into the engine, resulting in a loss of power.
+
+
+The low altitude at the time of the power loss limited the time available to restart the engine. The pilot's actions after the power loss correspond to the actions mentioned in the AFM for restart after engine failure during flight, except for the throttle position and the change in the fuel tank selection. However, regardless of throttle position or tank selection, it is unlikely that the contamination would have been eliminated or the engine would have restarted, given the extent of the water contamination and the limited time available.
+
+
+Both the pilot and the engineer were wearing lap belts and shoulder harnesses at the time of the crash. It is likely that the use of the shoulder harnesses helped to prevent injuries.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The engine quit operating because the aircraft fuel system was contaminated with a large amount of water. The most likely source of the water contamination was the drums from which the aircraft was refuelled. A proper filter to prevent water contamination was not used when the aircraft was refuelled. The nose-level aircraft attitude when beached and the freezing of water probably prevented the water contamination from being drained from the front tank during the pilot's pre-flight checks.
+
+
+
+Other Findings
+
+
+The aircraft's maintenance records indicate that the aircraft was certified, equipped, and maintained in accordance with existing regulations and approved procedures. The use of the available shoulder harnesses probably prevented serious injury to the pilot and engineer.
+

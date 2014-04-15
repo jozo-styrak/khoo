@@ -1,0 +1,37 @@
+
+
+Analysis
+
+
+The analysis will focus on the failure of the cabin window, the crew actions after the rapid decompression, and the difficulties that the first officer experienced communicating with his oxygen mask on.
+
+
+The surface chip gouges on the cabin windows and exit window fragments indicate that they had been exposed to impact from some form of small coarse material. During take-off, propellers can pick up debris and drive it towards the cabin along the propeller plane; the rearward propeller wash may also carry debris aft and expose other surfaces to damage. Debris being thrown from the jet blast or propeller wash from other aircraft while on the ground could also cause surface chip gouges, although it is likely that this scenario would cause damage over a larger area. Consequently, it appears that at some time during the aircraft's operating history, a take-off was conducted from a runway surface that had excessive debris on it, and this debris was blown against the windows by the right-hand propeller, causing the surface chip gouges. With only small fragments from the failed window available for examination, the exact cause of the window failure could not be determined. However, these fragments and the adjacent windows had surface chip gouges in excess of the recommended tolerance and some of the gouges had crack vents protruding internally. Therefore, it is probable that a cracking failure occurred due to the excessively damaged condition of the exterior surface of the window.
+
+
+The crew did not follow the SOPs applicable to the event. At the first indication of the rapid depressurization, the captain, who was the pilot flying, should have initiated an emergency descent while the first officer donned his oxygen mask. Once the first officer had his mask on, control of the aircraft should have been transferred and the captain should have donned his oxygen mask. Also, passenger oxygen should have been selected once the crew had their masks donned. Non-adherence to SOPs put the crew and passengers at unnecessary risk after the rapid decompression.
+
+
+The first officer's oxygen mask microphone was found to be serviceable, yet he had difficulty communicating after he had donned his mask. It could not be clearly established why this occurred.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Fragments from the failed window and the two adjacent windows had surface chip gouges in excess of the recommended tolerance. It is probable that a cracking failure occurred due to an excessively damaged condition of the exterior surface of the window.
+
+
+
+Findings as to Risk
+
+
+Non-adherence to SOPs after the rapid decompression put the crew and passengers at unnecessary risk.
+
+
+
+Other Findings
+
+
+The first officer had difficulty communicating through his oxygen mask microphone.
+

@@ -1,0 +1,60 @@
+
+
+Analysis
+
+
+
+General
+
+
+The AS 355 F1 helicopter sustained an in-flight fire that occurred as a result of the auxiliary-battery-to-main-battery parallelling cable not being attached to the positive post of the main battery. The maintenance error was not detected before the flight. Based on witness information, the battery compartment mock-up testing, and the TSB Engineering Laboratory examination of the recovered section of the arc-damaged battery cable, it was concluded that the unattached cable contacted an unpainted area of the battery compartment forward bulkhead, arced through the bulkhead, and ignited the survival gear in the adjacent baggage compartment.
+
+
+Several system defences that may have prevented this accident were missing or inadequate. The auxiliary-battery-to-main-battery parallelling system provided no cockpit indication that the auxiliary battery was unattached, the company maintenance system guidelines were outdated, the Daily Operating Checks were not being performed in accordance with the manufacturer's recommendations, and the AME who had most recently performed the battery compartment maintenance did not note that the auxiliary battery parallelling cable was unattached. The analysis will therefore address the latent system failures that may have contributed to the maintenance error that occurred and the conditions that resulted in it remaining undetected. The analysis will also address the pilot's actions and the propagation of the fire due to the flammability of the survival gear in the baggage compartment.
+
+
+
+
+Maintenance System, Practices, and Procedures
+
+
+Maintenance systems and practices have evolved to reduce the likelihood of a maintenance error occurring and to reduce the consequences of any error that does occur. There was no regulatory requirement for the company to operate under the authority of a Private Operator Certificate or Air Operator Certificate, and the maintenance department was therefore exempt from the more stringent TC standards that apply to an AMO. This eliminated several checks and balances that normally exist in an approved aircraft maintenance system. The maintenance department was staffed by four highly experienced AMEs, but they lacked the organizational and procedural guidelines and the assigned leadership to operate in accordance with long-established aviation maintenance standards. The guidelines that did exist in the form of the company aircraft maintenance manual were inadequate and outdated by seven years. The policy of rotating supervisory, procurement, and line-maintenance responsibilities that had existed in the maintenance department for approximately one year was ineffectual, lacking in continuity, and unsuitable for an aviation maintenance department. Since there was no requirement for TC to perform audits on the company, and due to the changes and remedial actions that were expected to occur within the helicopter division as the merger proceeded, the deficiencies that had existed in the maintenance department for some time remained uncorrected.
+
+
+The Daily Operating Checks that may have identified that the maintenance error had occurred were not being conducted, and the maintenance was, therefore, not being performed in accordance with the manufacturer's recommendations. Since there was no cockpit indication to identify that the auxiliary battery parallelling cable was unattached, the helicopter was flown for some time with a serious maintenance discrepancy. In fact, the engineer who performed the work became the single line of defence in the system.
+
+
+The circumstance of having one battery cable normally attached to the positive post of the main battery on two of the company helicopters, and of having two battery cables normally attached to the positive post of the main battery on the other company helicopters would have increased the potential for an auxiliary battery cable to be left unconnected.
+
+
+The red battery temperature warning light is designed to alert the pilot to a battery thermal run-away condition, and is not intended to function primarily as a fire warning light. Therefore, the pilot initially believed that he had a battery over-temperature problem rather than an in-flight fire. He reacted to the warning light by turning off the battery in accordance with the recommended emergency procedures, continuing a slow descent towards a convenient precautionary landing site, and contemplating a precautionary landing. By landing immediately, he reacted to the loss of electrical power and the appearance of smoke in the cockpit which were the second and more urgent indications of the in-flight emergency.
+
+
+The nylon and cardboard packaging material and the survival shelter and emergency flares were not flame-resistant. The proximity of this equipment to the electrical wiring in the battery compartment contributed to the initiation of the fire. Propagation of the fire was rapid because of the burning qualities of the packaging material and equipment.
+
+
+
+
+Organizational Structure and Management
+
+
+The company merger had raised significant concerns among the Edmonton helicopter group regarding their future employment and economic security. Stress is the body's reaction to any stimulus that disturbs its equilibrium and taxes its ability to cope. Stress can have a positive or a negative effect on thinking and performance, depending on the circumstances and the individual. One consequence of emotional stress and anxiety is that an individual may concentrate on the difficulties that are creating the stress rather than on the practical aspects of the present situation. Hazards that may result include the distraction of attention and the failure to recognize errors. Emotional stresses, such as those resulting from the anticipation of future difficulties, are among the most disturbing distracters of attention.(1)
+
+
+The maintenance department's three managerial policy changes in the year preceding the accident and the recent company merger had increased employee stress levels significantly. The degree to which the impact of the uncertainty of the merger may have contributed to the occurrence could not be determined. However, it appears that stress and preoccupation with concerns about the future of the company may have affected the performance of one or both of the maintenance engineers who had most recently worked in the battery compartment, creating a situation of inattention to the work being accomplished.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The auxiliary battery parallelling cable was not attached to the positive post of the main battery during routine maintenance. The in-flight fire occurred when the unattached battery cable arced through the battery compartment forward bulkhead in flight and ignited the flammable nylon survival gear bags in the adjacent baggage compartment. The proximity of the highly flammable nylon survival gear bags to the battery compartment electrical wiring represented a hazard and contributed to the initiation and propagation of the in-flight fire. The battery compartment Daily Operating Checks, which may have identified the error, were not being conducted by either pilots or AMEs.
+
+
+
+Other Findings
+
+
+Because the helicopter was being operated as a private aircraft, helicopter maintenance was not required to be performed by an AMO. The recently evolved rotating organizational structure in the helicopter maintenance department was inappropriate and would not have met TC requirements for a maintenance control system. The risk that AMEs would make errors in their work was elevated by the stress and anxiety related to employment and financial security concerns associated with the merger.
+

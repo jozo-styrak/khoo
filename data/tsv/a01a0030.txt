@@ -1,0 +1,21 @@
+The second scenario , that the multiple in-flight engine flame-outs may have been caused by ice accumulation after the engines were started , can not be discounted as a possibility	, even though engine ignition successfully re-started the engines on this occasion , appropriate follow-up action is required to ensure that the risk of significant in-flight ice accumulation causing flame-outs is adequately assessed
+the temperature inside the hangar was slightly above freezing and the residual engine heat in the inlets would have raised the inlet temperature after the aircraft engines had been shut down	If snow/ice had accumulated , it would have melted
+the drain hole blockages	Water from the melted ice that would have normally drained out the inlet duct drain holes would have remained in the inlet
+the aircraft was removed from the hangar the next day	the water in the bottom of the inlet ducts froze
+five minutes to heat the aircraft	Thirty minutes after the aircraft was removed from the hangar the right engine was started and run
+20 minutes , leaving the inlets exposed to the wind and blowing snow for 26 minutes , with the right engine running for 5 minutes of that	Of the total period outside the hangar before both engines were started , the plugs were estimated to have been in place
+Heat transfer analysis also concluded that the conditions on 03 April 2001 , after engine start , were not conducive to inlet duct icing	, the inlet icing could not have occurred as described by the crew unless there was a pre-existing , ground-accumulated ice sheet
+the ground handler 's direct visual and tactile inspection of the inlets showed them to be clear	There is disagreement , however , regarding the presence of ice or water in the inlet ducts prior to engine start ,
+ice in the engine air inlet ducts lifting up as a solid sheet interrupting the airflow to the engines and causing them to flame-out	the engine flameouts
+as a solid sheet interrupting the airflow to the engines	them flame-out
+the flight crew or the ground handler	ice undetected
+heat	analysis
+heat	analysis
+Heat	analysis
+Heat transfer analysis also concluded that the conditions on 03 April 2001 , after engine start	duct icing
+inappropriate ground handling procedures	an ice/snow build-up in the engine inlets
+ice accumulation	the multiple in-flight engine flame-outs
+the risk of significant in-flight ice accumulation	flame-outs
+ice in the engine air inlet ducts lifting up as a solid sheet interrupting the airflow to the engines and causing them to flame-out	the engine flame-outs
+as a solid sheet interrupting the airflow to the engines	them flame-out
+Three of the four drain holes in the right engine inlet duct were completely blocked and the fourth was partially blocked	the risk water could pool and freeze in the duct

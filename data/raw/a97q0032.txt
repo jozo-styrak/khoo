@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The pilot was qualified for the flight and the weather was favourable for the flight as planned.
+
+
+At cruise altitude, as the aircraft speed increased, the angle of attack decreased and the right ski rotated downward. It is possible that this situation was aggravated because the nut (AN-7) was not tight enough, and the right ski was hanging lower than the left ski. The sudden increase in resistance when the ski rotated downward would have caused the aircraft to pitch down. The bungee stretched, probably resisted for a few seconds allowing the pilot to attempt to correct the attitude, then failed. (See Appendix B - In-Flight Breakup Sequence).
+
+
+When the bungee failed, it allowed the ski to continue rotating. The bolts holding the metal plate on the ski tip failed in tension, allowing the steel cable to recoil and strike the propeller. The propeller plane of rotation was modified, and this produced excessive tension on the engine mount brackets, which failed, and the engine separated from the aircraft. At the same time, the ski continued to rotate rapidly toward its physical limit, exerting downward force on the landing gear leg. The nut on the AN-7 bolt failed and the floor was punctured.
+
+
+When the engine separated, the aircraft pitched up as a result of aerodynamic forces and the shift in its centre of gravity. The ski then cut the right wing strut and the leading edge aft to the main spar. During this sequence, the forward carry-through structure was damaged, allowing the two wings to tear off. Finally, lacking a viable structure, the fuselage separated at the aft door pillar. Transfers of colour from the ski were also found on the vertical stabilizer and left elevator, suggesting that the fuselage rotated to the right after losing the right wing. After a descent of about 3,500 feet, the various pieces crashed on the ground.
+
+
+When the skis were being installed, the AME did not research the ADs in effect, and did not notice that there was a note to that effect in the technical log-book. Consequently, AD CF-80-18 was not completed by the AME when the Airglas skis were installed. The CARs provide that the responsibility for complying with ADs rests with the person who has legal control of the aircraft unless that responsibility is specifically delegated in a document setting out the agreement.
+
+
+The following laboratory reports were completed:
+
+
+LP 034/97 - Structural Examination - In-Flight Breakup LP 52/97 - Examination - Aircraft Engine and Propeller
+
+
+
+Findings
+
+
+The pilot was qualified for the flight. Airworthiness Directive CF-80-18 relating to the installation of steel cables and bungees had not been complied with. The nut on bolt AN-7 that fastens the landing gear leg was incorrectly tightened when the skis were being installed, and the bolt failed in flight. The bungee on the right ski failed in flight and allowed the ski to rotate downward. The bracket tore off the ski and was thrown into the propeller causing the engine mounts to fail. The right ski and landing gear separated and struck the right wing of the aircraft. The aircraft broke up into several pieces in flight.
+

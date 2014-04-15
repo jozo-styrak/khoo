@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The weather conditions in the area of Fort Good Hope to Norman Wells and the pilot's previous experience on the recent flight to Fort Good Hope indicate that he probably encountered instrument meteorological conditions (IMC) shortly after departing Fort Good Hope. It could not be determined whether the aircraft's departure from 3500 feet asl was a result of the pilot's actions or that of external environmental elements. Before reaching 2000 feet asl, the aircraft entered a nose-up attitude resulting in a loss of airspeed. The short wreckage trail, combined with the high vertical damage and flight path angle through the trees, is consistent with the aircraft being in an aerodynamic stall.
+
+
+When the new regulations come in force, the Cessna 337 will not be required to be equipped with TAWS equipment because it carries less than six passengers and, in this case, the aircraft was being operated in day VFR conditions. In this occurrence, TAWS equipment could have provided additional information as to the aircraft's vertical and lateral position relative to surrounding terrain.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 083/2006 - Exhaust Temperature Analysis
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+For undetermined reasons, the aircraft descended out of its en route altitude, entered an aerodynamic stall and struck the ground.
+
+
+
+Other Findings
+
+
+Investigators were not able to determine why the aircraft departed from controlled flight. The aircraft was not fitted with a flight recording device, which may have allowed investigators to reconstruct the circumstances that led to the accident. The aircraft was not equipped with terrain awareness warning system equipment, nor was it required to be so equipped. That equipment could have provided additional information as to the aircraft's vertical and lateral position relative to surrounding terrain.
+

@@ -1,0 +1,63 @@
+
+
+Analysis
+
+
+
+General
+
+
+Safety in aviation is based primarily on the concept of defences built into the system. In this investigation, discussion of defences in place to mitigate the risk of mid-air collisions include:
+
+
+the classification of airspace, and applicable operating rules and level of ATC service; visual scanning by flight crews; aides to visual detection, including two-way communication, TCAS, landing/pulse lights; and altitude separation.
+
+
+
+
+Airspace
+
+
+Within the Class E transition airspace between Vancouver and Victoria, any aircraft may operate under VFR up to and including 2500 feet without a transponder or any form of communication with an ATC unit or other aircraft. Since regulations governing altitude and direction of flight do not apply, many pilots choose to maintain 2500 feet regardless of direction. In this area there can be an airspeed differential of 200 knots between same-direction traffic and closing speeds of up to 500 knots between opposite-direction traffic. In spite of this mix of traffic, controlled IFR flights operating at speeds of up to 250 knots are routinely cleared into the same Class E airspace as uncontrolled, unidentified VFR radar targets without communication. Yet, radar traffic information and conflict resolution between IFR and VFR aircraft in Class E airspace are not considered to be high priorities. Air traffic controllers are not expected to ensure separation between IFR and VFR aircraft on Class E airspace, and radar traffic information will be provided only when the controllers' workload permits. This incident is representative of the recent history of IFR/VFR air proximity events and one of the 24 risk-of-collision scenarios identified in the TC risk management study. Continuation of these events demonstrate that an elevated level of risk of mid-air collision exists when IFR and uncontrolled VFR aircraft share this airspace under the current levels of air traffic services.
+
+
+
+
+Air Traffic Control
+
+
+Radar scanning of Class E airspace to detect conflicting VFR traffic is not supported by aides, such as flight data strips, and these targets may only display as a splat without associated data tags. Therefore, determination of conflicting traffic requires an additional effort delegated to the controller's memory. In this occurrence, the controller's attention was divided between numerous tasks related to his plan, which likely caused his radar-scanning technique to deteriorate. The VFR traffic was displayed on ATC radar; however, based on scanning alone, the Victoria terminal controller did not detect the Otter's presence before issuing a clearance to the IFR helicopter for descent into Class E airspace. Although not mandatory, traffic information was provided, but not in time to prevent a risk of collision between the helicopter and the Otter. In accordance with ATC MANOPS, controllers are not obliged to provide such service within Class E airspace when other matters take priority.
+
+
+
+
+Aids to Visual Detection
+
+
+The altitude deviation by the Otter contributed to the risk of collision; however, it was not causal to the air proximity conflict. When the helicopter received the descent clearance, the defence of altitude separation was removed and, since neither crew had been advised of the traffic, only the defence of un-alerted visual scanning remained. Traffic advisories, via radio communication (ATC or air-to-air), on-board technology such as TCAS, or landing lights greatly assist pilots in detecting conflicting traffic. Weather conditions may have contributed to the difficulty of visual detection, but reliance on the see-and-avoid principle of separation may not have been adequate to prevent a collision since neither flight crew detected the opposing traffic, in advance, on their own. Once alerted, the helicopter crew immediately spotted the Otter's landing light.
+
+
+Transponders are required within Class C airspace, but are not required within basic Class E airspace. The safety advantage that might be gained with TCAS equipment installed in aircraft is thus limited within Class E airspace since TCAS systems operate on transponder signals. Since the Otter pilot intended to operate within Class C airspace, the transponder was turned on. Had either aircraft been equipped with TCAS, this incident likely would have been averted.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The Victoria terminal controller did not detect the Otter's presence, possibly because his attention was divided between numerous tasks related to his plan, causing his radar-scanning technique to deteriorate. Traffic advisories greatly assist pilots to spot conflicting traffic. However the Otter pilot was never advised of the helicopter traffic, and the helicopter crew was not advised of the Otter in a timely manner, impairing the pilots' abilities to detect the other aircraft.
+
+
+
+Findings as to Risk
+
+
+Over the southern Strait of Georgia, controlled IFR flights are routinely cleared into the same Class E airspace as uncontrolled, unidentified VFR radar targets. Yet, radar traffic information and conflict resolution between IFR and VFR aircraft in Class E airspace are not provided unless the controller's workload permits providing this additional service. Weather conditions may have contributed to the difficulty of visual detection, but reliance on the see-and-avoid principle of separation may not have been adequate to prevent a collision since neither flight crew detected the opposing traffic in a timely manner on their own.
+
+
+
+Other Findings
+
+
+Both incident aircraft were equipped with transponders; however, neither aircraft was equipped with a traffic alert and collision avoidance system. A TCAS probably would have alerted both pilots to the conflict. Because transponders are not required within basic Class E airspace, the safety advantage that might be gained with TCAS equipment installed in aircraft is limited. The altitude deviation by the Otter contributed to the risk of collision; however, it was not causal to the air proximity conflict.
+

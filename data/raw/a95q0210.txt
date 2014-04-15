@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+The pilot initiated the missed approach at his alternate airport because he was too high and close to the airport to intercept the ILS glide path. In the descent, the pilot had not taken into consideration the strong tailwind component which modified the descent slope of the aircraft.
+
+
+During the missed approach, the pilot requested confirmation of the quadrantal altitudes, which tends to show that part of his planning for the approach was inadequate. This is supported by the fact that the aircraft crashed 23 nm north of the airport although, in accordance with the approach plate, during the missed approach the aircraft should have stayed within about 20 nm of the airport to stay within the 25 nm minimum safe altitude area.
+
+
+For the conduct of this approach, it would be normal to have navigation receiver 1 displaying the ILS frequency of 110.3 MHz rather than the VOR frequency of 112.3 MHz, with 005 in the course display window rather than 190. Also, it would be normal to have both ADFs tuned to the Wabush NDB (218 kHz). Finally, the missed approach requires the use of only the ILS and ADF, and that the pilot maintain the minimum altitudes and fly a track to the WK NDB The pilot reported that he was using the VOR to return to the airport. The parameters displayed on the navigation instruments show that, at some point during the missed approach, the pilot lost the mental picture of what he had to do.
+
+
+The aircraft struck trees at an altitude of 2,460 feet asl, but the aircraft, based on its heading and position, should have been at least 4,000 feet asl, the minimum safe altitude within 25 nm of the WK NDB and the missed approach altitude. Although the pilot requested confirmation of the minimum quadrantal altitudes, and the approach chart indicated the same information and more, the aircraft descended below the published minimum altitudes.
+
+
+As the occurrence happened at the end of a long day's work in a complex environment, the pilot executed a night approach when his performance and vigilance were not necessarily optimal. All of these factors possibly contributed to mental fatigue which affected the pilot's performance during the missed approach.
+
+
+
+Findings
+
+
+The pilot was not familiar with the Wabush Airport and its approaches. During the descent for the first approach, the tailwind modified the descent slope and the aircraft was too high and too fast to intercept the localizer course. During the missed approach, the pilot lost the mental picture of what he had to do. The pilot requested from the FSS specialist the minimum safe altitudes, an indication that the pilot was not adequately prepared for the approach. The pilot did not maintain the published minimum safe altitude. The pilot did not follow the missed approach procedure. The pilot had been on duty for a long period, which possibly affected his performance. The aircraft came to rest on the side of a mountain, 23 nm north of the airport at an altitude of 2,460 feet.
+

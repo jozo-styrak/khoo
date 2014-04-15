@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+A comparison of the forced landing procedure used by the pilot in this occurrence and the procedure recommended by the manufacturer in the Owner's Manual indicates that the pilot did not establish the correct glide speed, select flap, or secure the engine following the loss of power. The pilot would have been at about 1,500 feet above ground level (agl) at the time of the power loss, and would have had adequate time to prepare the aircraft for a forced landing. The wing drop, initially unresponsive flight controls, and then a rapid descent are typical of an aerodynamic stall; the possibility of a stall would have been less with flap selected to the recommended 30 degrees. The drift to the south of the selected road on final approach was a result of the crosswind. The successful execution of a power-off, forced landing on a narrow road in gusty, maximum crosswind conditions would likely exceed the skill level of the average private pilot. A forced landing into wind in a level, stubble field probably would have resulted in less damage or injury. The aircraft damage pattern, including the collapsed floor under the pilot's seat, is evidence of the high vertical G impact forces that resulted in the back injuries experienced by the pilot.
+
+
+The risk of fire would have been reduced had the pilot secured the aircraft fuel and electrical systems prior to ground impact, as described in the Forced Landing section of the Owner's Manual. As the pilot did not complete these checklist items, and in consideration of the fuel leak at the occurrence site, the risk of fire was high. Because of the immobility of the pilot, a fire would have had serious consequences.
+
+
+The failure of the magneto impulse spring resulted in a loss of engine power. Completion of the impulse coupling inspection requirements contained in the missed AD (78-09-07 R3) and the referred SBs probably would have resulted in replacement of the impulse spring, if the coupling was disassembled.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 49/96 - Examination of Magneto Impulse Spring.
+
+
+
+Findings
+
+
+The pilot was properly licensed and qualified for the flight. The magneto impulse spring failed in flight, which resulted in a loss of engine power. The pilot did not extend the flaps during the forced landing, which would have lowered the stall speed. The aircraft fuel and electrical systems were not secured during the forced landing procedure, resulting in a risk of fire. The pilot stalled the aircraft while attempting a forced landing. The aircraft landed hard and the cabin floor under the pilot's seat collapsed, which resulted in back injuries to the pilot. The pilot was not wearing the shoulder harness installed in the aircraft. AD 78-09-07 R3 had never been complied with.
+

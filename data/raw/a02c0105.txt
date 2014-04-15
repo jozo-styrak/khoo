@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+It is likely that landing straight ahead after the power loss would have resulted in a runway overrun and probable collision with the road or a ditch. The forced landing in the adjacent field provided a smoother landing surface with reduced impact forces. The crew's use of the seatbelts, shoulder harnesses, and cargo net probably prevented more serious injuries.
+
+
+The pilot elected not to retract the landing gear based on his decision to fly a circuit for an immediate return to Runway 20. Leaving the landing gear down increased drag, making it more difficult to maintain flight. The landing gear in the down position likely contributed to the aircraft pitching forward on landing.
+
+
+The initial impact bent the forward section of the right float upward and into the arc of the propeller, resulting in the damage to all three propeller blade tips. Separation of the propeller from the engine allowed the engine rpm to run away or increase.
+
+
+Twisting and distortion of the airframe during the roll-over either dislodged or cracked the fuel line at the left wing root, resulting in a steady stream of fuel. The most likely scenario is that, as a result of the airframe damage, an electrical arc or a heat source (such as the engine exhaust) ignited the fuel leaking from the left wing root.
+
+
+Water contamination in the fuel resulted in the corrosion of the fuel manifold / distribution screen. Corrosion particles then migrated to the No. 1 fuel injector during operation, restricting fuel flow to the No. 1 cylinder. This restricted fuel flow caused the No. 1 cylinder to stop firing, contributing to the engine power loss. Water in the fuel probably resulted in intermittent fuel delivery to the engine and partial fuel starvation, resulting in deteriorating engine power at take-off. The water was likely in the fuel cells at take-off, but the source of the contamination is not known.
+
+
+The following TSB Engineering Laboratory reports were completed and are available on request:
+
+
+LP 055/02 Fuel Analysis LP 078/02 Fuel Manifold/Distributer and Fuel Injectors Contamination
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft's fuel was contaminated with water, deteriorating engine power. A restriction in the No. 1 fuel injector resulting from corrosion of the manifold screen caused the No. 1 cylinder to stop firing, contributing to the deteriorating engine power. The aircraft was destroyed by fire, most likely as a result of a fuel leak that started because of airframe damage during the forced landing.
+
+
+
+Findings as to Risk
+
+
+The fuel delivery nozzles for 100 LL and Jet B were of the same size and shape, increasing the risk of using the wrong type of fuel.
+

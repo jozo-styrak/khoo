@@ -1,0 +1,10 @@
+the acceleration and oscillation problems did not appear on the subject governors when the control arms were rigged in the normal range of 85 to 90	it was concluded that the rigging , prompted by a non-standard TCU , affected the operation of the governors
+normal	deterioration of the governors
+wear	Also , the fact that the substitute governors appeared to operate normally when they were run independently , and that they oscillated when the engines were run-up together , indicate rpm and torque oscillations on each engine may have aggravated the other governor 's weaknesses
+both engines drive a common transmission	oscillations in one engine would demand the other engine to try and compensate
+normal-type	wear in the governors
+wear and caused malfunctions at the same time	Rpm and torque oscillations probably aggravated the opposing engine rpm governors ' weaknesses
+Because the acceleration and oscillation problems did not appear on the subject governors when the control arms were rigged in the normal range of 85 to 90 , it was concluded that the rigging , prompted by a non-standard TCU	the operation of the governors
+The non-approved rigging amplified the effect of normal-type wear in the governors ; the governors did not function properly	inadequate power from both engines upon pilot demand
+The loss of power in both engines occurred at a critical time of flight	a hard landing
+In-service wear	the governors malfunction before reaching their overhaul life of 4500 hours

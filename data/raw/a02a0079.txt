@@ -1,0 +1,48 @@
+
+
+Analysis
+
+
+The CYMON sector controller cleared an aircraft to a requested altitude immediately after the initial request from the aircraft without completing his usual check for conflicting aircraft. As well, he did not draw the required slash through the requested altitude on BAW93's flight progress strip after issuing the clearance to climb to FL360, although he normally would. This seems to support the inference that the CYMON sector controller did not intend to clear BAW93 to climb at the time he issued the clearance.
+
+
+Two factors contributed to the CYMON sector controller not detecting the erroneous clearance once it had been issued. The CYMON sector controller did not mark the flight progress strip to show that a clearance to climb had been issued. This indicates that he did not cross-check the information printed on the flight progress strips for all the aircraft in the vicinity of BAW93 at the time the clearance was issued and that he was relying primarily on the RSiT to control the aircraft. The garbled and overlapped aircraft targets on the RSiT prevented the CYMON sector controller from seeing that BAW93 was climbing until after BAW93 had levelled at FL360. When the targets diverged on the display because of different cleared flight paths after entering the CYMON sector, the CYMON sector controller detected the conflict and took action to restore separation.
+
+
+Errors of omission, such as forgetting to carry out a step in a sequence, are common in repetitive, skill-based tasks. Unintentional errors of this type are typically associated with inattention or over-attention. Having cleared multiple aircraft to various altitudes during the earlier, busier part of the shift, the controller likely jumped ahead in the action sequence and inadvertently issued a clearance to climb to BAW93. The incident occurred during a period of decreased traffic density and complexity, near the end of his shift, which might have caused the controller to relax his attention.
+
+
+Because the aircraft were diverging before the climb, there was no risk of collision in this occurrence, although safety was not assured. Additional defences were in place to help minimize the risk of collision. Primarily, the crew of BAW93 had visual contact with ACA861 during the climb. All of the aircraft involved were equipped with functioning TCASs. No TCAS advisories were received because the aircraft were on diverging tracks. Had the aircraft not been diverging, TCAS is designed to warn the crew of both aircraft of the conflict. A conflict-alert system for controllers would likely have assisted the CYMON sector controller in detecting and resolving the developing conflicts.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The CYMON sector controller inadvertently cleared BAW93 to climb to FL360, resulting in a loss of separation with both UAL971 and ACA861. The CYMON sector controller was relying primarily on the radar data processing system situational display (RSiT) to ensure separation between aircraft and did not review or properly mark the flight progress strips before clearing BAW93 to change its altitude.
+
+
+
+Findings as to Risk
+
+
+The co-location of the radar targets resulted in the garbling of displayed information on the RSiT and prevented the CYMON sector controller from seeing that BAW93 was climbing until after the radar targets started to diverge.
+
+
+This report concludes the TSB's investigation into this occurrence. Consequently, the Board authorized the release of this report on 08 October 2003.
+
+
+1. All times are Newfoundland daylight time (Coordinated Universal Time minus two and one-half hours).
+
+
+2. Flight levels are in feet above sea level with an altimeter setting of 29.92 inches of mercury (ex. FL360 36 000 feet).
+
+
+3. Approximately 216 nm ENE of Gander, at the boundary between oceanic and domestic controlled airspace.
+
+
+4. The phenomenon of garbled beacon replies is a limitation common to all secondary radar systems, especially in congested airspace. Garbled beacon replies occur when two or more aircraft are at the same approximate range and bearing but at different altitudes. When these replies overlap, interference occurs, and the ground station receives garbled signals that it is unable to use. The garbled beacon replies cause a partial loss of data or swapping of information from one target to the other.
+
+
+5. On 22 July 2002, but not in direct response to this incident, NAV CANADA activated a conflict-alert system at the Gander ACC.
+

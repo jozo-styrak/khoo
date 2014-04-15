@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+The localizer approach to the relocated threshold of runway 29 was described as approaching a black hole. The vertical trajectory computations performed by the manufacturer indicated that the aircraft remained below a nominal 3 flightpath angle to the relocated threshold during its entire descent, with a steepening of the descent angle below 150 feet agl. The runway was not equipped with a VASIS, as was recommended in TP312, and it is probable that the lack of visual cues and a runway-upslope visual illusion during the night approach contributed to the lower-than-nominal flightpath. On this approach, there were no visual glidepath indicators, either internal or external to the aircraft, to assist the crew in maintaining the desired flightpath to touchdown. Also, the high-intensity approach lighting was unserviceable.
+
+
+The SIGMET warning of severe turbulence was not received by the flight service station specialist until after the aircraft was inside the final approach fix. In accordance with standard procedures, the SIGMET was not passed to the crew of ACA630 at that late stage of the approach. The flight crew, however, had been advised of reports of moderate turbulence five minutes earlier and, after that, had been given two advisories of strong gusting wind. Therefore, even if the crew had received the SIGMET, it is doubtful that they would have done anything different at that stage of the approach.
+
+
+It was concluded, after analysis of the FDR data, that the aircraft performance met design criteria. The weather conditions were such that the aircraft experienced strong vertical and longitudinal gusts near the ground, likely resulting in a steepening of the descent in the latter stages of the approach. When full, nose-up side-stick was applied to counter the steepening descent, true AOA was limited to less than 8 by activation of the "Alpha Prot" mode to compensate for the decaying airspeed caused by the longitudinal gusts of wind. Despite a substantial increase in engine power being initiated by the crew and the elevators being deflected to the maximum nose-up position allowable in "Alpha Prot" mode, this sudden decrease in headwind close to the ground was such that the descent could not be sufficiently arrested to prevent premature touchdown.
+
+
+The flight recorder analysis and flight simulation showed that, despite pilot input, the designed aircraft protection systems would not allow the pilot sufficient flight control movement to arrest the descent during the last stages of the approach. Appropriate crew corrective action would have been to initiate a go-around at the point where there was substantial deviation below the desired flightpath; aircraft response to aft side-stick movement became limited by the aircraft protection systems. However, the absence of outside visual cues and the presence of black-hole-illusion conditions would have made it difficult for the crew to assess adequately the aircraft's vertical situation and the rate of change relative to the desired flightpath in sufficient time to recognize that the approach path was significantly low. The crew did not recognize the unsafe condition until it was too late to prevent premature touchdown, as demonstrated by the late advancement of the thrust levers.
+
+
+The following TSB Engineering Branch Laboratory Report was completed:
+
+
+This report is available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The environment near the runway was conducive to black-hole illusion during the night approach to runway 29. The aircraft was flown below a nominal, three-degree flightpath to the relocated threshold. It is probable that the lack of visual cues during the night approach and runway-upslope visual illusion contributed to the lower-than-nominal three-degree flightpath on the approach. Strong gusting wind conditions caused a sudden loss of head wind near the ground, a corresponding loss of lift, and an increase in the rate of descent. The crew did not recognize the unsafe condition until it was too late to prevent premature touchdown. The absence of visual cues probably contributed to this late recognition of the unsafe condition.
+
+
+
+Findings as to Risk
+
+
+The Transport Canada-approved drawings depicting the number of wing bar lights required to mark the location of the displaced threshold were not in accordance with TP312. Consequently, only four wing bar lights were used on each side of the displaced threshold where five were required. A visual approach slope indicator system was not installed to provide guidance for a landing with the displaced threshold. Such an installation is recommended by TP312. The high-intensity approach lighting was unserviceable for runway 29.
+

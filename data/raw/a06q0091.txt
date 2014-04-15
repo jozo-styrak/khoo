@@ -1,0 +1,51 @@
+
+
+Analysis
+
+
+Analysis by the TSB Engineering Laboratory determined that the area around bearings 6 and 7 had exceeded a temperature of 900 C. At this temperature, it is normal for oil to dissipate rapidly, by evaporation and burning. The oil that burned away did not return to the tank and, after a short time, the oil level became very low, causing the engine oil pump to cavitate and the engine oil pressure to fluctuate. Furthermore, since the oil did not return to the tank, the oil temperature did not change, or at least not significantly, and the pilot falsely deduced that the engine oil pressure gauge was displaying an incorrect indication.
+
+
+A lack of lubrication is characterized primarily by major damage to bearing 8. Yet, although this bearing had been damaged, none of the bearing components showed any evidence of severe thermal distress that would suggest that the No. 8 bearing had operated without oil. In addition, none of the lines that lubricated bearings 6, 7 and 8 was obstructed, or at least, was not at the time of examination. The damage to bearings 6 and 7 was so severe that it was impossible to determine conclusively, based on the results of the metallurgical examination, the cause of their failure.
+
+
+The pilot's decision to land before reaching his destination was justified considering the abnormal fluctuation in engine oil pressure. The pilot must have felt that the situation required landing as soon as possible as indicated in the RFM, when the engine oil pressure is beyond the stated limits. Nevertheless, since the oil pressure was fluctuating within the allowable limits but the oil temperature was normal, an immediate landing was not required according to the RFM. The procedure recommended by Bell Helicopter allowed the pilot to extend the flight to the nearest location suitable for landing. It would thus have been preferable to land on the road one kilometre away from the marsh because of the accessibility to the road.
+
+
+During the visual examination of the engine, there were no abnormal conditions detected. Because the engine defect was internal, no oil leak was visible. Since the surface of a marsh, which is naturally soft, does not offer level bearing capacity, it is probable that the aircraft was not level, thereby altering the apparent oil level in the tank. The procedure recommended in the flight manual regarding engine oil fluctuation within the limits led the pilot to believe that the abnormal condition was not very serious since the oil temperature was normal. In reality, a major internal engine defect is not always associated with an abnormal engine oil temperature.
+
+
+Based on the above, the pilot mistakenly concluded that the fluctuating engine oil pressure was possibly caused by a defective gauge. However, before taking off from the marsh, the following signs could have suggested that a defect other than the gauge was the source of the fluctuation:
+
+
+abnormal bluish smoke was coming out of the exhaust pipe; after starting up in the marsh, the oil pressure fluctuated before stabilizing within the allowable limits, but at a pressure that was lower than normal.
+
+
+The fact that the pilot moved the aircraft one kilometre rather than going to his destination or returning to La Tuque suggests that he suspected something more serious than an instrument problem. Considering the circumstances, it was reasonable to anticipate an engine failure. Consequently, it would have been prudent to wait until a qualified AME examined the helicopter before taking off from the marsh. It appears that the marsh's inaccessibility and the infestation of mosquitoes influenced the pilot's decision to move the helicopter to the road.
+
+
+The rear part of the skids touched the ground during autorotation, indicating that the helicopter was not levelled at the time of the landing. Consequently, the helicopter nose tipped forward after landing, causing the tail to lift, which was then damaged by the main rotor.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 055/2006 - Engine Oil Analysis; LP 056/2006 - Engine Examination.
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The area adjacent to bearings 6 and 7 had exceeded a temperature of 900 C. The bearings were destroyed for undetermined reasons, causing an engine failure. Moving the helicopter towards the road when the engine was showing signs of malfunction contributed to the failure of bearings 6 and 7. During the autorotation, the helicopter was not levelled at the time of the landing, which resulted in a hard landing.
+
+
+
+Finding as to Risk
+
+
+The procedure recommended in the flight manual suggests a less serious problem if engine oil pressure is fluctuating within the limits and the gauge is showing a normal oil temperature. Consequently, a pilot could decide to continue the flight with a defective engine oil circulation system, which could cause the engine to fail or malfunction.
+

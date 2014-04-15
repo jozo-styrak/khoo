@@ -1,0 +1,24 @@
+
+
+Analysis
+
+
+The engine operated successfully during the post-accident engine tests; it could not be determined why the engine stopped during the initial climb. The pilot turned the fuel selector OFF before impact; physical damage confirmed that the fuel selector was OFF before impact.
+
+
+After the engine stopped, directional control of the aircraft was not maintained, and the aircraft turned left and crashed in a residential area. This occurred when the pilot removed his hand from the control column during his attempts to restart the engine. Because of the low altitude at which the engine stopped, the pilot believed that he did not have sufficient time to conduct the appropriate emergency checklist. He concentrated his efforts on restarting the engine to the detriment of maintaining aircraft control, completing the appropriate checklist items, and conducting an effective forced approach and landing.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+It was not determined why the aircraft engine stopped during the initial climb after take-off. The engine operated successfully during the engine tests, and no mechanical abnormalities were noted. The pilot did not complete the appropriate emergency checklist, but concentrated instead on attempting to restart the engine. Directional control of the aircraft was not maintained during the forced approach, and the aircraft proceeded toward and crashed in a residential area.
+
+
+
+Other Findings
+
+
+Power did not degrade before the aircraft engine stoppage; carburettor icing was therefore likely not a factor in the occurrence.
+

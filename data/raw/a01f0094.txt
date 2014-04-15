@@ -1,0 +1,43 @@
+
+
+Analysis
+
+
+The involved switch was discarded before it could be examined and tested by TSB; thus, it was not determined whether the switch was defective for the occurrence flight.
+
+
+Because ground personnel are usually loading cargo up to the last minute before engine start, the second officer does not carry out a final, post-loading, pre-flight inspection of the aircraft before starting the engines, nor is it required by company procedures. The flight crew rely on cockpit annunciator warning lights to confirm the status of aircraft doors before engine start, taxi, and take-off. In a serviceable system, an illuminated light would indicate that an electrical contact is not being made inside the door microswitch, meaning that the door is not closed and secured. When aircraft systems are energized with the auxiliary power unit and the aft cargo door is partially or fully open, the light will be illuminated. An extinguished aft cargo light after loading and before engine start confirms that the aft cargo door is properly closed and secured. It is concluded that the second officer likely could not have repeatedly missed the aft cargo warning light being illuminated on his annunciator panel before take-off. Even in bright and sunny conditions, an illuminated light on the second officer's console is obvious. Furthermore, the same light panel was visually verified "clear of lights" by the captain before take-off, as required in the pre-start checklist procedures.
+
+
+This investigation revealed no damage to the aircraft mounted door latches, the door structure, and the door moveable stops. Only the door hinges were found bent and had to be changed. The nature of this damage, combined with the door design and the status of the door handle when first inspected by emergency response services personnel suggest that, after cargo loading was completed, the door was likely left in the down position with the door handle fully protracted and the door stay rod stowed away.
+
+
+The locations of the three parcels on the runway provide further evidence that the door was not fully closed before take-off. The door likely began to open as the aircraft initiated its rotation, and the force of the wind contributed directly to bending the door hinges. Although the aft cargo warning light was observed for the first time by the second officer as the gear was retracting, it is plausible that the light appeared earlier during the take-off roll. The second officer is required to turn his seat toward the front of the aircraft to monitor the engine instruments during the critical phase of the take-off roll and lift-off, he would not be looking at his annunciator panel. The advancement of thrust levers to full power, release of the brakes, take-off roll, rotation, and retraction of the landing gear are all conducive to airframe vibrations. These vibrations could have restored service to the aft cargo door microswitch mechanism. The subsequent engine compressor stalls coincided with raising the flaps. Airflow disruption, created by the closeness of an opened cargo door to the engine intake and redirected airflow resulting from a change of configuration most likely induced these stalls.
+
+
+After working together at the local level for several years, Servisair Ltd. and DHL Aviation crews' direct responsibilities for loading an aircraft and securing all doors became ambiguous as both agencies worked to get the job done in a timely manner. Although the contract gives Servisair Ltd. responsibility for loading an aircraft, the local DHL Aviation staff member usually loads packages into the aft cargo area without disrupting the Servisair Ltd. team's loading in the main cargo area.
+
+
+Although effective, this local division of responsibilities procedure has weaknesses. Without a clearly defined set of tasks and/or responsibilities, confusion or miscommunication between two different loading crews (that is, agencies) eager to do the job in an efficient and timely manner may lead to an omission of safety-related duties, such as closing and securing the aft cargo door. With the door stay rod stowed away, a slightly open door is hardly noticeable. The only defence left against departing with a door open is a warning light on the second officer's panel. This light can become disabled as a result of electrical contamination or malfunction. Within the DHL Aviation and Servisair Ltd. organizations, the pre-flight walk-around inspection is considered to be the flight crew's responsibility. When the crew is informed in the cockpit that loading is complete and all doors are closed, the loading crew is not expected to perform a final walk-around because ramp dispatch is not part of the contract.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aft cargo door was most likely not closed and secured before engine start-up, taxi, and departure of the Boeing 727. As a result, the door opened during the take-off roll. The aft cargo door microswitch likely malfunctioned, giving the crew an erroneous indication that the door was secured before take-off.
+
+
+
+Findings as to Risk
+
+
+Servisair Ltd. and DHL Aviation's local procedure for loading an aircraft and securing cargo doors might have led to the omission of properly closing the aft cargo door. When different agencies perform the same work without a clearly defined set of tasks or responsibilities, there is a risk of confusion and miscommunication that may lead to an omission of safety-related duties, such as closing and securing doors.
+
+
+
+Other Findings
+
+
+This incident was reported to TSB four days after the event. By the time the investigation was delegated to TSB, critical information had been lost: the aft cargo door microswitch had been discarded and could not be examined or tested.
+

@@ -1,0 +1,24 @@
+
+
+Analysis
+
+
+No pre-impact discrepancies were found on the helicopter that would have contributed to the accident. Although the cannon plug that supplies power to the electrical cargo hook release was found to be broken off, it was determined that electrical release was serviceable when the flight started. The damage inside the Hell Hole to the cannon plug, tail rotor control tube, and throttle control tubes most likely occurred when the trailer tow bar dug into the ground, as this would have created a sudden deceleration of the trailer, creating high rearward forces on the cargo hook. Damage in this area would have prevented the pilot from controlling the helicopter and releasing the load. It would also have prevented operation of the throttles. The downward bending to the nose of the helicopter resulted in discontinuities in the electrical systems.
+
+
+The gross weight of the helicopter exceeded both the maximum allowable gross weight and the maximum allowable gross weight limit for out-of-ground-effect hover. Because the helicopter was so heavy, it was unable to cleanly lift the load clear of the ground and into forward flight. Consequently, during the transition to forward flight, the helicopter descended and the load struck the tarmac and then the other sling load. The load became unstable and started to oscillate. The pilot mistakenly associated this with pylon rock and continued the flight, believing that this condition would abate as soon as the helicopter gained forward speed. It is probable that the pilot did not attempt to release the load until after the tow bar dug into the ground near the end of the accident sequence. By this time, the damage had occurred to the Hell Hole area and the cargo hook electrical release was rendered unserviceable.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The gross weight of the helicopter exceeded both the maximum allowable gross weight and the maximum allowable gross weight limit for out-of-ground-effect hover. Because of its heavy gross weight, the helicopter was unable to cleanly lift the load clear of the ground during transition into forward flight. The helicopter descended after entering forward flight, causing the load to drag and become unstable. The pilot's attempt to release the load came too late in the accident sequence.
+
+
+
+Findings as to Risk
+
+
+The ELT signal was not effectively transmitted because the antenna had pulled out of the transmitter when it detached from the ELT mounting bracket.
+

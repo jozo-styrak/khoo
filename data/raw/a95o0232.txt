@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The engine suffered a catastrophic internal failure when one of the HPT blades failed under normal operating conditions. The HPT blade had a fatigue crack which propagated to a point where the weakened blade could not withstand the normal operating forces imposed on it, and the blade separated from the rotating HPT rotor assembly. The liberated blade air foil interfered with adjacent and downstream moving engine parts, resulting in the overload separation of the remaining HPT blades and secondary low pressure turbine impact and over temperature distress.
+
+
+The fatigue crack found in the HPT blade originated at or near the blade trailing edge and progressed forward towards the leading edge of the blade. The originating defect in the trailing edge of the blade was not identified. However, the presence of a small defect in an engine HPT blade, although undesirable, is not uncommon. Developmental testing by CFMI has established a crack acceptance limit of 0.10 inch of crack length. Cracks of less than 0.10 inch have been shown by CFMI not to be a threat to blade integrity; therefore, there is no reduction of the inspection interval time for blades cracked within that limit. The Air Canada boroscope inspections did not detect any cracks which exceeded that limit of 0.10 inch. The missing segment of the HPTN assembly nozzle guide vane, while in itself not significant enough to cause a sound HPT blade to fail, was significant enough in combination with the slightly defective HPT blade to result in failure of the HTP blade and, ultimately, internal failure of the engine. The HTP blade failed in fatigue.
+
+
+The failed engine HPTN assembly was a repaired unit, provided by CFMI for an in-service evaluation of the repair procedures. The evaluation criteria written by the CFMI engineering department included an 800-cycle repetitive inspection of the convex surface of the nozzle guide vanes to monitor the status of the repaired nozzle segments. It could not be demonstrated that this information was communicated directly to the Air Canada engineering and maintenance departments.
+
+
+The inspection information that was received by the Air Canada engineering and maintenance department, after being passed through several CFMI departments then several Air Canada departments, was incorrect--it detailed that a one-time, 800-hour inspection was required, and made no reference to the borescope inspection criteria for the convex surfaces of the HPTN assembly nozzle guide vanes. In addition, since the part number on the repaired HPTN assembly was identified in SB (CFM56-5) 72-207, the Air Canada engineering and maintenance staff assumed (without consulting with CFMI) that a 1,600-cycle inspection which did not include a borescope inspection of the guide vane convex surfaces was adequate.
+
+
+Consequently, the repaired HPTN assembly nozzle guide vanes were not being inspected in accordance with the CFMI engineering recommendations for the service evaluation, and the fact that the convex surface of a nozzle guide vane had a substantial amount of material missing went unnoticed until the engine failure.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 179/95 - Turbine Blade Failures.
+
+
+
+Findings
+
+
+CFMI developed a repair scheme for cracked HPTN assembly guide vanes, supplied Air Canada with two repaired assemblies, and requested that Air Canada participate in an in-service evaluation program of the repaired componennts. The repetitive inspection criteria to be used during the in-service evaluation of the repaired HPTN assembly nozzle guide vanes were not accurately conveyed to Air Canada. Air Canada did not follow the inspection criteria they were given, nor did they query CFMI to ensure that the inspection cycle they employed was adequate. Since SB (CFM56-5) 72-207 did not specify an inspection interval for the redesigned nozzle segments, Air Canada interpreted that the 1,600-cycle inspection procedures were adequate for the HPTN assembly components provided for the in-service evaluation. The undetected progressive deterioration of an engine HPT nozzle segment guide vane contributed to the propagation of a fatigue crack in one of the engine's high pressure turbine blade air foils. The HPT blade failed in fatigue during normal engine operation, and the liberated blade caused the internal failure of the aircraft engine.
+

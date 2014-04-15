@@ -1,0 +1,9 @@
+the gradual loss of torque	the four screws that hold the fuel pump relief valve cap to the body of the pump
+the requirement to operate the EDFP for 5 to 10 hours before retorquing the screws	this SB can not be complied with at pump overhaul and is unlikely to be performed at engine overhaul
+not	performing the work set out in the SB
+changing	its fuel flow transducer
+loss of torque	the relief valve cap attaching screws
+the fuel leak at the EDFP	fluctuations
+The EDFP leaked fuel into the engine compartment , providing a source of fuel	an in-flight fire when in contact with hot components such as the turbocharger or the exhaust system
+The EDFP leaked fuel into the engine compartment	a source of fuel
+circumstances	the pump to leak

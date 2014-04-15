@@ -1,0 +1,12 @@
+fuel exhaustion	The left engine quit during the left turn
+there was insufficient airspeed to keep it windmilling	The left engine quit during the left turn because of fuel exhaustion , and the propeller stopped turning
+the hydraulic pump is installed on the left engine	it was not operating after the engine stopped turning
+the proximity of the crash to a land-based observer	The lack of direct communication between the rescue vessels and the circling aircraft had no detrimental effect on the rescue during this occurrence
+fuel exhaustion	The aircraft 's left engine stopped
+insufficient radio equipment	the personnel on board the rescue vessels were unable to communicate directly with Toronto City Centre tower or the pilot of the aircraft circling overhead the downed aircraft
+the pilot was	the landing gear and flaps
+This	the airspeed decreasing quickly
+The slow speed of the aircraft and the pilot 's shoulder and lap restraints	the survivability of the impact
+The pilot was	the aircraft
+The pilot was wearing lap and shoulder restraints	his survival
+There were no pre-impact discrepancies identified	the left engine

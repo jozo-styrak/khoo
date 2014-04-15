@@ -1,0 +1,44 @@
+
+
+Analysis
+
+
+The investigation focused on the beginning of the turning descent that culminated in the collision with terrain. Although some reports suggested that the aircraft stalled and spun, airspeeds derived from the GPS data indicate an 18 mph margin over flaps 20 stall speed or 10 mph margin over flaps-up stall speed. Airspeed remained above the estimated stall speed, adjusted for the calculated bank angle, throughout the descending left turn. In view of the predictable stall characteristics of this aircraft type and its lack of propensity to spin, it was concluded that the aircraft did not stall or spin before entering the descent.
+
+
+There was no indication of pilot incapacitation or aircraft control system malfunction that would suggest loss of control of the aircraft. At impact, the aircraft was nearly rolled out of the bank and the descent rate was almost arrested, indicating that the pilot was actively controlling the aircraft, most likely attempting to align it and land on the clearway beyond the point of impact. This implies that the aircraft must have suffered a loss of engine power; otherwise, the pilot could easily have recovered at any point during the descent. Also, the aircraft was observed to pitch nose up at the top of its trajectory, which is consistent with a reduction of engine power in an aircraft with a high thrust line.
+
+
+The engine was operating at impact. During the descent, the aircraft lost significantly less altitude than had been experienced by the manufacturer during controlled tests that simulated total engine failure. It was therefore unlikely that the loss of engine power was total. The pilot was experienced, disciplined, adept, and he was aware of the low-inertia, high-drag characteristic of the SeaRey. These factors suggest that he would not have attempted a turn back to the airfield from a height of 322 feet in the event of a total engine failure.
+
+
+Also, shortly after take-off, the aircraft made a turn, inconsistent with normal formation procedures or with the planned routine. Before the turn, the climb rate was more than 400 fpm, consistent with the climb rate contained in the climb report. During the turn, the rate of climb dropped to 150 fpm, indicating a partial loss of engine power. The left turn is consistent with the pilot recognizing a problem and initiating return to the airport.
+
+
+The climb rate began to increase, returning to over 400 fpm, indicating a recovery of engine power. C-GCWR then turned back to the right toward the lead aircraft, which would be consistent with the pilot returning to the air show plan, indicating that he believed the problem to be transitory and now resolved. Taking into account the discrepancies in the fuel system, this sequence is consistent with air being introduced into the fuel system causing a transitory degradation of engine performance.
+
+
+When power degraded for a second time, the pilot most likely decided again to return to the airfield. Such a decision is consistent with the expectation that the power loss was partial, with sufficient power available to return to the field, or that the situation was transient and power would recover. Either expectation is consistent with the earlier degradation, followed by recovery, of engine power.
+
+
+The aircraft flaps were in the up position at impact, which is inconsistent with either the climb or approach phases of flight. The design of the flap and trim control switches on the top of the control stick rendered them susceptible to inadvertent operation. The pilot is known to have operated them unintentionally in the past. It is likely that the flaps were inadvertently raised by the pilot when he was manoeuvring after the partial loss of engine power. The resulting increase in aircraft stall speed would have made the airspeed less than 1.3 Vs, exacerbating the performance deficit of the aircraft. The severity of the net power loss was probably not evident to the pilot until he was already established in the descending turn and had no realistic option but to aim for the clearway behind the houses under construction.
+
+
+At impact, the propeller did not strike the engine pylon or the boom tube, indicating low vertical impact forces on initial contact with the mound of soft earth. However, the hull was penetrated when it struck the concrete sewer casement, creating a very high longitudinal deceleration. The resulting force overloaded the seat and shoulder belt attachment, resulting in the pilot striking the instrument panel.
+
+
+The following Engineering Laboratory report was completed:
+
+
+LP 119/2005 - Fuel Filter Examination, Progressive Aerodyne Inc. SeaRey, C-GCWR, 25 June 2005.
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Discrepancies in the fuel system most likely allowed air into the fuel line, causing a partial loss of engine power. While the pilot was turning back toward the airport, the flaps were raised, probably inadvertently, causing an increased rate of descent so that the pilot had insufficient altitude to manoeuvre to an open area for landing. The aircraft struck a concrete sewer casement, causing high deceleration and overloading the common attachment point of the seat and shoulder belts, with the result that the pilot struck the instrument panel and received fatal injuries.
+

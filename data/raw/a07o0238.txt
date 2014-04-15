@@ -1,0 +1,43 @@
+
+
+Analysis
+
+
+The pilot did not obtain any weather update before his departure from T1. He would not, therefore, have been aware that conditions at destination had been deteriorating throughout the day and the latest forecast was calling for conditions below limits for VFR operations. Furthermore, the destination coordinates were not used for the time of sunset calculations, resulting in a 22-minute error. This resulted in an arrival in the Cochrane area after sunset, with poor weather conditions present.
+
+
+The pilot received the minimum instrument training required for the issuance of a commercial helicopter licence. Four years had elapsed between the time the pilot had taken this instrument training and the date of the occurrence. If not practiced, instrument flying skills deteriorate over time. In addition, because of the malfunction of the directional gyro, the pilot referenced the GPS for primary heading information. This most likely hampered the proper scan of the primary flight instruments. These two factors likely contributed to the pilot's difficulty in flying the aircraft with reference to instruments only.
+
+
+The above-mentioned instrument training is deemed sufficient to allow non-instrument-rated pilots to maintain control of the aircraft in case of inadvertent flight into instrument meteorological conditions (IMC). The pilot can then fly to an area of improving weather. However, in this instance, the weather at destination had deteriorated significantly. Returning to a previous location along the route of flight was likely discounted because it was dark and the pilot did not have a night rating or any experience flying at night. The pilot attempted to fly on instruments but became disoriented and the aircraft was inadvertently flown into the ground.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 092/007 - Instrument Examination LP 125/007 - Shadow Analysis
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The flight was continued at night in deteriorating weather conditions resulting in the pilot losing visual reference with the ground and becoming disoriented, which resulted in the aircraft being flown into the ground.
+
+
+
+Findings as to Risk
+
+
+Departing without the latest available weather increases the possibility of inadvertent flight into inclement weather. Mounting the emergency locator transmitter (ELT) in the area of the lower nose window made it vulnerable to impact damage. As a result, the ELT became detached and was separated from its external antenna during the impact sequence, increasing the risk of the ELT signal not being detected.
+
+
+
+Other Finding
+
+
+An examination and testing of the ELT showed that, although its certification was overdue, it was serviceable at the time of the occurrence.
+

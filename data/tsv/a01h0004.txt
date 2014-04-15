@@ -1,0 +1,22 @@
+it looks like the intended object , is in the expected location , and does a similar job	Their actions were consistent with an error known as perceptual confusion2 which occurs when , during a highly routine task , one object is accepted as a match for the intended object
+their intensity , the time of day , and the snow-covered background	Although the approach and runway lights were on , the lights would have been hard to see3
+two reasons	The airport maintenance worker did not sweep Runway 22 prior to the arrival of CDR8321
+increasing pilot awareness of the issue	by maintaining runway contrast , and by providing more compelling runway identification lighting
+this difference was	the crew
+The lateral displacement from Runway 22	a noticeable deflection of the VOR needle
+Although the approach and runway lights were on , the lights would have been hard to see3 because of their intensity , the time of day , and the snow-covered background ; and , the runway was not equipped with RILS or ODALS	more compelling cues the aircraft was landing in the wrong place
+sweeping the runway	it more slippery
+requirement	a visual contrast between the runway environment and surrounding fields
+His lack of training concerning the contents of the AOM	this lack of awareness
+the lack of a requirement for such training	him not receiving it
+The airport maintainer did not receive training concerning the contents of the AOM	him not being aware of the requirement to provide a means by which a visual contrast can be provided to delineate the runway environment from the fields surrounding it
+training concerning the contents of the AOM , which likely contributed to him not being aware of the requirement	a means by which a visual contrast can be provided to delineate the runway environment from the fields surrounding it
+a visual contrast	to delineate the runway environment from the fields surrounding it
+The airport maintainer was not aware of the requirement to provide a means by which a visual contrast can be provided to delineate the runway environment from the fields surrounding it	him not sweeping Runway 22 prior to the arrival of CDR8321
+requirement	a means by which a visual contrast can be provided to delineate the runway environment from the fields surrounding it , which likely contributed to him not sweeping Runway 22 prior to the arrival of CDR8321
+a visual contrast	to delineate the runway environment from the fields surrounding it , which likely contributed to him not sweeping Runway 22 prior to the arrival of CDR8321
+The airport maintainer was concerned that sweeping the runway would make it more slippery	him not sweeping Runway 22 prior to the arrival of CDR8321
+sweeping the runway	it more slippery
+Runway 22 was snow-covered	the flight crew not distinguishing it from the surrounding snow-covered fields
+RILS or ODALS	those
+There were no compelling cues , such as those that could have been provided by RILS or ODALS , to alert the flight crew that they were not landing on Runway 22	them landing off the intended runway

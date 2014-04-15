@@ -1,0 +1,25 @@
+heat is generated during the tensioning process	any increase in the tensioning time will increase the heat transfer to the belts
+the Robinson R-22 's low-inertia rotor system	recovery under these conditions is virtually impossible , even with the collective fully down
+problem	the engagement
+shrinkage due to excess heat	At some point after installation , both V-drive belts were subjected to changes in dimension , probably
+excess heat	At some point after installation , both V-drive belts were subjected to changes in dimension , probably as a result of shrinkage
+some point after installation	both V-drive belts were subjected to changes in dimension , probably as a result of shrinkage due to excess heat
+The presence of corrosion on both the in-line fuse and fuse terminal , coupled with the poor solder joint	an increase in resistance in the electrical circuit the belt-tension actuator motor
+This	or
+Slow operation of the actuator motor	the time required to properly tension the belts
+any increase in the tensioning time	the heat transfer the belts
+Any change to the dimensions of the belts after installation	a change the original rigging and alignment of the upper drive shaft
+Mis-alignment of the drive train sheaves is known	drive train failure
+any belt mismatch	the shorter of the belts tensioning first and taking a higher percentage of the engine power
+An excess of horsepower being applied to the drive belt system is known	the risk of belt failure
+the main rotor rpm	and
+Although tapping the tensioner motor to initiate engagement appeared to have worked as a temporary fix , it is not an approved maintenance procedure and , in part	an incorrect conclusion that the tensioner motor was the underlying cause of the engagement problem
+The correct use of the Maintenance Manual 's Clutch Actuator Electrical Trouble-shooting Guide	an opportunity to identify the electrical defects that were subsequently noted following the accident
+Use of a 10-amp fuse in place of the required 1.5-amp fuse in the electrical circuit to the belt tensioning actuator eliminated the intended defence and , under certain circumstances	the actuator over-tension
+Any changes to belt length	the risk of the belts
+Corrosion on an in-line fuse end and improper connection of the fuse holder raised the resistance in the electrical circuit to the belt-tensioner	the operation of the belt-tension actuator motor
+This slower operation	an increase in tensioning time and in belt temperature during engagement/disengagement , which likely precipitated the belt shrinkage
+During the latter stages of the autorotation , the helicopter 's main-rotor rpm was allowed to drop below safe limits	insufficient rotor energy
+the helicopter 's main-rotor rpm was	to drop below safe limits , resulting in insufficient rotor energy to arrest the descent
+Use of a work-around procedure to engage the actuator motor -LRB- tapping the motor -RRB-	the risk of component failure
+Use of a 10-amp fuse in place of the required 1.5-amp fuse in the electrical circuit to the belt-tension actuator motor eliminated the intended defence and , under certain circumstances	the actuator over-tension

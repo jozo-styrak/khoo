@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+The roll oscillations encountered during the occurrences investigated in this report resulted from a combination of environmental conditions, modified aircraft aerodynamics in the roll axis, and APC. Crosswinds were not considered a factor in these incidents.
+
+
+The weather reports of drizzle at the time of the ACA1130 occurrence suggest water droplet size in the range of 100 to 500 microns. Based on this, large droplet icing (supercooled large droplet or SLD) was likely encountered by both aircraft on approach to LBPIA, as cloud conditions were similar during each event. If the droplet size was in fact greater than the range of 40 to 50 microns, the conditions encountered would have been outside the FAR 25 Appendix C certification envelope.
+
+
+Although the actual size of SLD at the time cannot be clearly determined, the fact remains that other aircraft types made successful landings under similar conditions. It is, therefore, unlikely that the moderate-to-severe icing conditions alone induced these roll oscillations in the occurrence aircraft.
+
+
+Prior to the occurrences of 07 December 2002, data regarding the A321 aircraft performance in icing were based on its certification and in-service history. As a derivative of the A320, the extent of the A321 icing trials was based in part on the A320 certification results. Specifically, although the A321 has a double-slotted flap system rather than the single-slotted flap arrangement in the A320, both aircraft were considered similar, and the effect of ice accretion on the leading edge of the flaps was not examined during A321 certification. Similarly, any A321 in-service icing anomalies were viewed in the context of the in-service performance of the entire A320 fleet, which revealed no systemic problem. Indeed, for all its certification programmes Airbus considers that ice is accreted in clean configuration.
+
+
+Analysis of the post-occurrence icing trials concluded that ice accretion on the leading edge of the flaps of both the A320 and A321, and on the flap tabs of the A321, contributed to unusual roll behaviour by modifying the aerodynamic characteristics. Flights performed in roll direct laws on both aircraft showed that both A320 and A321 ice accretion with flaps extended induces an increase in roll spoiler efficiency in both CONFIG 3 and CONFIG FULL. This increase was higher in CONFIG FULL than in CONFIG 3.
+
+
+Further examination of the phenomenon using the normal, lateral flight control laws determined that the increase in roll sensitivity was a significant factor only on the A321 aircraft. Specifically, analysis of the normal, lateral flight control laws for both aircraft concluded that the roll sensitivity stability margin on an A321 in icing conditions in CONFIG FULL was significantly reduced compared to the A320. Changes to the ELAC software would alter the normal, lateral flight control laws to establish an acceptable roll sensitivity stability margin under these conditions.
+
+
+FAR 25.143(a) and (b)5 require that an aircraft be safely controllable and manoeuvrable, without exceptional piloting skill and without danger of exceeding the aircraft limiting load factor, under any probable operating conditions. The roll sensitivity is a function of pilot input; the normal, lateral flight control law; and the aircraft aerodynamic response. With ACA457 and ACA1130, the ice accretion on the flaps contributed to unusual roll behaviour by modifying the aerodynamic response in the roll axis. This change in aerodynamic characteristics, when combined with normal, lateral flight control law and pilot input, resulted in an unstable aircraft.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The A321 normal, lateral flight control laws programmed into the elevator aileron computer provided higher roll efficiency in CONFIG FULL than in CONFIG 3, which resulted in a reduced stability margin in icing conditions. The external influence of the ice on the leading edge of the flaps changed the aircraft aerodynamics, which, when combined with pilot input and the normal, lateral flight control law, resulted in airplane-pilot coupling, which produced an unstable aircraft.
+
+
+
+Findings as to Risk
+
+
+Flight tests in natural icing conditions were not accomplished in any configuration in the A321 to determine if an acceptable level of safety existed in the handling characteristics. It is likely that the icing conditions encountered by both aircraft were outside the Federal Aviation Regulation 25, Appendix C envelopes used for certification of the A321. After these occurrences, flight tests in natural icing confirmed that with flaps extended, ice accretion on the flap leading edges increased roll sensitivity in the normal, lateral flight control law on the A321.
+
+
+
+Other Findings
+
+
+The flight crews of both aircraft had received up-to-date weather information prior to the approach and landing. The flight crews of both aircraft followed the applicable Air Canada A321 Aircraft Operating Manual instructions for flight in icing conditions by adding five knots to the VLS. The flight crews were not trained in recovery from airplane-pilot coupling oscillations. Such training was not required by regulation.
+

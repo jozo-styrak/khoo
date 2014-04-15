@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+The length of the crash path and the nature of the damage to the aircraft, the propeller, and the trees indicate that the aircraft had significant forward momentum at impact, and the engine was producing a considerable amount of power. It is most likely that the aircraft struck the trees in forward flight above the stall speed with the engine producing power.
+
+
+Air turbulence was forecast for the route of flight in the area of ACC cloud, and it was noted by the aircraft occupants during the time of the aircraft's uncontrolled descent. The turbulence and the heavier snow observed along the route of flight both indicated the presence of ACC cloud in the vicinity of the accident site. Various degrees of convective turbulence may be associated with ACC cloud, and it is possible that the accident aircraft encountered turbulence of sufficient strength to result in the aircraft's descent.
+
+
+Airframe parts that had been exposed to forward airflow were considered to have been preserved at below-freezing temperatures after the accident, and no airframe ice was noted. Therefore, it is unlikely that airframe icing had accreted on the aircraft at the time of the accident.
+
+
+The weld repair made to the left ski link was not approved. However, the residual strength of the link was such that it is unlikely the link failed in flight. The fatigue cracking found in the right ski link had also weakened that link; however, it was also considered unlikely the right link failed in flight.
+
+
+The forward bungee cords comprising part of the ski rigging lines for both skis were found to provide significantly less than the required resistance to stretching. The damage to the aircraft precluded testing to determine the effect of the substandard bungees on the rigging of the skis. It was not determined whether the condition of the bungees had allowed ski oscillation or vibration. However, if oscillation or vibration had occurred, it could have contributed to the aircraft's descent, in combination with weather-related turbulence.
+
+
+The following TSB Engineering Branch Laboratory Report was completed:
+
+
+This report is available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The accident aircraft may have encountered air turbulence of sufficient strength to result in the aircraft's descent. The forward rigging bungees for both skis had less than the required stretching resistance and may have allowed oscillation or vibration of either or both skis.
+
+
+
+Findings as to Risk
+
+
+The right main ski attachment link failed on impact at a pre-existing fatigue crack. The left main ski attachment link failed on impact at the site of an unapproved repair.
+
+
+
+Other Findings
+
+
+It is unlikely that airframe icing had accreted on the aircraft at the time of the accident. The aircraft's gross weight and centre of gravity were within approved limits.
+

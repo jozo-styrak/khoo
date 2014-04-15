@@ -1,0 +1,17 @@
+
+
+Analysis
+
+
+Research into human decision making has shown that in the process of making decisions people develop hypotheses (Wickens,1992)(3). The contents of the mental model and situation awareness will set the framework for these hypotheses. However, when people select a particular hypothesis, they tend to give inordinate diagnostic weight to any information that supports the chosen hypothesis. Much less weight is then given to data that may support a competing hypothesis. Once a person becomes locked onto a particular hypothesis, it becomes very difficult for them to discard it, even when faced with compelling evidence to the contrary.
+
+
+The Broadview Sector controller believed that ACA139 was going to continue on T467. On two occasions the controller was prompted about ACA139, and being aware of a possible conflict, he analyzed the available information, and concluded that ACA139 would not conflict with any other aircraft. After determining that ACA139 was no longer a problem, the dynamics of the air traffic situation at the time required the controller to dedicate his time to other aircraft, and their potential conflicts. With his attention now diverted to other aircraft, the change in direction in the radar target representing ACA139 was not sufficient stimulus to cause the controller to discard his previous conclusion that there was no conflict, and to generate a re-evaluation of the available information. The traffic density, the complexity of the coordinations required, the limited time available, and the characteristics of human information processing combined to allow the change in the status of the previously de-conflicted aircraft to go undetected, and the loss of separation occurred.
+
+
+
+Findings
+
+
+The controller was qualified for the position. Staffing levels were considered normal. The controller had been carrying out the combined duties of the radar and data controller until approximately 10 minutes prior to the occurrence. The control radar was serviceable, and the displays functioned normally throughout the occurrence. Traffic density was moderate to heavy with added complexities. There was thunderstorm activity in the area and a number of aircraft were deviating off course around weather build-ups or travelling at non-standard altitudes to avoid turbulence. There was no instruction issued to the pilot in his deviation clearance that required him to request clearance back to his original track nor is there any regulatory requirement for him to do so. After ACA139 turned back towards track (T475), the controller did not recognize the developing traffic conflict between Air Canada 139 and Canadian 636. The TCAS systems were activated in both aircraft and provided the flight crews with the information necessary for collision avoidance. The aircraft passed within 1.3 miles and 900 feet of each other. The traffic conflict warning system incorporated in the radar system is not yet operational.
+

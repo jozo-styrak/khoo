@@ -1,0 +1,24 @@
+
+
+Analysis
+
+
+Canada Jet Charters' standard operating procedures (SOPs) call for the before-landing checklist to be completed prior to the aircraft passing the FAF on a non-precision approach. This was not done despite the landing gear warning horn sounding four times before the FAF, and a further three times between the FAF and touchdown. Each time the horn sounded, it was silenced by the crew.
+
+
+At two miles from the runway, on final approach, when the captain remarked that he could not see the PAPI, the captain became occupied with getting the PAPI turned on. As a result, the intensity of the runway lights was increased, requiring a further call from the captain. These distractions, and the numerous radio transmissions to the aircraft regarding the Sandspit weather, likely resulted in the crew forgetting that the gear had not been extended and the before-landing checklist not completed.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The crew did not complete the before-landing checks, ignored aural warnings, and did not lower the landing gear, which resulted in a gear-up landing.
+
+
+
+Findings as to Risk
+
+
+The aircraft was not equipped with a GPWS, which could have prevented this accident. The before-landing checklist in use did not reflect the AFM requirement that the speed brakes should be retracted prior to 50 feet.
+

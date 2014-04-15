@@ -1,0 +1,27 @@
+The TOT harness may have had a 0.03 ohms discrepancy , and the incorrect TOT gauge was replaced due to a 15 C indication error ; it was installed for only 63.1 hours during which , in the worst case scenario , it may have provided inaccurate engine temperature indicatons	their contribution was unlikely because turbine blades that have been subjected to long-term overheating will normally show a change in the distribution of the gamma prime phase , due to partial re-solutioning
+vibration -LRB- blade flutter -RRB-	Possible fatigue initiation scenarios for the second-stage turbine wheel blade include tip rubbing , the presence of physical or metallurgical defects , high-cycle fatigue cracking
+but is retrained by the cooler hub material	expand
+thermal	fatigue
+The engine oil pressure and temperature gauge that had been installed for some time was for a C20B model	, it had incorrect markings
+erroneous readings	Also , the TOT harness and TOT gauge were replaced about 312 airframe hours before the occurrence ,
+a 15 C indication	The TOT harness may have had a 0.03 ohms discrepancy , and the incorrect TOT gauge was replaced
+partial re-solutioning	The effects of these erroneous TOT indications and any contribution to the turbine wheel cracking could not be determined within the scope of this investigation ; however , it was suggested that their contribution was unlikely because turbine blades that have been subjected to long-term overheating will normally show a change in the distribution of the gamma prime phase ,
+turbine blades that have been subjected to long-term overheating will normally show a change in the distribution of the gamma prime phase , due to partial re-solutioning	The effects of these erroneous TOT indications and any contribution to the turbine wheel cracking could not be determined within the scope of this investigation ; however , it was suggested that their contribution was unlikely
+these erroneous	TOT indications and any contribution to the turbine wheel cracking could not be determined within the scope of this investigation
+detected	Hot starting events are not recorded by this helicopter 's instrumentation and not be recorded accurately by an operator , even
+hot starting	About 45 engine hours before the occurrence , the engine fuel control unit was adjusted
+overstress rupture when the remaining area could no longer support the applied loads	Thermally induced fatigue cracking initiated radially inward in a low-cycle mode in the blade platform fillet area , then progressed normal to the blade axis in a high-cycle mode , eventually resulting in a blade failure
+detected	Hot starting events and/or power transients are not recorded in this type of helicopter and not be recorded accurately by an operator even
+their effects go unchecked	Turbine wheel failures occur when hot starts and power transients are undetected , or
+dis-bonding due to a bond failure that likely resulted in a slight loss of engine efficiency	Approximately 25 per cent of the major diameter seal was missing from the rear support
+a bond failure that likely resulted in a slight loss of engine efficiency	Approximately 25 per cent of the major diameter seal was missing from the rear support as a result of dis-bonding
+Metallurgical analysis did not reveal any manufacturing or material anomalies	fatigue initiation
+This compressive stress	a localized yielding of the turbine wheel rim material
+operational temperatures	tensile
+it	inaccurate engine temperature indicatons
+to hot starting events and/or power transients	thermal cracking
+Thermally induced fatigue cracking initiated radially inward in a low-cycle mode in the blade platform fillet area , then progressed normal to the blade axis in a high-cycle mode	a blade failure due to overstress rupture when the remaining area could no longer support the applied loads
+Thermally	cracking initiated radially inward in a low-cycle mode in the blade platform fillet area , then progressed normal to the blade axis in a high-cycle mode , eventually resulting in a blade failure due to overstress rupture when the remaining area could no longer support the applied loads
+cracks in the fillet radius of blades	turbine failures
+The first-stage turbine wheel	many type A and approximately four type B cracks in the blade rim
+Approximately 25 per cent of the major diameter seal was missing from the rear support as a result of dis-bonding due to a bond failure	a slight loss of engine efficiency

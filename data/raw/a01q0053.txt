@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The controllers recognized the first developing loss-of-separation situation and issued instructions that, if followed, would likely have prevented it. However, the phrasing of the corrective action did not convey that it was a safety-critical message and that its purpose was to direct the Airbus away from conflicting traffic on the right. The last minute intervention left insufficient time for the controller or the OJI to react before the misinterpreted message caused the loss of separation. Safety alert phraseology is intended to attract the immediate attention of the flight crew to focus their attention on the content of the message. The same lack of safety alert phraseology occurred during the second loss of separation between the Airbus and the Piaggio P-180.
+
+
+Errors by trainees are likely. For this reason, a trainee is generally under the guidance of an experienced tutor and does not operate under his or her own licence. However, the OJI cannot quickly intervene with flight crews to correct errors because the intervention is often done through the trainee who committed the original error. Under normal circumstances, miscommunication regarding the direction of a turn, together with permissive OJI monitoring, would not have led to an adverse result. However, this and other occurrences indicate that when trainees aim for the minimum permitted level of separation, unforeseen interruptions or pilot misunderstandings and the delays that are inherent in second-hand controlling can lead to losses of separation.
+
+
+The avoidance vector issued by the Valley controller included the direction to turn left and the number of degrees to turn. The captain of the Airbus mis-heard the left-turn instruction but did hear the reference to 30 and initiated a right turn to a heading of 170 before being corrected by the controller. A right turn would fit his expectation to overfly Massena en route to John F. Kennedy International Airport, because, from his position at the time, a right turn would have been necessary to accomplish that. Using the vectoring technique of direction of turn and the number of degrees to turn provides one piece of information as to the final result of the vector. Using the direction of turn and the final heading provides two clues as to which direction to go. The vector "Turn left heading 110" is explicit as to both the direction of turn and its final disposition.
+
+
+The Airbus captain, having already been cleared to FL220 would not have anticipated a clearance to a lower flight level, especially when that clearance was accompanied by the terminology "for the climb". The use of this confusing terminology and the subsequent pilot efforts to confirm the meaning of the transmission delayed the resolution of the first loss of separation.
+
+
+After both losses of separation, both controllers issued conflicting and erroneous directions in their transmissions. In the first situation, the trainee issued an instruction using the Air Canada company name and the Royal Airlines flight number. In the second situation, the OJI issued the Airbus a turn that would have taken that aircraft closer to the Piaggio P-180. Techniques for resolving losses of separation in time-critical situations should be an important element of a controller's training.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The Valley controller and the on-the-job instructor (OJI) did not issue timely avoidance instructions to ensure the required separation between the Regional Jet and the Airbus. The OJI did not monitor the traffic in sufficient detail to be aware of the flight level of the Piaggio P-180. As a result, the Airbus was cleared to that same flight level.
+
+
+
+Findings as to Risk
+
+
+When giving instructions to the Airbus crew to prevent a loss of separation, the Valley controller used phraseology that was somewhat ambiguous and that failed to convey a sense of urgency to the crew. The OJI did not use the recommended safety alert phraseology to warn the Airbus and the Piaggio P-180 crews of the nearby conflicting traffic. The transmissions were incorrect, rushed, and confusing. The OJI tacitly permitted the trainee Valley controller to delay issuing resolution instructions to conflicting traffic. A pilot's error in interpreting the avoidance action then resulted in the loss of separation. The controllers did not consider that the flight crew might make an error or unexpectedly delay action. Nav Canada does not provide sufficient training to controllers in time-critical conflict resolution. Nav Canada radar systems in Montr al Area Control Centre are not equipped with automatic defences to alert controllers to impending aircraft conflicts. The crew of the Airbus turned right when a left turn had been directed. This error increased the rate of closure between the Airbus and the Regional Jet.
+

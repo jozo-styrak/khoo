@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+Though there was not normally a conflict between these flights because of their different schedules, the controller was aware that the descending aircraft and the two outbound climbing aircraft would need to be separated.
+
+
+There were sufficient cues offered to the controller to continue to be aware of the potential conflict among the three aircraft. CME9732 asked for the altitudes of the outbound aircraft, requiring the controller to note the positions and altitudes of the three aircraft. Later, SPD7901 requested 16 000 feet as a final altitude, which required the controller to refocus attention to the situation and realize that one altitude conflict had been resolved exactly as it had been planned when CME9732 descended below the altitude of the outbound SPD7901. However, the partial success of the separation plan may have detracted from the realization that there remained yet another altitude conflict to resolve.
+
+
+The following combination of factors played a role in this occurrence:
+
+
+the aircraft were established on reciprocal tracks; no vectors or offset headings were given to ensure lateral separation; no triggering events or alerting check points were used as reminders; there was no conflict warning capability on the Goose Bay radar equipment; and no warning indicators were posted on the flight strips.
+
+
+A separation plan that depends entirely upon memory as a defence in a conflict situation is subject to the dangers of memory failure or distraction. A multi-aircraft plan that provides a partial solution, but that requires further monitoring for complete success is even more subject to error because there may be a sense that the strategy has already been successful.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The controller created the memory-dependent conflict condition when the descent clearance was given to CME9732. In successfully resolving one conflict using the separation plan, as originally devised, the controller did not remember that there were two potential conflicts in the original plan, and did not take action to resolve the second conflict.
+
+
+
+Finding as to Risk
+
+
+There is no conflict warning capability on the Goose Bay radar equipment. Such equipment could have given early warning of the loss of separation.
+

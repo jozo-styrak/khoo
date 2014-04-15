@@ -1,0 +1,21 @@
+Because the controllers involved were not aware of the relative positions of the two aircraft , they did not plan for , or apply , an appropriate separation standard	, safety was not assured
+Nav Canada 's transfer-of-position checklist did not effectively assist the north low controllers in identifying a flight progress strip data entry error	, a potential conflict between two arriving aircraft was not briefed
+there was a lot of noise and communication taking place in and around the north low sector	the initial controller had difficulty completing an uninterrupted handover briefing
+the multiple handovers of position within a short period of time	the second and third controller may not have had sufficient time to become thoroughly familiar with the traffic situation before the operating irregularity occurred
+the relieving controller was unaware of WEW780 's actual position	the transfer of position briefing was not effective and the checklist did not serve its purpose
+the transfer-of-position checklist requires an assumed level of analysis to achieve its intended purpose	it is more susceptible to human error in situations of higher controller workload
+there was no plan in place to ensure that at least the minimum spacing required was maintained between these two aircraft at the time descent clearance was issued to TW203	An ATC operating irregularity occurred
+the controllers involved were not aware of the relative positions of the two aircraft	they did not plan for , or apply , an appropriate separation standard
+be highly susceptible to failure during periods of high workload	have been found
+the north low controllers	a sequence of events a 15-minute loss of situational awareness
+If the first controller had intended any further action or verification of information with respect to the data on WEW780 's arrival strip , the ATC MANOPS required him to cock the strip	its visibility
+the pilot of WEW780 on initial contact with Winnipeg ACC at 2031 -LRB- 100 nautical miles north of La Ronge -RRB-	information
+The communication workload , noisy environment and handover activities at the time WEW780 reported its position and departure time	primary analysis of WEW780 's departure information by the first north low controller
+These factors	the two controllers ' ability
+After calculating the ETA at La Ronge for WEW780	the incorrect departure time on the departure strip
+This	the second controller 's perception of the relative positions of the two aircraft
+This resulted in the second controller 's perception of the relative positions of the two aircraft to differ from their actual positions	a loss of situational awareness
+the information required	separation
+a simple , more specific checklist	the potential for error
+This	the probability the conflict would be detected in time to prevent a loss of separation
+in time	a loss of separation

@@ -1,0 +1,14 @@
+During climb out from the departure airfield , it is likely the contaminants in the fuel servo either reached sufficient mass or migrated within the metering unit , such that outlet fuel pressure to the fuel injectors was restricted	, the servo could only supply sufficient fuel pressure to the injectors to sustain idle engine power
+Examination of the fuel servo revealed water contamination and corrosion in the fuel metering unit of the servo , resulting in reduced outlet fuel pressure to the fuel injectors	The engine quit of the reduced fuel pressure , and the aircraft descended into the water
+occurrence	this
+the faulty transmitter	Turning the ELT on should have ensured the transmission of the emergency signal ; however , no emergency signal was transmitted
+the reduced fuel pressure	The engine quit
+the ELT on	the transmission of the emergency signal
+the unserviceability of the ELT	the search
+search and rescue personnel were	the aircraft from the information the pilot had provided during the distress call
+The pilot 's medical condition and his not wearing a life vest	his inability to survive in the water
+Examination of the fuel servo revealed water contamination and corrosion in the fuel metering unit of the servo	reduced outlet fuel pressure to the fuel injectors
+Examination of the fuel servo	water contamination and corrosion in the fuel metering unit of the servo
+The absence of a signal from the transmitter	the time required by search and rescue personnel to locate the aircraft
+The water temperature and the additional physical exertion from treading water without support of the life vest	the rate of body temperature loss , which probably expedited the onset of hypothermia
+his	chances for survival in the water

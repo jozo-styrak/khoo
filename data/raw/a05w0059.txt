@@ -1,0 +1,49 @@
+
+
+Analysis
+
+
+A crack in the wing-to-fuselage attach angle of a Lockheed L382/C-130 aircraft could lead to failure of the attach angle, pressurization blow out, and subsequent loss of cabin pressure. This analysis reviews the adequacy of current procedures for inspection, repair, and replacement of this component. In addition, the use of electronic, low-profile, platform scale systems for weighing aircraft is analysed.
+
+
+Prior to the availability of SB 382-53-61/82-752, the manufacturer allowed stop drilling and repair of cracks in the wing-to-fuselage attach angles. SB 382-53-61/82-752, including the Basic release, Revision 1 and Revision 2, specified the continuing maintenance methods to be used to detect subsequent cracking. Although inspection methods to detect cracks in the vicinity of FS 497 were effective, aircraft structure prevented these same methods from being effective in the area of FS 577. Lockheed in-service cracking data showed that when cracks were detected at FS 497 this was an indicator that there were also cracks at FS 577. By issuing the SB, the manufacturer relied on replacement of any attach angles found cracked at FS 497 to prevent failure of the attach angle at FS 577.
+
+
+SB 382-53-61/82-752 up to and including Revision 2 did not address replacement of previously repaired attach angles. No cracking was identified during the NDT3 examination of the occurrence aircraft's repaired left attach angle during the recent C check. At that time, there was no requirement within the Lockheed or First Air L382 maintenance programs to replace previously repaired attach angles. The component failed due to fatigue shortly after the C check. Examination of the crack revealed that it had been present and actively propagating over a number of years. A manufacturer's requirement to establish a maximum cycle life on previously repaired attach angles to reduce the risk of attach angle fatigue cracking and failure might have accomplished the same failure prevention goal as the recommendation in SB 382-53-61/82-752 Revision 2 to replace attach angles if new cracks are detected at FS 497. As there is no specific requirement to replace attach angles that have been previously repaired, all L-382 or C-130 aircraft serial numbers 4383 to 5305 that are operating with attach angles that have been repaired at FS 497 are at an increased risk of in-flight failure of the attach angles at FS 577.
+
+
+Revision 2 of the SB was in effect at the time of the recent C check of the occurrence aircraft. However, the DER repair approval overrode the SB recommendation to replace attach angles found cracked. Overriding the SB recommendation increased the risk for undetected cracking at FS 577 as there was no suitable continuing maintenance program to cover crack detection at FS 577.
+
+
+While not a factor in the occurrence, the electronic, low-profile, platform scale system that was used to weigh the aircraft used digital indicators that provided single-point calibration only, which limited overall precision. As well, the low-profile Massload Technologies Ultra Slim Weigh Pads were sensitive to differences in tire footprint size. The system was originally calibrated using a calibration plate that covered almost all of the platform surface; follow-up testing using a smaller calibration plate showed the indicated weights to be significantly lower than the actual weights at all data points. The system, as configured and calibrated, was unsuitable for weighing an aircraft that had the weight, and nose tire and main tire footprint sizes of a Lockheed L382. This contributed to the aircraft flying approximately 75 hours with a large error in the recorded basic empty weight on the weight and balance report. The continued use of this type of electronic, low-profile, platform scale system for weighing aircraft, without awareness of the potential and inherit shortcomings of the system, may increase the risk of recording erroneous aircraft basic empty weights.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 037/2005 - FDR Analysis, L-382G, C-GHPW LP LP 049/2005 - Examination of Wing-to-fuselage Attach Angle
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+Fatigue crack initiation and propagation occurred in the bend radius of the left attach angle at FS 577, which resulted in failure of the component. The left wing-to-fuselage attach angle repair that was accomplished at FS 497 in 1987 extended the component installation time in service, with no suitable method to cover crack detection at FS 577.
+
+
+
+Findings as to Risk
+
+
+SB 382-53-61/82-752, including the Basic release and Revisions 1 and 2, did not address replacement of previously repaired attach angles, increasing the risk that L-382 or C-130 aircraft (serial numbers 4383 to 5305) that were operating with repaired attach angles might have experienced an in-flight failure of the attach angles at FS 577. The DER approved repair at FS 497 restored the right attach angle to original strength; however, the repair approval did not include a continuing maintenance program to cover crack detection at FS 577, increasing the risk of attach angle cracks occurring at FS 577 due to extended time in service.
+
+
+
+Other Finding
+
+
+The electronic, low-profile, platform scale system that was used to weigh the aircraft was unsuitable, as configured and calibrated, for weighing a Lockheed L382.
+

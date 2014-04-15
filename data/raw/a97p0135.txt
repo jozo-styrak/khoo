@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The Beechcraft 1900D aircraft was new to the Vancouver area, and air traffic control personnel were not yet familiar with its performance characteristics. The tower controller noted, on the flight data strip, that GLR738 had filed a slightly slower cruise speed than ABL819. Based on that information, he judged that GLR738 could depart with about minimum spacing from the preceding aircraft. As a result, he released GLR738 with an initial spacing of about 3 nm, just above the separation standard of 3 NM.
+
+
+After being released by the tower, GLR738 took off from runway 26L, accelerated rapidly, and began a steep climb profile . By the time the crew of GLR738 had contacted the departure controller, the Beechcraft 1900D's climb speed was about 40 knots faster than that of the preceding DHC-8, and the initial spacing that had been provided by the tower had eroded.
+
+
+Three miles ahead, ABL819 had drifted south of the extended runway centre-line while tracking west from the airport. When the crew of ABL819 reached 3,000 feet, they initiated a right turn to 335 in accordance with their clearance; that northbound turn, coupled with the aircraft's south offset from the runway centre-line, caused the flight paths of ABL819 and GLR738 to converge, and further reduced the spacing between the two aircraft.
+
+
+The departure controller was not anticipating a separation problem immediately after take-off and had very little time to recognize and react to the high closure rate. When he became aware that a loss of separation was occurring, he attempted to apply speed control to stabilize the situation. The controller did not attempt to level the Beechcraft 1900D at 2,000 feet because, in his judgement, the separation would be re-established more quickly by allowing the aircraft to continue the climb rather than by levelling or descending it.
+
+
+Some controllers were previously aware of problems related to the Beechcraft 1900D's initial climb profile. These prior situations had not been formally reported so the repeat nature and impact of the problem was not captured by the Nav Canada reporting system; therefore, not all controllers were aware of the situation.
+
+
+Nav Canada supervisors at Vancouver were quick and effective at resolving the Beechcraft 1900D separation problem at a local level. Operations Letters were disseminated in both the ACC and the tower to ensure controllers were aware of the performance characteristics of the Beechcraft 1900D, and the resolution of the initial spacing was coordinated with local carriers that are using the new model Beechcraft 1900D . However, information related to this local problem, and its regional fix, was not disseminated within the Nav Canada network.
+
+
+
+Findings
+
+
+The tower controller is required to judge the initial spacing between successive IFR departures; other than operational experience, the controller has limited data on which to make this judgement. The tower controller was unaware of the initial climb performance of the Beechcraft 1900D and based its initial separation from the preceding aircraft on a comparison of their en route speeds; these speeds were not representative of the aircraft's initial climb profile. GLR738 was given no climb-rate restrictions, and the pilot allowed the aircraft to accelerate to about 190 knots after take-off; this higher speed caused the aircraft to close rapidly on the preceding DHC-8. The departure controller was not anticipating a separation problem immediately after take-off and, when the Beech 1900D took off, the controller had very little time to recognize and react to its high closure rate with the preceding aircraft. Although other controllers had seen similar "run-down" events, the Nav Canada reporting systems were unable to capture this data before the loss of separation incident occurred. Once aware of the repetitive nature of the problem, Nav Canada supervisory personnel were quick and effective in resolving the issue at a local level. Information related to this local problem, and its regional fix, was not disseminated between the Nav Canada units.
+

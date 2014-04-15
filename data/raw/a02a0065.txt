@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+During the launch the winch operator correctly provided a "full-out" launch to compensate for the wind conditions. It is unlikely therefore, that the loss of control was due to insufficient winch speed, which could lead to aerodynamic stall.
+
+
+During the accident launch, acceleration forces would have effectively pressed the pilot rearward, transferring high load forces to the seat and its attachment hardware. Two of the three forward seat attachment bolts were found detached. The shiny appearance of the threads on the right anchor nut was likely due to the bolt tearing out, which would suggest that the bolt in the right anchor nut was only engaged by a maximum of four threads. Ordinarily, this amount of thread engagement would be sufficient to provide the maximum strength of the bolt and anchor nut assembly. However, in this occurrence, the threads had been previously damaged by cross-threading, and the assembly may not have been able to develop the full clamping force. It could not be determined why the bolts were not completely fastened.
+
+
+Although there was not enough information available from the engineering analysis to determine whether the bolts pulled out in the air or at ground impact, other information supports the conclusion that the bolts pulled out in the air. The glider pitched up excessively a short time after lift-off. This was certainly abnormal and no fault was found with the glider's control system or structure. It is concluded that the combined effect of the cross-threading damage, the probability that the centre and right bolts were not fully engaged, and the acceleration forces of the launch resulted in the bolts pulling free from the anchor nuts resulting in seat failure. When the seat failed, the pilot would have moved downward and aft, away from the controls. This sudden rearward movement would have resulted in a corresponding rearward control stick movement, and an abrupt pitch upward, with subsequent loss of control. In addition, the pilot would have been unable to reach the manual tow cable release.
+
+
+The practice of utilizing a signal flag or a piece of plastic tape for estimating the wind direction and speed does not provide sufficiently accurate information, and is not adequate when operating in light and variable wind conditions. This means of assessing wind conditions is not without potential risk. A windsock would provide pilots with more accurate wind information, during takeoff, and while on approach for landing.
+
+
+The following Engineering Laboratory Report was completed:
+
+
+LP 056/2002 - Examination of Pilot Seat Attachments.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The combined effect of the cross-threading damage, the probability that the centre and right bolts were not fully engaged, and the acceleration forces of the launch resulted in the bolts pulling free from the anchor nuts, resulting in seat failure. The pilot lost control of the glider when the seat failed.
+
+
+
+Findings as to Risk
+
+
+In the normally reclined seat position, the tow hook release handle in the Cirrus is difficult for short pilots to reach. The threads on the right and the centre anchor nuts of the forward seat attachment had been previously cross-threaded and likely had not developed full strength. A signal flag, or a piece of plastic tape, does not provide adequate wind information when operating in light and variable wind conditions.
+

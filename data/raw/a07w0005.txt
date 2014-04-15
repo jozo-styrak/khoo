@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+While Flight PE905 was conducting its approaches, the visibility varied considerably over time and at different locations on the airport. Visibility observed at the FSS was sm, the RVR was 2800 feet, and at the approach end of Runway 29, visibility was reduced considerably by snow and blowing snow. Flight visibility would have deteriorated as the aircraft descended below the DH of 200 feet agl due to blowing snow in the high winds. The captain, as pilot flying, would have had increasing difficulty maintaining visual contact with the required visual reference elements of the approach.
+
+
+On the second approach, the ILS was tracked accurately, at a speed of about 130 knots. When the flap setting was increased from 20 to 35 in the final stage of the approach, the aircraft would have become destabilized; there would have been a tendency for the aircraft to pitch up and lose airspeed. In order to maintain a stable airspeed, and to keep the approach lights in view, the captain would have had to pitch the nose down. Since the captain's focus was outside the aircraft, and his attitude reference was reduced in the low visibility, it would have been difficult to judge aircraft pitch attitude and height above ground, as well as any trends in those parameters.
+
+
+When the first officer announced that the approach lights were visible at about 300 feet agl, the captain discontinued his instrument scan and decided to land. The first officer anticipated calling airspeeds in relationship to Vref, and since the Vref value had changed due to the captain's late call for full flap, he turned his attention to a reference card clipped to the instrument panel. For the remainder of the approach, neither pilot devoted attention to the aircraft instruments, which would have indicated a significant descent below the glide slope before crossing the runway threshold.
+
+
+The company did not use a PMA procedure for instrument approaches. Had one of the pilots been monitoring the instrumentation to touch down in a PMA, it is probable that the significant deviation below the optimum glide slope would have been noticed and corrected before ground contact short of the runway.
+
+
+The one set of approach charts used by the crew was in the possession of the first officer who relayed data to the captain. Without his own set of charts, the captain was not able to confirm the information critical to the safe conduct of the approaches. As a result, the crew used a DH value that was rounded down 54 feet lower than the published value. Also, the crew did not apply a calculated cold temperature correction of 20 feet. Although it was not considered to have been a factor in this occurrence, the combination of these two factors could have resulted in a descent of 74 feet below the DH of 200 feet agl on an approach to minimums and an increased risk of undershoot.
+
+
+The combined IFR experience between the two pilots was relatively low. The first officer had not conducted any previous operational approaches in actual IMC. During the captain's prior operational instrument flying, few approaches were in actual IMC to minimums. It is likely that the experience level from the pairing of the two pilots affected the decision making, and the execution of the approaches.
+
+
+The CVR was reinstalled in the aircraft following an intelligibility test that indicated that the first officer's hot microphone channel did not record. As such, the CVR system did not meet serviceability standards required by the CARs because a hot microphone installed and used in the aircraft is expected to be recording continuously. Following reinstallation, a further failure in recording of the first officer's intercom channel resulted in a loss of direct access to the first officer voice information. Although useable information was derived through other means, there was a possibility that no voice information for the first officer would have been available, and the quality of the occurrence investigation would have been reduced.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+A late full flap selection at 300 feet above ground level (agl) likely destabilized the aircraft's pitch attitude, descent rate and speed in the critical final stage of the precision approach, resulting in an increased descent rate before reaching the runway threshold. After the approach lights were sighted at low altitude, both pilots discontinued monitoring of instruments including the glide slope indicator. A significant deviation below the optimum glide slope in low visibility went unnoticed by the crew until the aircraft descended into the approach lights.
+
+
+
+Finding as to Risk
+
+
+The crew rounded the decision height (DH) figure for the instrument landing system (ILS) approach downward, and did not apply a cold temperature correction factor. The combined error could have resulted in a descent of 74 feet below the DH on an ILS approach to minimums, with a risk of undershoot.
+
+
+
+Other Finding
+
+
+The cockpit voice recorder (CVR) was returned to service following an intelligibility test that indicated that the first officer's hot boom microphone intercom channel did not record. Although the first officer voice was recorded by other means, a potential existed for loss of information, which was key to the investigation.
+

@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The carbon residue from the burned grease and the absence of grease spatter surrounding the failed end of the main input drive shaft, suggest that it is unlikely that there was a second grease seal failure prior to the accident. The TSB Engineering Branch determined that a failure of the main input drive shaft forward coupling was the lead event in the accident sequence. There are two possible scenarios as to why this forward coupling failed:
+
+
+There may have been a progressive failure occurring within the drive shaft coupling that was not or could not have been detected by visual inspection at the time of the grease seal replacement. Operation with less than the normal amount of grease at the time of the seal failure may have accelerated the progression of the coupling failure; or Operation with less-than-normal lubrication at the time of the seal failure may have damaged the drive shaft coupling to the extent that it subsequently failed.
+
+
+The helical scoring and wear damage on the splined end of the main input drive shaft indicated that it had been spinning inside the coupling prior to impact, the result of which was a decoupled engine that was no longer driving the rotors. Because the engine was no longer driving the main rotor, the rotor rpm began to decay with a corresponding low rotor rpm warning and subsequent loss of lift.
+
+
+Because the decoupling occurred at an altitude of 150 feet and at an airspeed of less than 40 knots, the helicopter was operating in a flight regime from which the likelihood of establishing a successful autorotation was low.
+
+
+The height velocity diagram of the Bell 205 helicopter is contained in the limitations section of the pilot's flight manual, as are the conditions attached to the limitation. Helicopters engaged in external load operations are not limited by the diagram. Consequently, pilots operating the Bell 205 helicopters in external load operations are exposed to a heightened level of risk because the potential to recover from a malfunction, such as power and drive train failure, is significantly reduced.
+
+
+The following TSB Engineering Branch Report was completed:
+
+
+LP 067/02 - Drive shaft Assembly Bell 205A-1, C-FPAZ.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The main input drive shaft of the helicopter failed at the forward coupling, most likely as a result of a progressive failure or damage that was not detected at the time of the grease seal replacement. Failure of the main input drive shaft decoupled the engine from the transmission, which resulted in a decrease in main rotor rpm and a rapid rate of descent that continued until the helicopter collided with the terrain. The main input drive shaft failure and subsequent descent occurred at an altitude and flight regime from which a successful steady state autorotation could not be achieved.
+
+
+
+Findings as to Risk
+
+
+Helicopter pilots engaged in external load operations with Bell 205 helicopters are not limited by the restrictions specified in the height velocity diagram and are, therefore, exposed to a higher level of risk than are helicopter pilots who are not operating in this flight envelope.
+

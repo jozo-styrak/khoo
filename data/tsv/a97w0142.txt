@@ -1,0 +1,12 @@
+Stretching his glide to cross a creek resulted in a decrease in rotor rpm , which affected the pilot 's ability to reduce the helicopter 's forward speed and rate of descent prior to touchdown	, the left skid dug into the ground and the helicopter rolled onto its right side
+the disengagement of the drive shaft	It was concluded that the engine stopped when the engine driven fuel pump failed
+the suddenness of the failure	the pilot had no warning that a problem existed
+fuel starvation caused by the failure of the engine driven fuel pump	The engine stopped
+excessive wear of the splines of the drive shaft and the driver gear	The engine driven fuel pump failed
+The pilot was transiting at 100 feet agl when the power loss occurred	the number of landing sites available for an autorotation landing
+his glide to cross a creek	a decrease in rotor
+Stretching his glide to cross a creek resulted in a decrease in rotor rpm	the pilot 's ability to reduce the helicopter 's forward speed and rate of descent prior to touchdown
+ability	the helicopter 's forward speed and rate of descent prior to touchdown
+the need to stretch the glide	the pilot to maintain rotor rpm to control the landing
+the failure of the engine driven fuel pump	starvation
+The pilot was flying at an altitude	his choices of landing sites for the autorotation

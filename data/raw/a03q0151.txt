@@ -1,0 +1,58 @@
+
+
+Analysis
+
+
+The condition of the engines, the angle of impact, and the condition of the pilot indicate that the pilot maintained control of the aircraft until impact. Consequently, this accident falls into the category of controlled flight into terrain (CFIT).
+
+
+The TAF received prior to departure from Gasp gave the pilot reason to believe that he could complete the return trip under VFR. However, the GFA indicated instead the possibility of IFR conditions. A better analysis of the weather conditions by the pilot would have enabled him to anticipate the possible deterioration of weather conditions and to plan the flight according to instrument flight rules. The absence of weather condition updates while he was en route to Gasp contributed to the late realization that the weather conditions at his destination were poor. Since the flight was made at night, it must have been difficult to see the poor conditions before flying into them. It was only after he was informed by the FSS specialist that the pilot realized that an instrument approach would be necessary. This situation, combined with the difficulties that the pilot experienced in establishing initial communications with the FSS, delayed the request for and receipt of clearance for the approach and, therefore, preparation for it.
+
+
+Because he was about 7 nm from the airport when he received his approach clearance, the pilot had only a brief period of time to perform the various tasks associated with preparing for an instrument approach, such as: deciding on the type of approach, getting out the approach plate, familiarizing himself with the plate, tuning in the ILS (instrument landing system) frequency, activating the ARCAL (aircraft radio control of aerodrome lighting) system, making the reports associated with an instrument approach at an uncontrolled aerodrome, and modifying the aircraft configuration for the approach and landing.
+
+
+Instrument flying demands a good method of surveying instruments, commonly called "scanning." Although he was qualified for instrument flight, and he had considerable experience in these sorts of conditions, the pilot had to perform several tasks within a short period. His attention may have been absorbed by performing these tasks during the approach, diverting his attention from the CDI, which would explain why he ended up on the right side of the localizer track. Even if the regulations did not require it, the presence of a co-pilot would probably have allowed the pilots to share tasks before and during the approach. The co-pilot could have supervised the approach and promptly advised the pilot of any deviation from the approach profile.
+
+
+The navigation aids at Gasp were operating normally, and no malfunctions in the on-board instruments were reported. Since the aircraft was over 25 degrees off the localizer track, the CDI was probably oscillating. However, it is reasonable to believe that the indication was appropriate, indicating to the pilot that he was to the right of the localizer track. Considering that the pilot had acquired most of his flying experience in the Gasp region, it is highly probable that he knew about the unreliability of the signal outside 25 degrees.
+
+
+Since the altimeters had been calibrated recently, no malfunctions were reported by the pilot, and he correctly read back the altimeter setting provided by the FSS specialist, it is reasonable to believe that the altimeters were properly set and that they indicated the correct altitude asl. Since the reported visibility was only mile, it is unlikely that the pilot had the visual reference required to continue the descent below the MDA. Several elements should have induced the pilot to execute a go-around: the aircraft was not in landing configuration nor was it correctly established on the published approach profile, and the required visual reference was probably not established.
+
+
+Studies and statistics have demonstrated that GPWSs and radio altimeters provide effective protection against CFIT. One or both of these devices could have alerted the pilot to his proximity to the ground, prompting him to execute a go-around.
+
+
+If the proposed regulatory amendments concerning an approach ban had been in force at the time of these two accidents (A03Q0151 and A04W0032), the pilots involved would not have received clearance for the approach. For A03Q0151, since visibility was at the minimum proposed for a non-precision approach, i.e., mile, a co-pilot would have been required (in addition to the proposed requirements for training and equipment); as for A04W0032, since visibility was below the minimum proposed for a precision approach, i.e., 1600 feet RVR (but not below 1200 feet RVR), centre-line lights or a head-up display would have been required (in addition to the proposed requirements for training and equipment).
+
+
+The Board is of the view that the existing regulations do not provide adequate protection against the risk of ground impact when instrument approaches are conducted in reduced visibility conditions.
+
+
+The following laboratory reports were completed:
+
+
+LP 102/03 Instruments, Radios and ELT Examination LP 120/03 Examination of Propeller Hub LP 121/03 Landing Light Examination LP 123/03 Power Pack and Nose Actuator Examination
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot descended to the minimum descent altitude (MDA) without being established on the localizer track, thereby placing himself in a precarious situation with respect to the approach and to obstruction clearance. On an instrument approach, the pilot continued his descent below the MDA without having the visual references required to continue the landing, and he was a victim of CFIT (controlled flight into terrain).
+
+
+
+Findings as to Risk
+
+
+The aircraft was not, nor was it required to be, equipped with a ground proximity warning system (GPWS) or a radio altimeter, either of which would have allowed the pilot to realize how close the aircraft was to the ground. The presence of a co-pilot would have allowed the pilots to share tasks, which undoubtedly would have facilitated identification of deviations from the approach profile. The existing regulations do not provide adequate protection against the risk of ground impact when instrument approaches are conducted in reduced visibility conditions.
+
+
+
+Other Findings
+
+
+The emergency locator transmitter (ELT) could not emit a distress signal because the battery disconnected on impact. Location of the aircraft was delayed until the day after the accident, which could have had serious consequences if there had been any survivors.
+

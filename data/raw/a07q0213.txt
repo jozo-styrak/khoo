@@ -1,0 +1,88 @@
+
+
+Analysis
+
+
+The primary role of a crew is to effectively control the risks relating to a flight. Crew coordination and SOPs are the tools most readily available for controlling threats, errors, and undesirable conditions. Although the company had applicable SOPs and the crew had been trained in accordance with regulations, these tools were not enough to mitigate the risk associated with an unstabilized approach.
+
+
+In this occurrence, a series of actions and decisions made by the crew gradually increased the risk to which the flight was exposed until the aircraft reached a point where it was impossible to re-establish the safety of the flight. Consequently, this analysis will concentrate on the actions and decisions of the crew and the manner in which they served to bypass the defence mechanisms put in place to reduce the risks related to operation.
+
+
+The company had provided the crew with all training required by regulations and both pilots had successfully passed their PPCs. However, a PPC is a very limited view at a given moment and therefore does not cover all aspects of an IFR flight. Considering the pilot shortage, it can be expected that pilots who join a company may have relatively little experience. Because of this, companies need to consider greater monitoring of their knowledge of basic IFR procedures through more detailed SOPs and a training program.
+
+
+Despite limited IFR experience and experience working in a multiple crew environment, the two pilots were paired. Nothing in the CARs prohibits this. Although the crew had received CRM training, it still had little multiple crew experience and consequently little experience in applying the basic CRM principles. In this occurrence, shortcomings in the areas of communication, workload management, and situational awareness all contributed to increasing the risk of an accident.
+
+
+The 165 CADORS incidents related to non-compliance with communication procedures in MF areas in Canada indicate that the procedures are either not well known or poorly understood by a number of pilots. In order to improve safety significantly, it is essential that pilots actively monitor the MF and that they follow the reporting procedures specified for use when flying in a MF area.
+
+
+Propair 102 reported five times that it would proceed for Runway 05. But at no time did the crew of CRQ 501 note this fact. Twice, the crew could not be informed because they had not tuned the MF in a timely manner. The three other Propair 102 transmissions were broadcast on the frequency tuned by the CRQ 501 crew. Everything suggests that their high workload could have contributed to reducing their auditory attention to the radio transmissions made by Propair 102.
+
+
+When the Qu bec FIC wanted to ensure that the crew had clearly received the message from Propair 102 after its position report at 10 miles on final for Runway 05, the message did not include the runway number. Subsequently, when Propair 102 reported at 1.5 miles on final, they did not mention the runway number. Transmitting clear, precise, and complete information is important to ensure a good understanding of the situation by those receiving the information. In this case, the information was incomplete and did not allow the CRQ 501 crew to determine the exact position of the other aircraft. This fact, like the non-compliance in communications, did not contribute to the accident. However, it did create a situation in which the pilots of both aircraft did not have good knowledge of their respective positions. In fact, the flight crew of CRQ 501 believed until the end that the other aircraft was approaching on the opposite runway.
+
+
+It is difficult to understand why the crew of CRQ 501 established itself on final without knowing the exact position of the other aircraft. It was risky to start the final approach believing that the other aircraft was in the opposite direction. Had the other aircraft done a go-around, there would have been a risk of collision. Having an ACAS on board both aircraft would have allowed the pilots to know their positions better in relation to each other and thereby reduce the risk of collision. The crew's high workload, combined with their level of experience, could have contributed to the deficiencies in radio communications.
+
+
+The presence of GPS equipment and knowledge of its extreme accuracy in approaches may have prompted the crew to attempt to use it despite the absence of certification and training. The time spent programming the GPS reduced the time available to manage the flight such that, on the first approach, the crew did not make the required radio transmissions on the MF, did not activate the ARCAL, missed the verbal calls specified in the SOPs manual, and configured the aircraft for the approach and landing late. The first approach had been carried out with greater accuracy; the aircraft was closer to the runway's centreline. Consequently, the turns required to realign the aircraft with the centreline would have been less pronounced, thereby reducing the risk of stalling. However, the lighting was off and this could have contributed to the delay in seeing the runway and its environment, thus making a go-around necessary.
+
+
+The decision to do a second approach was in itself a justified operational decision. There was enough fuel and the crew had seen the runway, which made it plausible to believe the second attempt would be successful. The crew had decided to do a PICMA procedure. Although this type of approach was developed to increase safety in the approach-and-landing phase, it did not help to avoid the accident. This procedure requires calls by the PNF when the aircraft deviates from pre-established acceptable tolerances such as altitude, speed, rate of descent, and course. However, no call is required concerning a limit in bank angle. Furthermore, the control transfer procedure was not carried out as set out in the SOPs and could have taken the pilot-in-command by surprise, leaving little time to choose the best option.
+
+
+In both approaches, the aircraft was configured late or after it had passed the FAF, contrary to the SOPs. The workload of the PNF was increased and the PNF's attention was focused on tasks that should have been completed before the FAF. As a result, several verbal calls and radio communications were not done.
+
+
+The CHIBOO beacon was not the FAF for Runway 05. This could have caused confusion regarding the altitude at which it was permissible to descend. Consequently, on its return for a second approach, the flight crew did a race-track pattern using the CHIBOO beacon and descended to 400 feet below the safe obstacle clearance altitude, increasing the risk of a CFIT. In addition, the risk of conflict with the other aircraft was increased because the crew of the other aircraft expected the published altitudes to be followed. As a result, the two aircraft passed abeam in opposite directions with a distance of 1000 vertical feet and a horizontal distance of 3.1 nm between them without either crew being aware of this fact.
+
+
+Because the outbound time was calculated from the time the aircraft passed abeam the beacon, the aircraft's distance in relation to the runway was reduced when it turned onto the inbound segment. As a result, the aircraft was established on final at less than one mile from the FAF without being configured for the approach. The crew's limited IFR experience could have contributed to poor interpretation of the IFR procedures, in particular regarding how to carry out a race-track pattern.
+
+
+In general, the training provided by companies does not cover the basic elements of instrument flight because it is assumed that once instrument flight qualifications have been obtained, the pilots are qualified. Training is generally focused on the accuracy of carrying out instrument approach procedures to prepare the candidate for the flight test.
+
+
+Although this accident does not meet the criteria of a CFIT, it nonetheless remains that a SCDA NPA would have provided additional defence. It is important that crew training be supplemented by clear and precise policies and directives on the characteristics of a stabilized approach and the need to carry out a missed approach if not stabilized.
+
+
+The investigation could not determine the touchdown point intended by the PF. Nevertheless, when the crew saw the runway, their position required a rate of descent greater than 500 feet per minute and a steep turn at a low altitude in order to line the aircraft up with the runway centreline. The PF put the aircraft in an unstable approach condition for the runway and did not recognize the need for another go-around.
+
+
+The reason why the pilot-in-command followed through with the landing remains unknown. However, the following factors may have influenced his decision:
+
+
+The flight was three hours late and performing a third approach or heading to the alternate airport would have caused further delay; and The co-pilot's transfer of control to the pilot-in-command may have been unexpected, leaving the pilot-in-command little time to make a decision. This situation increased the pilot-in-command's stress level.
+
+
+It is recognized that in a stressful situation, people have a tendency to refer to familiar or automatic actions and behaviour. It is possible that the pilot-in-command carried out actions he had previously done on the DHC-6, on which he had accumulated 80 per cent of his last 655 flying hours. The DHC-6 is more man uvrable at lower speeds and its stall speeds are significantly lower than those of a Beechcraft A100. With the DHC-6, lining up with the runway would have required a lower bank angle during the last turn.
+
+
+A low-altitude turn is a dangerous man uvre that requires the pilot flying to be very attentive. In the case of this accident, a right turn was necessary to take the aircraft towards the runway and a high rate of descent was required. The surface wind was 260 at 6 knots. Consequently, the aircraft's ground speed increased after the right turn and, in the left turn, the aircraft drifted to the outside of the turn and moved away from the runway centreline. It is very likely that the pilot-in-command increased the bank to correct the drift. During the turn, to reduce the rate of descent, the pilot-in-command pulled on the controls, which increased the load factor and as a result the stall speed. Because the stall warning horn is adjusted to activate at 4 to 8 knots before a stall and it activated at 100 knots, it can be concluded that the stall speed was between 92 and 96 knots and that the bank angle was greater than 50 .
+
+
+Taking into account the rate of descent, angle of impact, and the time between activation of the horn and the impact, it was established that the aircraft was less than 100 feet agl when the stall warning sounded. The aircraft stalled at an altitude that did not allow the pilot to complete the stall recovery procedure.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was configured late for the approach, resulting in an unstable approach condition. The pilot flying carried out a steep turn at a low altitude, thereby increasing the load factor. Consequently, the aircraft stalled at an altitude that was too low to allow the pilot to carry out a stall recovery procedure.
+
+
+
+Findings as to Risk
+
+
+The time spent programming the global positioning system reduced the time available to manage the flight. Consequently, the crew did not make the required radio communications on the mandatory frequency, did not activate the aircraft radio control of aerodrome lighting (ARCAL), did not make the verbal calls specified in the standard operating procedures (SOPs), and configured the aircraft for the approach and landing too late. During the second approach, the aircraft did a race-track pattern and descended below the safe obstacle clearance altitude, thereby increasing the risk of a controlled flight into terrain. The crew's limited instrument flight rules (IFR) experience could have contributed to poor interpretation of the IFR procedures. Non-compliance with communications procedures in a mandatory frequency area created a situation in which the pilots of both aircraft had poor knowledge of their respective positions, thereby increasing the risk of collision. The pilot-in-command monitored approach (PICMA) procedure requires calls by the pilot not flying when the aircraft deviates from pre-established acceptable tolerances. However, no call is required to warn the pilot flying of an approaching steep bank. The transfer of controls was not carried out as required by the PICMA procedure described in the SOPs. The transfer of controls at the co-pilot's request could have taken the pilot-in-command by surprise, leaving little time to choose the best option. Despite their limited amount of IFR experience in a multiple crew working environment, the two pilots were paired. Nothing prohibited this. Although the crew had received crew resource management (CRM) training, it still had little multiple crew experience and consequently little experience in applying the basic principles of CRM.
+
+
+
+Other Findings
+
+
+The emergency locator transmitter (ELT) had activated after the impact but due to circuit board damage its transmission power was severely limited. This situation could have had serious consequences had there been any survivors. The Chibougamau/Chapais airport does not have an aircraft rescue and firefighting service. Because the fire station is 23 kilometres from the airport, the firefighters arrived at the scene 26 minutes after the accident. Although this accident does not meet the criteria of a controlled flight into terrain (CFIT), it nonetheless remains that a stabilized constant descent angle (SCDA) non-precision approach (NPA) would have provided an added defence tool to supplement the SOPs. After the late call within the mandatory frequency (MF) area, the specialist at the Qu bec flight information centre asked the crew about its familiarity with the MF area while the aircraft was in a critical phase of the first approach, which was approaching the minimum descent altitude (MDA). This situation could have distracted the flight crew while they completed important tasks. The standard checklist used by the flight crew made no reference to the enhanced ground proximity warning system (EGPWS). Therefore, the crew was not prompted to check it to ensure that it was properly activated before departure.
+

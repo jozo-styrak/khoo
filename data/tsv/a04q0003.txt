@@ -1,0 +1,27 @@
+In this occurrence , the organization of the flight data board was not conducive to detecting conflict because the flight data strips for the two concerned aircraft were widely spaced	, the conflict remained undetected for the 20 minutes the two flights were operating in the sector
+When the OJI had to suddenly take over the position from the trainee after the conflict alert alarm sounded , he reverted to his normal practice of using the foot pedal to transmit	, the OJI was unaware that the instructions to resolve the conflict were not transmitted
+After the air traffic control conflict alert program warned the trainee and the OJI of the impending loss of separation , the OJI was unable to communicate instructions to the involved aircraft because he used the foot pedal instead of the press-to-talk switch to activate the radios	, the aircraft progressed to the point where only the traffic collision avoidance system -LRB- TCAS -RRB- resolution advisory -LRB- RA -RRB- prevented a potential collision
+the flight data strips for the two concerned aircraft were widely spaced	In this occurrence , the organization of the flight data board was not conducive to detecting conflict
+This may have lulled the OJI and the trainee into a false sense of security	, they did not reconfirm that the aircraft within the sector , including UAL943 and AAL167 , were free of conflict for their respective routes in the GL sector
+the trainee did not follow a routine similar to that of the OJI	neither of the two controllers detected the conflict between UAL943 and AAL167
+the OJI had to suddenly take over the position from the trainee after the conflict alert alarm sounded	he reverted to his normal practice of using the foot pedal to transmit
+the TCAS is not mandatory in Canada	there continues to be some unnecessary risk of mid-air collisions within Canadian airspace
+flight information on UAL943 been retained in the NADS	it is possible that information on the potential conflict with AAL167 could have been communicated to the GL sector controllers
+he used the foot pedal instead of the press-to-talk switch to activate the radios	After the air traffic control conflict alert program warned the trainee and the OJI of the impending loss of separation , the OJI was unable to communicate instructions to the involved aircraft
+the TCAS is not mandatory in Canada	there continues to be an unnecessary risk of mid-air collisions within Canadian airspace
+he or she is	a solution to resolve the conflict without having to resort to drastic measures
+the RSiT	any of the tools
+the organization of the flight data board	detecting conflict because the flight data strips for the two concerned aircraft were widely spaced
+As this type of situation can introduce a high level of stress , controllers may make inadvertent errors or use improper equipment or techniques to try to resolve the conflict	aircraft into an even more serious risk of collision situation
+controllers	inadvertent errors
+More realistic and recurring simulated training	the controllers make more timely and appropriate responses to conflict alert alarms and other emergencies and increase the likelihood that corrective action is effectively communicated to the aircrew
+the controllers make more timely and appropriate responses to conflict alert alarms and other emergencies	the likelihood corrective action is effectively communicated to the aircrew
+the controllers	more timely and appropriate responses conflict alert alarms and other emergencies
+action	a potential collision
+This	a potential conflict progress to the point of a risk of collision
+After accepting the handover of the GL sector , neither the trainee nor the on-the-job instructor -LRB- OJI -RRB- conducted a review of all aircraft under their control to ensure there were no potential conflicts ; the conflict between UAL943 and AAL167 was not detected	them in a potential risk of collision situation
+control	there were no potential conflicts
+the OJI was	instructions to the involved aircraft
+the traffic collision avoidance system -LRB- TCAS -RRB- resolution advisory -LRB- RA -RRB-	a potential collision
+The current operational conflict alert system	minimal warning time the controller
+The lack of realistic and recurrent simulation training	the OJI 's quick and efficient recovery from a loss of separation situation

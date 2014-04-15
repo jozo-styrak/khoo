@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+The environmental conditions at the time of the accident were favourable for the type of operation being conducted. The pilot was experienced and current on the type of aircraft and he was familiar with the operation.
+
+
+Photo 4. Bomb doors open (float upside down)
+
+
+During the approach, the Vital Action checklist was not completed as per the SOPs, and the bomb door armed switch was left in the ON position. After completing the scooping operation, the pilot intended to retract the probes by pressing the probe switch but inadvertently pressed the adjacent bomb door switch. Since this system remained armed from the previous bombing run, the doors extended into the water. The drag from the doors and the water rushing into the floats through the door openings resulted in the aircraft nosing over. The proximity of the probe and bomb door push button switches and the missing cover plate on the bomb door switch increased the likelihood of selecting the bomb door switch instead of the probe switch.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Ministry of Natural Resources DHC-6 SOPs were not followed, and the Vital Action checklist was not fully completed during the approach. As a result, the bomb door armed switch on the centre panel was not selected OFF after the previous water bombing run and prior to the scooping operation. After completing the water scooping operation, the pilot unintentionally selected the bomb door push button switch instead of the adjacent probe switch. Because the bomb door armed switch on the centre panel was left ON, the bomb doors extended into the water. Drag from the doors and the water rushing into the door openings resulted in the aircraft nosing over in the water. The hinged cover plate for the bomb door push button switch was not re-installed following maintenance to replace the push button switch. The push button was exposed, making an inadvertent selection more likely.
+

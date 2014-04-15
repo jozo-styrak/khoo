@@ -1,0 +1,17 @@
+The engines had not spooled down to idle before the reversers were stowed	, the transition to forward thrust arrested the aircraft 's deceleration
+the slippery runway surface condition	Braking effectiveness was reduced
+the engines had not spooled down to idle reverse before the reversers were stowed	the resultant forward thrust was sufficient to arrest the deceleration and result in the runway excursion
+reverse thrust was reselected	the idle reverse thrust on the left engine contributed to the increased rate of turn of the aircraft heading to the left
+the brakes had been released	the increased tire cornering forces have helped to counteract the veer and maintain the aircraft on the runway
+the engines spooled down to idle before the reversers were stowed	the aircraft might have stopped on the runway
+the aircraft 's low forward airspeed	The rudder was ineffective in counteracting the veer
+The runway 15 RVR was 6,000 feet	the flight crew see the departure end runway lighting at touchdown
+the aircraft 's proximity to the end of the runway during deceleration	the crew continuing to use a high reverse thrust setting at a speed below that recommended by Canadair
+The combination of the left crosswind , the slippery runway surface condition , and the high reverse thrust at low speed	the aircraft weathercocking left into the wind
+deceleration	the runway excursion
+the resultant forward thrust was	the deceleration and result in the runway excursion
+the idle reverse thrust on the left engine	the increased rate of turn of the aircraft heading to the left
+the increased tire cornering forces	to counteract the veer and maintain the aircraft on the runway
+reverse thrust was	to idle reverse and
+The TSB Engineering Branch and the aircraft manufacturer , Canadair , have each	a computer animation tape of the runway excursion , available on request from the TSB
+the PF was	directional control of the aircraft at low speed

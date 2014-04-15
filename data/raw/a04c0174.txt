@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+The roller installed on the outboard landing gear bellcrank was of a smaller diameter than the required part and was designed to be used as an uplock roller vice bellcrank roller. The smaller diameter of the roller reduced the required clearance in relation to the roller's location on the heel of the positioning cam. Repetitive landing loads transmitted through the drag brace were initially absorbed by the roller hitting the lip of the cam, until the lip of the cam was worn away. The wear eventually allowed the roller to move beyond the cam cutout position. Consequently, the drag brace was primarily held in the down-and-locked position by the inboard bellcrank roller and the positioning cam, both of which were out of adjustment and held in position by spring tension only.
+
+
+The landing in La Ronge was firm, with a crosswind component. The smoke that came from the tires upon touchdown was consistent with the wear pattern observed on the left outboard tire. The side loading placed on the left landing gear during the landing was sufficient to override the spring tension and snap the inboard roller beyond the cam cutout position, allowing the landing gear to collapse.
+
+
+The AME installed an incorrect roller, believing that it had been re-designed to alleviate roller breakage. The AME did not follow established industry or company practices in checking the part number against the manufacturer's parts manual to ensure that the correct part was being installed. A rigging check was not completed, which likely would have established that the roller was undersized.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+An incorrect roller of a smaller diameter and type was installed on the left main landing gear outboard bellcrank assembly, contrary to company and industry practice. The smaller diameter roller reduced the required rigging tolerances for the bellcrank-to-cam assembly in the down-and-locked position and allowed the roller to eventually move beyond the cam cutout position, resulting in the collapse of the left landing gear. A rigging check was not carried out after the replacement of the bellcrank roller. Such a check should have revealed that neither the inboard nor outboard bellcrank assembly met the minimum rigging requirements for proper engagement with the positioning cam.
+

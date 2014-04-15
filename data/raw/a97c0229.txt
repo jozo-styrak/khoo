@@ -1,0 +1,44 @@
+
+
+Analysis
+
+
+During the approach to St. Theresa Point and the flight and approach to Island Lake, the aircraft flew in snow that was heavy enough to reduce visibility to one-half mile. During this time, the gap between the lift transducer vane and the backing plate was exposed to the ambient airflow, and to the snow which was falling during these flights. At the existing ambient temperatures, snow entering the stall warning system would probably have melted on contact, leaving the resulting water in the stall warning system.
+
+
+The stall warning heat was turned off as part of the after landing checks. After the system was turned off, no heat was provided to the system; thereafter, the ambient airflow over the wing during the taxi from the runway to the ramp, and the ambient temperature, would have had the effect of cooling the stall warning system, allowing the water in the system to freeze during the station stop at Island Lake. The Beech 1900 stall warning system tolerances are such that the lift transducer vanes, in some individual aircraft, may normally be in the "wing stalled" position while in others, the vane may normally be in the "wing unstalled" position with the aircraft at rest. Because the lift transducer vane tolerances in this particular aircraft resulted in a vane position normally in the "wing stalled" position when the aircraft was at rest, the vane would have frozen in that position during the station stop.
+
+
+The pilots, in accordance with the aircraft checklist, tested the stall warning system on the initial flight of the day, but did not test it after start-up at Island Lake. In any event, the design of the test circuit is such that it would not detect a false warning, and had the pilots tested the system, it would not have helped them avoid the false stall warning after take-off. Although the pilots turned on the stall warning heat during the taxi to the runway, the system did not have sufficient capacity, at its reduced operating voltage, to thaw the frozen lift transducer vane. The vane remained frozen in the "wing stalled" position during take-off.
+
+
+Although snow was observed on the aircraft's wings while the aircraft was on the ramp at Island Lake, the snow probably blew off before or during the take-off roll. Most of the snow observed after the occurrence on the inboard wing sections likely resulted from the warming effect of the aircraft's engine and systems, combined with the snow which fell after the occurrence. The aircraft's speed, gross weight, relatively clean wings, and configuration indicate that the wings were producing lift and were not stalled at take-off.
+
+
+During the take-off roll, when the first officer rotated the aircraft and weight came off of the landing gear, the landing gear safety switch closed, which completed the stall warning circuit and generated an inappropriate stall warning signal. Because the first officer believed that the aircraft might not be capable of flight, he called for a reject, even though the airspeed was beyond V1, and the captain concurred.
+
+
+The information about the other occurrences, where the stall warning horn activated during the take-off sequence, does not appear to have been disseminated to other Beech 1900 operators.
+
+
+A number of factors present during the occurrence changed the aircraft's accelerate-stop performance from that listed in the AFM:
+
+
+The quick-reference speeds for V1 of 103 knots, and VR of 106 knots used by the crew, were slightly higher than those (101 knots and 101 knots respectively) listed in the more-detailed reference in the AFM; Because of the time required for recognition, decision, and reaction, engine power was reduced four seconds after rotation, and the aircraft reached a speed of 126 knots before starting to decelerate; The snow-covered, slippery condition of the occurrence runway differed from the bare, dry surfaces on which the AFM data is based. The snow on the runway increased both the aircraft's acceleration distance by increasing the rolling resistance, and increased the stopping distance by decreasing tire traction, thereby increasing the accelerate-stop distance of the aircraft by an undetermined amount; and Partially mitigating the effects of the factors listed above, the crew used reverse thrust on both engines.
+
+
+Although Transport Canada required the manufacturer to provide performance charts containing correction factors for density-altitude, temperature, runway gradient, and wind conditions, the manufacturer was not required to provide charts for corrections to the accelerate-stop or take-off distances resulting from soft or wet runways, slippery runways, or runways containing loose snow. Because performance data were not available, the crew was not able to determine how much snow on the runway was acceptable for continued operation of the aircraft, or to what extent such snow and a slippery runway would affect the take-off and rejected take-off performance of the aircraft.
+
+
+The following TSB Engineering Branch Report was completed:
+
+
+LP 183/97 Flight Recorder Report.
+
+
+
+Findings
+
+
+Maintenance records indicate that the aircraft was equipped and maintained in accordance with existing regulations. Both the captain and the first officer were certified and qualified for the flight in accordance with existing regulation. The aircraft's weight and centre of gravity were within allowable limits for the departure from Island Lake. The crew tested the stall warning system on the first flight of the day in accordance with the aircraft checklist and found it to be serviceable. The Beech 1900 stall warning test function does not detect a condition in the stall warning system that will lead to a false stall warning on take-off. Neither pilot received instruction on faults related to the stall warning system which could result in a false stall warning. The rigging of the lift transducer vane of the Beech 1900 differs from that of some other aircraft types in that the vane may be in the "stalled" or "unstalled" position when the aircraft is at rest. The aircraft flew in snow which was heavy enough to reduce visibility to one-half mile during the approach to St. Theresa Point and during the subsequent flight to Island Lake. The moisture in the stall warning system froze the lift transducer vane in the "stalled" position during the station stop at Island Lake. The reduced heat provided to the stall warning system during the short taxi time was not sufficient to melt the ice after the stall warning heat was turned on during the "Before Take-off" check. The aircraft's engines were developing normal rated power at take-off, and both propellers were turning at maximum rated rpm. The aircraft's stall warning system activated as the aircraft was rotated at 106 knots. The pilots were not aware of previous occurrences of false stall warnings in the Beech 1900 aircraft type. The pilots rejected the take-off about four seconds after rotation and reached a maximum speed of 126 knots. The runway was snow covered and slippery at the time of the occurrence. There were no performance data available to the pilots to determine the aircraft's accelerate-stop distance under snowy and slippery runway conditions. The pilots' use of the cockpit quick reference take-off speed chart lead to slightly increased aircraft's accelerate-stop distance. The higher-than-V1 speed from which engine power was reduced, together with the snow-covered runway conditions, increased the aircraft's accelerate-stop distance.
+

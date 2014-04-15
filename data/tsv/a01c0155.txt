@@ -1,0 +1,37 @@
+ACA3578 had just requested direct to Marathon , and the controller did not confirm the routing on the ACA3578 flight progress strip	, the controller 's mental picture of the track of ACA3578 was eastward from Red Lake , likely replacing any previous knowledge of the flight-planned route to Sioux Lookout
+Consequently , the controller 's mental picture of the track of ACA3578 was eastward from Red Lake , likely replacing any previous knowledge of the flight-planned route to Sioux Lookout	, he assessed that ACA3578 would not conflict with NWA853 at FL370
+The controller circled the flight progress strip altitude in red but did not issue instructions to offset NWA853 from the airway	A second defence against risk of collision was
+From 2024:58 until 2026:30 , the controller was occupied with activities related to the wrong-way altitude for NWA853 and the direct routing for ACA3578	his attention was likely diverted from monitoring traffic on the IM at a time when a conflict between NWA853 and ACA3578 could have been more easily resolved
+When NWA853 requested a climb to FL370 , the controller used the PTL function to assess the situation	, he was aware of a potential conflict with ACA3578
+NWA853 requested a climb to FL370	the controller used the PTL function to assess the situation
+PTLs are based on current track and ground speed rather than a flight-planned track	the PTL for ACA3578 extended east past Red Lake , rather than southeast toward Sioux Lookout
+the controller approved a wrong-way altitude for NWA853	this defence was negated
+no second controller was performing data position duties	the controller 's workload was increased and the time available for flight monitoring was reduced
+these activities	his attention was likely diverted from monitoring traffic on the IM at a time when a conflict between NWA853 and ACA3578 could have been more easily resolved
+other defences in place , such as automated conflict alerting or a second controller working the data position	the controller 's attention was not directed back to a developing conflict
+the controller 's attention was directed back to the IM	he recognized a conflict and took measures to separate the aircraft
+The crew were not expecting a descent clearance , nor were they aware of oncoming traffic	, the controller 's issuance of a descent clearance was not compelling enough to trigger an immediate corrective response
+the independent operation of TCAS	the controller could not know when a TCAS RA would occur and also could not know that the TCAS RA would contradict instructions he issued
+each crew decided independently on their course of action , there was a chance that one crew would follow the controller 's instructions and that the other crew would follow the TCAS commands , thereby negating the defence of complementary TCAS commands and increasing the risk of collision	Because TCAS and ATC are not coordinated and
+approving	the wrong-way altitude for NWA853 and by coordinating a direct routing for ACA3578
+monitoring the flight paths of NWA853 and ACA3578	High workload reduced the time available
+the time of the occurrence	an automated conflict alerting system was not available to alert Canadian controllers of impending air traffic conflicts
+the controller did not use standard safety alert phraseology	The time that the two aircraft were exposed to a risk of collision was increased
+TCAS and air traffic control are not coordinated	Risk of collision was increased
+they were contradictory to instructions the controller had already issued	Each flight crew independently decided to disregard the TCAS resolution advisory commands
+the time of the occurrence	there was no standback supervision in the Winnipeg specialty
+PTLs are	current track and ground speed rather than a flight-planned track
+Vertical separation of aircraft travelling in opposite directions	a defence against loss of separation
+ATC MANOPS	an additional procedural defence of a red circle around the flight progress strip altitude and 5 nm track offsets when a wrong-way altitude is in use
+the controller 's workload	assistance before or at the time of the occurrence
+the controller 's workload was	and
+steps	a direct routing ACA3578
+The initial use of a descent clearance , rather than safety alert phraseology	the time needed to achieve the required spacing between the two aircraft and increased the time the two aircraft were at risk
+the time needed to achieve the required spacing between the two aircraft	the time
+TCAS operates independently of ATC	complementary RAs for each aircraft involved
+the defence of complementary TCAS commands	the risk of collision
+He	his workload by approving the wrong-way altitude for NWA853 and by coordinating a direct routing for ACA3578
+High workload	the time available for monitoring the flight paths of NWA853 and ACA3578
+The Winnipeg specialty was understaffed by two controllers	increased workload for controllers on duty
+The practice of combining radar and data positions in a sector	the opportunity to detect conflicts and take timely action to prevent losses of separation
+timely action	losses of separation

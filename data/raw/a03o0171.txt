@@ -1,0 +1,60 @@
+
+
+Analysis
+
+
+The investigation determined that the flight proceeded normally until it descended below the MDA on the approach. Apart from requesting clarification of holding instructions, communications from the pilot did not indicate any mechanical or operational difficulty. The wreckage examination revealed no indication of mechanical or electrical anomalies that would affect the flight characteristics of the aircraft. The altimeter was correctly set and altitudes had been accurately flown, except for the descent through the MDA. The horizontal flight path of the airplane was consistent with the published approach, indicating that the pilot was responding to correct approach guidance displays and that he continued to make appropriate corrections up to the loss of radar data, approximately 15 seconds before impact. There was no indication of loss of control: the aircraft struck the water in a wings-level, nose-level attitude, with its landing gear down and flaps in the approach setting, which is consistent with a normal approach. Both engines were operating and both propellers were in a normal flight range. There was no indication of incapacitation of the pilot or of any influence of his medical history.
+
+
+The investigation, therefore, focussed on CFIT and on factors that could lead the pilot to descend below MDA, apparently without being aware of the proximity of the terrain. Several factors previously identified as conducive to CFIT accidents were present before the approach began. These were as follows:
+
+
+non-precision approach; poor visibility conditions; transitions from instrument to visual flight conditions and vice-versa; IFR-rated general aviation pilot over the age of 50; and low annual flying hours and limited recent experience in actual IMC.
+
+
+The influence of the weather was examined. The weather was below what had been forecast when the flight began, and it had been significantly below the revised forecast for over two hours when N6058T arrived in the holding pattern. A new forecast was issued a few minutes before the approach was begun, but there is no indication that the pilot received that forecast. When the approach began, he was advised that the ceiling was unlimited and, although the AWOS was still reporting mile visibility, the RVR was indicating over 1 mile. The aircraft ahead had seen the runway, albeit not well enough to be able to land. The information available to the pilot was sufficient to indicate the likelihood of a successful approach.
+
+
+Based on the weather reports from the airport, the police and the aircraft ahead, conditions, particularly low visibility in fog, were localized and variable. Variable IMC/VMC existed on the approach. It is likely that N6058T transitioned in and out of cloud during the approach. The lake surface beneath the approach path was probably obscured by a surface-based layer that may have been only 50 feet thick, based on reports from the preceding aircraft. N6058T most likely entered the surface-based layer during the latter stages of the approach, after descending below MDA.
+
+
+Although weather conditions were poor, they are not cause for descending below the MDA. Instrument approach procedures, including the missed approach, are designed to provide an adequate level of safety. On this approach, the aircraft must maintain a minimum altitude of 760 feet asl until the pilot can see enough of the runway environment to permit final manoeuvring to the runway. Otherwise, a climb in accordance with the missed approach procedure must be initiated at the missed approach point.
+
+
+There were indications that the pilot may have been rushed on the approach. When he received the approach clearance he was close to the TILEL fix, at an altitude 1000 feet above the altitude cleared to for crossing the fix. He began an immediate descent, reaching an airspeed that indicated that the landing gear and flaps were still up at that time. The aircraft passed the fix at 3500 feet asl, rather than the cleared altitude of 3000 feet. Soon afterward, the pilot levelled off and the speed decreased before the descent was resumed. It is likely that the landing gear and flaps were lowered before the descent was resumed. This is a logical point at which to carry out the before landing check.
+
+
+As the aircraft resumed its descent, airspeed and rate of descent were both initially high, but then decreased until they stabilized at approximately 120 knots and 700 feet per minute, normal values for an approach, for a duration of about one minute. Had the speed and rate of descent been maintained, the aircraft would have crossed the VOKUB 5 DME fix at 1300 feet and reached MDA at 3 DME, 1 mile before the missed approach point. This would have been an ideal location to permit transition either to maneouvre for a landing if there was adequate visual reference, or to execute a missed approach if not.
+
+
+Two miles before the VOKUB 5 DME fix, the rate of descent and airspeed both began to increase. The increased rate of descent resulted in N6058T crossing the VOKUB 5 DME fix at exactly the published 1000-foot minimum altitude, descending at 1200 feet per minute, a significantly greater rate of descent than necessary to reach MDA by the 2 DME missed approach point. This rate of descent continued until impact.
+
+
+The investigation considered the possibility that the pilot interpreted the 1000 foot altitude at VOKUB as a recommended altitude, consistent with the presentation in NACO approach plates, rather than a minimum altitude in accordance with Canada Air Pilot standards, and deliberately increased the rate of descent in order to achieve it. That does not explain why the high rate of descent was continued after reaching 1000 feet at VOKUB. It is considered more likely that the pilot believed his altitude to be greater than it was and that he was unaware that he was descending through MDA.
+
+
+During the final stages of the approach, it is possible that something distracted the pilot: uncertainty as to previously incomplete before landing checks, an on-board event such as an annunciator light, or a visual illusion. A thin surface-based layer would be over 400 feet below the aircraft at MDA, giving the impression, or reinforcing an existing misperception, of the aircraft being higher than it was, especially combined with the expectation of being able to see the airport from the missed approach point. These factors, combined with a low level of instrument proficiency and other risk factors as previously stated, would erode the pilot's situational awareness, so that he was unaware of his descent through MDA. Without an altitude pre-select in the flight director, there was no independent aircraft cue to indicate descent below MDA. As a result, the pilot continued to descend in controlled flight without adequate visual reference, unaware of the proximity of terrain, until the aircraft struck the water.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+LP 077/03 - Instrument and Warning Light Examination
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+During the latter stages of a non-precision instrument approach, the pilot lost situational awareness, specifically of his altitude. As a result, he descended below the MDA and continued a controlled descent in IMC until the aircraft struck the water. Factors that contributed to the loss of situational awareness were non-precision approach, poor visibility, rushed or incomplete checks, level of instrument proficiency and visual illusion created by surface-based fog.
+
+
+
+Finding as to Risk
+
+
+Minimum altitudes on Canada Air Pilot approach plates are presented differently from minimum altitudes on U.S. FAA/NACO approach plates, which could create confusion and contribute to an unsafe approach.
+

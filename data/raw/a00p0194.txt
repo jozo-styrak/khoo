@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+Since the aeroplane was equipped with a global positioning system and the previous flight was flown on a direct course, it is likely that the accident flight leg was initiated on a direct course, taking it into the high terrain.
+
+
+Because of the time that had elapsed and the direction of flight on impact, it is likely that the pilot was trying to fly the aeroplane out of the high terrain. He may have tried to fly toward a visual flight rules route that is west of the direct track from Smithers to Dease Lake. The terrain on this direct track rises to about 7000 feet asl. With cloud layers forecast at 4000 to 6000 feet asl and visibility four miles in light snow showers, the pilot would likely have encountered instrument meteorological conditions in areas of high terrain. The pilot would have had difficulty seeing the snow-covered, treeless hillside because of the reduced visibility and the lack of distinguishing ground features. It is possible that he lost situational awareness and did not see the terrain in time to avoid it.
+
+
+The aeroplane was probably flying in a controlled manner until impact, as indicated by the normal cruise engine power setting, the contact angle of the aeroplane with the terrain, the generally straight wreckage trail, and the ejection of the two occupants ahead of the wreckage. When an aircraft is functioning normally and inadvertently flown into the ground, water, or an obstacle, the accident is termed controlled flight into terrain (CFIT). There were no indications that the aircraft was not functioning normally, and, therefore, it is most likely that this was a CFIT accident.
+
+
+Many organizations have recognized the need to educate operators and flight crew with the aim of reducing the number of CFIT accidents. Transport Canada has made a video entitled Situational Awareness: Preventing CFIT, available from Transport Canada, System Safety, offices. The US Federal Aviation Administration has also targeted education for pilots in all areas of aviation operations. An international CFIT task force has developed CFIT Education and Training Aid, available from the International Civil Aviation Organization. This aid is designed to help users develop and deliver training to prevent CFIT accidents.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aeroplane struck a hillside, probably while in controlled flight, for undetermined reasons.
+
+
+
+Findings as to Risk
+
+
+It is probable that the pilot continued visual flight in adverse weather conditions, which increased the risk of collision with terrain.
+

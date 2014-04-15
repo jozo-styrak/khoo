@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The flight crew was certified and qualified for the flight in accordance with existing regulations. The weather conditions were favourable for the flight as planned.
+
+
+During the evacuation, the main door could not be opened by the flight attendant because of the additional force required when the aircraft was leaning and the electric assist had been lost. The evacuation was orderly and was completed in a reasonable time, but not all the available exits could be used. The determination of a number of passengers to take their hand baggage with them could have had serious consequences if the evacuation had not gone so smoothly.
+
+
+Two days before the occurrence, vibrations had been reported to the company's maintenance unit. The aircraft had been returned to service after an inspection found that everything was within standards. However, the laboratory examination showed that there was excessive wear on the attachment between the lower torque link and the lower strut, and that the nitrogen pressure in the cylinder was high, so that the landing gear strut remained in the extended position for a longer time.
+
+
+On landing, the lift dumpers could not deploy quickly because the thrust levers had not been pulled sufficiently to activate the microcontacts. Late deployment of the lift dumpers and the higher landing speed are conditions which contribute to the development, the amplitude and the duration of oscillations. The extension of the landing gear strut reduced the mechanical advantage necessary for the torque links to keep the landing gear wheels in line with the aircraft's longitudinal axis. The main landing gear upper torque link therefore failed in overload, and the right main landing gear wheels separated from the aircraft.
+
+
+The following laboratory reports were completed:
+
+
+LP 76/96 - FDR/CVR Analysis LP 79/96 - MLG Linkage Examination LP 84/96 - Effect of Lengthening F-28 Torque Links
+
+
+
+Findings
+
+
+The main door of the aircraft could not be opened by the flight attendant. A number of passengers were determined to take their hand baggage when they evacuated the aircraft, and some were successful. Strong vibrations of the aircraft's main landing gear had been reported two days before the occurrence. The clearances between the upper torque link pin and the bushes in the upper torque link attachment lugs on the main fitting, between the upper torque link pin and the bushes in the upper torque link, between the lower torque link pin and the bushes in the lower torque link attachment lugs on the sliding member and between the lower torque link pin and the bushes in the lower torque link exceeded their respective in-service wear limit. The upper torque link failed in overload. Fatigue cracking of sub-critical dimensions served to locate the initiation of the overload fracture. The nitrogen pressure within the cylinder was higher than the standard. The lift dumpers were deployed late. The aircraft's actual landing speed was higher than Vref.
+

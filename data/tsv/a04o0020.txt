@@ -1,0 +1,13 @@
+When the FD command bars were hidden from view , the PF did not realize this was an indication of an autopilot mode failure , nor did he realize that the amber ALT CAP light also denoted an autopilot mode failure	he did not disconnect the autopilot
+The captain was immersed in his PNF duties and did not adequately monitor the aircraft and the PF	, he was not aware of the aircraft 's attitude and airspeed until the stick shaker activated
+The altitude capture profile was too aggressive for the energy available at the time , and the autopilot pitched the aircraft up in an attempt to fly the commanded altitude profile	, there was a decrease in airspeed
+the aircraft began the take-off run	all systems were operating normally
+During the initial climb , the PF allowed the airspeed to increase above the desired climb speed	the aircraft had ample energy to meet the ALT CAP parameters early in the initial climb phase
+the PF increased the pitch attitude to 22	the airspeed began to decrease
+climb thrust was selected	the airspeed decreased more quickly , which resulted in insufficient energy to maintain the ALT CAP capture profile
+the FD command bars were hidden from view	the PF did not realize this was an indication of an autopilot mode failure , nor did he realize that the amber ALT CAP light also denoted an autopilot mode failure
+auto systems are activated or engaged	the crew 's responsibility to continue the monitoring of aircraft systems and instruments is not diminished
+the PF	the airspeed to increase above the desired climb speed
+the PF	the pitch attitude 22
+When climb thrust was selected , the airspeed decreased more quickly	insufficient energy
+The pilot flying -LRB- PF -RRB- did not operate the aircraft as required during the initial climb after take-off	the aircraft speed reduce until stick shaker activation

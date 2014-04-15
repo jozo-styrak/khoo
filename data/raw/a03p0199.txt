@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+The aircraft was within weight and balance limits, and there was sufficient fuel on board for the flight. No mechanical malfunction was reported or found that would have resulted in engine power loss or a loss of flight control. The damage to the propeller indicates that the engine was likely developing significant power at impact. Damage to the aircraft and the length and direction of the debris trail indicate that the aircraft was in controlled flight until impact; it does not appear that the aircraft stalled before striking the ground. The absence of a post-crash fire is likely due in part to the aircraft battery being ejected from the aircraft during the breakup sequence, thus preventing an electrical spark from igniting the fuel.
+
+
+During forced-approach training over non-mountainous terrain with other Pacific Professional Visual Flight Training Ltd. instructors, the student would continue the aircraft's descent until the instructor called for an overshoot. As no briefing was given regarding the forced-approach technique to be used on the accident flight, the student conducted that forced approach in the same manner. While waiting for the instructor to call for an overshoot, the student continued the aircraft's descent to a height above ground much lower than the 500 feet agl overshoot height used during his previous forced-approach training. The exact height to which the aircraft descended before the overshoot was initiated was not determined. It is possible that the visual cues normally used to determine height above terrain were degraded because the accident site was in shadow and, unlike the surrounding areas, was not forested.
+
+
+Although the instructor's mountain flying checkout sheets indicated that following an engine failure, the aircraft should be glided down the valley toward lower terrain, the instructor did not prevent the student from gliding the aircraft up the valley toward rising terrain after the throttle was retarded to simulate an engine failure.
+
+
+The aircraft was configured for best angle of climb for the overshoot, and no mechanical problems were reported; however, the aircraft was unable to out-climb the terrain. The aircraft's climb performance was negatively affected by the high weight of the aircraft, the altitude, and the outside air temperature. Climb performance would have been degraded further by the aggressive left turn after the instructor took control. It is possible that downdrafts, caused by the cooling of air in shadowed areas and by snow on the ground at higher elevations in the mountains, negatively affected the aircraft's climb performance.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 131/03 - Terrain Shadow Analysis
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The instructor did not brief the student on forced-approach procedures and allowed the student to continue the forced approach to a height from which the aircraft could not avoid rising terrain. The aircraft was near gross weight which, combined with the effects of altitude, outside air temperature, and aggressive manoeuvring, degraded the aircraft's ability to out-climb the terrain.
+
+
+
+Other Findings
+
+
+Shadows and lack of visual cues, such as trees, in the area of the forced approach may have adversely affected the pilots' ability to estimate the aircraft's height above ground. The risk of a fuel-fed post-crash fire was significant; ejection of the aircraft's battery eliminated one potential ignition source.
+

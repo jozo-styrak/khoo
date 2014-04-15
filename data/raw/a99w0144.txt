@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+The PTL feature of the radar showed that the track lines from DLH493 and KAL257 intersected during the last recorded activation; however, the controller did not react to the situation. Given that the aircraft would not be nearing each other for 20 minutes, and his low traffic workload, the controller completed other tasks, which took his attention away from the possible conflict. When the controller noticed the aircraft in close proximity on the radar screen, he reacted.
+
+
+The radar processing system installed in the Edmonton ACC is unable to provide automated collision avoidance notification. This incident occurred in radar-controlled airspace, and such a system could have effectively alerted the controller to the risk of collision several minutes in advance.
+
+
+The NADS system did not give a warning for the potential conflict. In order for NADS to issue a conflict alert, both aircraft must be entered into the system. (It could not be verified whether both aircraft were entered into the system, as there is no ability to record and store the NADS events that are monitored.) KAL257 was flying on NCA 14; therefore, it would have been entered into NADS according to sector procedures. DLH493 would eventually have had to be entered into NADS before it left radar-controlled airspace. The loss of separation occurred well before it left the radar-controlled portion of the Bison sector.
+
+
+When the controller recognized the loss of separation, the instructions given were not effective. The DLH493 pilot queried the initial turn as it would have him turn into the traffic he saw on his TCAS display. The controller's inability to provide a timely and effective resolution to the merging aircraft resulted in the aircraft performing TCAS manoeuvres.
+
+
+During the controller's attempt to resolve the conflict, he instructed KAL257 to turn left 20 degrees. However, because of overlapping radio transmissions, the instructions and the responses from KAL257 were virtually impossible to understand by either recipient. The crew of KAL257 interpreted the instruction as a turn to the right. From a review of recorded radar data, it is apparent that a turn by KAL257 in either direction would not have materially affected the distance between the two aircraft. Although KAL257 turned right rather than left, this did not contribute to the lack of separation.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+DLH493 and KAL257 were both cleared to maintain FL330, with their flight paths crossing in the vicinity of JOWIT intersection. When using the PTL feature, the controller did not respond to the potential conflict. The controller did not recognize a conflict between KAL257 and DLH493 early enough to prevent a loss of separation.
+
+
+
+Findings as to Risk
+
+
+DLH493 was not entered into NADS, nor was it required to be entered at the time of the occurrence. NAV CANADA does not provide training in time-critical conflict resolution. The radar processing system does not have conflict alert software.
+
+
+
+Other Findings
+
+
+Staffing in the Edmonton ACC Northern High Specialty met unit standards. The traffic in the Bison sector was determined to be light, and the complexity normal. A unit supervisor was not scheduled for the shift, nor was one required by unit standards. The TCAS system in each aircraft assisted the flight crews in avoiding a potential collision. A turn by KAL257 in either direction would not have materially affected the distance between the two aircraft.
+

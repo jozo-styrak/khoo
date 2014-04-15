@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+A NOTAM is normally issued prior to removing equipment from service. This NOTAM was delayed because of an error in format and was not issued until after the loss of communication occurred. Because of the delay in issuing the NOTAM, relevant information about the scheduled removal of the frequency was not entered into the controllers' OIDS.
+
+
+When the frequency was removed from service, the warning systems worked correctly. The technical operations coordinator was immediately aware that the frequency had failed and acted directly to have it returned to service; this was accomplished in about 61 seconds.
+
+
+In this occurrence, when communications were lost, the controller was at a critical point in the vectoring procedure. Because the controller had not provided alternate instructions, he had to rely on the aircrew to recognize that a communication failure had occurred. There was no stated requirement that the controller provide alternate instructions, as the Operations Bulletin requiring this procedure had expired.
+
+
+WJA25 was not immediately aware that a communication failure had occurred. However, based on their previous experience flying into Victoria, the crew anticipated a quick turn to final. When the clearance to turn was not received, and as their aircraft approached the localizer, they were preparing to contact the controller and, if necessary, turn to establish their aircraft on the localizer. The crew's prior experience flying into the airport, and their knowledge of the local terrain provided a level of safety not present under other circumstances. Without such prior knowledge, warning about high terrain to the south of the localizer would have been dependent on the GPWS.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The controller descended the aircraft to the lower MVA before providing clearance for the ILS approach, and did not provide any alternate instructions regarding high ground south of the localizer. An active communication frequency was prematurely removed from service following a misunderstanding of a voice communication between technical staff, resulting in a loss of communications between the controller and WJA25. A previous Operations Bulletin (01-151), requiring controllers to instruct aircraft not to proceed south of the final approach course when on vectors for an ILS to Victoria's Runway 09, had lapsed four days prior to the occurrence.
+
+
+
+Other Findings
+
+
+Use of the "short gate" procedure into Victoria, as observed in this occurrence, was not in accordance with direction provided in Nav Canada's MANOPS.
+

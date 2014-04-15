@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+This accident occurred when the aircraft stalled and spun at an altitude too low to permit recovery. The spin was arrested within one turn and both occupants had their hands on the controls at impact, indicating that pilot incapacitation was not a factor. The investigation focussed on understanding the factors that, together, contributed to the aircraft stalling without the pilot taking corrective action, dropping a wing in a manner uncharacteristic of the aircraft type as certified, and entering a spin.
+
+
+There were no direct indications, such as a witness observation, of frost on the wing of the aircraft prior to the occurrence. It is not known if the pilot observed any frost and if so what he did to remove it. The recent NTSB safety advisory notes that "almost imperceptible" amounts of frost can have a catastrophic effect on aerodynamic performance. It also acknowledges that there are circumstances that make it difficult to perceive the presence of contamination, and it offers an insight into pilots discounting the significance of amounts of frost that are much less than they have seen accumulated in flight on aircraft that subsequently landed without apparent difficulty.
+
+
+In this occurrence, there is nothing to indicate that the pilot did not carry out a normal pre-flight inspection, nor to indicate that he did not remove surface contamination before flight. If the pilot used the available broom to remove frost, it is possible that some amount of frost residue remained on the aircraft, since a broom is not likely to remove all frost adhering to the metal surface. It also cannot be ruled out that frost was present but undetected on some parts of the wing despite the pre-flight inspection.
+
+
+Frost contamination of the wing upper surface would cause the loss of approximately 19% of maximum lift coefficient, which would result in the stall speed in the turn being approximately 67 KIAS rather than 60 KIAS. Increased drag caused by frost contamination would result in a reduced rate of climb, explaining why the aircraft reached 200 to 300 feet when calculations show the aircraft should have reached 400 to 500 feet agl. The aircraft's stall warning system, with an audio and visual warning, should have activated 5-10 knots above the normal stall speed. As the pilots apparently did not react to recover from a stall warning and impending stall, it could be surmised that the stall warning did not activate before the aircraft stalled, indicating that the aircraft stalled before its speed reduced to 65-70 KIAS. Frost on the wings would result in a higher than normal stall speed and also inhibit normal impending stall indications such as buffet. When the aircraft stalled, it entered a spin, uncharacteristic of this airplane. Frost on the wings would explain the loss of control and abnormal after-stall characteristics of the aircraft. There had been frost during the previous night, and although no one apparently saw frost on the aircraft lifting surfaces before or after the accident, there is no plausible condition other than frost contamination that would explain this accident. It is therefore concluded that there was frost on the aircraft's lifting surfaces when the aircraft took off.
+
+
+The normal climb speed for the aircraft was 70 to 80 KIAS; therefore, factors that likely contributed to the aircraft slowing down were examined. During the turn, the aircraft experienced a tail wind that was increasing with height, resulting in a negative performance wind shear, which tended to reduce the airspeed. The presence of frost on the wing would create greater than normal drag and contribute to the aircraft slowing and not gaining as much height as predicted by the POH. The aircraft height was lower than normal for a turn after take-off, and, as a result of the turn to downwind, there may have been an illusion of increasing speed that masked a decrease in airspeed.
+
+
+The higher angle of attack required to produce lift with a contaminated wing would result in the pitch attitude being similar to that of a normal climb, further masking the perception of performance loss. Reduced longitudinal stability due to frost on the wing would reduce the nose-down pitch tendency normally associated with reducing airspeed, removing a further cue to the pilot. If 10 of flap was used for take-off in accordance with the POH, flap retraction would create a nose-up pitching moment and reduce the margin to the stall. Each of these factors by itself is minor, but they are all negative in their influence on the speed of the aircraft and on the pilot's ability to discern a speed reduction. Together, the factors contributed to the aircraft speed decreasing, unnoticed, to the point of stall.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+There was frost contamination on the upper surface of the wing that was either undetected or incompletely removed, degrading the aerodynamic performance of the wing, resulting in a stall without warning, at higher-than-normal airspeed. The combined effects of illusion of higher than actual airspeed during a low-altitude turn to downwind and reduced longitudinal stability due to frost on the wing negated usual cues that would alert the pilot to the slow speed. As a result, the pilot was likely unaware that the aircraft was slowing down. The aircraft stalled and entered a spin at a height too low to permit recovery.
+

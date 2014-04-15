@@ -1,0 +1,35 @@
+Task 3010/08 was not a complex job : there were no pressing time constraints , and complete manufacturer 's instructions on how to locate , access and test the relevant components were available to the AMEs involved	, this analysis will focus on the human factors that led to the aircraft being dispatched with an unsecured leading edge and without the heating elements in the right wing leading edge being inspected
+The apprentice AME had not been assigned to work on the aircraft but volunteered to help	of coming into the middle of the job was that he did not take ownership of the job
+Instead of accepting this as a new job with new responsibilities , he added these new responsibilities to those that he had already	, he was trying to do two jobs simultaneously : maintaining the aircraft and supervising a crew of AMEs
+These maintenance tasks are not identified in Canadian Aviation Regulations as legally requiring an independent inspection , and in amalgamating the tasks into a single line on the OPT-3 task card , the company dropped the requirement for the inspector 's signature	one opportunity to identify that the leading-edge screws were missing before the aircraft went flying was lost
+The contrast provided by the bare aluminum of the leading-edge structure is similar to that of an unpainted screw	, unless someone , an AME or pilot , is looking specifically for the screws , it would not be obvious that the screws had not been installed
+access and test the relevant components were available to the AMEs involved	locate
+he was unfamiliar with the task and he wanted the experience	AME 1 picked task 3010/08
+coming into the middle of the job	he did not take ownership of the job
+supporting	the leading-edge section while AME 1 performed the heater tests
+the existing sealant had not been cut cleanly	He felt that this was required
+The screws for the bottom of the leading edge had not been set aside in an obvious location	, there was no reminder that the bottom of the leading edge had not been secured
+he completed the sealing of the top of the wing	he began to move the stand and tools to the right wing
+obtaining and helping to apply the sealant	but he did not take an ownership role in any part of the project
+he had only eight months with the company	It was not often offered to this individual
+the end of the shift	the crew chief was reviewing the paper work and realized that task 3010/08 had not been signed off
+AME 3 arrived on the night shift	he noted that task 3010/08 had been signed as having been completed
+this change	one opportunity to identify that the leading-edge screws were missing before the aircraft went flying was lost
+communicating the status of work at the shift turnover	The company did not have a specific procedure
+AME 1 left the right wing after removing the screws	he took the screws with him and did not mark the area as having been partially disassembled
+Therefore , this analysis will focus on the human factors	the aircraft being dispatched with an unsecured leading edge and without the heating elements in the right wing leading edge being inspected
+wing	edge
+wing	edge
+wing	edge
+wing	edge
+wing	edge
+wing	edge
+The position of crew chief was reassigned	seniority
+the maintenance supervisor	authority undercut
+This meant that the crew chief had no input into the assignment of individual tasks to the AMEs	it difficult for the crew chief to supervise the work as it progressed
+wing	edge
+The lack of communication between all of the individuals involved , particularly at the shift turnover point	this
+the bare aluminum of the leading-edge structure	contrast
+additional people on site who were not required for the job caused a distraction to those doing the work	false assumptions that individuals had completed work that was , in fact , unfinished
+additional people on site who were not required for the job	a distraction those doing the work
+There was no supervisory training	the position of crew chief

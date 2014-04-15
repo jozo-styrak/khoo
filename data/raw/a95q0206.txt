@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+Contrary to company procedures of the air carrier and of the company handling ground operations, the GPU vehicle was not removed from beneath the aircraft prior to engine start-up; it was left near the aircraft so that the ground handler in charge of communications could use it to transport the wheel chocks and himself away from the aircraft after engine start-up and the completion of the aircraft ground checks. Prior to the engine start-up sequence, the ground handler in charge of communications with the crew told the pilots that the aircraft was clear; the crew was, therefore, unaware that the GPU vehicle remained beneath the aircraft. The flight crew members were also unaware that a problem existed with the intercom trap door; they believed that the aircraft was ready to taxi.
+
+
+The non-standard phraseology used in the taxi clearance interrupted the flight crew's normal ground operation sequence and check-list, and distracted them. The total elapsed time from the crew's acceptance of the taxi clearance to the actual taxiing of the aircraft was longer than normal; therefore, the co-pilot anticipated a "proceed" signal because he assumed that the aircraft was clear and that everything would be in place for the aircraft to advance.
+
+
+Because of the open ramp concept, the signalman was situated approximately at the three o'clock position relative to the co-pilot, rather than in front of the aircraft. This position is at the limit of the co-pilot's peripheral vision when he is looking forward; it therefore becomes more difficult to notice the signalman and any signal changes he might make.
+
+
+The co-pilot stated that he saw the signalman's closed right hand positioned against his shoulder; the signalman seemed to be talking on the walkie-talkie. The co-pilot interpreted this signal as the signal to proceed.
+
+
+The signalman stated that he did not make eye contact with the co-pilot and that he held his hands in the signal to stop during the entire ground operation. Due to the conflicting statements of the signalman and the co-pilot, the position of the signalman's hands could not be determined. Given that the signalman's fluorescent gloves were dirty and faded, they may not have been as conspicuous as necessary.
+
+
+After hearing the engine spool up, the ground handler under the aircraft attempted to drive the GPU vehicle clear of the aircraft, but the vehicle stalled.
+
+
+No recent internal company audit had been performed to ensure that ground personnel were conforming to procedures, or to verify the state of wear of safety equipment used during ground operations.
+
+
+
+Findings
+
+
+The GPU vehicle was not removed from within the aircraft's safety perimeter after it was disconnected. The procedures used at Mirabel by the company handling ground operations are different from the procedures at other airports. The ground handler in charge of communications with the crew told the pilot that the aircraft was clear and was ready for engine start. The communications ground handler disconnected his intercom before all staff and equipment were clear of the aircraft. The flight crew members did not see the aircraft maintenance engineer approach the aircraft with his vehicle, and they were unaware of the intercom panel problem. The total elapsed time from the crew's acceptance of the taxi clearance to the actual taxiing of the aircraft was longer than normal; this led the co-pilot to anticipate that he would receive the "clear to proceed" signal from the signalman. The co-pilot interpreted the signalman's hand signal as a signal to proceed. The signalman's fluorescent gloves were dirty and faded, and may not have been as conspicuous as necessary. The GPU vehicle stalled when the ground handler attempted to drive it away from under the aircraft. The aircraft struck the GPU vehicle with its right main wing landing gear and pushed it approximately three feet. No internal audit of the company handling ground operations had been performed recently.
+

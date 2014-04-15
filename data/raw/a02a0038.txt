@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The left drift continued after touchdown despite both rudder and nosewheel steering inputs. The ineffectiveness of these inputs is indicative of poor runway friction characteristics at landing. The CRFI for Runway 05 had been measured 20 minutes prior to the landing and was reported to the crew 10 minutes before touchdown. Given this relatively short time, the crew would not expect there would be a significant change to the friction characteristics and consequently relied on the RSC/CRFI report to establish the suitability of Runway 05 for landing and the requirement for snow removal.
+
+
+Although the runways were equally contaminated, the pre-arrival CRFI readings for the two runways were substantially different: 0.52 for Runway 05/23; 0.23 for Runway 14/32. When snow falls onto a surface that is just above the freezing point, it melts and turns into slush. Subsequent snowfall, landing on a now-cooled surface, remains as snow. Runway 05 was visibly snow covered when the CRFI was taken. Melting under the snow cover on this runway either was not detectable at the time of the CRFI run, or happened mostly after the measurement was taken. In either case, the CRFI was considered valid when the measurement was taken, but was not an accurate indication of the runway's friction characteristics at the time of landing. The low CRFI value on Runway 14/32 suggests that a substantial amount of melting was occurring under the snow cover when the CRFI reading was taken. Subsequent sweeping of the runways uncovered the layer of slush that had formed under the snow layer.
+
+
+The significance of the discrepancy in the CRFIs was not recognized by ground personnel. Consequently, there was no re-assessment of the validity of the Runway 05 CRFI measurement. The RSC for Runway 14/32 was not provided to the crew. It is not known if the provision of this information would have altered their decision to land or require runway cleaning. However, the CRFI and weather information provided to the crew did not suggest that melting was taking place on the airfield or on the landing runway surface. It would seem appropriate that all available RSC information be assessed to ensure that the information provided to arriving crews is valid. Likewise, in situations where runway surface conditions are changing rapidly in temperatures near the freezing point, or where a subsequent CRFI reading on an adjacent surface indicates a significant change in stopping performance, the validity period of RSC/CRFI reports should be restricted.
+
+
+The CRFI equivalence chart does not indicate a value for runways that are contaminated with slush, and crews have no means of readily assessing the effects of slush on an aircraft's stopping performance. Had the presence of slush been known, the crew would still have been unable to assess its effect on the runway surface characteristics.
+
+
+As the landing runway CRFI indicated good friction characteristics, the crew was not expecting slippery conditions, and the use of available snow removal equipment was not considered necessary by the crew. The actual runway friction available at touchdown was well below the value reported, and was likely nearer the 0.23 value of Runway 14/32. This value is below the recommended minimum CRFI value for the crosswind. As a result, the aircraft began to drift and yaw uncontrollably after touchdown. Given the differences in RSC reports on the two runways, increased emphasis on the removal of contaminants as rapidly and completely as possible should have received the highest priority.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The poor friction characteristics of the runway, due to slush contamination, did not allow the crew to correct the aircraft's ground track after touchdown and the aircraft slid off the side of the runway.
+
+
+
+Findings as to Risk
+
+
+The significance of the discrepancy in the Canadian Runway Friction Index (CRFI) values between the two runways was not recognized by ground personnel; consequently, there was no re-assessment of the validity of the Runway 05 CRFI measurement. The reported CRFI value of Runway 05 was considered valid at the time it was taken; however, it was not accurate for the time of landing and the crew did not ask for an update. The crew's decisions to forgo runway clearing and proceed to land was based on RSC/CRFI information that became invalid shortly after it was measured. Crews have no means of readily assessing the effects of slush on a runway's friction characteristics.
+

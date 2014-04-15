@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+When the aircraft began the take-off run, all systems were operating normally. During the initial climb, the PF allowed the airspeed to increase above the desired climb speed, and thus the aircraft had ample energy to meet the ALT CAP parameters early in the initial climb phase. When the PF increased the pitch attitude to 22 , the airspeed began to decrease. When climb thrust was selected, the airspeed decreased more quickly, which resulted in insufficient energy to maintain the ALT CAP capture profile. The autopilot pitched the aircraft up to 29.5 in an attempt to maintain the ALT CAP profile and, as a result, the airspeed decreased further. This attitude was maintained until the stick shaker activated and the flight crew took recovery action.
+
+
+During the initial climb after take-off, the FD command bars were reset to match the aircraft's current pitch attitude when the FLCH selection was made, not when the command centre autopilot was engaged. When the FD command bars were hidden from view, the PF did not realize this was an indication of an autopilot mode failure, nor did he realize that the amber ALT CAP light also denoted an autopilot mode failure. Thus he did not disconnect the autopilot. It was not determined why the flight crew did not respond to the remaining mode fail protection warnings: the autopilot amber light, a master caution light and the aural warning.
+
+
+While the autopilot was engaged, the PF focussed his attention on the engine gauges. He did not effectively scan the aircraft flight instruments and, as a result, did not observe the aircraft performance degrade until the aircraft approached the near stall condition. There was nothing found to indicate that the autopilot did not operate as designed during this occurrence; it was trying to do what the PF requested of it.
+
+
+The captain was immersed in his PNF duties and did not adequately monitor the aircraft and the PF. As a result, he was not aware of the aircraft's attitude and airspeed until the stick shaker activated.
+
+
+When auto systems are activated or engaged, the crew's responsibility to continue the monitoring of aircraft systems and instruments is not diminished. In this occurrence, both crew members relied too heavily on automation.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The altitude capture profile was too aggressive for the energy available at the time, and the autopilot pitched the aircraft up in an attempt to fly the commanded altitude profile. As a result, there was a decrease in airspeed. The pilot flying (PF) did not operate the aircraft as required during the initial climb after take-off, which allowed the aircraft speed to reduce until stick shaker activation. The PF focussed his attention on monitoring the engine gauges and ceased to effectively scan the flight instruments once the autopilot was engaged. The PF did not understand the flight director and autopilot mode failure indications presented to him and, as a result, he continued to operate the aircraft with the autopilot engaged. The captain did not adequately monitor the aircraft or the PF following the take-off phase, and he was not aware of the excessive pitch attitude or the decrease in airspeed until the stick shaker activated. The flight crew did not respond to the visual and aural warnings: an excessive angle of attack, the FD command bars disappearing, the ALT CAP indication changing from green to amber, the autopilot amber light illuminating, a master caution light illuminating and the aural warning sounding.
+
+
+
+Other Finding
+
+
+The autopilot was functioning as designed during the occurrence.
+

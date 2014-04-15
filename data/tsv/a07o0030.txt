@@ -1,0 +1,18 @@
+Without a detailed prefight briefing , the pilot might not have been fully aware of what to expect during this maintenance test flight	of not reviewing the autorotational RPM adjustment procedure prior to the flight included not having enough altitude to properly conduct the test and not being aware that , at its current weight , the target rotor RPM was above the main rotor RPM red line
+Weather conditions would not have affected the performance of the helicopter	, the analysis will concentrate on the procedures and actions related to the autorotation
+checking the autorotational RPM , though it was not reviewed before the flight and was not being followed	There is a specific procedure in the maintenance manual
+a detailed prefight briefing	the pilot might not have been fully aware of what to expect during this maintenance test flight
+not reviewing the autorotational RPM adjustment procedure prior to the flight included not having enough altitude to properly conduct the test and not being aware	, at its current weight , the target rotor RPM was above the main rotor RPM red line
+some point during the autorotation	the pilot allowed the rotor RPM to drop to approximately 80 per cent
+incorrect	technique when initiating the autorotation or it could have resulted from a failure to continually monitor the RPM throughout the autorotation
+the pilot rolled the throttle off before fully lowering the collective	there be a sudden drop in rotor RPM
+the standard reaction would be to immediately lower the collective	However , the warning horn may have been activated for a very short time
+the main rotor blade pitch was correct	the relatively high gross weight of the helicopter tend to overspeed the rotor system as the pilot entered the autorotation -LRB- approximately 2.5 per cent -RRB-
+he noticed an excessively high rotor RPM	the normal reaction to prevent the rotor from overspeeding be to increase collective , which in turn would increase the blade pitch angle and slow the rotor RPM
+the main rotor blade pitch was excessively coarse	the rotor system tend to slow down as soon as the pilot initiated the autorotation
+the helicopter struck the ground	the rotor tachometer was indicating 98 per cent
+Weather conditions	the performance of the helicopter
+the pilot	the rotor RPM to drop to approximately 80 per cent
+reaction	the rotor overspeeding would be to increase collective , which in turn would increase the blade pitch angle and slow the rotor RPM
+in turn	the blade pitch angle
+the blade pitch angle	the rotor RPM

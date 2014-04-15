@@ -1,0 +1,17 @@
+
+
+Analysis
+
+
+While both the incident pilots had seen and experienced the 70 KIAS Loran step-descent approach in the S-76, they had not experienced an ILS approach at that same airspeed. The most significant difference between the approach profiles is that the ILS is a descending flight path; the missed approach, therefore, is a constant-speed transition from descending flight to climbing flight. Aggravating the pilot's workload was the significant torque-related force turning the helicopter to the right as a result of the increase in collective pitch to begin the climb.
+
+
+It is most likely that the pilot began to lose situational awareness as a result of his unfamiliarity with the low speed ILS approach profile. A combination of the high rate of descent, low airspeed, large power application, and significant nose attitude change led to aircraft handling characteristics that the pilots had not previously experienced. As a result, when the instrument scan of the pilot-flying broke down, he lost directional control and the helicopter turned right. The turn itself was not detected by either of the pilots, most likely because the effect was masked by other attitude changes and the lack of external visual references. The delay in the captain's detection of the heading error resulted from his preoccupation with the missed approach vital actions, and his having to talk the pilot-flying through the missed approach and recovery of his instrument scan.
+
+
+
+Findings
+
+
+The pilot-flying lost situational awareness and unknowingly allowed the helicopter to turn 100 degrees away from the published missed approach procedure heading. The helicopter continued on the incorrect missed approach heading for about 30 seconds, until the captain realized the error and issued recovery instructions to the pilot-flying. The incident pilots had not previously flown ILS approaches at low airspeeds of about 70 knots. The operator had not included practice flying ILS approaches at low speed during in-flight training.
+

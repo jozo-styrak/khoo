@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+Before take-off from the Trois-Rivi res Airport, the student pilot did not select the transponder to the "ALT" position. The student pilot's lack of experience most likely contributed to this omission. Without a functioning transponder, C-GYQB's radar position symbol was much less visible on the controller's RSiT, and no code or automatically reported altitude information was available. A similar lack of experience may have contributed to the student pilot not querying the controller to confirm that the aircraft had or had not been radar identified. As a result, C-GYQB continued flight toward the Qu bec Airport without being provided a radar advisory service.
+
+
+On initial contact with C-GYQB, the Qu bec terminal controller did not request any information to determine the aircraft's position, altitude or aircraft type. After issuing a transponder code to C-GYQB, the Qu bec terminal controller's attention was directed to controlling his inbound IFR traffic and to coordinating the arrival sequence with the tower. He did not associate a primary radar position symbol tracking toward the Qu bec VOR (very high frequency omnidirectional range) with C-GYQB. The Qu bec terminal controller forgot about C-GYQB, and as a result, he was unable to provide the required level of radar service to MAL7069 until the two aircraft had flown to within 2 nm of each other at the same altitude. Although traffic information about an unknown aircraft was passed to MAL7069, there was insufficient time for the pilot to locate the traffic visually and take evasive action. The Qu bec terminal controller's fortuitous timing of a clearance to MAL7069 to climb to 5000 feet moments before the two aircraft passed reduced the risk of a mid-air collision.
+
+
+The RSiT software programming caused the flight plan data entry window to automatically close 30 seconds after the last keystroke, even though the Qu bec terminal controller had entered some information. Once the window closed, it could no longer serve as a reminder to the Qu bec terminal controller that further action with respect to C-GYQB. was necessary. Had the window remained active on the RSiT display, it may have prompted the Qu bec terminal controller to remember that further action was still required with C-GYQB., that is to radar identify this aircraft. It was not until after the two aircraft passed each other that the Qu bec terminal controller remembered that he had been contacted by C-GYQB.. The extra coordination with the Qu bec tower regarding the integration of VFR and IFR arrivals to Runway 30 increased the Qu bec terminal controller's work level. This limited the time available to scan the RSiT display and as a result the controller did not notice C-GYQB.'s radar position symbol on the RSiT or the flight data strip he had placed on the console in front of him.
+
+
+The potential defences against forgetting about C-GYQB., the primary radar position symbol and the flight data strip did not serve as a reminder that further action with respect to this aircraft was still pending. The automatic disappearance from the RSiT display of the flight plan window, although not primarily designed as a reminder, could no longer remind the controller of unfinished action with respect to C-GYQB.. The Qu bec terminal controller relied on the data tag information on the radar display to provide the necessary information to develop his traffic picture.
+
+
+The regulations and procedures for operating in Class D transponder airspace provide a level of protection against mid-air collisions. When providing a radar service in Class D airspace, controllers are responsible for providing traffic information to all aircraft under their control. This is made easier if all aircraft flying in the airspace are known or readily identifiable, that is the aircraft has a functioning transponder with altitude encoding capability. In a radar environment, pilots may expect to receive information on all aircraft in their vicinity and may not actively search for conflicting traffic, irrespective of the class of airspace. However, pilots of both VFR and IFR aircraft, when operating in VMC, also have the responsibility to search for conflicting traffic and take action to avoid a collision. In this incident, there was a breakdown in aircraft equipment operating procedures, scanning (both pilot and controller) and diversion of attention, which resulted in a near collision between two aircraft.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The student pilot did not complete the entire "Line-up" portion of the aircraft checklist and omitted to turn the transponder to the altitude encoding position "ALT." Under these conditions, the transponder did not transmit information to the radar system, making the aircraft much less visible on the controller's radar situation display (RSiT). The Qu bec terminal controller did not radar identify C-GYQB. after issuing the transponder code, or request other information to determine the aircraft's position or altitude. As a result, C-GYQB. was allowed to penetrate Class D airspace without the required level of radar service being provided. This placed C-GYQB. at a risk of collision with MAL7069. The Qu bec terminal controller's attention was directed to controlling his instrument flight rules (IFR) traffic inbound to the Qu bec Airport and to coordinating the arrival sequence with the tower. He forgot about C-GYQB. and did not notice the developing conflict between this aircraft and MAL7069.
+
+
+
+Findings as to Risk
+
+
+The RSiT software programming caused the flight plan data entry window to automatically close 30 seconds after the last keystroke. Once the window closed, it could no longer serve as a reminder to the Qu bec terminal controller that he still had some further action pending. In a radar environment, while in contact with air traffic services, pilots may expect to receive information on all aircraft in their vicinity and, when operating in visual meteorological conditions, may not search for conflicting traffic and take action to avoid a collision.
+

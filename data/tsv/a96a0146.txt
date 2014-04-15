@@ -1,0 +1,11 @@
+there was no electrical short to ground , which would also explain the absence of an EICAS warning pertaining to the window heat system	The circuit breaker for the windshield heat did not trip
+the extensive damage	the origin of the failure could not be isolated
+the solder	the braid to completely detach from the block
+The high temperatures associated with arcing -LRB- thousands of degrees Centigrade -RRB-	the cratering of the inner glass ply
+sufficient thermal stresses	the glass windshield
+nicking of the copper braid during construction of the window	the copper strands flex sufficiently to initiate separation and allow electrical arcing to occur
+separation	electrical arcing
+An electrical failure under the J5 terminal block mounted on the right front window	arcing
+The arcing caused cratering and localized melting of the inner glass ply	the cracking of the inner ply and the combustion of the epoxy terminal block , creating smoke
+The arcing caused cratering and localized melting of the inner glass ply , which eventually led to the cracking of the inner ply and the combustion of the epoxy terminal block	smoke
+The arcing	cratering and localized melting of the inner glass ply , which eventually led to the cracking of the inner ply and the combustion of the epoxy terminal block

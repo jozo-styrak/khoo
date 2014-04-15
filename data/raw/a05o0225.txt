@@ -1,0 +1,34 @@
+
+
+Analysis
+
+
+It was determined that the aircraft was likely within the weight and centre of gravity limits at the time of the flight, the aircraft systems were functioning correctly, and the engines were producing the requested power during the take-off. This analysis will therefore focus on operational and human factors associated with the two-crew operation and the night-time take-off.
+
+
+During his time at Wabusk Air, the captain had flown mostly single-pilot VFR flights and, therefore, had had little opportunity to use the two-crew SOPs. Rather than follow unfamiliar SOPs, he elected to retract the landing gear and set climb power himself, as he would have done during a single-pilot operation. It could not be determined if the captain commanded the PNF to retract the flaps or if the PNF performed this task without prompting. In any case, the flaps were retracted below the 400 feet agl specified in the SOPs. While raising the landing gear and setting climb power, the flight crew's attention was focused on secondary controls, the engine instruments, and the airspeed, instead of on the aircraft attitude. As a result, the aircraft developed an undetected sink rate and struck the ground.
+
+
+Under the prevailing night conditions and with restricted outside visual references, a somatogravic illusion could have caused the pilot to erroneously perceive an increase in the aircraft pitch attitude. While the pilot's attention was diverted from the attitude indicator during gear and power selection, the aircraft entered a descent and struck the ground.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The flight crew did not follow the Wabusk Air standard operating procedures and ensure that a positive rate of climb was maintained after take-off. The aircraft developed an undetected sink rate and struck the ground. During the night visual flight rules departure into "black hole" conditions, the flight crew likely experienced a somatogravic illusion, giving them a false climb sensation. This likely contributed to the captain allowing the aircraft to descend into the ground.
+
+
+
+Findings as to Risk
+
+
+Wabusk Air was using a maximum take-off weight of 6840 pounds, when the actual maximum take-off weight was 6730 pounds. Tie-down rings and cargo restraints were not installed in the aircraft. The baggage that was loaded inside the aircraft was not secured, resulting in it being strewn about the rear of the cabin during the crash sequence. A pre-flight passenger briefing was not conducted, and the passengers were unfamiliar with the operation of the aircraft exit.
+
+
+
+Other Findings
+
+
+A scale was carried on board the aircraft but was not used. Because the flight crew estimated the baggage weight, the actual weight of the baggage was undetermined. The total weight of the passengers, using self-reported weights, exceeded the standard weights by approximately 135 pounds. The maximum take-off weight of the aircraft was incorrectly documented during two Transport Canada audits.
+

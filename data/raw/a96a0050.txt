@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+Since it was still snowing, runway contamination at touchdown would have been greater than reported in the RSC that was passed to the flight crew. The runway 15 RVR was 6,000 feet and would have allowed the flight crew to see the departure end runway lighting at touchdown.
+
+
+Braking effectiveness was reduced because of the slippery runway surface condition. Also, the aircraft's proximity to the end of the runway during deceleration would have resulted in the crew continuing to use a high reverse thrust setting at a speed below that recommended by Canadair. The combination of the left crosswind, the slippery runway surface condition, and the high reverse thrust at low speed resulted in the aircraft weathercocking left into the wind. Since the engines had not spooled down to idle reverse before the reversers were stowed, the resultant forward thrust was sufficient to arrest the deceleration and result in the runway excursion.
+
+
+When reverse thrust was reselected, the idle reverse thrust on the left engine contributed to the increased rate of turn of the aircraft heading to the left. Also, with braking maintained after the veer, tire cornering forces were negligible. If the brakes had been released, the increased tire cornering forces could have helped to counteract the veer and maintain the aircraft on the runway. The rudder would have been ineffective at the low forward speed. After the aircraft yawed left during deceleration, the PF moved the thrust reverse levers to idle reverse; however, in his haste to accomplish this, he pushed the levers past idle reverse and unintentionally stowed the thrust reversers. Had the engines spooled down to idle before the reversers were stowed, the aircraft might have stopped on the runway.
+
+
+The flight simulator landings did not result in the aircraft going left as the occurrence aircraft did. However, after the veer to the left, reverse thrust was reduced to idle reverse and transition to forward thrust was not simulated.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+The TSB Engineering Branch and the aircraft manufacturer, Canadair, have each produced a computer animation tape of the runway excursion, available on request from the TSB.
+
+
+
+Findings
+
+
+On landing, the PF was unable to maintain directional control of the aircraft at low speed. The loss of directional control was initiated by the left crosswind and the slippery runway surface condition. The engines had not spooled down to idle before the reversers were stowed. As a result, the transition to forward thrust arrested the aircraft's deceleration. The runway surface condition and crosswind component did not exceed the landing limitations. The pilot maintained braking after the weathercock. This minimized the tire cornering forces available to counteract the veer. The rudder was ineffective in counteracting the veer due to the aircraft's low forward airspeed.
+

@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+The controllers did not apply standard procedures in the Gander high west domestic sector. As a result, the controller who took over the consolidated sector 'A/C' did not have an accurate mental picture of the traffic situation. Neither controller referred to the checklist before or during the handover briefing, nor were they in the habit of doing so. Consequently, critical information regarding the altitude and converging flight paths of the two flights was not specifically mentioned. Handover briefing checklists were available at each control position; however, the prevailing culture among controllers has been to avoid the use of checklists because it was felt that the checklists are either too long, not always applicable in particular situations, or not required during low traffic levels.
+
+
+The lack of an accurate handover briefing alone should not result in a risk of collision between two aircraft, but it set the stage for this risk of collision. The other defences that should have been present, such as special markings on FPSs, were not used by the controllers. The sector 'A/C' controller did not conduct a detailed flight progress board check after taking over responsibility for the position. A detailed examination of the radar tracks of the two aircraft and/or a comparison of the route and altitude as printed on the FPS might have alerted the controller that action was required on his part to ensure COA18 and IBE6283 would be provided with the required separation. The sector 'C' controller did not remain behind after completion of the handover briefing to observe. He thus missed the opportunity to inform the sector 'A/C' controller of the impending conflict. The relieving sector 'A/C' controller's decision to unplug the relieved controller's headset at the time of the handover might have confirmed in the relieved controller's mind that the traffic situation was fully understood and that there was no need to remain behind to monitor.
+
+
+The combination of low traffic levels and the lack of information from the handover briefing likely lulled the sector 'A/C' controller into thinking that everything was proceeding without problem. As a result, the controller felt comfortable setting up the RSiT display rather than conducting a detailed review of the FPS and the status of the aircraft under his control.
+
+
+Written procedures have been developed for marking FPSs to assist the controller in maintaining situational awareness of the traffic situation and to ensure action is taken to maintain the required minimum separation between aircraft. In a radar environment such as in the Gander ACC high west area, controllers concentrate on the radar display and rely much less on information contained on FPSs to detect conflicts. As a result, FPS marking may be seen as less important for detecting conflicts than observing information displayed on the radar. However, unlike FPS marking, memory aids are not standardized on the radar display. Controllers can and have developed personal work practices for highlighting conflicts on the RSiT displays. These unstandardized practices reduce the likelihood that one controller will notice a problem highlighted by another controller. Had standards been in place to mark radar-displayed aircraft in specific ways to highlight conflicts or indicate wrong-way altitudes, the sector 'A/C' controller might have noticed the conflict in time to take appropriate corrective action.
+
+
+Neither aircrew advised the controller that the evasive manoeuvres were in response to a TCAS RA until after the aircraft had passed each other and were no longer conflicting. As a result, the controller was caught completely by surprise. He would have been completely unprepared to offer additional instructions to the aircraft had they been required; for example, he would have been unable to provide additional traffic information on other aircraft in the vicinity. The method employed by the crew to notify ATC of avoidance action was likely not a factor in this occurrence because of the short notice of the conflicting traffic. The use of consistent and clear phraseology, including key words such as TCAS, would allow controllers to recognize the problem more quickly and be in a better position to offer appropriate assistance.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+During the position handover process, the controller being relieved did not brief the relieving controller that two aircraft were at the same altitude on reciprocal tracks. The incomplete briefing resulted in incomplete situational awareness on the part of the relieving controller. The controller being relieved had not marked the flight progress strip (FPS) in accordance with published procedures, thereby reducing the possibility that the conflict would be detected from a scan of the FPSs. The relieving controller did not adequately scan the FPSs for air traffic in the sector for which he was assuming control and did not detect the conflict. The relieving controller did not adequately scan the radar display after assuming control of the new combined sector and did not detect the conflict.
+
+
+
+Findings as to Risk
+
+
+The change in altitude for COA18 from flight level 330 to flight level 350, which is normally inappropriate for the direction of flight, was not passed by the Moncton Area Control Centre controller to the Gander Area Control Centre controller before handing off the aircraft. Although controllers, in accordance with a provision in the Gander/Moncton Agreement, are not required to pass altitude changes prior to the handoff, passing the information would allow the receiving controller more time to develop a separation plan. The controllers did not refer to the available transfer-of-position-responsibility checklist during the handover briefing. Nav Canada procedures do not require controllers to reference the checklist during the handover briefing. Nav Canada has not developed standards for highlighting a radar target on the radar situational display to indicate potential conflicts requiring control action to resolve. Nav Canada radar situational displays are not equipped with conflict-alert software. The controller being relieved handed over a control sector in which a potential conflict existed and did not remain behind after the handover to assist the relieving controller in becoming familiar with the traffic situation.
+
+
+
+Other Findings
+
+
+The aircrew of COA18 and IBE6283 did not state, when initially communicating with the controller, that the reason for evasive action was a traffic alert and collision-avoidance system resolution advisory. As a result, the controller was not able to respond effectively and would not have been able to provide additional traffic information had it been required.
+

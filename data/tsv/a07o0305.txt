@@ -1,0 +1,32 @@
+controller was monitoring five aircraft at the time , none of which could be viewed as being of much lower priority	Monitoring by air traffic controllers provides another level of defence against incursions
+Whether configured for good or poor visibility , the RIMCAS warning comes only after an incursion has taken place	, as presently configured , RIMCAS can only assist in mitigating the consequences by defending against the collision that might follow
+Both crew members of Learjet N70AX were unfamiliar with the Toronto / Lester B. Pearson International Airport and did not correctly perceive their position on the field	, they did not hold short of the runway as instructed by air traffic control -LRB- ATC -RRB- and unintentionally proceeded onto the runway into the path of a landing aeroplane
+the crew would be at the limit of their crew day by the time they reached home base -RRB-	the incursion occurred while taxiing out ; only one crew member was monitoring the taxi route and compliance with the instruction ; distraction by the before-take-off checklists ; night lighting conditions ; fatigue associated with the third leg of the day at the 12-hour point of the crew duty day ; and operational pressure -LRB- self-imposed
+these would overcome the pilot 's misconception of his position	Additional indications of the holding point , such as illuminated stop bars or enhanced taxiway markings system , be provided ; however , it is uncertain
+this measure is intended to avoid coordination errors between controllers	It is also inconclusive whether putting the taxiing aeroplane on the same frequency as aircraft landing and taking off would have had an effect
+When the incursion took place , the controller had looked back towards N70AX , but the impending incursion was not obvious due to relative movement being directly towards the tower	not easily discernable to the human eye , especially at night
+relative movement being directly towards the tower and therefore not easily discernable to the human eye , especially at night	When the incursion took place , the controller had looked back towards N70AX , but the impending incursion was not obvious
+the incursion took place	the controller had looked back towards N70AX
+The aural warning provided insufficient time for controllers to instruct either aircraft	would not have averted a potential collision
+defending	against the collision that might follow
+them to take action	Averting a collision after a RIMCAS warning is highly reliant on the controller providing appropriate instructions to the flight crews in time
+the potential for catastrophic consequences in the event of a collision at high speed	The residual risk remains high
+he was carrying out checks while the pilot-in-command -LRB- PIC -RRB- taxied the aircraft	The co-pilot did not assist in monitoring the taxi route or compliance with instructions
+their attention	their perception they were proceeding correctly
+Potential factors	their reduced level of awareness are familiar from previous studies
+their	level of awareness
+these	the pilot 's misconception of his position
+it would depend on the timing of clearances and frequency changes	other risks
+Monitoring by air traffic controllers	another level of defence against incursions
+Four of these aircraft were to the east side of the field ; only N70AX was northwest of the tower	the controller having to scan a large arc
+The RIMCAS system is intended	an additional level of defence
+The aural warning	insufficient time controllers
+RIMCAS	a warning
+on the controller	appropriate instructions to the flight crews in time them to take action
+the aircraft reaches a holding point	the controller to intervene and prevent an incursion
+the passive measures intended	pilot deviations
+the passive measures intended to reduce pilot deviations related to entering runways at taxiway hold points	the likelihood of these types of incursion
+operational pressures	alertness
+The runway incursion and monitoring and conflict alerting system -LRB- RIMCAS -RRB- does not provide sufficient time to prevent incursions , nor does it provide sufficient warning	air traffic controllers avert a collision
+sufficient time	incursions
+it	sufficient warning

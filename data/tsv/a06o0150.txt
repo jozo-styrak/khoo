@@ -1,0 +1,14 @@
+The damage to the fourth-stage compressor wheel was consistent with overstress damage caused by the liberation of the third-stage compressor blades	, this analysis will focus on the failure of the third-stage compressor wheel and the subsequent hard landing and rollover
+However , if the fatigue cracks were present during the last overhaul , it would be reasonable to assume that they would have been noticed during the FPI of the third-stage wheel	, it is likely that the progressive failure developed at some point after the last overhaul
+The 17 compressor blades that failed due to a progressive type of failure were covered in oxidation from the post-crash fire	, a propagation rate could not be determined
+a progressive type of failure	The 17 compressor blades that failed
+the fatigue cracks were present during the last overhaul	it be reasonable to assume that they would have been noticed during the FPI of the third-stage wheel
+overstress at normal operating loads	However , when a progressive failure crack reaches a critical size , the remaining blade section fails
+a progressive failure crack reaches a critical size	the remaining blade section fails due to overstress at normal operating loads
+the	failure of the third-stage compressor wheel
+the liberation of the third-stage compressor blades	overstress damage
+Metallurgical examination could not determine the initiating event	the progressive cracks on a number of the third-stage compressor blade roots
+It is likely that the third-stage compressor wheel experienced this type of blade failure	destruction of the third - and fourth-stage compressor wheels
+Stretching the glide in an attempt to reach a suitable landing area resulted in a loss of main rotor rpm	a hard landing
+the glide in an attempt to reach a suitable landing area	a loss of main rotor
+The liberated compressor blades	severe internal damage the third - and fourth-stage compressor wheels

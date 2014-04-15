@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The engine teardown and analysis did not reveal any mechanical condition that would have resulted in a complete loss of engine power. The fuel-fed fire at the accident site indicated that ample fuel was available, and the aircraft's fuel source was found to be clean and of the required grade. The loss of engine power likely did not result from mechanical failure, fuel contamination, or fuel exhaustion.
+
+
+It is likely that the carburettor for this aircraft became contaminated by carburettor ice to a degree that the engine lost power. The aircraft was operating under conditions that were conducive to serious carburettor icing at all power settings. Carburettor icing is not immediately resolved when carburettor heat is applied; time is required for the carburettor heat to melt the ice away. The carburettor heat valve was found in a neutral position, either as a result of impact damage or as a result of cable failure when the carburettor heat was selected. The engine lost power when the aircraft was 300 feet above ground level. A neutral position of the carburettor heat valve would extend the time required to clear any ice from the carburettor; however, given the low altitude, it is unlikely that a full application of carburettor heat would have cleared the ice from the carburettor in sufficient time for the pilot to avoid ground contact.
+
+
+Because the failure site and several of the wear sites on the carburettor heat control wire were located at a position that would be extended beyond the cable outer shielding when carburettor heat was applied, it is probable that the wear on the cable was not detected during the annual inspection.
+
+
+The pilot continued to turn and stretch his glide in an attempt to reach a nearby roadway. This caused the airspeed to reduce to the point where the aircraft entered an aerodynamic stall and descended in an uncontrolled manner to the ground. It is probable that the impact forces would have been greatly reduced if the pilot had landed the aircraft straight-ahead, in a controlled manner, on the wheat field.
+
+
+The following Engineering Branch Laboratory Report was completed:
+
+
+LP 89/00__Carburettor heat control cable.
+
+
+This report is available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft engine lost power, likely as a result of carburettor icing. Following the loss of power, the pilot allowed the airspeed to decrease to the point that the aircraft stalled and descended uncontrollably to the ground. From the altitude at which the loss of power occurred, it is unlikely that carburettor icing could have been cleared with full carburettor heat applied.
+
+
+
+Findings as to Risk
+
+
+The carburettor heat cable was weakened by fretting wear and the effects of fatigue. This weakening caused the cable to fail, either in a neutral position during impact or as the pilot applied carburettor heat. The fretting wear of the carburettor heat cable probably went undetected when the aircraft was inspected and certified for an annual inspection, approximately two months and 60 flight-hours before the occurrence. The aircraft was not equipped with an optional post-production fuel bladder kit, recommended on 18 January 1988 by the aircraft manufacturer.
+

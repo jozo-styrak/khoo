@@ -1,0 +1,24 @@
+
+
+Analysis
+
+
+The pilots of C-FIHL were operating in VFR weather conditions when they were advised of IMC in the Swift Current area. The chief pilot chose to continue rather than divert or make a precautionary landing, and his decision to proceed toward an area of IMC resulted in the crew's loss of visual reference and collision with terrain. After the decision to continue, the pilots passed a point where their actual weather conditions changed to IMC. The use of the GPS assisted the crew in navigating in the deteriorating conditions beyond the point at which they could safely fly the helicopter. As a result, they lost control and the helicopter struck the ground.
+
+
+The fact that the pilots had earlier encountered and now anticipated less severe weather than was reported for Swift Current influenced the chief pilot's decision to proceed into IMC. Financial and personal considerations resulting from a late arrival in Calgary may have contributed to the pressure felt by the chief pilot to reach Calgary.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The chief pilot's decision to continue a visual flight into instrument meteorological conditions resulted in his inability to maintain control of the helicopter, and as a result, the helicopter was inadvertently flown into the snow-covered terrain. The chief pilot's decision to continue into deteriorating weather conditions was influenced by a mistaken expectation that the weather at Swift Current was better than the reported conditions and the pressure to reach Calgary on the day of the occurrence. The pilots disregarded the safe limits with regard to VFR flight, as described in Canadian Aviation Regulations.
+
+
+
+Findings as to Risk
+
+
+The pilots' use of GPS assisted them in navigating into weather conditions in which they could not safely fly the helicopter.
+

@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+The pilot did not complete a weight and balance report, which would have alerted him to the extreme aft location of the C of G. While the pilot was aware that the aircraft had an aft C of G, he did not fully appreciate the severity of how far aft the C of G was.
+
+
+The accident occurred toward the end of a long duty day following a night where the pilot had only three hours of sleep. This, combined with the desire to satisfy customer needs on a flight that was one hour behind schedule, may have caused the pilot to rush the take-off preparations, thereby omitting the weight and balance calculation.
+
+
+The success of the emergency egress of the crew and passengers can be attributed to the low-energy impact of the accident, and probably to the briefing given by the pilot. The aircraft remained in a more or less upright position and was not submerged during the evacuation. This allowed evacuees to easily orientate themselves toward the emergency exits. No one on board the aircraft sustained immobilizing injuries that would hinder escape. Additionally, the exits used during the evacuation were not jammed or blocked and were readily accessible. Finally, the pilot and assistant were able to retain command of the situation and effectively facilitate the evacuation of passengers.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was loaded in such a manner that the C of G was beyond the rearward limit. This resulted in the aircraft's aerodynamic pitch control limitation being exceeded. A weight and balance report was not completed by the pilot prior to departure and, as a consequence, he was unaware of the severity of the aft C of G position.
+
+
+
+Finding as to Risk
+
+
+The weight of the passengers was underestimated due to the use of standard weights. This increased the potential of inadvertently loading the aircraft in excess of its maximum certified take-off weight.
+

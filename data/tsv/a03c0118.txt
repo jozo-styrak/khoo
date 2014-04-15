@@ -1,0 +1,24 @@
+Because the required field barometric power reference check was not completed after the replacement of the No. 1 cylinder or prior to take-off , the operator did not ascertain whether the engine was operating correctly at higher power settings	, the effects of the closed or near closed exhaust valve went undetected and may have been masked by the failure of the No. 1 cylinder
+the required field barometric power reference check was not completed after the replacement of the No. 1 cylinder or prior to take-off	the operator did not ascertain whether the engine was operating correctly at higher power settings
+the closed or	near closed exhaust valve went undetected and may have been masked by the failure of the No. 1 cylinder
+the ball end was pressed into place	the spacer was likely set and partially bent within the tube , bringing the overall length of the push rod into a range that was considered satisfactory during installation
+some point	the valve was again adjusted , accounting for the valve screw protrusion being out of limits
+the combination of wear on the No. 3 exhaust cam roller and cam lobes resulted in a longer stroke of the tappet assembly and the eventual protrusion of the cam roller pin beyond the tappet guide	The breakage or failure of the top portion of the cam roller slot tappet guide likely occurred
+the	engine backfire and did not contribute to the loss of engine power
+the out-of-limits screw protrusion been noted during the adjustment of the valve or during a regularly scheduled inspection	an examination might have revealed the excessive wear in the valve train and prevented the engine power loss
+the out-of-limits screw protrusion been noted during adjustment or during a scheduled inspection	an examination might have revealed the excessive wear in the valve train and prevented the engine failure
+the overall length of the push rod	the clearance between the valve and the valve rocker
+This increased clearance	a pounding action of the cam roller against the cam ring lobes
+Small fragments of cam roller material would have begun to break off	a flat spot on the roller
+The failure of the exhaust valve to open	the exhaust gases
+The hot exhaust gases would have ignited the fuel/air mixture in the induction	a backfire and the loss of engine power
+the combination of wear on the No. 3 exhaust cam roller and cam lobes	a longer stroke of the tappet assembly and the eventual protrusion of the cam roller pin beyond the tappet guide
+This protrusion of the cam roller pin	the cam roller pin
+the failure of the top portion of the tappet guide roller slot was the result of the engine backfire	the loss of engine power
+an examination	the excessive wear in the valve train
+the excessive wear in the valve train	the engine power loss
+High deceleration forces when the aircraft struck the ground and trees likely exceeded the design strength of the cabin passengers ' seats	an overload failure of the support structure of the seats
+This initiated the increased wear	the No. 3 exhaust valve opening , resulting in hot exhaust gases migrating into the induction system and causing the engine failure
+in hot exhaust gases migrating into the induction system	the engine failure
+an examination	the excessive wear in the valve train
+the excessive wear in the valve train	the engine failure

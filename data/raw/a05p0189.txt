@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+Visual meteorological conditions existed at the time of the accident and weather was not considered to have been a factor.
+
+
+The left propeller witness marks at the feather stop can be explained by the fact that the reduction gearbox was fractured on impact. The subsequent loss of oil to the propeller would have allowed the blades to move to the feathered position. The multiple blade angle witness marks on the right propeller suggest multiple impacts while the propeller was changing pitch. The extensive blade damage evident on both propellers is more compelling than the multiple witness marks. This information, coupled with the internal circumferential rubbing found on both engines, indicates that the engines were operating on impact. However, a more precise indication of the power being developed could not be determined.
+
+
+The aircraft appeared to have contacted the 33 slope in about a 33 pitch angle. This is supported by the engine examination, which showed little indication of longitudinal compression damage.
+
+
+Most flights operated by Northern Thunderbird Air are conducted under instrument flight rules (IFR). It could not be determined why the crew decided to conduct this flight under VFR.
+
+
+Since both pilots had received training on the status and use of the COM, they should have been aware of the VFR obstacle clearance requirements. As they had also received CFIT avoidance training, they should have been aware of the factors leading to CFIT.
+
+
+It could not be determined why the pilots turned northeast and flew up Shovelnose Creek at a low altitude. It is possible that this was a navigational error. This canyon narrows quickly, the terrain rises very steeply, and the slope exceeds the climb capability of the aircraft. The pilots' attention was probably focused outside of the aircraft and, by the time they realized they were reaching the aircraft performance limits, there was not enough room to reverse course and their only option was to out climb the terrain. Information from the aircraft manufacturer indicates that the aircraft, with specification performance, would be able to climb at an angle of 13 ; however, this was insufficient to clear the steeply rising terrain.
+
+
+Any training that the crew may have received on CFIT, mountain flying techniques, and pilot decision making was either ineffective or not applied. Despite this training, the crew members did not fully comprehend the hazards of flying low in mountainous terrain and were unprepared for the flight as attempted.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was flown up a narrow canyon into rapidly rising terrain for reasons that could not be determined. The aircraft's proximity to terrain and the narrowness of the canyon precluded a turn, and the aircraft's climb rate was insufficient to clear the rising terrain. The pilot decision-making training received by the crew members was ineffective because they were unprepared for the unique hazards and special operating techniques associated with flying low in mountainous terrain.
+
+
+
+Finding as to Risk
+
+
+The company operations manual (COM) gave no guidance to the crew for the operation of a visual flight rules (VFR) flight, except for the provision that it should not be conducted closer to obstacles than 500 feet vertically and horizontally.
+

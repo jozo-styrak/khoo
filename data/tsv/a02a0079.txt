@@ -1,0 +1,15 @@
+This report concludes the TSB 's investigation into this occurrence	, the Board authorized the release of this report on 08 October 2003
+different cleared flight paths after entering the CYMON sector , the CYMON sector controller detected the conflict and took action to restore separation	When the targets diverged on the display
+the targets diverged on the display because of different cleared flight paths after entering the CYMON sector	the CYMON sector controller detected the conflict and took action to restore separation
+the aircraft were diverging before the climb	there was no risk of collision in this occurrence , although safety was not assured
+the aircraft were on diverging tracks	No TCAS advisories were received
+these replies overlap	interference occurs
+Two factors	the CYMON sector controller not detecting the erroneous clearance once it had been issued
+The garbled and overlapped aircraft targets on the RSiT	the CYMON sector controller seeing that BAW93 was climbing until after BAW93 had levelled at FL360
+The incident occurred during a period of decreased traffic density and complexity , near the end of his shift	the controller to relax his attention
+Additional defences were in place	the risk of collision
+The CYMON sector controller inadvertently cleared BAW93 to climb to FL360	a loss of separation with both UAL971 and ACA861
+the radar data processing system situational display -LRB- RSiT -RRB-	separation between aircraft
+The co-location of the radar targets resulted in the garbling of displayed information on the RSiT	the CYMON sector controller seeing that BAW93 was climbing until after the radar targets started to diverge
+The co-location of the radar targets	the garbling of displayed information on the RSiT
+The garbled beacon replies	a partial loss of data or swapping of information from one target the other

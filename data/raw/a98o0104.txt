@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+The design strength and construction of the aircraft wing was found to be adequate, and there was no sign of deterioration of the wing material that would contribute to the in-flight failure of the wing. There was no reported weather phenomena on the day of the accident that would result in any excessive load or stress on the aircraft wing in flight.
+
+
+The freshly ground-off surface on the bottom side of the aircraft right wing tip was typical of damage resulting from the wing tip contacting the ground during a recent ground loop or severe swerve to the left. The lack of dirt or debris on the scrape mark indicates the damage occurred from contact with an asphalt or concrete surface. Although it was not possible to quantify the forces applied to the wing as a result of the tip scrape, it can be concluded, from appearance alone, that the forces applied at the time of the scrape were significant enough to crack and weaken one or both of the right wing spars. The lack of any sign of rubbing on the fractured surfaces also indicates that any cracking of the wing spars was recent, possibly as recent as the last take-off or landing. Had there been cracks in the wood spars for a lengthy period of time there likely would have been signs of rubbing on the fracture surfaces as a result of the two surfaces of the crack rubbing together during normal wing loading in flight.
+
+
+The spars failed in flight, likely under normal flight loads, and the right wing separated from the aircraft. The aircraft then descended out of control and struck the ground.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 64/98 Failure Analysis - In-Flight Wing Separation
+
+
+
+Findings
+
+
+The pilot was certified and qualified to conduct the flight. The aircraft was operated in the amateur-built category for more than 700 hours. The right wing separated from the aircraft in flight. The wing was constructed from aircraft grade wood, and there was no sign of deterioration of the wood. The aircraft right wing tip was scraped on concrete or asphalt recently prior to the in-flight failure.
+

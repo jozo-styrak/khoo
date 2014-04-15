@@ -1,0 +1,12 @@
+Shortly after the accident , the exhaust valve clearance was checked in accordance with the Lycoming MSB 388B ; however , it did not reveal the sticking valves later found during the engine test-run	, the procedures outlined in the MSB were not adequate for conclusively determining if exhaust valves are sticking
+The fuel servo , as found after the occurrence , was not adjusted to the specifications required by Service Bulletin PRS-91	, either the service bulletin instructions were not adequate , or they were not complied with during the initial fuel servo configuration
+the exhaust valves overheated	they began to stick
+resulting in a loss of power	stick
+the pilot accelerated the engine	it is likely that the exhaust valves overheated , causing them to stick , resulting in a loss of power
+conclusively determining if exhaust valves are sticking	Therefore , the procedures outlined in the MSB were not adequate
+a poor fuel spray pattern and a late-opening enrichment valve	an overly lean fuel/air mixture , which caused the engine to operate excessively hot during high power demand
+During the test run of the occurrence engine , a poor fuel spray pattern and a late-opening enrichment valve resulted in an overly lean fuel/air mixture	the engine to operate excessively hot during high power demand
+When the pilot accelerated the engine , it is likely that the exhaust valves overheated , causing them to stick	a loss of power
+the pilot accelerated the engine , it is likely that the exhaust valves overheated	them to stick
+Lean engine fuel mixture and a distorted fuel spray pattern	the engine exhaust valves to overheat and stick
+valves	engine power loss

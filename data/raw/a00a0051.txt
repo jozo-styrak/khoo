@@ -1,0 +1,37 @@
+
+
+Analysis
+
+
+The regular defences provided by complete aerodrome information, a comprehensive approach briefing, altitude call-outs, final approach monitoring, and adherence to SOPs were not present on this flight. Further, this was the crew's first night flight into Fox Harbour with this aircraft and their first night flight to this runway, and visual conditions were conducive to a black-hole illusion. Without previous experience or other information to alert them to the potential of a black-hole illusion on approach, the crew were not adequately prepared to operate in this higher risk environment. Consequently the crew, in the absence of these defences, were unable to detect their proximity to the terrain until just before the aircraft struck the trees.
+
+
+The descent and the approach were flown in a manner to minimize flying time. This manner resulted in high descent and intermediate approach speeds and delayed the pre-landing checks and the configuration of the aircraft for landing. Consequently, the co-pilot's attention was diverted inside the cockpit when approach monitoring was required.
+
+
+During the overshoot, the crew reverted to their training for a normal go-around and elected to raise the landing gear and the flaps. Under normal operating circumstances, this decision would have been appropriate; however, the decision created additional risk to safety because of the potential for an asymmetric flap or landing gear malfunction due to the damage to control surfaces and the landing gear. The extent of the damage was unknown to the crew.
+
+
+The flight was conducted under CARs section 604, when CARs section 704 applied. Since the runway length at Fox Harbour was sufficient for the flight to operate under either section, this did not affect the outcome of the occurrence. However, the Board is concerned that the company was unaware of the regulatory requirement to operate under the appropriate regulation.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Conditions conducive to black-hole illusion were present during the night approach to the runway. In this situation, the crew did not recognize the potential hazard of the black-hole illusion and therefore did not compensate for it. The crew did not adhere to the required standard operating procedures for the preparation and execution of the approach. Consequently, the crew were inadequately prepared for the visual conditions on final approach.
+
+
+
+Findings as to Risk
+
+
+The high descent and intermediate approach speeds caused cockpit pre-landing checks to be delayed. This delay resulted in the co-pilot's attention being diverted inside the cockpit when approach monitoring should have been done. The crew's decision to raise the landing gear and the flaps on the overshoot after hitting the trees increased the risk to the flight.
+
+
+
+Other Findings
+
+
+The company was unaware that its operations into Fox Harbour were not done in accordance with the regulations.
+

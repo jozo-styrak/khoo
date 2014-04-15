@@ -1,0 +1,45 @@
+
+
+Analysis
+
+
+There were no anomalies found with the helicopter that would have contributed to the accident. Therefore, this analysis focuses on the operation of the helicopter.
+
+
+The Snake Lake Helipad is a classic black hole approach helipad. Temagami itself is a small community and the location of the helipad is on the northeast edge of town. The approach is flown over the town and past all the lights with a relatively featureless landscape forward. The only visible lights are those of the house beside the ball park. On the terrain along the approach path, a small hill begins to rise approximately 2430 horizontally feet from the helipad. The maximum rise is approximately 20 feet, which then gently slopes back down to the lake surface 723 feet horizontally from the helipad. The mature trees along the flight path would further increase the obstacle height another 40 feet. However, the steep approach angle of 8 into the landing site would have provided for adequate clearance above the trees to land safely.
+
+
+The black hole approach requires diligent monitoring of the helicopter's instruments. The flight crew followed most of the SOPs during the approach and appropriate calls were made. In this case, the PNF was monitoring the air speed, altitude and distance to the helipad. He relayed this information to the PF regularly. The PF, flying a visual approach, utilized the information from the PNF in addition to the visual cues for reference. However, the PF's radar altimeter was not set to 150 feet as called for by the operations manual. This would have provided an additional cue to the flight crew that the helicopter was approaching the ground too soon during the descent into the helipad. Meanwhile, the helicopter was on a stabilized approach with the proper 8 descent profile, as required by the operations manual and the SOP.
+
+
+During the 1.5 minutes of the approach, the PF's attention was split between flying the approach and explaining why things were happening and what to watch for during a black hole approach. This likely distracted the pilots to the task at hand. In this case, the PF acknowledged a 0.5 nm and 500 foot call, an on-profile condition, but visually perceived that the helicopter was too high and, therefore, increased the rate of descent. This coincides with the increase in the rotor rpm; an indication that the collective is being lowered, decreasing the load on the rotor blades and increasing the descent rate. This was followed by a decrease in rotor rpm, as the collective was raised, increasing the load on the rotor blades and decreasing the descent rate just prior to impact. At no time did the PNF question the PF's deviation from the proper descent profile nor did he make any further speed or altitude calls after the deviation.
+
+
+Based on the available information, a descent from 500 feet to impact in less then 21.5 seconds equates to a descent rate of more than 1400 feet per minute well in excess of the recommended maximum descent rate of 750 feet per minute. The increased descent rate caused the helicopter to descend into the trees before either crew member realized what was happening.
+
+
+The lap belt barrel nut attachment failed due to several factors. First, the barrel nut was weakened due to wear from the stainless steel lap belt attachment. Second, the seat-back attachment bolt did not pass completely through the barrel nut, but instead passed only part of the way through to the end of the machined groove. This created a weak point on the assembly at the outside edge of the barrel nut. Under normal loads, such as forward and aft g-forces, this would not be an issue because the main load would be over the machined groove and seat-back attachment bolts. However, with a side impact, the main loads are in a sideways direction on the end barrel nut. This placed an abnormal load on the end of the barrel nut, which caused it to fail at the weakest point.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 034/2008 Analysis of Aircraft Data
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot flying (PF) was likely affected by visual spatial disorientation and perceived the approach height of the helicopter to be too high. While correcting for this misconception, the helicopter descended into trees 814 feet short of the helipad. The pilots were likely distracted during the critical phase of the approach and did not identify that the helicopter had deviated from the intended approach profile and recommended descent rates.
+
+
+
+Findings as to Risk
+
+
+The right rear aft-facing paramedic seat lap belt attachment barrel nut was worn in the groove where the seat belt attaches, weakening the barrel nut's structural integrity, thereby increasing the risk of failure. The helicopter crashed on its side, placing an abnormal side load on the right rear aft facing paramedic seat lap belt attachment barrel nut, thereby causing it to fail.
+

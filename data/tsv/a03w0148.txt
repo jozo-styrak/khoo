@@ -1,0 +1,11 @@
+The history of the failed turbine blades could not be ascertained because they were maintained on condition	, the blades had been in service in this engine or other engines for an undetermined time
+of the fatigue cracks could not be determined	Two turbine blades failed due to the overstress extension of pre-existing fatigue cracks , resulting in the substantial damage of the power turbine section and loss of engine power
+the overstress extension of pre-existing fatigue cracks	The turbine blades failed
+heat	It was not determined what initiated the cracks , but the most common initiators are mechanical damage -LRB- nicks -RRB- , manufacturing faults -LRB- inclusions or discontinuities -RRB- , corrosion and metallurgical deterioration
+they were maintained on condition	The history of the failed turbine blades could not be ascertained
+the engine failed	the undriven main rotor blades generated a considerable amount of drag , resulting in the rapid decay of the main rotor speed
+the overstress extension of pre-existing fatigue cracks	Two turbine blades failed
+When the engine failed , the undriven main rotor blades generated a considerable amount of drag	the rapid decay of the main rotor speed
+This loss of rotor speed	the rotor system kinetic energy available to the pilot for control of the helicopter 's descent , and , combined with the low altitude , the attached load and airspeed delineated within the critical area of the H-V chart , thereby increasing the severity of the impact and injuries
+This loss of rotor speed reduced the rotor system kinetic energy available to the pilot for control of the helicopter 's descent , and , combined with the low altitude , the attached load and airspeed delineated within the critical area of the H-V chart	the severity of the impact and injuries
+Two turbine blades failed due to the overstress extension of pre-existing fatigue cracks	the substantial damage of the power turbine section

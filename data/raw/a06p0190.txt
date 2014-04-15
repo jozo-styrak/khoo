@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+Examination of the ground scars and photographs taken before the wreckage was moved revealed a wreckage distribution pattern associated with a condition of high deceleration forces and a steep angle of descent to the level ground, which is consistent with a loss of control. Weather, pilot incapacitation, and engine failure were assessed as unlikely contributors; the investigation focussed on flight control malfunction/failure.
+
+
+The observations made during testing with the Bell 206B static display demonstrated that damage around the main transmission was consistent with the misalignment of the pylon assembly in flight. Although the main driveshaft and the pylon assembly were misaligned, the main rotor and tail rotor were still being driven by the engine until the time of impact.
+
+
+The right-hand pylon support spindle was found fractured at the root end of the journal section, yet the spherical bearing supporting the spindle did not display impact-related damage. This indicates that the right-hand pylon support spindle was not in the spherical bearing at the time of impact. A fatigue fracture is not consistent with an impact force. The dimensional restoration repair of the spindle journal introduced a stress concentration feature at the location of the subsurface radius, which was responsible for the formation of the fatigue crack and subsequent failure of the right-hand pylon support spindle.
+
+
+Testing with the Bell 206B static aircraft also demonstrated that the cyclic and collective control linkages could partially support the fuselage from the swash plate assembly, and this condition would render the helicopter uncontrollable in flight, regardless of pilot inputs. It is likely that the time between the spindle failure and ground impact could be measured in seconds. If the helicopter had flown for any longer, any uncontrolled gyrations that may have occurred would likely have resulted in the helicopter breaking apart in flight. Since the accident site was compact, it is more likely that the helicopter was at a low altitude and collided with the ground before time allowed it to break up in flight.
+
+
+While it is beyond the scope of this investigation to determine the adequacy or appropriateness of engineering practices, the differing assessment, by different individuals, of whether the spindles were exposed to dynamic loads or static loads introduced risk. The design process for the repair of a critical part was approved, likely without the benefit of all original design data. It could not be shown that tests, stress analyses or other techniques were used in lieu of these data to ensure that the repaired part maintained the strength and other properties assumed in the original design. As the authority to approve repairs, TC must ensure that it, or its delegates, can demonstrate that approved repairs of critical parts do not compromise the required level of integrity.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 010/2007 - Main Transmission Spindle Fracture
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The dimensional restoration repair of the spindle journal introduced a stress concentration feature at the location of the subsurface radius, which was responsible for the formation of the fatigue crack and subsequent failure of the right-hand pylon support spindle. Failure of the right-hand pylon support spindle in flight caused the helicopter to become uncontrollable and collide with the level ground.
+
+
+
+Findings as to Risk
+
+
+It is likely that the pylon support spindle repair process was designed without the benefit of all original design data. It could not be shown that tests, stress analyses or other techniques were used to ensure that the repair maintained the strength and other properties assumed in the original design data. There is a risk that repair designs for parts identified as critical parts may have been approved before the definition of critical parts, applicable to normal category rotorcraft, was adopted by Transport Canada. Such repair schemes may not ensure that critical parts maintain the critical characteristics on which certification is based. Transport Canada made inquiries regarding approved spindle repair procedures following the release of Bell Helicopter Textron Inc. Operational Safety Notice 206-99-35 Revision A, but closed the file without formally reviewing or cancelling the two approved repair certificates, thus allowing the repair to continue in its original form.
+

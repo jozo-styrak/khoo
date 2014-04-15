@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+There were early indications that the engine was operating abnormally. This was not recognized as important, and flight operations were continued.
+
+
+The engine fuel injection tube and the wheel assembly contained a contaminant that obstructed the fuel flow, which would have caused the engine to lose power. The analysis of the contaminant substance showed that its chemical composition was similar to that of a compound/polymer found in the airframe fuel filter bowl of the same Lama, S/N 2658. The refuelling gear sample was near the water saturation level, and an anti-icing additive was added to the fuel at the supplier. Fuel filter manufacturers warn that water-absorbing cartridges are adversely affected by the use of anti-icing additives; the differential pressure specification across the filter is reduced. It is concluded that differential pressure across the filtering element caused the water-absorbing media to migrate out from fuel filters. The migration contaminated the fuel supply to the engine, obstructed the fuel flow, and caused a loss of power.
+
+
+Since the installation of engine S/N 1561 (with a ground run, test flight, and power check performed) on this helicopter airframe S/N 2658 and after the last repair (7994.1 hours TTSN), 889 hours of flight time accumulated. It is probable that the aggregates had been accumulating since the engine's previous installation, on airframe S/N 2549. The deposits had likely been accumulating since the time of the last overhaul (31 March 1993 at 5432 hours TTSN) and before the last repair when the engine fuel pump may have been adjusted to compensate for obstructions in the fuel flow. The performance runs conducted after the deep maintenance failed to detect the contamination. The repair and overhaul facility and the operator missed the opportunity to identify and correct this problem.
+
+
+It is unlikely that the air-flow reduction plate installed on the oil cooler to increase oil temperature affected the engine adversely, since the engine oil temperature gauge indicated normal operating temperatures after its installation.
+
+
+It is known that a shoulder harness is a safety feature that greatly improves survivability in a crash. Accident investigation and research carried out by the TSB has consistently shown that the use of the shoulder harness portion of the seat restraint system is effective in reducing or preventing injury during moderate-impact forces. The injuries suffered by the apprentice AME would likely have been lessened had he been wearing the available shoulder harness.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot and the maintenance crew were not able to properly diagnose the problem with the engine and continued to fly the helicopter with a malfunctioning engine. The helicopter lost engine power because an accumulation of water-absorbing material migrated out from refuelling gear fuel filters and subsequently obstructed the fuel passages to the combustion section of the engine.
+
+
+
+Findings as to Risk
+
+
+It is not a requirement that the wheels/rotors be disassembled or that a borescope inspection be accomplished when performing deep maintenance, nor is it mandatory for the repair facility to carry out an engine performance/test run following a repair termed as "deep maintenance". Fuel filter manufacturers use water-absorbing materials that may be extruded and forced into aircraft fuel systems, causing fuel blockage and engine stoppage. The injuries suffered by the apprentice aircraft maintenance engineer during the accident sequence would likely have been lessened had he worn the available shoulder harness.
+

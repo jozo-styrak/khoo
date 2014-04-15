@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The original excitation of the oscillations which resulted in the shimmy could not be determined, but it would appear that two factors allowed the oscillations to continue and amplify:
+
+
+The additional clearances in the T/L pins and bushings which reduced the dampening capability of the T/Ls; and The excessive nitrogen pressure in the oleo, which prevented the oleo from compressing immediately at touchdown.
+
+
+With the T/Ls extended in a position of minimum mechanical leverage, considerable unchecked torsional movement of the sliding member had occurred, and the severity of the shimmy overloaded the T/L to failure.
+
+
+The current operator was unaware of the non-approved fit of the T/L pins and bushings. The aircraft had not been in service for a sufficient length of time to require this operator's mid-life inspection on the gear, which would have revealed the excessive clearances.
+
+
+The conditions listed as being shimmy initiation factors appear to be normal landing conditions for this class of aircraft; therefore, it would appear that the problem relates to the overall landing gear design. Changes in tolerances, whether from wear, overhaul, servicing, etc., compromise the margin of shimmy control, which can lead to torque link failure.
+
+
+The following TSB Engineering Branch reports were completed:
+
+
+LP 157/95 - FDR/CVR Analysis; and LP 171/95 - Torque Link Analysis.
+
+
+
+Findings
+
+
+The left main gear began to shimmy immediately after touchdown, resulting in failure of the upper torque link and eventual separation of the wheels from the axles. The aircraft landing configuration and other landing conditions were conducive to the initiation of landing gear shimmy. The loose fit of the torque link bushings and pins from the previous overhaul prevented the torque links from controlling and eliminating the shimmy. The nitrogen pressure in the oleo exceeded the pressure specified in the maintenance manual, and contributed to the oleo's stiffness. The landing gear design is intolerant of looseness or slack in the component build-up.
+

@@ -1,0 +1,34 @@
+
+
+Analysis
+
+
+No anomalies were found with the engine itself that could have resulted in the loss of engine power. Although the left fuel vent line was obstructed, the fuel cell received adequate ventilation through the vented gas cap. The obstruction did not contribute to the loss of power.
+
+
+When fuel selection was made to the left tank, the selector was most likely moved over the letter L and not engaged in the left tank detent. There was enough fuel flow to continually sustain idle power and the power settings for the run-up. When power was increased during the take-off roll, the required fuel flow was only available for a limited time. The reduced fuel flow was enough for the aircraft to become airborne; however, with the continued high-power setting, the engine required more fuel than the restricted selector would allow. As a result, the engine lost power.
+
+
+Because the aircraft was not equipped with a shoulder harness, the pilot's upper body was allowed to move forward during the forced landing, resulting in injuries to his chest and forehead.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The fuel selector was most likely set to the L and not in the detent, resulting in fuel flow less than that required to sustain high engine power. The engine lost power after take-off because of fuel starvation.
+
+
+
+Findings as to Risk
+
+
+The position of the letters L and R on the fuel selector dial face did not represent accurate left or right fuel tank selections. The aircraft was not equipped with shoulder harnesses. The use of a shoulder harness would probably have reduced the pilot's injuries during the forced landing.
+
+
+
+Other Findings
+
+
+The left fuel vent line was obstructed, but the obstruction did not contribute to the engine power loss.
+

@@ -1,0 +1,45 @@
+
+
+Analysis
+
+
+Both pilots were familiar with the airspace and were aware of the generally high volume of VFR traffic in the corridor . The environmental conditions at the time of the occurrence were favourable for safe VFR flight. However, a number of factors combined to create a significant risk of collision. This analysis will examine those factors, including the limitations of solo VFR operations, the airspace, and post-collision action taken by the pilots.
+
+
+Although see-and-avoid is the primary means of providing safe separation between aircraft operating under VFR, it may be inadequate in areas where the volume of air traffic is high. Similarly, when pilots conduct flight operations that require focussing some of their attention on tasks that are not related to the safety of the flight, such as monitoring highway traffic and reporting, additional means of gathering air traffic information may be necessary to reduce the risk of midair collision.
+
+
+The Cessna 337 pilot was conducting a highway traffic reporting mission that required him to monitor traffic on the ground and conduct live radio broadcasts while flying the aircraft and maintaining safe separation from other aircraft. The pilot's awareness of nearby air traffic would have been enhanced by ATC traffic advisories, an additional person in the aircraft to perform some of the mission duties, and TCAS equipment. Aircraft certified for single-pilot operation, including Cessna 337's, are used in commercial air operations that cause a considerable amount of the pilot's attention to be diverted from normal flying duties. A second pilot or mission specialist in the aircraft would increase the likelihood of seeing and avoiding other aircraft. Similarly a TCAS, if installed and functioning, would have warned the pilot of his proximity to other aircraft operating with transponders. A TCAS warning could have provided the pilot with adequate time to take appropriate actions to avoid the collision.
+
+
+The VFR route near where the midair collision occurred was designed many years ago when the volume of VFR traffic was significantly less than it is now. The high volume of VFR traffic arriving and departing from Toronto/City Centre Airport, combined with other VFR traffic in the Toronto area, requires that pilots be constantly on the lookout for other aircraft. Minor changes to the route or airspace structure could significantly enhance pilots' awareness of other air traffic in the corridor , thereby decreasing the risk of midair collisions.
+
+
+Mandatory reporting points and a radio frequency published in the CFS for the VFR route would provide pilots additional sources of information from which to build a better air picture. Reporting points could be geographically significant and easily recognizable from the air so that pilots would have no difficulty spotting them and making the mandatory radio calls.
+
+
+A further reduction to the risk of midair collision in this busy VFR corridor could be realized by changing the airspace structure so that the air route is in Class D airspace. Class D airspace is controlled airspace within which both IFR and VFR flights are permitted, but VFR flights must establish two-way communication with the appropriate ATC agency prior to entering the airspace. ATC separation is provided only to IFR aircraft, but all aircraft are provided with traffic information. Equipment and workload permitting, conflict resolution would be provided between VFR and IFR aircraft, and upon request, between VFR aircraft.
+
+
+The pilots' actions immediately after the collision had the potential to significantly alter the safe conclusion of both flights. The pilot of the Cessna 172, unable to see any physical damage to his aircraft, assumed that his aircraft had not made contact and was undamaged.
+
+
+The pilot of the Cessna 337 was aware of the collision and could see that his aircraft had sustained substantial damage. Since he was experiencing no control problems, he decided not to land immediately and did not declare an emergency. He followed the Cessna 172 toward Toronto/City Centre Airport to determine if the Cessna 172 was experiencing any control problems. He was aware that the Cessna 172 pilot believed no contact had occurred; however, he did not advise the pilot of the collision and that the Cessna 172 must have sustained some damage. Knowing there had been a collision would have allowed the Cessna 172 pilot to make informed decisions regarding landing problems and the declaration of an emergency.
+
+
+Once he was reasonably certain that the Cessna 172 pilot was experiencing no control problems, the Cessna 337 pilot performed controllability checks and returned to Toronto/Buttonville Municipal Airport. During the controllability checks, he verified that the rudders were free and clear through full travel. When control surfaces are damaged, extensive control movements can result in further damage or jammed controls. A preferable course of action would be to verify that no control problems existed in a safe landing configuration and land as soon as possible while minimizing control inputs and airspeed variations. By not advising Buttonville ATC of the situation or not declaring an emergency, the Cessna 337 pilot precluded a rapid response by emergency services in the event of a landing accident.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Neither the Cessna 337 pilot nor the Cessna 172 instructor or student pilot saw the other aircraft in time to avoid the collision. The collision occurred in Class E airspace in a busy VFR corridor near a VFR route that is published in the CFS. No frequency is specified for use by VFR aircraft flying on the route. ATC does not provide traffic information or conflict resolution to VFR aircraft in Class E airspace. The aircraft were on different radio frequencies, and there was no direct communication to alert either pilot to the presence of the other aircraft. The Cessna 337 pilot was conducting a highway traffic reporting mission, a task that detracted from his ability to maintain an effective lookout for other air traffic. The see-and-be-seen principle of VFR separation has inherent limitations and cannot always provide positive separation, particularly in areas of high-density air traffic. The VFR corridor where the collision took place is a known high-density air traffic area.
+
+
+
+Findings as to Risk
+
+
+Neither aircraft was equipped with TCAS, depriving the pilots of a defence against collision. TCAS equipment was not required by regulation. The Cessna 337 pilot did not inform the Cessna 172 pilot through direct radio communications that a collision had occurred. The Cessna 337 pilot's verification that the rudders were free and clear through full travel and the consequent decision to not land as soon as possible, increased the risk of an in-flight control failure. The Cessna 337 pilot did not declare an emergency or advise ATC that his aircraft was damaged.
+

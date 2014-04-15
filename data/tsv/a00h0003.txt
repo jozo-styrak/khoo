@@ -1,0 +1,11 @@
+he issued the initial climb clearance to the Boeing 767	he did not recall and consider the inbound aircraft , which led to the loss of separation
+no information was conveyed to the terminal south controller about the departure controller 's intentions	no action was taken by the terminal south controller to assure separation
+occurrence	this
+issuing	without coordination , climb clearance through the airspace of the terminal controller and to monitor the departure to assure separation
+two aircraft within the same airspace , not monitoring the climb of the Boeing 767 with sufficient vigilance	In this occurrence , the desire to expedite the departure by issuing immediate climb clearance , the lack of coordination between two controllers responsible
+issuing immediate climb clearance	the lack of coordination between two controllers responsible for two aircraft within the same airspace , not monitoring the climb of the Boeing 767 with sufficient vigilance , and not recalling the presence of the inbound aircraft led to a loss of separation where the safety of the aircraft was not assured
+responsibility	separation between aircraft under his control and other aircraft
+However , when he issued the initial climb clearance to the Boeing 767 , he did not recall and consider the inbound aircraft	the loss of separation
+the desire to expedite the departure by issuing immediate climb clearance , the lack of coordination between two controllers responsible for two aircraft within the same airspace , not monitoring the climb of the Boeing 767 with sufficient vigilance , and not recalling the presence of the inbound aircraft	a loss of separation where the safety of the aircraft was not assured
+action	the two aircraft
+other duties at the time of the Boeing 767 departure	controller

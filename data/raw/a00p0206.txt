@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+This event took place during the hours of darkness, under a cloud-covered sky. Therefore, it is reasonable to conclude that the vision of the involved crew and of the tower controller was adversely affected.
+
+
+The chance of identifying and correcting a runway incursion error, through the use of radio protocols, is directly dependant on the rigour with which those radio protocols are applied. When the crew of ABL523 indicated to the tower that the flight was ready for take-off at taxiway D3, they anticipated that the controller would either clear them for an immediate take-off or direct them to hold. Although the controller heard ABL523's request for take-off, the controller did not respond - because of higher priority tasks. One of those tasks involved clearing QXE31 for take-off from runway 26L with a Richmond 6 departure to 3000 feet. With the exception of the call sign QXE31 at the beginning of that transmission, the entire clearance was exactly what the crew of ABL523 was anticipating.
+
+
+Because the crew of ABL523 had missed the call sign in the controller's transmission to QXE31, and because the clearance had been transmitted immediately following their request for take-off, the crew believed that the clearance had been directed to their aircraft in response to their request.
+
+
+When the controller did not correct ABL523's readback of the take-off clearance, the crew took it to mean that the readback had been correct and that they were cleared to take off and follow a Richmond 6 departure to 3000 feet.
+
+
+Darkness, the controller's focus on the departing aircraft, and other potential workload distractions likely made it more difficult for the controller to notice that a second aircraft had moved onto the runway. It is not known why the controller did not detect the runway incursion by using available ASDE. Darkness and reduced aircraft lighting also degraded the ability of ABL523's crew to see the aircraft on the runway ahead of them until they were on their take-off roll.
+
+
+Although a number of similar events had occurred at Vancouver International Airport, these events had occurred in daylight, and the unsafe conditions that developed were seen by the involved aircrew or by the involved controller. Once each error was recognized, action was initiated to resolve the situation.
+
+
+The risk of a runway incursion error occurring is increased with the use of multiple intersections for departure, because several aircraft could be positioned adjacent to the runway and ready for take-off. At night, once an error does occur, the chance that the error will be seen is reduced. ATC procedures may not adequately compensate for this increased risk during night operations.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Expecting its requested take-off clearance, ABL523 accepted and read back a take-off clearance that had been directed to QXE31 and that had not included the taxiway intersection. The tower controller did not recognize that ABL523 had accepted the clearance. Darkness and limited aircraft lighting during taxiing operations adversely affected the controller's ability to see ABL523 taxi onto the runway and prevented the ABL523 crew from seeing the preceding aircraft before the take-off roll was initiated.
+
+
+
+Findings as to Risk
+
+
+The opportunity to identify and correct a runway incursion error, through radio protocols, is decreased where there is no requirement for readback/hearback procedures for take-off clearances. The risk of a runway incursion error occurring is increased by the use of multiple intersections for departures. Requiring pilots to refrain from calling the tower to obtain a take-off clearance, while resulting in a less-congested frequency, increases uncertainty and reduces pilots' situational awareness.
+

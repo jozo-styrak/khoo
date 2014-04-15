@@ -1,0 +1,51 @@
+
+
+Analysis
+
+
+The occurrence took place during a combination of circumstances involving active weather, restricted airspace, reduced supervision, and a high concentration of complex air traffic. Because of high workload in their sector, the Red Deer en route sector radar and data controllers were not able to effectively cross-check flight progress strips and the radar displayed traffic. As a result, both controllers' situational awareness became degraded and the potential conflict between CNS213 and CPB888, which was operating at an altitude inappropriate for the direction of flight, went unnoticed.
+
+
+When the security closure of Calgary terminal was lifted, there was a surge of traffic into and out of Calgary. Aircraft were released using ground delay and air stop flow control procedures at a rate that was primarily set in consideration of the traffic acceptance rate of the Calgary terminal facilities. The combined effects of weather, restricted airspace, and concentration of traffic volumes in the Red Deer en route sector resulted in concentrating the backlog in the Red Deer sector. Flow control, a tool primarily aimed at traffic management in terminal areas, had an adverse effect on the en route sector in this occurrence.
+
+
+With extensive thunderstorm activity blocking the direct routes between Edmonton and Calgary, and with CYR255 restrictions precluding diversions to the west, the Red Deer en route sector controllers had to send much of their traffic into the eastern portion of the sector. The G-8 coordinator was unavailable and the Red Deer sector supervisor, working a controller position, was unable to respond to the controllers' concern for the building level of traffic. The controllers were therefore unable to obtain effective flow control measures to alleviate traffic concentration in their sector.
+
+
+Because of the possibility of armed interception of unauthorized aircraft inadvertently entering CYR255, the radar controller focussed much of his attention to westbound airline flights from Calgary that were transiting the narrow airspace between thunderstorm activity and the restricted airspace. This added to the workload associated with the negotiation of weather avoidance deviations and the vectoring of several aircraft which were in the eastern portion of the Red Deer sector. The complexity of traffic in the sector was increased by the 16/17 split, which, in effect, reduced the altitudes available to the controllers and added to controller workload.
+
+
+During the time leading to the occurrence, the Calgary en route specialty was not considered to be short-handed. ACC management had increased staffing in anticipation of a higher, more complex workload; however, three of the 11 specialty controllers were on a break. Exercising his option of bringing at least one controller off break would have freed up the supervisor to assume supervisory duties rather than occupy a controller position. He then may have been able to assist the Red Deer controllers in managing traffic in their sector.
+
+
+The radar and data controllers, and the supervisor, indicated that they felt somewhat fatigued because of increased cumulative workload associated with G-8 activities and weather diversions. Although there were no clear indications that fatigue was a factor in the occurrence, the effects of cognitive fatigue - reduced short term memory, inappropriate timing of tasks, and reduced attention levels - have been shown to result in reduced performance in air traffic controllers. A lack of proper marking of the flight progress strips and ineffective scanning of the radar display were both shown to have been factors in this occurrence.
+
+
+When CPB888 passed from the La Biche, Alberta, en route sector to the Edmonton north terminal sector, its altitude of 16 000 feet was appropriate for the direction of flight. After the aircraft turned onto a track of 164 , 16 000 feet was then inappropriate. NAV CANADA had no policy to routinely clear southbound aircraft through Edmonton terminal into the Red Deer sector at altitudes inappropriate for direction of flight. There was no provision in the preferred route system to abrogate the responsibility of controllers to follow ATC MANOPS and CARs requirements. Since much of the traffic in the sector spent a significant amount of time climbing or descending in association with the terminal areas, it had become normal among controllers to vector aircraft toward the TORON intersection at inappropriate altitudes, often without following MANOPS guidelines regarding implementation, hand offs, and strip marking.
+
+
+The crew of CPB888 filed 16 000 feet for the entire route, even though a change in track at the Edmonton VOR would warrant an altitude change. They anticipated remaining at 16 000 feet consistent with previous experience, and the turn to a direction which required a different altitude did not pose any concern. There are indications that pilots in local companies, including those involved in the occurrence, were accustomed to receiving altitudes inappropriate for the direction of flight through the Edmonton terminal and Red Deer en route sectors, and would seldom query controllers on the validity of these altitudes. This was likely due, in part, to the CFS planning section statement that pilots may be cleared at inappropriate altitudes for direction of flight on preferred routes between Edmonton and Calgary.
+
+
+The flight progress strips for both aircraft were not marked by the Red Deer en route sector data controller in accordance with ATC MANOPS instructions. The marking procedure was designed to alert controllers to potential conflicts arising from aircraft operating at altitudes inappropriate for the direction of flight. By not checking flight progress strips on a regular and random basis for conformance to standards regarding the issuance of altitudes and strip marking, NAV CANADA management personnel in the Edmonton ACC were unaware that Edmonton terminal and Red Deer sector controllers were not consistently adhering to mandatory procedures for altitude assignment.
+
+
+At the time of the occurrence, an air traffic conflict alert system was not fully installed and serviceable in the Red Deer en route sector of the Edmonton ACC. These systems are designed to alert controllers to the potential conflict between two aircraft.
+
+
+An inconsistency existed in the depiction of altitudes appropriate for direction of flight on V21 on the LO1 and LO2 charts, which were valid at the time of the occurrence. Although it was not considered to be a factor in this occurrence, this error could potentially result in confusion in altitude flight planning and air traffic control.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+CPB888 was allowed to operate at an altitude inappropriate for the direction of flight through the Edmonton terminal and Red Deer en route sectors of the Edmonton ACC. This reduced the safety margin required by the CAR for opposite direction traffic operating at segregated altitudes. Flight progress strips were not marked to alert controllers that CPB888 was operating at an inappropriate altitude for the direction of flight. This reduced the likelihood that controllers would detect a potential conflict with opposite direction traffic operating at appropriate altitudes. The radar controller did not adequately scan the radar display for other traffic prior to clearing CNS213 to the altitude occupied by CPB888, and the conflict between the two aircraft went undetected. When the new altitude of 16 000 feet for CNS213 was entered on the flight progress strip, there was insufficient review of other flight progress strips on the data board in order to determine if there was a conflict with other aircraft. CPB888 and CNS213 were then allowed to operate at the same altitude in opposite directions. A complex traffic situation brought about by the release of aircraft following the Calgary terminal air stop, G-8 airspace restrictions, a 16/17 altitude split, and thunderstorm activity imposed a high workload on air traffic controllers in the Red Deer en route sector. Flow control, as a tool primarily aimed at traffic management in terminal areas, had an adverse effect on the en route sector in this occurrence. With the supervisor working a control position rather than bringing a controller back from a break , personnel were not effectively managed in the Calgary en route specialty during a busy and complex traffic situation.
+
+
+
+Findings as to Risk
+
+
+The Canada Flight Supplement planning section states that altitudes inappropriate for direction of flight may be assigned by ATC at any time on the preferred routes between Edmonton and Calgary. This may also reduce the likelihood of pilots questioning the validity of the use of such altitudes. There was an inconsistency in the depiction of appropriate altitudes for direction of flight for V21 on charts LO1 and LO2. As a result, there is a risk of confusion on the part of pilots and controllers and the possibility of aircraft being cleared for the same altitude in opposite directions on the airway.
+

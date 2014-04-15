@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The decision-making process which surrounded the decision by the flight instructor to conduct an overshoot procedure at night with an indication in the cockpit of low engine oil pressure was examined. In hindsight and with the knowledge of outcome, this decision may appear to be incorrect; however, the decision and the factors influencing the decision must be examined in light of the situation facing the instructor pilot at the time. When the instructor pilot observed that there was a problem with the oil pressure, he immediately instructed the student pilot to turn back to the runway for a landing. The instructor pilot's decision to land the aircraft as soon as possible indicates he considered this situation an emergency and acted accordingly. He did not immediately take control of the aircraft as the flying pilot was maintaining control of the aircraft and was completing the turn back to the airport in accordance with procedures for landing.
+
+
+Because the flying pilot did not successfully complete the approach to land on the remaining runway, it could be argued that the instructor pilot should have taken control earlier and guaranteed the landing to be completed on the runway. As it was dark and there was a mist on the canopy, it is not known at what time the instructor pilot could clearly determine his height and position relative to the runway or if the contaminated curved canopy distorted his perception. However, it is apparent that, as soon as the instructor pilot believed the flight was not progressing as it should have been, (i.e., the aircraft was too high), he immediately assumed control.
+
+
+Once it was apparent that the aircraft was too high to successfully effect a landing on the runway, the instructor pilot was faced with two options: land straight ahead or overshoot and attempt another landing. The instructor knew that if he landed off this approach, he would experience a runway excursion and most likely damage the aircraft. Not knowing what was beyond the surface of the runway and that damage to the aircraft was likely, the instructor pilot decided to overshoot.
+
+
+Attempting an overshoot at night with low oil pressure was the riskier of the two options. However, the instructor pilot, knowing he had an engine that was still producing power, believed that there was a possibility of completing a safe landing. The decision to overshoot rather than land straight ahead is consistent with framing bias where the decision is framed as a choice between two losses: sure loss and uncertain loss. Landing straight ahead would have most likely guaranteed sure loss, that is damage to the aircraft and possible injuries. In conducting the overshoot, the possibility existed that the aircraft would not have been able to successfully complete the landing; however, that possibility was less known and not as certain as the sure loss that would have been experienced during a runway excursion. Typically, when faced with these types of probabilities, people are prone to accept the uncertain, albeit riskier loss. In the case of the instructor pilot, it appears that his decision was consistent with this type of bias.
+
+
+In this occurrence investigation the exhaust nuts on three of the four cylinders were found loose. It was determined that after maintenance that involved removing the exhaust system, the self-locking exhaust nuts were not replaced as recommended by the aircraft manufacturer. This style of lock nut is designed to be used only once as the removal reduces the locking qualities to where reinstallation is not recommended.
+
+
+The replacement oil filter played a minor role in this occurrence. The increased length placed the end of the filter closer to the exhaust pipe; however, had the pipe been installed and secured with new lock nuts torqued to specification, the end clearance would have been maintained and chaffing prevented.
+
+
+
+Findings
+
+
+The instructor pilot chose to overshoot and attempt another landing rather than land straight ahead. The replacement oil filter, being physically longer than the original oil filter, reduced the end clearance between the filter and the No. 2 exhaust pipe. The self-locking exhaust nuts that secure the exhaust pipe to the cylinder head were found loose on three of the four cylinders. The loose exhaust lock nuts allowed the No.2 exhaust pipe to move into contact with the oil filter housing and a clamp installed on the pipe chaffed a hole in the housing. There were no M8 lock nuts (ROTAX P/N 942-035) in the spares stock at the maintenance facility. The hole in the pressure oil filter housing allowed the lubricating oil to escape from the engine. When the quantity of oil in the engine became insufficient to supply the oil pump, the oil pressure deteriorated. The aircraft maintenance manual states "self locking nuts must be replaced with new items after removal in the event that the friction torque has diminished."
+

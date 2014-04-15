@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+During the test run of the occurrence engine, a poor fuel spray pattern and a late-opening enrichment valve resulted in an overly lean fuel/air mixture, which caused the engine to operate excessively hot during high power demand. When the exhaust valves overheated, they began to stick and the engine lost power. During the occurrence flight, the engine was at a low power setting during the autorotation. When the pilot accelerated the engine, it is likely that the exhaust valves overheated, causing them to stick, resulting in a loss of power.
+
+
+Shortly after the accident, the exhaust valve clearance was checked in accordance with the Lycoming MSB 388B; however, it did not reveal the sticking valves later found during the engine test-run. Therefore, the procedures outlined in the MSB were not adequate for conclusively determining if exhaust valves are sticking.
+
+
+The fuel servo installed on this engine had not been adjusted internally since manufacture. The fuel servo, as found after the occurrence, was not adjusted to the specifications required by Service Bulletin PRS-91. Accordingly, either the service bulletin instructions were not adequate, or they were not complied with during the initial fuel servo configuration.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Lean engine fuel mixture and a distorted fuel spray pattern likely caused the engine exhaust valves to overheat and stick. Sticking exhaust valves caused engine power loss. Service bulletins issued prior to the accident did not mitigate identified problems related to the power loss.
+
+
+
+Other Findings
+
+
+The helicopter was being operated within the limitations set out in the flight manual. Engine power loss using the engine/fuel servo combination found on this model of helicopter is a known problem.
+

@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+The precipitating event to this accident was a fatigue failure of the exhaust valve in the engine's No. 2 cylinder. This failure allowed combustible fuel-air mixture and exhaust by-products to pass through a damaged and continuously open exhaust port into an exhaust manifold that is shared with the No. 3 cylinder. Flaming gases from the two cylinders combined in the manifold and were ported into the upper right exhaust augmentor tube. The abnormally high temperatures that developed inside the augmentor tube were sufficient to cause carbon and oil deposits, normally found in the tube, to be burned away.
+
+
+The fretting and heat discolouration at the exhaust valve port and evidence of exhaust by-products found within the cracks between cooling fins in the cylinder head indicate that an overheating condition of the exhaust ear had been occurring for some time prior to the failure of the cylinder. These conditions may have existed and gone undetected at the time of the 500-hour inspection, completed approximately four days and 25 flight hours prior to the occurrence.
+
+
+Engine cylinders do not have a time-life nor is their usage tracked. Records for total hours of operation are not maintained for cylinders or their components, nor are such records required by regulation.
+
+
+When the cylinder head failed, the resultant flame/gas path was above and away from the area of the engine that is sensed by the fire warning system; consequently, the fire warning light did not activate. The flame path proceeded to the right side of the firewall and down towards the right augmentor. The in-flight buildup of light grey smoke, flames, then dense black smoke was consistent with the burning characteristics noted during fire testing of duct samples. The flames and smoke observed coming through the floor were at the location of the fibreglass heat duct. It is concluded that the fire was related to the failure of the cylinder; however, fire damage precluded a determination of how the fire travelled from the engine compartment to ignite the fibreglass duct work.
+
+
+The pilot's response to the fire emergency was consistent with procedures that are published in the aircraft flight manual. However, the hand-held extinguisher was ineffective against the fire.
+
+
+Once the aircraft was on the water, the fire spread rapidly. Within minutes, the engine and instrument panel of the cockpit, both wings, and the tail of the aircraft had burned away from the fuselage and dropped into the water. The aircraft fuel tanks remained intact throughout the hard landing and post-crash fire. Based on the amount of fuel removed after the occurrence, it is apparent that the fire was not directly fed by the fuel, although it is possible that fumes escaping from the fuel tanks may have fed the post-crash fire.
+
+
+The following Engineering Branch reports have been completed:
+
+
+LP 087/96 - Exhaust Valve Failure; LP 088/96 - Fire Characteristics; and LP 089/96 - Fire Damage Assessment.
+
+
+
+Findings
+
+
+The pilot was certified and qualified for the flight. Records indicate that the aircraft was certified, equipped, and maintained in accordance with existing regulations and approved procedures. Engine cylinders do not have a time-life nor are they tracked. Records are not maintained for the total number of hours of operation of cylinders and their components, nor are such records required by regulation. Cracks developing between cooling fins in the cylinder head and evidence of exhaust leakage may have gone undetected during the 500-hour inspection completed approximately four days and 25 flight hours prior to the occurrence. Failure of the No. 2 exhaust valve guide and subsequent failure of the exhaust valve likely occurred as a result of the effects of exhaust gases leaking at the exhaust port and heating the exhaust ear of the cylinder. There are no procedures to be followed in the event of a partial loss of engine performance, nor are there warnings relating to continued operation of a rough-running engine. Following the loss of engine performance, the pilot continued to operate the engine as he initiated a recovery to the departure water base. As the engine continued to operate, flaming fuel-air mixture escaped from the cylinder through the continuously open exhaust port and joined with the exhaust from the No. 3 cylinder. These combined exhaust gases produced a high heat that burned away carbon and oil residues normally found in the upper right exhaust augmentor tube. Failure of the valve in the No. 2 cylinder resulted in failure of the cylinder head and development of a gas/fire path across the top of the engine to the firewall and down towards the upper right augmentor. The fire started following the failure of the cylinder; however, fire damage precluded a determination of how the fire travelled from the engine compartment to ignite the fibreglass duct work. The pilot was unable to extinguish the fire using the on-board hand-held fire extinguisher. The aircraft was destroyed by fire within minutes after landing.
+

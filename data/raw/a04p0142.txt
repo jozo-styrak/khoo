@@ -1,0 +1,43 @@
+
+
+Analysis
+
+
+Possible fatigue initiation scenarios for the second-stage turbine wheel blade include tip rubbing, the presence of physical or metallurgical defects, high-cycle fatigue cracking due to vibration (blade flutter), and thermal fatigue cracking. The absence of any significant rubbing, blueing or mushrooming of the adjacent blade tip, combined with the acceptable dimensional analysis of the second-stage nozzle, suggests that tip rubbing was not an initiating event. Also, tip rub would initiate as high-cycle fatigue cracking normal to the blade axis. An optical examination showed that the initial fatigue cracking was in a radial direction toward the hub. Metallurgical analysis did not reveal any manufacturing or material anomalies that would have contributed to fatigue initiation. Although obscured somewhat by the presence of an oxidation layer, the fatigue striation spacing and initiation site (that is, the mid-chord as opposed to the trailing edge) would indicate that the initial mode of failure was low-cycle fatigue cracking. Once the cracking had started, its presence served as a stress raiser, so that normal service stresses could now drive the cracking in a high-cycle mode.
+
+
+Thermally induced fatigue cracking occurs when rapid expansion in the rim area of the turbine wheel produces large, momentary compressive hoop stresses. Compressive stress develops when the rim tries to expand, but is retrained by the cooler hub material. This compressive stress leads to a localized yielding of the turbine wheel rim material. Subsequent steady state operational temperatures then result in tensile stresses in the rim that initiate fatigue cracking. The location and orientation of the cracks in the subject second-stage turbine wheel are considered to be the result of thermal fatigue.
+
+
+The engine oil pressure and temperature gauge that had been installed for some time was for a C20B model; therefore, it had incorrect markings. Also, the TOT harness and TOT gauge were replaced about 312 airframe hours before the occurrence, due to erroneous readings. It was not possible to confirm that the ultimate temperature (927 C) for which a turbine inspection is recommended was reached during the so-called "hot starts," or that a maximum continuous temperature of 810 C during steady state operation was reached. The TOT harness may have had a 0.03 ohms discrepancy, and the incorrect TOT gauge was replaced due to a 15 C indication error; it was installed for only 63.1 hours during which, in the worst case scenario, it may have provided inaccurate engine temperature indicatons. The effects of these erroneous TOT indications and any contribution to the turbine wheel cracking could not be determined within the scope of this investigation; however, it was suggested that their contribution was unlikely because turbine blades that have been subjected to long-term overheating will normally show a change in the distribution of the gamma prime phase, due to partial re-solutioning. The gamma prime phase was uniformly distributed in both the first- and second-stage turbine wheels. This does not preclude the possibility that the short-term overheating of the second-stage turbine wheel occurred. It is possible that the wheels experienced short-term temperature excursions related to hot starting events and/or power transients sufficient to induce thermal cracking, without redistributing the gamma prime phase. Hot starting events are not recorded by this helicopter's instrumentation and may not be recorded accurately by an operator, even if detected. About 45 engine hours before the occurrence, the engine fuel control unit was adjusted due to hot starting. The number of degrees by which the temperature was exceeded was not recorded.
+
+
+The following Transportation Safety Board Engineering Laboratory project was completed:
+
+
+LP 068/2004 - Engine Parts Examination
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+Thermally induced fatigue cracking initiated radially inward in a low-cycle mode in the blade platform fillet area, then progressed normal to the blade axis in a high-cycle mode, eventually resulting in a blade failure due to overstress rupture when the remaining area could no longer support the applied loads.
+
+
+
+Findings as to Risk
+
+
+Hot starting events and/or power transients are not recorded in this type of helicopter and may not be recorded accurately by an operator even if detected. Turbine wheel failures may occur when hot starts and power transients are undetected, or if their effects go unchecked. The first-stage turbine wheel revealed many type A and approximately four type B cracks in the blade rim, and cracks in the fillet radius of blades can lead to turbine failures. There is no prescribed scheduled inspection to detect these cracks, but a turbine special inspection is recommended when turbine outlet temperature limits are exceeded. No cracks in the blades are allowed.
+
+
+
+Other Finding
+
+
+Approximately 25 per cent of the major diameter seal was missing from the rear support as a result of dis-bonding due to a bond failure that likely resulted in a slight loss of engine efficiency.
+

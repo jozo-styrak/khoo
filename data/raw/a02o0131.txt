@@ -1,0 +1,24 @@
+
+
+Analysis
+
+
+The nose-gear actuator failed 89 cycles after it had undergone an end-play check in which it was determined to be within limits. It was discovered during the tear down of the occurrence actuator that the aluminum-bronze alloy nut and steel screw were relatively free of grease. Without lubrication, the steel screw, under load and moving through the aluminum-bronze alloy insert, would produce a high wear rate resulting in premature failure. It was concluded that lack of lubrication resulted in excessive wear of the nut assembly and premature failure. It could not be determined if the lack of lubrication was due to removing the nut from the actuator and cleaning away the grease during a field inspection, grease propagating from the nut, or incorrectly filling the nut with grease during overhaul. Although Voyageur Airways used approved procedures in completing maintenance tasks related to the nose-gear actuator, differences between the King Air 100 and 200 Maintenance Manuals may have resulted in inconsistent maintenance practices.
+
+
+Although Raytheon Aircraft issued communiques in 1989 and 1990 stating that the internal lubrication (actuator repack) was no longer required in ATA 5, the King Air 100 and 200 Maintenance Manuals were not amended. Therefore, the procedure in the King Air 200 Maintenance Manual, which refers to disassembly and lubrication, could result in maintenance personnel following a procedure that was no longer required or recommended.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The nose landing gear actuator failed prematurely due to excessive wear of the nut assembly as a result of lack of lubrication. The cause of the lack of lubrication could not be determined.
+
+
+
+Other Findings
+
+
+Although the King Air 100 and 200 have the same nose-gear actuator part number, the procedures to complete the end-play check in the two maintenance manuals are slightly different. This could lead to inconsistent maintenance practices, despite the fact that Raytheon published communiques in 1989 and 1990 stating that internal lubrication of the actuators was no longer required.
+

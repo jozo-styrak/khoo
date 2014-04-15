@@ -1,0 +1,27 @@
+These shortfalls continue to contribute to confusion and erroneous assumptions	is a continuing risk of collision from runway incursions when intersection departure procedures are being used
+Tower controllers are not required to include the entry point in clearances onto the runway at the threshold and flight crews are not required to indicate the taxiway or runway intersection entry point onto a runway	, the risk of a runway incursion error is increased during intersection departure operations , especially at night or during low-visibility operations
+the previously noted unreliability	of the ASDE equipment
+the south tower controller observed an ASDE target at Taxiway L2	he assumed the target to be false because of the previously noted unreliability of the ASDE equipment
+that party is a party of one and an error is introduced	biases3 prevent recognition and acceptance of information that is contrary to the party 's mental model or mindset of the current situation
+the south tower controller believed that Jazz 8191 was at the threshold	A runway entry location was not communicated to Jazz 8191
+they could not see the Navair Islander that they had been cleared to position behind , and because their clearance did not mention the intersection entry point -LRB- as stated in the AIM -RRB-	In this instance , there may have been an obligation for the flight crew of Jazz 8191 to query the south tower controller
+it did not establish a requirement for tower controllers to also state runway entry locations at the threshold when intersection departure procedures are being used	The circumstances of this occurrence demonstrate that the safety action taken by NAV CANADA in response to TSB investigation A00P0206 fell short of being complete
+promoting	a heightened level of situational awareness among all users
+A take-off clearance indicates to a pilot that the runway surface is clear of traffic and safe for the intended operation	, a pilot would not expect to see an aircraft on the runway ahead
+by visual means alone , that Jazz 8191 had moved onto the runway -LRB- unexpectedly from the controller 's perspective -RRB- at Taxiway L2	detect
+tower controllers are not required to include the entry point in clearances at the threshold , risk in the runway environment is increased during intersection departure operations , especially at night or during low-visibility operations	Because flight crews are not required to include the taxiway or runway intersection with clearance onto a runway and
+another aircraft , Jazz 8191 , was taxiing , in accordance with air traffic control -LRB- ATC -RRB- instructions , to position on the same runway	When Navair 612 , at the threshold of Runway 08R , received the clearance for take-off , the runway was unsafe for the intended operation
+Navair 612 , at the threshold of Runway 08R , received the clearance for take-off	the runway was unsafe for the intended operation because another aircraft , Jazz 8191 , was taxiing , in accordance with air traffic control -LRB- ATC -RRB- instructions , to position on the same runway
+The factors	the controller making an incorrect assumption about the position of Jazz 8191 were as follows
+the controller	an incorrect assumption about the position of Jazz 8191
+The displaced and partially obscured taxiway assignment , L2 , on the flight progress strip for Jazz 8191	the south tower controller missing the digit 2 when he scanned down the column of flight progress strips
+biases3	recognition and acceptance of information is contrary to the party 's mental model or mindset of the current situation
+the south tower controller 's plan was	false information
+in place	such runway incursions
+The lack of a communicated runway entry location for Navair 612	an expectation for the crew of Jazz 8191 the Islander was at the threshold behind them
+These shortfalls continue	confusion and erroneous assumptions
+The south tower controller 's focus on planning ahead for several departures and other potential workload distractions	it more difficult for the south tower controller to detect , by visual means alone
+the angle of approach to the runway for Jazz 8191	the ability of the flight crews and tower controller
+A series of unidentified radio transmissions occurred regarding inoperative navigation lights on an Islander	some confusion
+These shortfalls continue	confusion and erroneous assumptions , with a continuing risk of collision from runway incursions being the result
+The ASDE system at Vancouver International Airport has been known to randomly display erroneous information	an additional workload upon controllers

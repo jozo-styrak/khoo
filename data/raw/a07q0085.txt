@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The TSB post-accident examination revealed that the snap ring within the MGB epicyclic reduction gear module was installed before installing the spacer assembly. The wrong installation sequence of the snap ring, relative to the spacer assembly, allowed the snap ring to slip from its groove on the mast, which in turn prevented the locking tabs from holding the mast retaining bolts. The bolts loosened by rubbing inside the sun gear, and eventually fell out, allowing the main rotor shaft to move vertically. The vertical movement of the main rotor shaft caused the rotor blades to strike the forward fuselage.
+
+
+MM 63.10.16.403 was used as the primary reference for installing the snap ring. MRM WC 62.30.16.701 was not considered to be applicable information because most of the steps were not applicable to the task being performed. This was determined, at the time of the maintenance work, by visually scanning the headings within the 15 pages of MRM WC 62.30.16.701. None of the headings were considered pertinent and therefore further reading of the material was deemed unnecessary. This caused the AMEs to miss pertinent information concerning the proper installation sequence of the snap ring. The MM instructions imply that the snap ring should already have been installed, but do not indicate exactly when to install it. The MM instructions lead the AMEs to WC 62.30.16.701 to check for correct fitting of the snap ring. They considered this redundant because the snap ring could only be fitted in one specific groove on the main rotor shaft.
+
+
+Using the borescope to confirm a correct and complete installation by verifying an equal number of threads on the mast retaining bolts provided false confidence by implying that the assembly was done properly. The instructions fail to specify a minimum number of visible threads necessary to ensure the integrity of the assembly.
+
+
+Before this occurrence, low Nr, magnetic chip fuzz, ground resonance, and a low-frequency hum were detected. Each of these symptoms was examined individually by qualified personnel according to the manufacturer's instructions. None of the symptoms were considered to be related, nor were they linked to the installation of the epicyclic reduction gear module. The troubleshooting references, including technical representative consultations, did not link these symptoms to the snap ring installation sequence likely because a previous relationship between these symptoms was not known. Even though these symptoms were present at various points in time over the 35 hours of flight conducted, the aircraft continued to operate within its normal parameters.
+
+
+In addition, the information available from previous occurrences did not clearly link these symptoms to the snap ring installation sequence. It is now known that these symptoms may indicate a loss of integrity of the MGB epicyclic reduction gear assembly.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft maintenance engineers (AMEs) did not consult the applicable sections of the work card for the re-installation of the main rotor shaft and the main gearbox (MGB) epicyclic reduction gear module. This resulted in the snap ring being installed in the wrong sequence. The wrong installation sequence of the snap ring ultimately allowed the mast retaining bolts to loosen and the mast to move vertically, causing the rotor blades to strike the forward fuselage.
+
+
+
+Findings as to Risk
+
+
+The symptoms experienced during ground-runs and flight tests, and noted during flights following the maintenance, demonstrated a previously undiscovered link to the incorrect assembly of the MGB epicyclic reduction gear module. Current maintenance manual troubleshooting instructions do not direct AMEs to a possible MGB epicyclic reduction gear module assembly problem. Referring AMEs to lengthy instructions, not necessarily required in full, may result in a filtering process that causes important information to be missed. The maintenance manual specifies that the same number of threads should be visible on the main rotor shaft retaining bolts during the borescope inspection, but it does not specify the actual number of threads that should be visible to confirm proper installation. Therefore, the installation could appear to be secure when it is not.
+

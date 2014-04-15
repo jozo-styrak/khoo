@@ -1,0 +1,17 @@
+
+
+Analysis
+
+
+Air traffic controllers sometimes form mental images of recurring call signs; they associate a certain type and speed of aircraft with the particular call sign they hear. When this happens, they may not assimilate all the information from the data strips. Frequent exposure to TC inspection flights leads some controllers to associate the generic REGS call sign with smaller, slower aircraft.
+
+
+The departure controller, responsible for an arriving aircraft that was traversing the departure sector at an altitude much lower than the standard of 8,000 feet asl, thought that he was dealing with a type of aircraft that had an airspeed comparable to that of the departing flight CDR 1255 (about 160 knots), and he established his separation strategy accordingly. It is likely that he was distracted by the aircraft departing from Boundary Bay, and in particular by the second Canadian Regional flight, which was encountering bad weather and which needed to be re-routed. As a consequence, it is likely that his attention became channelized and he did not recognize the developing conflict between CDR 1255 and REGS 33. The significant difference between REGS 33's anticipated and actual airspeed had critically affected the rate of closing. Because the two aircraft had been cleared to the same altitude with the expectation that their tracks would not intercept with less than the minimum radar separation, the controller did not recognize the impending conflict in time to prevent the loss of separation.
+
+
+
+Findings
+
+
+A loss of separation occurred; however, there was no risk of collision as both pilots had each other in sight. The departure controller's airspace separation plan was based on his expectation that both aircraft would operate at about the same airspeed, as he associated REGS 33 with slower, smaller aircraft. The departure controller did not observe the speed of the Convair displayed in the radar data block and in the ATC flight data strip. An aircraft that had departed from Boundary Bay and the routing of another aircraft around an area of bad weather are likely to have distracted the departure controller, causing him to channelize his attention, and to miss the developing conflict between the two occurrence aircraft.
+

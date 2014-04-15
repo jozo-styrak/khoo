@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The aircraft was certified and maintained in accordance with existing regulations. All aircraft systems were functioning normally. There was no indication found of any airframe failure or system malfunction during the flight. Examination of the engines did not reveal any .sign of failure. Both engines were producing power, and all damage was caused by the impact. Further, internal marks left by the impact confirm that the angle of the blades corresponded to fine pitch. All indicationse training required by Transport Canada, A ropro did not ensure that the pilot-in-command complete the required Pilot Proficiency Check (PPC) and was adequately supervised and experienced to conduct a night IFR flight safely as pilot-in-command. When the pilot-in-command filed his flight plan, the weather conditions had improved at destination. During the descent to Val-d'Or Airport, a new weather sequence was transmitted to him indicating that weather conditions were VMC. The pilot immediately cancelled his IFR flight plan and chose to enter a right-hand downwind leg for runway 36. In making the transition to VFR, the pilot did not expect to encounter IMC and to overshoot in IMC.
+
+
+On the day of the accident, environmental conditions and loss of visual ground references near Val-d'Or Airport were conducive to spatial disorientation. Given the prevailing weather conditions on final approach for runway 36, the runway was difficult to see.
+
+
+It is conceivable that the pilot did not review the overshoot procedure and did not pull up towards the centre of the airport. During the overshoot, false-horizon and false-climb illusions were both possible. In reaction to a false-horizon illusion, pilots can be led not to act correctly on the flight controls. A false-climb illusion, for its part, can lead pilots to push on the stick and put the aircraft in a nose-down attitude. At low altitude, pilots have very little time to recognize an illusion and take corrective action. Information gathered at the accident site showed that the aircraft was flying on a heading of approximately 120 degrees magnetic in a 60-degree banked right turn when it struck the ground. The aircraft's angle of impact appears to be more consistent with the nose-down attitude associated with a false-climb illusion.
+
+
+Only instrument flight training, experience and practice can provide pilots with the skills needed to recognize and counter the effects of spatial disorientation. The pilot of the accident aircraft was certified for the flight, but had little instrument flight experience. The pilot had not had the opportunity to fully acquire the skills to react immediately to spatial disorientation. It is likely that the pilot became disoriented and was unable to regain control; he thus flew the aircraft towards the ground after losing situational awareness.
+
+
+TSB examines general safety trends and new safety issues. These issues include approach and landing accidents involving commercial passenger aircraft. Weather plays a role in virtually all the accidents of this type, mostly recorded under the CFIT category.
+
+
+The following TSB Engineering Laboratory report was completed.
+
+
+LP 019/2001 -Engine Teardown and Examination.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The environmental conditions and loss of visual ground references near Val-d'Or Airport were conducive to spatial disorientation. Because of a lack of instrument flight experience, the pilot probably became disoriented during the overshoot and was unable to regain control of the situation. During the approach, the pilot did not plan to and did not pull up towards the centre of the airport, thereby contributing to spatial disorientation. Although the pilot-in-command received training required by Transport Canada, A ropro did not ensure that the pilot-in-command completed the required Pilot Proficiency Check (PPC) and was adequately supervised and experienced to conduct a night IFR flight safely as pilot-in-command.
+

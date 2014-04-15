@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+The locking mechanism used to hold the upper stairs in position is a fairly simple mechanical device. The pawl that prevents the stairs from descending is held in place against the dog rail by a spring and released by energizing a solenoid. In this occurrence, the pawl had only partially engaged the dog rail and, after several passengers had travelled over the stairs, it slipped off, allowing the upper stairs to descend away from the aircraft. Whether this was due to a weakness in the spring, a mechanical resistance in the mechanism, or a combination of both, the proper functioning of the locking mechanism was impeded.
+
+
+The company had procedures in place whereby periodic service checks and periodic operational/safety checks were to be carried out on all ground support equipment to ensure proper mechanical functioning. However, these procedures were not being followed and the passenger stand was 130 hours overdue for a service check.
+
+
+There was no policy in place requiring the passenger stand operator to do a close visual inspection of the locking mechanism to ensure full engagement. Other passenger stand operators reported that they would take only a cursory look at the locking mechanism when leaving the vehicle. Any visual inspection would have been impeded because the pawl, the dog rail, and the background were all painted the same dark green colour and, on this particular vehicle, a support brace impeded the operator's view.
+
+
+
+Findings
+
+
+The locking mechanism was not functioning properly, and as a consequence, disengaged allowing the upper stairs to descend away from the aircraft. The procedures that were to ensure the proper mechanical operation of the passenger stand were not being followed. The passenger stand was 130 hours overdue for a service check. There was no company requirement for the passenger stand operator to do a close visual inspection of the locking mechanism. Passenger stand operators were taking only a cursory look at the locking mechanism when leaving the vehicle. Visual inspection of the locking mechanism was impeded because the components were all painted the same dark green colour and, on the occurrence vehicle, a support brace impeded the operator's view. Operators of the passenger stand reported that they had not received formal training on the operation of the equipment.
+

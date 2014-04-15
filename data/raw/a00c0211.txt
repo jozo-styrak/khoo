@@ -1,0 +1,49 @@
+
+
+Analysis
+
+
+The controller expected that the Boeing 747 would achieve a climb rate sufficient to assure adequate spacing from the Airbus A319. He did not expect any conflict, so he cleared the Boeing 747 to climb through the altitude of the Airbus A319. Because he expected no conflict, he did not impose any restrictions for the climb, such as a specified heading or climb rate. Nor did he instruct the crew to report climbing through a specific altitude to remind him to reassess his separation plan.
+
+
+However, the plan was flawed because the actual climb rate was less than the controller had expected. The controller did not recognize information that could have led him to realize his climb rate expectation was incorrect. He did not notice that the vertical motion indicator in the Boeing 747 data tag was absent, indicating that the climb rate was below the 600 fpm threshold. He observed the Boeing 747 climbing through FL380, but did not recognize that the climb to that point had been slower than he had expected. He did not realize that his separation plan was flawed because his expectation of climb performance was not disproved. Therefore, he did not take any action to ensure separation would be maintained, or to remind himself to reassess the plan as the climb progressed further.
+
+
+The flight progress strip for the Boeing 747 had already been cocked to remind the controller that the Lumsden estimate had not yet been passed to the Broadview sector, so he did not need to cock it because of the climb clearance. His normal working practice was to uncock a flight progress strip when the action of advising the next sector of an estimate was complete; therefore, it is probable that he uncocked the flight progress strip once Broadview had received the Lumsden estimate and altitude of FL410 for the Boeing 747. Had the estimate been passed to Broadview before the climb clearance was issued, it is likely the controller would have cocked the flight progress strip when he issued the clearance, and then uncocked it when the new altitude was passed. Because of this practice, it is likely he would not have left the strip cocked as a reminder even if he had identified a conflict. As a result, the controller did not have any procedural cues reminding him to monitor the climb because he probably uncocked the flight progress strip, and also because he did not use a red "W" on the flight progress strips for either aircraft.
+
+
+The controller's selection of Quicklook "ALL" at 1614:49 was likely made so the controller could see the data tag for the Fokker F28 after he was asked by Great Plains to approve the climb for that aircraft to FL330. It is possible that the controller focussed on the need to ensure separation between the Fokker F28 and other aircraft, diverting his attention from the potential conflict between the Boeing 747 and the Airbus A319. The location of the Fokker F28, between the Boeing 747 and the Airbus A319, may have prevented him from noticing the developing conflict.
+
+
+During the period from 1615:43 to 1618:19, the controller was occupied with other activities that diverted his attention from monitoring the climb of the Boeing 747. Because there was no second controller to perform the data position duties, he was maintaining the flight data board, emptying the flight progress strip printer, and processing flight progress strips, including non-pertinent flight progress strips not relevant to his sector. He was also double-checking estimates and preparing to pass them to other sectors. The practice of not using a data controller during periods of low traffic increased the workload of the radar controller and reduced the time available for flight monitoring.
+
+
+Diverting attention away from the IM for any length of time results in a breakdown of the defence afforded by effective scanning techniques. With no other defences in place, such as conflict alerting, use of a red "W," cocking of flight progress strips, an instruction for altitude call-outs from the Boeing 747, or a second controller working the data position, the controller's attention was not directed back to the developing conflict. The controller did periodically monitor the IM, as indicated by the de-selection of Quicklook "ALL" at 1616:35, and the activation of PTL "ALL" at 1616:50; however, this monitoring was not sufficient to detect the conflict.
+
+
+A loss of separation occurred because the controller cleared the Boeing 747 to climb and allowed the two aircraft to pass with less than the minimum required separation of 5 nm laterally or 2000 feet vertically, as specified in CAR 801.08 and the associated standard.
+
+
+There are several ground and airborne layers of defence to prevent midair collisions caused by human error. In this occurrence, the ground-based defences failed despite existing procedures and despite reminders in the five bulletins described above that emphasized the need for proper procedures and monitoring. TCAS, fitted in both occurrence aircraft to comply with the regulations of states other than Canada, provided the initial conflict alert just before the controller recognized the conflict, but too late to prevent a loss of separation. The possibility for controller misjudgement and diversion of attention to other tasks exists; however, there is currently no automated conflict-alerting system available in Canada to provide a defence against the failure to recognize aircraft conflicts.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The controller cleared the Boeing 747 to climb through the altitude of the Airbus A319, and did not monitor the flight paths of the aircraft closely enough to prevent a loss of separation. The controller's expectation that the Boeing 747 would climb at a rate sufficient to assure required separation was incorrect. He did not detect the lower-than-expected climb rate, although visual clues were available on the IM. The controller did not use published flight progress strip marking or handling procedures to alert him to the need to monitor the climb of the Boeing 747, nor did he use available IM display tools to help identify the conflict. These are memory aides only and are predicated on the recognition of a conflict in the first place. The controller was occupied with traffic and other duties that reduced the time available for monitoring the flight paths of the Boeing 747 and the Airbus A319.
+
+
+
+Findings as to Risk
+
+
+There is no functioning conflict-alerting tool available to warn controllers of impending air traffic conflicts, although Nav Canada is currently testing software. The practice of combining the radar and data positions in a sector reduces the opportunity to detect conflicts and take timely action to prevent a loss of separation. The CARs currently do not require TCAS to be installed in aircraft flying in Canadian airspace.
+
+
+
+Other Findings
+
+
+The TCAS system in each aircraft warned the flight crews of the conflict.
+

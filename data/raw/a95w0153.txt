@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+A combination of factors probably contributed to the loss of control shortly after take-off. The pilot's reported distressed emotional state from the argument with the employee and from being behind schedule on his work projects may have distracted the pilot during the pre-flight and during flight. However, it could not be determined to what extent the pilot's emotional state affected him.
+
+
+Because the aircraft was over the maximum certified take-off weight, the performance degradation would have resulted in a longer than normal take-off roll, a reduced climb rate, and an increased stall speed. It is likely that the pilot had not selected the landing gear up after take-off because he was distracted by the open baggage door. The open baggage door, the overweight condition, and the extended landing gear decreased the aircraft's performance and probably resulted in the aircraft being flown at a lower than normal airspeed.
+
+
+When the baggage door opened, it was an unexpected and distracting event, and it probably distracted the pilot's attention from his primary task of maintaining control of the aircraft. The pilot may have elected to maintain a low airspeed to reduce the chance of the door being torn away from the aircraft. It is concluded that the pilot allowed the airspeed to decrease to the point where the aircraft stalled, and because of the low altitude, the pilot was unable to recover in time to prevent the crash.
+
+
+The following TSB Engineering Branch reports were completed:
+
+
+LP 130/95 - Forward Baggage Door Examination, and LP 131/95 - Instrument Examination.
+
+
+
+Findings
+
+
+The pilot was certified and qualified for the flight in accordance with existing regulations. At take-off, the aircraft was approximately eight per cent over the maximum allowable take-off weight. Examination of the engines and propellers indicated that power was being produced by both engines on impact. The forward baggage door was open at impact; it was not locked and likely not latched properly prior to take-off. The key and tumblers in the baggage door key lock were worn, and the key could be removed in the UNLOCKED position. SB 872 and AD 87-04-05 do not require periodic repetitive inspections of the forward baggage door latching mechanism. The Piper Aircraft Maintenance Manual requires an inspection and operational check of cabin entrance doors and baggage doors, including security of locks, latches, and hinges, every 100, 500, and 1,000 hours. The pilot did not raise the landing gear after take-off. The distraction(s) created by the open door likely contributed to the loss of airspeed and aerodynamic stall.
+

@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+A rod assembly installed on an inner blade requires the rod ends to be adjusted so that there are more exposed threads than what would be found on a rod assembly used on an outer blade. If a rod assembly--specifically a rod end that was previously used on an inner blade--was reinstalled on an outer blade, the need to thread the rod end further into the link could result in a crack being hidden by the link, the locking devise, or the nut. Because the inspections in the Sikorsky S-76 Maintenance Manual (Revision 31) and in ASB 76-65-45A are specific to only the exposed threaded area of the rod end, it is possible that a such a crack could be hidden. Furthermore, since the Maintenance Manual does not specify a requirement to check for cracks in the tail rotor pitch control rod assembly rod ends, it is possible that a crack could remain undetected.
+
+
+A logbook entry must be made showing compliance with Sikorsky ASB 76-65-45A. However, if a rod assembly or rod end were changed, and no service history on the part was available (including whether the ASB inspection had been performed on the part), the aircraft records could show compliance with the ASB although the rod end could be cracked. If an inspection (as defined in the ASB) were not performed, such a crack could remain undetected.
+
+
+The ASB details a procedure for positively identifying cracks. The Maintenance Manual requirements--to check for damage and security--are general in nature, and do not include instructions on how to perform a crack inspection. Without a specific requirement to check for cracks, including instructions on how to perform such an inspection, it is likely the operator will perform a general inspection, which will not produce the same results as required in the ASB.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 81/98 T/R Pitch Link Assembly
+
+
+
+Findings
+
+
+The rod end (part number 76103-05002-102) failed as a result of high cycle fatigue under normal service loads. Fatigue was found to be coincident with the stress concentration provided by the thread roots in the presence of corrosion pitting. The exact TTSN and service history of the rod end could not be determined. The tail rotor pitch control rod assemblies are maintained as an "on condition" item. The integrity of the rod end cannot be accurately determined unless the entire threaded area is inspected. Sikorsky Alert Service Bulletin 76-65-45, first issued 11 March 1994 and reissued 8 June 1994 as 76-65-45A, highly recommends an inspection be performed on the exposed threaded areas of the rod ends. The inspection requirements of Sikorsky ASB 76-65-45 and ASB 76-65-45A are specific to the rod ends; however, the documentation showing compliance is specific to the helicopter records. The Sikorsky S-76 Maintenance Manual (Revision 31) does not identify a unique requirement to inspect the tail rotor pitch control rod assembly rod ends for cracks. The tail rotor pitch control rod bearing radial play was found to be within Sikorsky's published limits; however, the metal-to-metal contact between the inner and outer bearing races appears to meet the Maintenance Manual requirement for replacement of the rod end. The exposed threaded portions of the broken tail rotor pitch control rod did not have either of the required corrosion preventative compounds applied, as per the Maintenance Manual.
+

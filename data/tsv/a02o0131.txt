@@ -1,0 +1,12 @@
+Although Raytheon Aircraft issued communiques in 1989 and 1990 stating that the internal lubrication -LRB- actuator repack -RRB- was no longer required in ATA 5 , the King Air 100 and 200 Maintenance Manuals were not amended	, the procedure in the King Air 200 Maintenance Manual , which refers to disassembly and lubrication , could result in maintenance personnel following a procedure that was no longer required or recommended
+of the lack of lubrication could not be determined	The nose landing gear actuator failed prematurely due to excessive wear of the nut assembly as a result of lack of lubrication
+lubrication	the steel screw , under load and moving through the aluminum-bronze alloy insert , would produce a high wear rate resulting in premature failure
+removing the nut from the actuator and cleaning away the grease during a field inspection , grease propagating from the nut , or incorrectly filling the nut with grease during overhaul	It could not be determined if the lack of lubrication was
+lack of lubrication	The nose landing gear actuator failed prematurely due to excessive wear of the nut assembly
+excessive wear of the nut assembly as a result of lack of lubrication	The nose landing gear actuator failed prematurely
+a high wear rate	premature failure
+Without lubrication , the steel screw , under load and moving through the aluminum-bronze alloy insert	a high wear rate resulting in premature failure
+lack of lubrication	excessive wear of the nut assembly and premature failure
+differences between the King Air 100 and 200 Maintenance Manuals	inconsistent maintenance practices
+Therefore , the procedure in the King Air 200 Maintenance Manual , which refers to disassembly and lubrication	maintenance personnel following a procedure that was no longer required or recommended
+This	inconsistent maintenance practices , despite the fact that Raytheon published communiques in 1989 and 1990 stating that internal lubrication of the actuators was no longer required

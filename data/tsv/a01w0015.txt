@@ -1,0 +1,10 @@
+The La Biche sector was only staffed by one controller at a time of moderate traffic	, in order to accomplish other control-related tasks , less time was available for full-time flight monitoring
+When initially contacted by NWA11 , controller No 3 did not compare the altitude on the flight progress strip or the aircraft 's data tag on the radar display with the altitude reported by the flight crew	, controller No 3 did not detect that SYN21 and NWA11 , on converging tracks , were at the same altitude
+controller No 1 left his workstation to discuss the situation with the Whitecourt sector controller	effectively coordinate a reroute and altitude change with a sector that had not been included in the original FPS distribution
+NWA11 contacted controller No 3	he did not check the FPS to ensure that the altitude provided matched the assigned altitude on the FPS
+less time was available for full-time flight monitoring	accomplish other control-related tasks
+a controller may not have time to become fully familiar with the current operation before being relieved	Successive rapid controller changes at operating sectors could result in errors going undetected ,
+the altitude	the assigned altitude on the FPS
+The rapid changeover of controllers at the La Biche sector within a few minutes	their lack of situational awareness
+This change	any opportunity for subsequent controllers to detect the impending conflict and develop a plan to ensure that required separation was established
+Successive rapid controller changes at operating sectors	errors going undetected

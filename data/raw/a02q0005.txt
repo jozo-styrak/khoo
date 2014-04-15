@@ -1,0 +1,51 @@
+
+
+Analysis
+
+
+Although the pilot in the left seat was fully responsible for the flight, both pilots must have been in agreement when planning the trip and itinerary. It is thus reasonable to believe that the decisions concerning the flight were made jointly.
+
+
+Both pilots had planned to take off from Saint-Hubert on Saturday and return from Gasp the next day. The weather information collected on Friday, the day before leaving, and on Saturday morning, indicated that they could anticipate poor conditions for visual flight on Sunday. The fact that the pilot had informed the FSS specialist of his intention to fly back the same day indicates that he felt that the forecast for the next day might compromise the return flight. For unknown reasons, the pilots decided to spend the night in Gasp . Although they were aware that poor weather conditions were forecast, they did not seem to consider waiting for the conditions to improve, and left Gasp as initially planned.
+
+
+The investigation could not determine whether the pilot was pressured to undertake the flight. Paradoxically, neither the warnings about poor weather conditions forecast along the route, nor an initial departure that ended in their return, nor even a warning from the school not to risk the weather, dissuaded the pilot from returning to Saint-Hubert on Sunday as initially planned.
+
+
+At 1500, the pilot had decided to postpone the return flight until the next day. The reasons why the pilot changed his plans 30 minutes later, filed a flight plan, and left for Qu bec are unknown. However, the following factors could have affected his decision:
+
+
+good conditions above Gasp and during the previous flight poor forecasts for VFR flight the next day that could cause an additional delay desire to attempt the flight with an option of returning in case of bad weather
+
+
+Even if VFR night flight was allowable, the area being flown over and the weather conditions taken together, likely did not allow the pilot to identify landmarks and to navigate by map. As a result, although he could fly at night, it is unlikely that the pilot would have taken off without being sure that he could reach his destination if he could not see any visual landmarks. It is possible that having a GPS on board influenced the pilot's decision to take off with the risk of encountering marginal conditions at best.
+
+
+The pilot's intention to fly above the cloud layer showed poor knowledge of the regulations and risks associated with this type of flight regime. It can also be concluded that the pilot intended to use the GPS as the primary means of navigation if it became necessary.
+
+
+After taking off in good VFR conditions, the aircraft probably encountered the IMC conditions reported in the weather forecast. Because it was night, it was probably difficult to see the poor conditions before entering them. No aerodynamic effects due to airframe icing during the flight were found. The aircraft was slowed by impacts with the trees in the final moments. Consequently, the aircraft speed at the time of the impact was higher than the reading on the anemometer (150 knots). In summary, the aircraft crashed after entering a descending turn during which its speed increased to nearly the never exceed speed.
+
+
+The pilot may have started a spiral recovery just before the collision because the angle of descent was greater than the aircraft's nose-up angle. A nose-down attitude and increase in speed are characteristic of a spiral. According to the evidence, the descending turn ended in a collision with the ground because the pilot did not have the visibility needed to see the terrain. Despite the loss of visibility, the aircraft instruments should have allowed the pilot to maintain a normal attitude and follow a heading. The investigation could not establish the extent of the pilot-passenger's participation in the flight. Nevertheless, it can be concluded that the instrument flight experience of both pilots was not sufficient to avoid spatial disorientation and the resulting spiral.
+
+
+The following TSB Engineering Branch Reports were completed:
+
+
+LP 024/2003 - Examination of Safety Belts LP 118/2002 - Instruments and ELT Examination LP 116/2002 - Exhaust Stack Analysis Temperature Determination
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot's lack of experience combined with poor weather conditions resulted in spatial disorientation that led to a loss of control.
+
+
+
+Other Findings
+
+
+The emergency locator transmitter (ELT) did not transmit an emergency signal, probably because debris struck the reset button, interrupting transmission. This could have had serious consequences had there been any survivors. Having a global positioning system (GPS) on board possibly affected the pilot's decision to take off even though poor visual flight rules (VFR) conditions were forecast along the route.
+

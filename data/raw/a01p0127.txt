@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+Based on a review of available radar and radio communication information, it is likely that the controller anticipated that Air Canada (arriving from the north) would be down to his cleared altitude (3,000') before lateral separation was lost.
+
+
+However, when the controller cleared ACA163 for the ILS approach, he also directed a speed reduction to 170 knots. ACA163 responded by commencing a turn and slowing the aircraft to meet the speed restriction. As ACA163 decelerated to meet the directed speed restriction, the aircraft's vertical velocity reduced as a natural consequence. When the controller recognized ACA163's reduced rate of descent, it was too late to correct the situation before losing separation. In part, the controller's time constraint was caused by the use of a vectoring procedure that placed the two aircraft on reciprocal tracks at nearly identical altitudes.
+
+
+The controller responded by giving SIA018 a turn to the left; this turn helped to reduce the closure rate between the two aircraft. The controller also directed ACA163 to expedite the descent to 3000 feet for traffic. This transmission provided the first indication to ACA163 that a traffic conflict was imminent and that an increased rate of descent was required. The crew responded by increasing their descent rate, maintaining the speed restriction, and tightening the turn to the localizer on course.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The controller did not ensure that vertical separation was established before lateral separation was lost.
+
+
+
+Other Findings
+
+
+Directing altitude changes while vectoring two arriving aircraft onto reciprocal tracks increases a controller's monitoring requirement, increases the risk of error from distraction, and makes recovery from any potential error more difficult because of the high closing speeds. A directed airspeed change is likely to cause a modification to an aircraft's rate of descent.
+

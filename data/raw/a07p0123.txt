@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+The number five bearing on the number one main input driveshaft failed, likely as a result of the balls jamming in the cage due to spalling-generated debris. Once the balls jammed, they ceased rolling and began skidding on the bearing races, rapidly wearing the balls. Reduction of the ball size allowed the main input driveshaft to move aft until the coupling shaft decoupled. Once the power section was no longer driving the reduction gearbox (RGB), the power turbine (PT) oversped, the PT bearing support failed, the PT blades contacted the shroud, and the engine decelerated. The progressive failure of the bearing occurred over many hours as evidenced by the five chip light illuminations during a 7.5-hour period.
+
+
+Pratt and Whitney Canada states that bearing repairs, such as those performed during the bearing reconditioning procedure, are not permitted. It is not known if the reconditioning procedure contributed to the failure of this bearing.
+
+
+The Transport Canada and Federal Aviation Administration service difficulty report databases contain several reports of number five bearing failures. Other sources, including an RGB overhaul facility, also report numerous instances of premature wear and failure of number five bearings, particularly number five bearings that have been reconditioned.
+
+
+When multiple, consecutive chip light illuminations occur and metal particles are found, it is common practice to ground the aircraft until a determination is made as to the source of the metal particles.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The number five bearing on the number one main input driveshaft failed due to spalling. The cause of the spalling was not determined. The helicopter continued to be operated following several consecutive chip light illuminations, resulting in failure of the engine.
+
+
+
+Finding as to Risk
+
+
+It is not known if the reconditioning procedure contributed to the failure of this bearing; however, there are numerous instances of premature wear and failure of number five bearings.
+

@@ -1,0 +1,6 @@
+engine overspeed , pre-existing damage could be at the origin of the progressive failure and in-flight loss of the propeller blade	Given that the propeller was fabricated with sufficient static load strength , and that the blade did not fail
+insufficient or excessive torquing of each blade root in the hub	The origin of this pre-existing damage could not be precisely determined , but it is plausible that it occurred when the blades struck a soft object such as water or snow , or
+factors external to the operating standards of the propellers	The failures of this type reported by the manufacturer were
+a progressive	failure caused by undetermined pre-existing damage
+undetermined pre-existing damage	the result of a progressive failure
+Contact with a soft object or insufficient or excessive torquing	this type of damage

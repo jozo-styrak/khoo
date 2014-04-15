@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+The starter drive gear assembly needle bearings in the starter drive unit which was removed on 21 June 1996 failed prior to the unit's removal and allowed wear to occur between the drive clutch gear and the stub shaft. The wear metal contaminated the engine oil system, causing four of the eight engine hydraulic valve lifters to jam, disrupting valve operation and reducing the power output of the engine. The disrupted valve action would likely have resulted in a rough running engine and may have been interpreted by maintenance personnel as a problem with the carburettor. Based on the amount of wear and metal deposits, and the jammed lifters, the engine was probably not running smoothly or developing rated power from the time the power was advanced for take-off.
+
+
+The pilot extended ten degrees of flaps for take-off, probably in order to shorten the take-off roll because of the shortened runway. The extended flap would have shortened the ground roll, but would have also degraded aircraft acceleration and climb performance after the aircraft became airborne. The engine was developing sufficient power for the aircraft to become airborne and climb slowly; however, once airborne, the pilot maintained a nose-high attitude, which prevented the aircraft from accelerating to a safe indicated climb airspeed. The airspeed continued to decrease to, or just above, the stall speed. Either the pilot began a left turn, or the aircraft yawed to the left because of the nose-high attitude, low airspeed, and engine power. The induced yaw would have caused the aircraft to roll (bank) left, and the pilot likely attempted to level the wings with the application of right aileron. The wing stalled and the aircraft entered an incipient spin at an altitude from which there was insufficient time to recover. The application of aileron control input at the point of stall would have enhanced the aircraft's tendency to enter a spin.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 91/96 - Instrument Examination; and LP 141/96 - Aircraft and Engine Examination.
+
+
+
+Findings
+
+
+The pilot was certified and qualified in accordance with existing regulations. There is no regulatory requirement for recurrent training or examination subsequent to pilot licensing. The estimated take-off weight of the aircraft was 1,619 pounds. The needle bearings in the starter drive gear assembly which was removed on 21 June 1996 failed prior to the assembly's removal, resulting in contamination of the engine lubricating oil with wear metal. Wear metal contamination collected in four of the eight engine hydraulic valve lifters and restricted their operation. After the starter drive unit was replaced on 21 June 1996, neither the engine oil nor the engine oil screen was checked for contamination, nor is there any manufacturer or regulatory requirement for the check to be performed. The aircraft engine could not develop maximum rated power as a result of disrupted engine valve operation. The pilot maintained an aircraft nose-high attitude after take-off, which prevented the aircraft from accelerating to a safe climb airspeed. Either the pilot began a left turn or the aircraft yawed uncommanded to the left during climb-out, and the aircraft stalled. The aircraft entered an incipient spin at too low an altitude for the pilot to recover. The pilot likely attempted to correct the left banked attitude using right aileron control, which would have enhanced the tendency of the aircraft to enter a spin at the point of stall. No discrepancies which would have contributed to the accident were noted with the airframe, airframe systems, or propeller.
+

@@ -1,0 +1,21 @@
+Toronto airspace design provides only limited vertical space beneath Class C airspace northwest of Toronto	, both aeroplanes were at the same altitude when their tracks intersected , and they collided
+Light aircraft in Canada are not required to carry traffic alert and collision-avoidance system -LRB- TCAS -RRB- or any other form of traffic alerting system	of technological advances , practicable light aircraft/glider collision warning devices and secondary surveillance radar -LRB- SSR -RRB- transponders are being developed
+The two aeroplanes were on a constant collision course	, there was no relative angular movement that could be detected by peripheral vision to aid in detection
+dispersing traffic laterally	such as building a VFR route structure with lateral separation between opposite-direction traffic
+fine-tuning the unalerted see-and-avoid concept	and such an approach does little to address the risk of collision between VFR light aircraft and IFR commercial traffic in congested areas
+cost , weight and power consumption , and the foreseeable evolution of ATM from a radar environment to ADS-B	Taking into account the drawbacks of existing transponders
+these new systems offer a means to reduce the risk of mid-air collisions in the future provided that they are integrated into the Canadian regulatory , airworthiness , airspace and navigation framework and supported by general aviation	ADS-B
+There are inherent limitations and residual risk associated with the see-and-avoid principle	, neither aeroplane saw the other in time to avert a mid-air collision
+Canadian air traffic control radars do not support traffic information service -LRB- TIS -RRB-	, aircraft equipped with TIS can not obtain traffic advisory information
+technological advances	practicable light aircraft/glider collision warning devices and secondary surveillance radar -LRB- SSR -RRB- transponders are being developed
+The combination of surface elevation of 1400 feet , flight at or above 1000 feet agl , and a Class C floor of 2500 feet	all traffic being concentrated vertically at the single altitude of 2400 feet
+Class C airspace	concentration of circumnavigating traffic around its periphery
+Having 2000 feet of vertical airspace between terrain and the Class C floor rather than 1000 feet at the location of the collision would provide a vertical space of 1000 feet rather than the 100-foot space that existed in this case	the likelihood of a collision
+2000 feet of vertical airspace between terrain and the Class C floor rather than 1000 feet at the location of the collision	a vertical space of 1000 feet
+Measures such as improving aircraft conspicuity , pilot scanning technique , and pilot traffic awareness can reduce risk , but they do not overcome the underlying physiological limitations	the residual risk associated with unalerted see-and-avoid
+Measures such as improving aircraft conspicuity , pilot scanning technique , and pilot traffic awareness	risk
+potential	risk by fine-tuning the unalerted see-and-avoid concept
+these new systems offer a means	the risk of mid-air collisions in the future provided that they are integrated into the Canadian regulatory , airworthiness , airspace and navigation framework and supported by general aviation
+Toronto airspace design	only limited vertical space beneath Class C airspace northwest of Toronto
+A technological	of alerting pilots to potential conflicts augment the current see-and-avoid approach to averting mid-air collisions
+a safety review of visual flight rules operations in Toronto airspace following a previous mid-air collision	recommendations

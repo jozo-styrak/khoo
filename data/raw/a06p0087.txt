@@ -1,0 +1,61 @@
+
+
+Analysis
+
+
+There were no reported problems with the aircraft's performance, and no emergency communication was received. This led the investigation and this analysis to focus on operational issues.
+
+
+A detailed flight plan was not filed and special equipment, such as laser radiation emitting devices and/or hazardous substances were therefore not reported. Decals affixed to the exterior of the laser probe pods were marked "DANGER" and warned of laser radiation when opened. Although the laser devices were electrically disconnected for this particular flight, first responders at the scene would not know this and would be uncertain of the risks involved. The absence of flight plan information regarding these devices could delay search and rescue efforts and also expose first responders to unknown risks.
+
+
+No mechanical malfunction was recorded or found before the commencement of this flight or during examination that would have resulted in engine power loss or a loss of flight control. The pilot would have checked whether the aircraft was developing full power at take-off. The departure and climb out from Runway 06 was reportedly normal. The damage to the propeller indicates that the engine was developing significant power at impact. Damage to the aircraft, impact marks with natural obstacles, and the direction of the debris trail indicate that the aircraft was configured for normal climb and in controlled flight until impact. It does not appear that the aircraft stalled before striking the ground.
+
+
+The highest elevation in the valley in this initial climb section was at 4200 feet asl and about 11.8 nm from the airport. If the aircraft entered the mountain pass at 2000 feet, it would have required the aircraft to climb at a rate of 609 fpm to clear this elevation. The modified aircraft was not tested for the required angle of climb/climb gradient for LSTC certification. The pilot had been instructed to not climb the aircraft too hard, and could be presumed to be complying with that expectation until the realization that the aircraft would likely not out-climb the terrain.
+
+
+The aircraft's climb performance was affected by the relatively high weight, its configuration and modifications, and the high density altitude. It is also probable that downdraughts negatively affected the aircraft's climb performance.
+
+
+The pilot was familiar with the performance of the occurrence aircraft; however, he had limited mountain flying experience and selected a VFR route that warranted greater altitude clearance. He encountered steeply rising terrain, where false horizon and relative scale illusions in the climb are likely. Realizing that the aircraft would not likely be able to out-climb the approaching terrain elevation, he would have started a turn to reverse his course.
+
+
+The camera found in close proximity to the pilot's body was burnt. It could not be determined if the pilot was taking photos during this repositioning flight and whether this could have caused a distraction or contributed to perception errors and misjudgement of height above ground.
+
+
+During the last segment of the flight path, the aircraft was likely centred in the mountain valley, as this would provide the greatest height above ground. Just before the aircraft reversed course at a certain decision altitude, the pilot may have flown the aircraft toward the sunlit right-side hill slope to increase the area for a left turn between the hills. Tightening the turn as the aircraft crossed over the centre of the valley and closed in on the higher terrain would be an intuitive reaction. The aircraft was in a steep, descending left turn (30 degrees plus) facing southwest in down-flowing air currents, and the pilot was unable to arrest its descent before it clipped tree tops and subsequently struck the sloping ground.
+
+
+The pilot likely misjudged the altitude above ground during his approach to higher terrain, and did not configure the aircraft for slow flight. With the flaps extended, the aircraft was capable of turning in the width of the mountain pass.
+
+
+During the afternoon, downdraught katabatic winds would have formed in the mountain pass. Given the configuration and weight of the aircraft, the high density altitude, the performance of this modified aircraft, the close proximity to the terrain when the pilot reversed course, and the downdraughts, the aircraft was not able to clear the surrounding terrain.
+
+
+The following projects were completed:
+
+
+Powertech file 06025.GRA, Project 12272-43-06 TSB Engineering Laboratory report LP 065/2006 - Terrain Shadow Analysis
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot entered the valley at an altitude above ground that did not provide sufficient terrain clearance given the aircraft's performance. The pilot encountered steeply rising terrain, where false horizon and relative scale illusions in the climb are likely. Realizing that the aircraft would not likely be able to out-climb the approaching terrain, he turned to reverse his course. The aircraft's configuration, relatively high weight, combined with the effects of increased drag from the equipment, density altitude, down-flowing winds, and manoeuvring resulted in the aircraft colliding with terrain during the turn.
+
+
+
+Findings as to Risk
+
+
+A detailed flight plan was not filed and special equipment, such as laser radiation emitting devices and/or hazardous substances were not reported. The absence of flight plan information regarding these devices could delay search and rescue efforts and expose first responders to unknown risks. Transport Canada (TC) does not issue a rating/endorsement for mountain flying training. There are no standards established to ascertain the proficiency of a pilot in this environment. Pilots who complete a mountain flying course may not acquire the required skill sets. There was no emergency locator transmitter (ELT) signal received. The ELT was destroyed in the impact and subsequent fire. Present standards do not require that ELTs resist crash damage. "Flight permits - specific purpose" are issued for aircraft that do not perform as per the original type design but are deemed capable of safe flight. Placards are not required; therefore, pilots and observers approved to board may be unaware of the limitations of the aircraft and the associated risks. The TC approval process allowed the continued operation of this modified aircraft for sustained environmental research missions under a flight permit authority. This circumvented the requirement to meet the latest airworthiness standards and removed the risk mitigation built into the approval process for a modification to a type design.
+
+
+
+Other Findings
+
+
+The fuel system obstruction found during disassembly was a result of the post-crash fire. The aircraft was operated at an increased weight allowance proposed by the design approval representative (DAR). Such operation was to be approved only in accordance with a suitably worded flight permit and instructions contained in the proposed document CN-MSC-011; however, this increased weight allowance was not incorporated to any flight authority issued by TC.
+

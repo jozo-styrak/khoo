@@ -1,0 +1,51 @@
+
+
+Analysis
+
+
+Neither the pilots of the two aircraft involved nor the TS controller had sufficient situational awareness to avoid the development of a serious risk of collision. The TS controller relied on a single observation of the Cessna, which was apparently commencing a turn onto Runway 12, to conclude that Runway 08R was clear. He then continued with the next phase of his traffic plan. The pilot of the Cessna, once past the Runway 12 intersection, but unsure of his position, did not inform the TS controller and continued along Runway 08R. He did not hear the take-off clearance given to WJA168, although he was monitoring the same frequency. The pilot flying WJA168 did not see the Cessna on the runway, despite conducting a visual scan of the runway before commencing the take-off. Having received a take-off clearance, the pilot expected that the runway would be free of obstructions.
+
+
+Scanning for obstructions or traffic is an essential yet routine air traffic control function since it occurs continually during a controller's shift. The routine nature of the scanning activity, combined with limitations in human visual scanning, results in a risk that an object, such as a small aircraft, will be missed. Controllers may not receive sufficient training to make them aware of some of the limitations of human vision and to adjust their own scanning techniques to increase the probability of detecting objects on the manoeuvring area. Regardless, the limitations of visual detection repeatedly show that pilots and controllers alike need to carefully and constantly apply effective and varied searching and scanning techniques to increase the likelihood of detecting a hazard affecting the safety of flight.
+
+
+The Cessna's skin was unpainted aluminum and blended with the grey background. As well, it was a small aircraft and was already almost a mile down the runway at the time WJA168 commenced take-off. Low contrast between the aircraft and its background, the aircraft's small size, and its distance from WJA168 reduced the probability of it being sighted.
+
+
+The activities involved in marking and moving flight data strips - both paper and electronic - frequently require controllers to shift their attention from outside to inside the tower. These actions may result in a controller working with an outdated situational awareness model, which can lead to an occurrence. Furthermore, the action of passing the flight data strip for the Cessna to the GS controller could have reinforced the TS controller's perception or expectation that all required actions were completed and that the runway was available for the next aircraft to depart.
+
+
+As a result of the long and fast touchdown, the pilot of the Cessna was unable to slow the aircraft sufficiently to vacate the runway as instructed. When he did not inform the TS controller that he was unsure about the exit to Runway 12, and that he could not slow down sufficiently, it compounded the TS controller's delay in recognizing that his plan had broken down and that a risk of collision situation was developing. Exacerbating the situation was the Cessna pilot's hesitation to take the next available exit (E/H) after the Runway 12 intersection, and his continuation down the runway to Taxiway A2.
+
+
+A controller may not always know the circumstances or limitations under which a pilot is operating when a specific exit from the runway is specified. Unless the pilot immediately indicates that the specified exit is not suitable, the controller may assume that the pilot can comply with the instructions and, as a result, will not monitor closely the aircraft's progress. The pilot may not know when receiving exit instructions whether compliance will be possible. In this incident, because the pilot of the Cessna was concentrating on landing and slowing the aircraft at the point he was to exit, he passed it by. Issuing specific exit instructions requires a high level of monitoring by the controller to ensure compliance.
+
+
+The TS controller had issued identical exit instructions to a larger Beech 1900 aircraft a few minutes earlier, and the pilot of that aircraft was able to exit onto Runway 12. The TS controller reasonably anticipated that the Cessna - a smaller, lighter, and slower aircraft - would be able to comply with similar instructions to exit onto Runway 12, and he did not closely monitor the aircraft's progress.
+
+
+In summary, the TS controller would have formed his mental picture of the dynamic situation from the following factors:
+
+
+a larger aircraft had just successfully exited onto Runway 12; he detected nothing unusual about the approach profile of the Cessna; the Cessna pilot immediately and correctly read back the exit instructions; and he perceived that the Cessna had turned at the intersection of Runway 12.
+
+
+As of March 2005, the RIMCAS program on the ASDE has not been activated. The airport lacked an automated collision-avoidance defence; therefore, the last opportunity to avoid a collision was provided by two nearly simultaneous events:
+
+
+the pilot of WJA168 saw a light on the Cessna ahead and assessed that he had a serious aircraft conflict situation at a point when he had sufficient time to lift off and avoid a collision; and the GS controller saw the Cessna on the runway and alerted the TS controller. This allowed the TS controller to issue instructions to the Cessna to remain on the right side of the runway and to expedite travel to the next exit.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The Cessna's landing was faster and further down the runway than normal, causing the pilot to miss the exit at Runway 12 and invalidating the tower south (TS) controller's air traffic management plan. The TS controller perceived the Cessna to be turning off the active runway when in fact the Cessna remained on the runway. The TS controller cleared WJA168 for take-off without ensuring that the runway was clear of obstruction, resulting in a risk of collision between WJA168 and the Cessna. The Cessna pilot did not advise the TS controller that he was unsure of his position on the runway or that he had missed the exit to Runway 12, thereby delaying the TS controller's recognition of the developing conflict. Although the pilot of WJA168 scanned the runway ahead before commencing the take-off roll, he did not detect the Cessna on Runway 08R, resulting in a risk of collision between WJA168 and the Cessna. The Cessna's low visibility due to its lack of contrast against the background, its small size, and the distance between the two aircraft were probably contributing factors.
+
+
+
+Findings as to Risk
+
+
+The visual scanning techniques used by controllers and pilots to detect and avoid conflicting traffic on or near a runway are not consistently effective in detecting all aircraft or other obstructions, thereby presenting a risk of a collision. Controllers who are not aware of the physiological limitations of human vision may not adjust their scanning techniques to compensate. The pilot of the Cessna acknowledged an air traffic control instruction to exit Runway 08R at Runway 12, but missed the exit and continued on Runway 08R without advising the TS controller. There is no requirement for a pilot to immediately advise the tower when unable to comply with the exit instructions. The airport surface detection equipment (ASDE) radar system is equipped with a runway incursion monitoring and conflict alert sub-system (RIMCAS) software program to provide an alert to the controller of a potentially hazardous situation on the runway; this alert system was still not operational as of March 2005.
+

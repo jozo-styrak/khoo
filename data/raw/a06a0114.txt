@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+No mechanical fault was found with the aircraft. This analysis will focus on the operational, environmental, and human elements that were present.
+
+
+There is a history of DHC-6 operators successfully conducting take-offs from the marine dock after float-to-wheel conversions. Although this was the first attempt by this captain to take off from the dock, the first officer had completed a number of take-offs from the dock with another operator. Both pilots were highly experienced on type, and both mentally calculated that there was sufficient distance on the planned take-off path to get airborne safely. However, the take-off distance available measurement was shorter than estimated, and the reduction in take-off performance due to the effect of the dock depression was unforeseen. The combination of these circumstances resulted in the landing gear striking the wooden safety curb.
+
+
+The aircraft was being operated under CAR 704 and the associated requirements of the COM. However, not all of these requirements were met in that the discussion between the captain and the DFO or chief pilot did not take place. This discussion might have led to an alternative course of action to mitigate the risks associated with taking off from the dock.
+
+
+The CVR had not operated during the accident flight due to a faulty inertial switch. In a more serious accident, crucial investigation data and safety information could have been lost.
+
+
+TSO C91-compliant Pointer ELT mounting brackets (part number 2017) continue to fail, even in accidents where impact forces are relatively low. Although the ELT was inconsequential in this occurrence, its function in a more severe or remote accident could be critical to the survival of aircraft occupants. Failure of TSO C91-compliant Pointer ELT mounting brackets (part number 2017) in a survivable accident could cause a malfunction of the transmitter and prevent a timely and effective search and rescue (SAR) response.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The take-off length available on the dock was shorter than estimated. This, in combination with the reduction in take-off performance due to the effect of the dock depression, resulted in the landing gear striking the wooden safety curb. The right main landing gear collapsed on landing as a result of damage incurred when the gear struck the wooden safety curb.
+
+
+
+Findings as to Risk
+
+
+The company operations manual (COM) requirement for a discussion between the captain and the Director of Flight Operations (DFO) or chief pilot did not take place. This discussion might have led to an alternative course of action to mitigate the risks associated with taking off from the dock. The cockpit voice recorder (CVR) was not operating because of a faulty inertia switch. In a more serious accident, crucial investigation data and safety information could have been lost. Failure of Technical Standard Order (TSO) C91-compliant Pointer emergency locator transmitter (ELT) mounting brackets (part number 2017) in an accident could cause a malfunction of the transmitter and prevent a timely and effective search and rescue response.
+
+
+
+Other Finding
+
+
+If the actual take-off distance available had been what was estimated by the captain (400 feet), the take-off would likely have been successful.
+

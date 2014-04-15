@@ -1,0 +1,16 @@
+The impact and aircraft wreckage analysis showed that there were no pre-impact failures or malfunctions that could have caused the deviation from the localizer and glidepath for the ILS approach to Runway 23	and aircraft wreckage analysis showed that there were no pre-impact failures or malfunctions that could have caused the deviation from the localizer and glidepath for the ILS approach to Runway 23
+Although there were reports of gusty winds and mechanical turbulence , there were no weather phenomena observed that would have prevented the aircraft from safely completing an instrument approach , or if this was not possible because of low visibility , a missed approach	, the analysis will focus on the operational aspects of the occurrence
+Furthermore , the PF did not use the AFCS , without which he was denied a valuable command reference for the approach and use of the autopilot	, his workload would have been unnecessarily high and control of the aircraft more challenging in the conditions of night , low visibility , and mechanical turbulence
+low visibility , a missed approach	Although there were reports of gusty winds and mechanical turbulence , there were no weather phenomena observed that would have prevented the aircraft from safely completing an instrument approach , or if this was not possible
+the approach lights were sighted	their relative position to the aircraft -LRB- two o'clock -RRB- was another indication that the approach should have been abandoned
+the aircraft became misaligned with the runway during the landing transition after visual references had been acquired	Just before the approach of C-FTNS , a regional airline crew flying a Beech 1900 had attempted the same ILS approach and had not been able to land safely
+the crew of C-FTNS been aware of the Beech 1900 missed approach	they may have been more predisposed to abandoning their approach
+following the flight director system or by using an autopilot and flying a coupled approach	monitored by a PNF
+The impact and aircraft wreckage analysis showed that there were no pre-impact failures or malfunctions	the deviation from the localizer
+Although there were reports of gusty winds and mechanical turbulence , there were no weather phenomena observed	the aircraft safely completing an instrument approach
+the task is	easier
+adequate training and experience in the use of the autopilot and flight director	pilots visualize the approach and maintain their situational awareness and increases their confidence in the equipment
+adequate training and experience in the use of the autopilot and flight director allows pilots to better visualize the approach and maintain their situational awareness	their confidence in the equipment
+CARs permit pilots to conduct instrument approaches in visibility less than the advisory visibility published in the CAP	the risk of an ineffective transition to visual flight , misinterpretation of visual references , or the loss of visual references after transitioning to visual flight
+inadequate visual references during the final stages of an approach	an accident
+The crew members most likely experienced a loss of situational awareness during the latter stages of the approach and , consequently	the aircraft on the required track and descent profile for a safe transition to landing

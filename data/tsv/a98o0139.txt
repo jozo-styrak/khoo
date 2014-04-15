@@ -1,0 +1,4 @@
+elevator	the airspeed and air flow over the wing
+no indication that incapacitation or physiological factors	the crew 's performance
+There was no indication of any pre-impact damage to the engine	it developing rated power
+There was no indication of malfunction or component failure of the aircraft	the cause of the accident

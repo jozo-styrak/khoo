@@ -1,0 +1,41 @@
+
+
+Analysis
+
+
+The most plausible initiating event related to the reduction in cabin pressure was the loose PRSOV line serving the right air conditioning pack. Once the line had detached completely, the actual duct pressure for the right ACU pack could not be sensed accurately and the PRSOV valve likely closed. The closed PRSOV valve effectively caused the right pack to go off-line. When either of the two packs goes off-line, the remaining pack will automatically switch to Hi flow as a normal function of the system. In this case the left pack did switch to Hi flow, which increased the pressure in that respective duct system.
+
+
+The additional pressure from the Hi flow may have caused an already weak flange-to-duct joint to fail completely. It is also possible that the duct had deteriorated over time and was already partially detached from the flange. Normally, one air conditioning pack operating at Hi flow is adequate for aircraft pressurization, provided a maximum aircraft altitude of 25 000 feet is maintained. However, once the flange failed, duct pressure was reduced as the air escaped into the unpressurized tail section.
+
+
+The "DISPLAY COOL" and "ARINC COOL" EICAS messages the crew observed were most likely triggered by a low airflow condition in ducts that supply cooling air to the instrument panel and the avionics bay of the aircraft. The caution messages do not necessarily indicate a higher than normal duct temperature. They do indicate the fact that a low airflow supply to the instrument panel and to the avionics bay was resulting in an increased operating temperature of those particular components. It is also possible for messages to be triggered by flow sensors in the system that are sensitive to changes in air density as cabin altitude increases.
+
+
+After the right air conditioning system had gone off-line and the left air conditioning system became the sole source of air pressure to the cabin, the right bulkhead check valve should have closed. However, the check valve remained open due to the missing spring. This allowed cabin air pressure to backflow through the inoperative right system ducting up to the PRSOV valve which had closed due to the detached PRSOV line. Had the bulkhead check valve spring been in place, the valve would have closed when the duct pressure opposing it decreased. This would have prevented backflow of the pressurizing air to the PRSOV valve. Since there was no breach in the right system between the bulkhead check valve and the PRSOV valve, the cabin pressure loss to ambient from the right side would have been negligible. The left bulkhead check valve spring was also missing but in this case it had little effect on the rate of cabin pressure loss since some supply air was likely available from the left ACU pack. The missing check valve springs were not recovered and it could not be determined how long they had been missing. The effect of a missing check valve spring would go unnoticed during normal operation of the system and, therefore, could go undetected for some time. The left system duct had detached at the water separator which effectively allowed the majority of supply air from the left ACU to escape from the ducting.
+
+
+Although the left air conditioning system continued to operate and supply the cabin/cockpit with air pressure, the pressure supplied was insufficient to overcome the rate of pressure loss created by the left system duct leak. Therefore, the cabin altitude could not be controlled and continued to climb.
+
+
+The combined effect of the independent technical failures across both independent ACU pack systems resulted in a loss of cabin pressurization. This loss of pressurization was not easily detected as one pack remained on-line and in Hi flow mode. However, the majority of the supply air pressure coming from the left pack was escaping through the dislodged duct flange before it could enter the cabin. According to Bombardier analysis from other incidents, the rate of pressure loss in this case was the same as what could be expected if there were little or no air pressure entering the aircraft cabin, provided the following conditions are met: there is no significant breach in the pressure vessel or the systems that supply pressure to the cabin, and the aircraft pressure vessel has nothing more than the normal leak-down rate expected.
+
+
+It is unusual for a flight crew to be faced with multiple, unrelated failures at the same time. In this case the crew attempted to resolve the problem but it could not be rectified in flight. Due to the lack of any other significant pressurization warnings and because the aircraft can normally operate on one pack, the crew's initial plan to descend to 25 000 feet was reasonable.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+This report is available from the Transportation Safety Board upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The combined effect of the detached left air conditioning unit pack system air supply duct, the detached right system pressure regulating shut-off valve line, and the missing return spring on the left system bulkhead check valve resulted in the loss of cabin pressurization.
+
+
+The combined effect of the detached left air conditioning unit pack system air supply duct, the detached right system pressure regulating shut-off valve line, and the missing return spring on the left system bulkhead check valve resulted in the loss of cabin pressurization.
+

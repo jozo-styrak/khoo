@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+According to the aircraft journey logbook, this was the first time the pilot had flown to McIvor Lake. It is normal for a floatplane pilot to make one or more inspection passes before landing and to land into wind in the vicinity of the intended destination. The requirement for an inspection pass is even more compelling if the pilot is unfamiliar with the landing area. In this occurrence, the pilot overflew the intended destination at the southeast end of the McIvor Lake. He proceeded downwind across the lake at low altitude and low speed, with a tailwind component of approximately 10 knots. The aircraft's flight path was biased toward the north shore of the lake, affording the pilot a clear view of the available landing area and any obstructions. This overflight of McIvor Lake was likely an inspection pass to assess the conditions on the lake and to identify an appropriate landing area.
+
+
+Despite the presence of a tailwind, which would have increased the aircraft's speed over the ground, the observers on the lake had a clear impression that the aircraft was travelling very slowly and with a nose-down attitude as it passed overhead. These circumstances are consistent with the pilot being adversely affected by "drift illusion" and may explain the reason for the low airspeed during the inspection pass. Additionally, the aircraft was modified with a STOL kit that should decrease the risk of a stall and thus increase the level of safety. That will be true, provided the aircraft is flown in accordance with the published aircraft flight manual procedures. However, if the pilot attempted to fly at speeds that were slower than those published in the flight manual, the risk of encountering a stall would have increased.
+
+
+As the aircraft reached the northwest end of the lake, power was added, and the pitch of the aircraft was seen to increase from a nose-down to nose-up attitude. A pitch change that was large enough to be observed from the ground was likely caused by an aggressive application of back pressure on the control column to initiate a climb, a retraction of the flaps at low flying speed, or a combination of the two. Either of these conditions would increase the risk of an aircraft stall. The pitch change of the aircraft was followed by a steeply banked turn to the left. The increased back pressure required to execute a steeply banked, climbing turn would have effectively raised the stalling speed by a factor depending on the angle of bank. The aircraft's heavy weight would have adversely affected the stall speed and further degraded the aircraft's ability to maintain flight in the climbing turn.
+
+
+Almost immediately after the bank was established, the aircraft's nose dropped abruptly, and the aircraft descended to strike the ground. The flight dynamics described by observers were consistent with the aircraft entering an aerodynamic stall. At the height the stall occurred, the pilot had insufficient time to recover before the aircraft struck the ground.
+
+
+A post-crash inspection found no mechanical faults that would have caused the aircraft to stall. The absence of body filler, to smooth the transition from the leading edge cuff to the original wing surface, would have changed the aerodynamic characteristics of the wing to some extent; however, the amount of that change is not known. The right flap cables and pulleys were damaged by overload during the crash, and the damage was consistent with the crash dynamics. Had such damage occurred in the air, as a precipitating event, the aircraft should have rolled opposite to the direction described. It is not known if the stall warning system was operational at the time of the accident. Without such a system, the pilot would have to rely on more subtle aerodynamic characteristics to warn of an impending stall.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot, while manoeuvring the aircraft, induced an aerodynamic stall. The heavy weight of the aircraft increased the risk of a stall. The initiation of a low-speed, climbing turn increased the risk of a stall. It is not known if the aircraft's stall warning system was operational. An inoperational stall warning system would have adversely affected the pilot's ability to recognize the aircraft's approach to the stall.
+
+
+
+Other Findings
+
+
+The pilot was likely conducting an inspection flight of a potential water landing area at low altitude and low speed. The use of a stall warning indicator that was not approved by the Crosswinds supplemental type certificate likely was not a factor in the occurrence. The absence of body filler, to smooth the transition from the leading edge cuff to the original wing surface, may have changed the aerodynamic characteristics of the wing to some extent; the amount of that change is not known.
+

@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+All three engines started normally. The indications were that the number 2 engine start valve closed after the engine was started. Had it not closed, there would have been less airflow available to start the number 3 engine.
+
+
+Examination of the starter indicated that it had failed because it had been rotating at too high a speed. Given that the clutch was functional, it is unlikely that the engine was driving the starter. The starter probably failed while it was being rotated by the air turbine, with no load on the starter. For this to occur, the start valve had to be in the open position with the engine running.
+
+
+Since the start valve reportedly had closed following a successful number 2 engine start, as evidenced by the duct pressure, a new voltage must have been subsequently available at the start valve to re-open it sometime after the number 3 engine start. That voltage could have been the result of a short circuit of a power wire of some other engine component running in the same wiring harness. However, since the wiring harness was fire damaged, the source could not be determined.
+
+
+The hazard associated with an engine fire caused by a starter failure was recognized and addressed in AWD 83-01-05 R2. The previous owner's modification improved the start system circuitry but did not provide a positive indication of the start valve position. It also did not protect the circuit from a short circuit between the start valve cutout switch and the start valve.
+
+
+After all engines of the B727 are operating, there is no bleed air duct pressure indication for the number 2 engine. If the start valve for either engine number 1 or engine number 3 re-opens, a very vigilant second officer may notice the decrease in duct pressure on either the left or right side. If the start valve for number 2 engine goes to the open position, there is no indication in the cockpit.
+
+
+The number 2 engine is mounted in the aircraft tail. Because of the engine's proximity to the elevator and rudder control systems, a severe in-flight fire in the number 2 engine is potentially more serious than a fire in either the number 1 or 3 engine.
+
+
+The following Engineering Branch report was completed:
+
+
+
+Findings
+
+
+It is probable that a short circuit in the engine wiring harness allowed the number 2 engine start valve to re-open, causing the number 2 engine starter to over speed and subsequently fail. The failure of the number 2 engine starter resulted in an engine fire. The previous owner of the aircraft installed an engine start valve master switch as an alternative means of complying with AWD 83-01-05 R2. Although approved by the FAA and Transport Canada (TC), the engine start valve master switch did not protect the complete circuit nor did it provide a positive indication to the flight crew of the normal and unwanted operation of each engine starter.
+

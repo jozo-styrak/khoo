@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+Two distinct in-flight events occurred: one causing vibrations in the cyclic control; another causing vibrations in the anti-torque pedals. The bent tail boom and the bends in the tail-rotor blades were consistent with the stinger and the tail rotor contacting the snow-covered ground on landing. Both blades were bent in a consistent manner away from the tail boom, suggesting that the rotor blades were being driven at high speed when they contacted the denser medium of the snow. Additionally, the tail-rotor blades showed dissimilar torsional bending that could indicate that the blades were at different blade angles when they passed through the snow. The uneven bends in the tail-rotor pitch control links would result in dissimilar tail-rotor blade angles, and the blade with the greater blade angle was found to be more torsionally bent. It could not be determined what foreign object had come into contact with the tail-rotor pitch control links. Unequal blade angles, in flight, would result in anti-torque pedal vibrations similar to those described by the pilot.
+
+
+The extensive damage to the main-rotor blades and the primary flight controls of the helicopter during the rollover precluded the determination of any subtle in-flight failure, loosening, or separation of a control component that might have resulted in the control vibrations. It was considered unlikely that a component could separate, in flight, from the main-rotor control system and strike the tail-rotor system without causing the helicopter to become uncontrollable. The fact that the pilot was able to arrest the descent, stop the forward motion, and control the yaw of the helicopter during the landing indicates that the helicopter was controllable.
+
+
+The pilot did not follow the procedures outlined in the company operations manual that related to filing written flight itineraries and operation of the ELT.
+
+
+It could not be determined why the flares failed to operate properly.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 034/01 Fuel Sample Analysis LP 035/01 Examination of Damage to Tail Rotor Blades
+
+
+These reports are available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+During the landing, the pilot lost visual reference in blowing snow, and the helicopter entered a dynamic rollover after touchdown. Foreign object damage was noted on the tail rotor. Extensive crash damage to the main-rotor blades, the main-rotor mast components, and the main-rotor control system precluded determining the cause of the pre-impact control vibrations. The pre-impact control vibrations did not affect the overall controllability of the helicopter during the power-on landing.
+
+
+
+Findings as to Risk
+
+
+Although the company operations manual requires a written flight itinerary, the pilot did not complete one. Although the company operations manual requires the pilot to turn the emergency locator transmitter on and leave it on after an accident, the pilot did not do so. Flares from the survival kit did not function as intended and were ineffective as a means of attracting attention.
+

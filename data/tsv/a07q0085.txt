@@ -1,0 +1,19 @@
+rubbing inside the sun gear eventually fell out	allowing the main rotor shaft to move vertically
+installing the snap ring	MM 63.10.16.403 was used as the primary reference
+most of the steps were not applicable to the task being performed	MRM WC 62.30.16.701 was not considered to be applicable information
+None of the headings were considered pertinent	further reading of the material was deemed unnecessary
+the snap ring could only be fitted in one specific groove on the main rotor shaft	They considered this redundant
+verifying	an equal number of threads on the mast retaining bolts provided false confidence by implying that the assembly was done properly
+a previous relationship between these symptoms was not known	The troubleshooting references , including technical representative consultations , did not link these symptoms to the snap ring installation sequence likely
+in turn	the locking tabs holding the mast retaining bolts
+The wrong installation sequence of the snap ring , relative to the spacer assembly	the snap ring
+The bolts loosened by rubbing inside the sun gear , and eventually fell out	the main rotor shaft move vertically
+The vertical movement of the main rotor shaft	the rotor blades
+This	the AMEs to miss pertinent information concerning the proper installation sequence of the snap ring
+The MM instructions	the AMEs to WC 62.30.16.701 check for correct fitting of the snap ring
+the borescope to confirm a correct and complete installation by verifying an equal number of threads on the mast retaining bolts	false confidence by implying that the assembly was done properly
+This	the snap ring being installed in the wrong sequence
+The wrong installation sequence of the snap ring ultimately allowed the mast retaining bolts to loosen and the mast to move vertically	the rotor blades
+The wrong installation sequence of the snap ring	the mast retaining bolts to loosen and the mast to move vertically
+Referring AMEs to lengthy instructions , not necessarily required in full	a filtering process that causes important information to be missed
+not necessarily required in full , may result in a filtering process	important information to be missed

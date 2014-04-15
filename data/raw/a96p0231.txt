@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The failure of the transmission spindle mount would have allowed the transmission to pivot and become misaligned. This movement placed a bending load on the tail rotor drive shaft which rapidly led to failure. That the helicopter did not rotate clockwise immediately after the bang suggests that the noise was made by the instant failure of the spindle, while the failure of the tail rotor drive shaft was progressive and secondary.
+
+
+The root cause of the spindle failure could not be determined. The indications of rework on the spindles suggest that they had been damaged earlier, perhaps in the earlier accident. The alternating bands of fatigue and overload cracking identified during the laboratory examinations suggest that the crack propagated slowly during normal operations and advanced quickly during overload such as large torque spikes.
+
+
+Although the time interval from crack initiation to final failure could not be calculated, it is likely that the crack existed at the time of the transmission overhaul because of the earlier damage. It could not be determined if the crack would have been detected had the spindle received the MPI that was required. Omission of the MPI, however, reduced the chances of early detection.
+
+
+The MPI process was omitted as a result of several factors relating to the control of the transmission overhaul. That the upper case was purchased separately, and was sent out for NDT inspection with the spindles attached, created the confusion, since this was not the standard procedure. Furthermore, the overhaul was not supervised by one individual, but was carried out by three people working independently.
+
+
+The overhaul instructions in the CRO manual were necessarily long. The use of an additional check sheet, identifying the components that require NDT, may have prevented the omission of the MPI. Many companies have recognized the need for an additional NDT check sheet, but since the CRO manual does not include one, each company must develop its own.
+
+
+The following TSB Engineering Branch Laboratory report was completed:
+
+
+LP 165/96 - Spindle Failure Analysis.
+
+
+
+Findings
+
+
+The spindle failed as a result of fatigue; the origin of the failure is unknown. According to available component records, the spindle did not receive the required magnetic particle inspection at the last overhaul. The omission of the magnetic particle inspection was the result of a lack of maintenance supervision during the overhaul process. The failure of the spindle allowed the transmission to move, thereby creating bending loads on the tail rotor drive shaft which rapidly caused it to fail.
+

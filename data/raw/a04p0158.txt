@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+Various descriptions of the flight are consistent with a power-on, aerodynamic stall. This type of stall will typically result in a more complete loss of control than a power-off stall, and more altitude will be required for recovery. Low-altitude, slow-speed manoeuvring increases the risk of an inadvertent stall and reduces the available recovery time.
+
+
+Positioning the stall warning system under the instrument panel rendered the visual warning ineffective because it was outside the pilot's normal field of view. High engine power operation with rear windows open raised the ambient noise levels in the cockpit and reduced the effectiveness of the aural stall warning.
+
+
+The improperly placed airspeed range markings provided no assistance in visually recognizing the normal operating speeds of the aircraft, and could not be used as a defence against either an aerodynamic stall or an aircraft over speed.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft stalled at an altitude from which there was insufficient time or altitude to recover. High ambient sound levels reduced the effectiveness of the aural stall warning system. Mounting the stall warning system under the dash placed it outside the pilot's normal field of view and rendered the visual stall warning ineffective. Improperly placed airspeed range markings eliminated their effectiveness as visual indicators of the normal safe-flight ranges.
+

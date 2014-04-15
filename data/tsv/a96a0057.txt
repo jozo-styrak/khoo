@@ -1,0 +1,8 @@
+He requested that SPR 904 keep his speed up , and he assumed that this increase in speed , along with the extra distance that C-FGNL had to fly to get to the approach for runway 11	adequate , yet minimum , separation
+He did not anticipate that SPR 904 would reduce his airspeed upon interception of the localizer	the separation between the two aircraft
+SPR 904	his airspeed upon interception of the localizer
+to SPR 904	speed
+action	it
+traffic controllers	priority handling these aircraft
+The relief controller	the separation between the two aircraft be reduced to 1.4 nm when 3 nm was required
+The relief controller	a loss of separation

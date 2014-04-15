@@ -1,0 +1,24 @@
+
+
+Analysis
+
+
+Based on the aircraft's take-off time from Fort Nelson, the time abeam Watson Lake, and the distances flown, it is believed that the low-flying aircraft heard at 1930 was the accident aircraft. The pilot was likely flying at low altitude to maintain visual ground reference in falling snow, and perhaps had turned left over the snow-covered surface of Teslin Lake in an attempt to leave the area of snow. With reported ground visibilities of one-quarter statute mile or less, and in the diminished light at sunset, the pilot would have been faced with whiteout conditions, and would have lost the ability to orient his aircraft by visual reference with the surface of the lake. With no visual altitude reference the aircraft probably struck the frozen, snow-covered lake before the pilot realized his proximity to the surface.
+
+
+Deceleration forces during the crash would almost certainly have resulted in activation of the ELT gravity switch; however, no post-crash ELT signal was transmitted because the control switch was in the OFF position. Since the ELT functioned normally during testing, it is probable that the unit was capable of transmitting a signal at the time of the accident.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot continued flight into adverse weather conditions. The aircraft contacted the surface of the lake, most likely because the pilot lost visual reference in whiteout conditions.
+
+
+
+Other Findings
+
+
+The ELT was switched OFF and the lack of an ELT signal delayed discovery of the wreckage. The delay in locating the wreckage probably resulted in the pilot's succumbing to blood loss and hypothermia.
+

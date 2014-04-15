@@ -1,0 +1,103 @@
+
+
+Analysis
+
+
+There was no indication of any pre-accident flight control or rotor drive system malfunction on the helicopter that would have contributed to a loss of control. Therefore, this analysis will focus on the flight performance available from the helicopter, the environmental conditions, and the effects of the Air Comm Corporation heater operating limitations.
+
+
+
+Helicopter Performance
+
+
+Ample engine (and transmission) power was available to hover out of ground effect. From a vertical performance perspective, this is the hardest condition to satisfy. Therefore, the helicopter aerodynamic performance did not contribute to the circumstances of this accident.
+
+
+
+
+Operating Environment
+
+
+Several conditions combined to present the pilot with a greater-than-usual challenge on this landing and pick-up task, as follows:
+
+
+there were layered bands of fog in the area; it was raining and the air was saturated; the terrain was steep and the gorge narrow; the touchdown zone was confined with little room to manoeuvre; the landing surface was remarkably off-level and consisted of loose rock and debris; the surface required a hover exit (toe-in) procedure; the wind was moderate and continually shifting, likely with a downflowing component; the waterfall adjacent to the site was flowing rapidly; and the RFM required the cabin heater to be turned off.
+
+
+As a result of the rain, the temperature, and the terrain, the air was saturated and conducive to rapidly changing zones of reduced visibility. On its own, this environment would have made it difficult for the pilot to maintain visual reference with the terrain. Add to this the suspension of effective windshield demisting and the entry of the wet passenger, cockpit visibility would have progressively deteriorated.
+
+
+The toe-in landing procedure did not allow the pilot any opportunity to pause and clear the windshield and windows before continuing flight. The helicopter was already in hover flight, requiring the continuous manipulation of the flight controls. Once the helicopter touched down under these circumstances, the pilot would experience restricted external visibility and hover reference.
+
+
+The pilot found the selected site and touched down without event. The helicopter was then in a stable toe-in hover condition where the pilot had a small area to use as a hover reference. However, shortly after the first passenger entered the cockpit, the windshield began to fog heavily, despite the vent blower fan operating, and the pilot found it increasingly difficult to see out. Once the second passenger climbed onto the left skid and the helicopter slipped rearwards, necessitating corrective flight control inputs, the pilot had insufficient exterior vision and he lost hover reference. Exacerbating this condition was the rapid waterfall in the pilot's peripheral vision, leading to vision illusion and disorientation. This condition rapidly degenerated into a loss of control and led to the rollover and heavy impact with the terrain.
+
+
+
+
+Centre of Gravity Shift
+
+
+In this accident, the sudden loss of the passenger from the left skid would have exacerbated the already challenging task for the pilot of countering this weight on the skid in a deteriorating visual climate. After the helicopter broke contact with the surface, the pilot's sole tactile reference point was lost, and without clear vision, he was unable to maintain visual hover reference with the terrain.
+
+
+
+
+Air Comm Corporation Heater
+
+
+The heater and demister system installed in this helicopter was effective in controlling the interior condensation, allowing the pilot clear vision through the windshield and side windows. However, once the heater was turned off to comply with the RFM limitation, the remaining defog blower was incapable of keeping the windshield and windows clear; the condensation worsened and the pilot's visibility progressively deteriorated.
+
+
+
+
+Flight Manual Limitations
+
+
+The RFM restrictions to turn off the heater during take-off, hover, and landing apply only to Bell 206 helicopters equipped with the Rolls Royce 250-C20 engine. The genesis for this limitation rises from the certification process employed by Air Comm Corporation during the development of its STC for the heater, which only tested the performance of the higher-powered 250-C20B engine. The difference between the maximum specification power output of the C20 and the C20B models is 20 shp. However, since C20 components are no longer available and C20B components are being installed at engine overhaul, the C20 hybrid engine produces more than its rated 400 shp. This bonus performance is purposely not utilized because the engine limitations remain the same, and the main transmission input limitation of 317 shp continues to apply. Regardless, this increased engine power is realized indirectly by virtue of the higher-density altitudes at which specification power continues to be available.
+
+
+With respect to the operation of the heater and the 250-C20 engine, it is possible that the actual decrease in engine output poses no impact on the performance of the helicopter compared to a helicopter equipped with the C20B engine, except at high-density altitudes.
+
+
+The heater function restriction contained in the RFM appears to be an unnecessary operational constraint on Bell 206 helicopters with the C20 engine. The risk continues that pilots will face the frequent dilemma of choosing between the following:
+
+
+complying verbatim with the RFM limitations and experiencing poor visibility resulting from inadequately controlled windshield condensation; or maintaining satisfactory external hover reference at the expense of non-compliance with the RFM.
+
+
+While it is recognized that some environmental circumstances may occasionally require the heater limitation to be followed, operating without the heater presents a greater risk in some cases. Presently, there is no relief from the RFM limitation for Canadian operators of the Bell 206 that would allow a pilot to assess each individual operational situation and select the heater and demister as appropriate.
+
+
+
+
+Survival
+
+
+The full seat restraints, as well as the pilot's flight helmet, helped prevent more serious injuries. The formal review at the start of the operations at Knight Inlet regarding the hover exit procedures, emergency procedures, and local communication practices was thorough and effective. The quick reaction by the front seat passenger in securing the engine, fuel, and electrical services likely prevented a post-crash fire. This review also certainly benefited the notification and response of SAR forces, leading to the timely location and recovery of the survivors.
+
+
+Both of the passengers were trained in first-aid procedures and forest survival techniques, which were significant positive factors in preventing the pilot's condition from deteriorating and in establishing a stable and safe shelter for them all.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The selected touchdown area was significantly sloped and the surface consisted of loose rock and debris, which allowed the skids to slip rearwards when the rear passenger climbed onto the left skid. Saturated air, low temperature, rain, and mist from the waterfall caused significant water droplet accumulation on the outside surfaces of the helicopter windshields, impairing the ability of the pilot to maintain visual reference. The air in the cockpit quickly became saturated when the first passenger entered the cockpit, causing the rapid formation of heavy condensation on the inside surfaces of the helicopter windshields and front door windows. The operational restriction in the flight manual supplement to turn off the heater removed the most effective means of preventing condensation accumulation on the inside of the windshields; this affected the pilot's external visibility and caused him to lose hover reference. With no visual external references to maintain the hover position, the pilot was unable to control the helicopter when it slipped rearwards, and it struck the terrain and rolled over.
+
+
+
+Finding as to Risk
+
+
+The heater function restriction contained in the rotorcraft flight manual is an unnecessary operational constraint on Bell 206 helicopters with the C20 engine, and the risk continues that windshield condensation will adversely affect a pilot's ability to clearly see outside the helicopter.
+
+
+
+Other Findings
+
+
+Given the minor difference of power output between the 400-shp C20 and the 420-shp C20B engines today, it is possible that the actual decrement in engine output resulting from heater operation poses no impact on the performance of the helicopter, except at high-density altitudes. The pilot's helmet and seat restraints and the front passenger seat restraints prevented more serious injury to the pilot and passenger. The formal review at the start of the operations at Knight Inlet benefited the notification and response of search and rescue forces, leading to the timely location and recovery of the survivors. The front seat passenger's quick cockpit reactions to secure the helicopter likely prevented post-impact fire. Both passengers effectively used their training in first aid and forest survival, which prevented the pilot's condition from deteriorating.
+

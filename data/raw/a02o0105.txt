@@ -1,0 +1,61 @@
+
+
+Analysis
+
+
+The environmental conditions at the time of the accident were favourable for safe completion of the flight. Both pilots were familiar with the exercises to be performed during the flight. However, two main elements combined to create a significant risk: expectancy on the part of both the instructor and the student pilot, and ambiguous guidance in the reference material.
+
+
+Although no new exercises were to be introduced during the occurrence flight, the instructor and student had not flown 360 autorotations together. The instructor was unaware that the student had been taught 360 autorotations using a minimum entry altitude of 1000 feet agl. A thorough briefing would have uncovered this fact and the instructor could have discussed the differences and additional challenges of starting a 360 autorotation from a circuit altitude of 650 to 750 feet agl.
+
+
+A thorough briefing would also have given the instructor the opportunity to articulate his expectations to the student before the flight. There was no discussion regarding recognition and correction of errors, and the student, therefore, relied on the instructor to take control at an appropriate time, an expectation that was consistent with the practice throughout his training.
+
+
+Contributing to the differences in expectation as to entry altitude is lack of guidance in the reference material:
+
+
+The Flight Training Manual - Helicopter contains no guidance as to safe entry altitude for autorotations. It presents rate of descent, but not height loss information for 180 and 360 autorotations; The Flight Instructor Guide has guidance as to altitude for demonstrating the effect of speed on range, but no guidance as to safe height required for 360 autorotations; The standards for helicopter flight tests call for entry at a safe height but not lower than 500 feet agl, and only mention 180 autorotations, not 360 autorotations; The Designated Flight Test Examiner Manual calls for "a minimum of 1500 feet above ground, but can be lower" for a simulated engine failure. It also identifies a minimum of 500 feet agl for a 180 autorotation.
+
+
+The situation for the student was set up by starting the 360 autorotation at a lower altitude than he had previously experienced. This gave him less time than he expected to carry out the manoeuvre. From the lower altitude, a rate of turn that previously produced acceptable results would be too slow. Turning downwind, he did not immediately realize that his airspeed was slow. The tailwind in excess of 10 knots likely contributed to an illusion of a higher speed. The student lacked the experience to recognize the development of the unsafe condition. It was only after prompting from the instructor that he realized that he was failing to deal adequately with the situation. Even then, he expected the instructor to take control, if necessary, essentially relying on the instructor's judgment, not his own, to determine when the situation became dangerous. He never contemplated aborting the manoeuvre and setting up for another attempt.
+
+
+The instructor's expectation was that the student would handle the 360 autorotation proficiently and with minor errors. Since the flight was a review, he expected the student to recognise and correct errors. This expectancy led him to allow the unsafe situation to develop without adequate corrective action being taken. When he took control at 200 feet agl and 25 KIAS, the helicopter was already 250 feet lower than would be advised by the flight training manual and the flight instructor guide for the speed they were at in order to establish the conditions necessary for a proper autorotative flare. He had the choice of aborting the autorotation by applying power and flying away, or attempting to recover the autorotation from a point well inside the shaded area of the height-velocity chart and carrying out the flare and power recovery. At the time, he did not think that a power recovery was feasible from that position, so he elected to attempt to recover the autorotation.
+
+
+To the instructor, there was ambiguity between guidance to avoid operation within the shaded area of the height-velocity chart versus the widespread practice of operating helicopters in that regime when carrying out operations such as slinging, logging, and hydro patrols. He was uncertain as to the risk associated with operations within the shaded area of the height-velocity chart. The Schweizer 269C helicopter was certified under part 6 of the U.S. Civil Air Regulations (CAR Part 6)11, which require that a limiting height-speed envelope be established and included in the rotorcraft flight manual. The envelope is defined, for single-engine helicopters, as those combinations of height and speed (including zero) from which it is not possible to make a safe full autorotation landing following power failure12. This remains a requirement in Federal Aviation Regulations Part 27 (FAR 27)13, the successor to CAR Part 6 and currently applicable to new designs. The FAA Basic Helicopter Handbook14 reflects the CAR Part 6 and FAR 27 definitions, stating that a helicopter pilot must be familiar with the height-velocity chart for his helicopter:
+
+
+From it, he is able to determine at what altitudes and airspeeds he can safely make an autorotative landing in case of an engine failure; or, to restate it another way, he is able to determine those altitude-airspeed combinations from which it would be nearly impossible to successfully complete an autorotation landing.
+
+
+Documents that are applicable to flight training in Canada are ambiguous as to the relevance and applicability of the height-velocity diagram:
+
+
+The Helicopter Flight Training Manual presents the height-velocity chart in the section on transitions. It does not explain how it is developed or define what the shaded area means. With respect to autorotations, it advises, without explanation, "to abide by the height-velocity chart when performing autorotations". The section on sling load operations does not acknowledge that hovering with a sling load is in the shaded area, nor does it mention that in the paragraph on safety precautions. The Flight Instructor Guide - Helicopter cites the height-velocity chart as a reference in exercise 13, autorotation 2, but provides no further explanation. In exercise 18, autorotation 3, pertaining to range variation, it advises to acquire the minimum rate of descent speed "before entering the shaded area of the height-velocity chart". Neither the flight training manual nor the flight instructor guide address recognition of or recovery from the "avoid" areas of the height-velocity chart during practice autorotations, including the use of power. The height-velocity chart in the performance section of the aircraft flight manual indicates to "avoid operation in cross-hatched areas". The procedure for practice autorotations in the flight manual has a warning during power recovery to avoid the shaded areas of the height-velocity chart and that high rates of descent may develop that are not controllable. It is silent as to autorotative flight in or through the shaded area. This could be interpreted wrongly as advice against attempting a power recovery from within the shaded area of the chart. The addition of power and up-collective even within the shaded area would certainly have added to the total energy of the helicopter, reduced the rate of descent, given more time for the instructor to act, and reduced the severity of the touchdown if not completely averting it.
+
+
+The instructor's doubt that adding power would allow him to fly away, together with his tacit acceptance that flight within the shaded area of the height-velocity chart was a normal and acceptable facet of helicopter operations, led him to continue with the autorotation with the expectation of success despite the critical nature of the situation. This effectively blocked reassessment of the situation or reconsideration of the better option of applying power and up-collective to abandon the autorotation. Had the instructor and student planned for such a contingency during the preflight briefing, the instructor would have been better prepared to make an appropriate decision.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The flight was conducted following a briefing that lacked a detailed discussion of procedures or planning for contingencies. Therefore, the student and the instructor had different expectations, which allowed a dangerous situation to develop and continue beyond the point of safe recovery before corrective action was taken. The 360 autorotation was initiated at a height lower than the student had previously experienced and too low to provide an adequate margin for error or to achieve learning objectives. The student allowed the airspeed to decay and failed to recognize the danger inherent in the situation. He relied on the instructor to identify and respond to the situation if it became unsafe and as a result, failed to take corrective action to avoid the unsafe situation. The instructor allowed the helicopter's speed and height to reach a state from which, according to the height-velocity chart, a safe autorotative landing was unlikely. The instructor intervened after a safe recovery was not assured and made an inappropriate decision to continue the autorotation, doubting that power recovery was feasible. As a result, he was unable to arrest the rate of descent before the helicopter struck the terrain.
+
+
+
+Findings as to Risk
+
+
+The Transport Canada guidance material, including the Helicopter Flight Training Manual, Flight Instructor Guide - Helicopter, flight test standards, and Designated Flight Test Examiner Manual, contains ambiguous and conflicting guidance as to what constitutes a safe entry height for the various autorotative landings, increasing the likelihood of autorotations being initiated from heights that offer inadequate defence against errors in execution. Transport Canada reference material is ambiguous and incomplete in its treatment of the height-velocity chart. The Helicopter Flight Training Manual does not explain the significance of the height-velocity chart nor identify it as a risk that needs to be managed. The Flight Instructor Guide - Helicopter refers to the height-velocity chart without an explanation of why. Transport Canada reference material contains no discussion as to appropriate means for pilots to avoid or recover from dangerous situations during autorotation training exercises.
+
+
+
+Other Findings
+
+
+The company had no written standard operating procedures (SOPs) on autorotation initiation altitudes. The helicopter flight manual indicates that entry into the shaded area of the height-velocity chart is a particular problem when carrying out a power recovery. Canadian Aviation Regulations (CARs) refer to a flight training manual (FTM) but no FTM is available from Transport Canada. The pilot not wearing a helmet received minor cuts to the face whereas the pilot wearing a helmet had no cuts.
+

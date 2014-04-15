@@ -1,0 +1,114 @@
+
+
+Analysis
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The left-engine fan cowlings were closed, but the latches were intentionally not locked. This situation led to the aircraft departing with the fan cowls unlocked, resulting in damage to the aircraft. Standard operating procedures and maintenance practices were not adhered to, leading CC2 and the captain to believe that the engine was secure. The verbal handover during shift transfer was inadequate. Therefore, CC2 was not effectively made aware of the need to complete clamping the oil-scavenge line and secure the left-engine fan cowlings during his next shift. During separate walkaround checks, CC2, AME4, and the first officer did not observe that the fan cowling latches were unlatched. The positioning of the fan cowling caution placard is inadequate, in that it is not easily seen when the fan cowlings are closed and unlatched.
+
+
+
+Findings as to Risk
+
+
+The available modification to prevent the doors from initially closing fully when lowered was not installed on the occurrence aircraft. This modification provides a visual cue of an unlatched condition. Indication of fan cowling condition is inadequate, in that the latches are relatively small and difficult to see. The occurrence aircraft was not equipped with any type of flight deck indicator or mechanical indicator of unlatched fan cowlings that could alert the flight crew or the ground crew and prevent damage to the aircraft.
+
+
+
+Action Taken
+
+
+
+
+Operator-Initiated Action
+
+
+After this occurrence the operator incorporated the following changes in their operating procedures:
+
+
+Handover for physical work is conducted on-site, not in the office. The handover book is always used and is carried to the workplace to ensure information is accurate and complete. MOC is given a copy of the maintenance handover book at the end of each shift. The fan cowlings are closed, latched, and locked, or open on the support stays. Cowling closures are required inspection items. Both maintenance and flight operations personnel have been instructed to do tactile inspections of the fan cowling latches. If non-standard practices are adopted, MOC must be informed immediately. The daily check sheets have been modified to facilitate arrival and pre-departure checks. Tagging and flagging of incomplete work or work in progress is now a standard operating procedure. Incorporation of service bulletin V2500-NAC-71-0256 Latch Modifications. Incorporation of service bulletin V2500-NAC-71-0259 Fan Cowl Hold Open Device.
+
+
+
+
+Transport Canada
+
+
+Following the occurrence, Transport Canada issued Service Difficulty Alert AL-2000-06. The alert was targeted at all operators of large jet transport aircraft in Canada. The findings and recommendations are not based solely on Airbus aircraft powered by the IAE V2500 series of engines. The alert states:
+
+
+Ongoing investigation by Transport Canada and the Transportation Safety Board of Canada into the recent loss of engine fan cowlings from Airbus aircraft operated in Canada has brought to light several findings which may affect the safe operation of these and other large jet transport aircraft:
+
+
+The loss of fan cowls in flight poses a significant safety risk to the aircraft and its occupants. Failure to follow the manufacturer's instructions for operation of the cowling latches may lead to the latch handle opening in flight. Many of the recent occurrences followed a maintenance action in which the cowl was opened, indicating that possibly not all persons involved with the operation of these assemblies are following the manufacturer's instructions for their operation. During several engagement tests, the latch handle reached full travel before the trigger/safety latch could engage completely, rendering the latch ineffective. The subtle offset of the trigger/safety latch may be difficult to detect in an operational environment. The audible "click" of the trigger/safety mechanism engaging is difficult to detect under operational conditions. A convenient procedure for determining handle security is not clearly stated in the Airbus publications. Eighty per cent of the Airbus latches inspected were found to be below the manufacturer's specified minimum latch tension. Retention springs were observed to be broken or missing on several latch assemblies. In some installations, the handle latch pins were found broken. This appeared to be due to improper assembly and installation. An unsecured cowling latch handle or trigger mechanism may not be readily identifiable due to its location on the bottom of the cowl.
+
+
+In light of these findings, Transport Canada strongly recommended the following:
+
+
+Operators of large jet transport aircraft should ensure that all personnel approved to operate the cowl latches have read and understand the instructions contained within the manufacturer's appropriate publication and have received adequate training in the operation of the cowl closure system. Readily visible portions of cowl latches should be visually inspected whenever they are operated, and any abnormalities should be rectified before flight. Operators of aircraft with cowling latches not readily visible should consider the marking of these handles with a contrasting colour to help make an unsecured handle more conspicuous. Operators and maintainers of large transport category aircraft should have in place a procedure to ensure security of engine cowls before flight. Ensure that all personnel involved with the maintenance of these latches have all the necessary documentation for correct installation, e.g., Aircraft Maintenance Manual, etc.
+
+
+
+
+French Direction G n rale de l'Aviation Civile
+
+
+The French Direction G n rale de l'Aviation Civile issued Consigne de Navigabilit (Airworthiness Directive) 2000-444-156(B). The modification of the anti-swivel plates IAE V2500-NAC-71-0256 is now mandatory.
+
+
+
+
+
+Findings as to Risk
+
+
+The available modification to prevent the doors from initially closing fully when lowered was not installed on the occurrence aircraft. This modification provides a visual cue of an unlatched condition. Indication of fan cowling condition is inadequate, in that the latches are relatively small and difficult to see. The occurrence aircraft was not equipped with any type of flight deck indicator or mechanical indicator of unlatched fan cowlings that could alert the flight crew or the ground crew and prevent damage to the aircraft.
+
+
+
+Action Taken
+
+
+
+
+Operator-Initiated Action
+
+
+After this occurrence the operator incorporated the following changes in their operating procedures:
+
+
+Handover for physical work is conducted on-site, not in the office. The handover book is always used and is carried to the workplace to ensure information is accurate and complete. MOC is given a copy of the maintenance handover book at the end of each shift. The fan cowlings are closed, latched, and locked, or open on the support stays. Cowling closures are required inspection items. Both maintenance and flight operations personnel have been instructed to do tactile inspections of the fan cowling latches. If non-standard practices are adopted, MOC must be informed immediately. The daily check sheets have been modified to facilitate arrival and pre-departure checks. Tagging and flagging of incomplete work or work in progress is now a standard operating procedure. Incorporation of service bulletin V2500-NAC-71-0256 Latch Modifications. Incorporation of service bulletin V2500-NAC-71-0259 Fan Cowl Hold Open Device.
+
+
+
+
+Transport Canada
+
+
+Following the occurrence, Transport Canada issued Service Difficulty Alert AL-2000-06. The alert was targeted at all operators of large jet transport aircraft in Canada. The findings and recommendations are not based solely on Airbus aircraft powered by the IAE V2500 series of engines. The alert states:
+
+
+Ongoing investigation by Transport Canada and the Transportation Safety Board of Canada into the recent loss of engine fan cowlings from Airbus aircraft operated in Canada has brought to light several findings which may affect the safe operation of these and other large jet transport aircraft:
+
+
+The loss of fan cowls in flight poses a significant safety risk to the aircraft and its occupants. Failure to follow the manufacturer's instructions for operation of the cowling latches may lead to the latch handle opening in flight. Many of the recent occurrences followed a maintenance action in which the cowl was opened, indicating that possibly not all persons involved with the operation of these assemblies are following the manufacturer's instructions for their operation. During several engagement tests, the latch handle reached full travel before the trigger/safety latch could engage completely, rendering the latch ineffective. The subtle offset of the trigger/safety latch may be difficult to detect in an operational environment. The audible "click" of the trigger/safety mechanism engaging is difficult to detect under operational conditions. A convenient procedure for determining handle security is not clearly stated in the Airbus publications. Eighty per cent of the Airbus latches inspected were found to be below the manufacturer's specified minimum latch tension. Retention springs were observed to be broken or missing on several latch assemblies. In some installations, the handle latch pins were found broken. This appeared to be due to improper assembly and installation. An unsecured cowling latch handle or trigger mechanism may not be readily identifiable due to its location on the bottom of the cowl.
+
+
+In light of these findings, Transport Canada strongly recommended the following:
+
+
+Operators of large jet transport aircraft should ensure that all personnel approved to operate the cowl latches have read and understand the instructions contained within the manufacturer's appropriate publication and have received adequate training in the operation of the cowl closure system. Readily visible portions of cowl latches should be visually inspected whenever they are operated, and any abnormalities should be rectified before flight. Operators of aircraft with cowling latches not readily visible should consider the marking of these handles with a contrasting colour to help make an unsecured handle more conspicuous. Operators and maintainers of large transport category aircraft should have in place a procedure to ensure security of engine cowls before flight. Ensure that all personnel involved with the maintenance of these latches have all the necessary documentation for correct installation, e.g., Aircraft Maintenance Manual, etc.
+
+
+
+
+French Direction G n rale de l'Aviation Civile
+
+
+The French Direction G n rale de l'Aviation Civile issued Consigne de Navigabilit (Airworthiness Directive) 2000-444-156(B). The modification of the anti-swivel plates IAE V2500-NAC-71-0256 is now mandatory.
+
+

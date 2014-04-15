@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+There were no discrepancies found with the aircraft, airport facilities, or air traffic services. This analysis will focus on those aspects of the flight that were considered causal, contributing, or were identified as presenting a potential safety risk.
+
+
+From the outset of the flight from Toronto, the crew was anticipating a Category II approach to Runway 23 at Halifax. This anticipation was based on the ACARS reports from the operator's dispatch and the ATIS information at Halifax. It was only during the descent into Halifax that the crew became aware that they would be unable to conduct the approach to Runway 23. This change required the crew to re-program the FMS, conduct another approach briefing for Runway 14, and also expedite the descent because of the reduced distance to fly to reach Runway 14. All of these elements increased the crew workload, and may have contributed to the inadvertent omission of the required monitored approach procedure.
+
+
+The crew did not brief for nor carry out a pilot monitored approach (PMA), which disabled a critical safety defence established by the company to effectively manage low-visibility conditions. The cockpit workload during the transition to visual conditions is shared during a PMA, thus improving the decision making with respect to continuing for a landing. Flying a PMA would also have resulted in the more experienced flight crew member landing the aircraft in the reduced visibility conditions.
+
+
+The co-pilot flown transition became destabilized after the autopilot was disconnected, and this situation became more difficult when the TOGA mode was activated. When the aircraft was being manoeuvred to correct the situation, the aircraft wing contacted the runway. Reverse thrust was not selected until eight seconds after the nose gear was on the runway. These actions were likely a result of limited experience on type and the relatively high-stress, high-workload environment, exacerbated by the dark, low-visibility conditions.
+
+
+The captain had sufficient visual references to assess correctly the aircraft's position and direct corrective action to the first officer. The captain did not take control or command a go-around after the transition became destabilized because he believed that the co-pilot was correcting back toward the centre of the runway and the landing was salvageable.
+
+
+The aircraft settled on both main landing gear at 3550 feet from the threshold of Runway 14. The touchdown position, in conjunction with the delay in the application of reverse thrust, led to the aircraft slowing to taxi speed with only approximately 500 feet of runway remaining. With even a lightly contaminated runway, the risk of a runway overrun would have been increased.
+
+
+The fact that the CVR continued to operate after the aircraft landed resulted in occurrence information being overwritten, depriving the investigation team of potentially important information relative to the occurrence. This is an ongoing problem with CVR-equipped aircraft, and a solution must be found.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The crew did not carry out a pilot monitored approach in accordance with company procedures and therefore disabled a critical safety defence established to manage landing safely in the low-visibility conditions. The transition from the approach to the landing phase became destabilized when the co-pilot disconnected the autopilot, resulting in the aircraft wing contacting the runway when the aircraft was being manoeuvred to correct the situation. The co-pilot's inability to keep the aircraft stabilized during the transition to landing and his selection of the take-off/go-around (TOGA) mode were likely the result of his limited experience on type and the stress from the low-visibility and relatively high-workload conditions. The captain did not take control or command a go-around once the transition became destabilized.
+
+
+
+Finding as to Risk
+
+
+The touchdown point, in conjunction with the delay in application of reverse thrust, increased the risk of a runway overrun.
+
+
+
+Other Finding
+
+
+Significant data were lost to the investigation because the cockpit voice recorder (CVR) was not shut down after it was determined that the aircraft wing had struck the ground, depriving the investigation team of possible important information.
+

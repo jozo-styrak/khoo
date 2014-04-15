@@ -1,0 +1,31 @@
+
+
+Analysis
+
+
+No pre-impact discrepancies were identified with any of the aircraft's controls or systems. The left engine quit during the left turn because of fuel exhaustion, and the propeller stopped turning because there was insufficient airspeed to keep it windmilling. Because the hydraulic pump is installed on the left engine, it was not operating after the engine stopped turning, and the pilot was unable to retract the landing gear and flaps. This contributed to the airspeed decreasing quickly. With the airspeed below Vmc, the power from the right engine steepened the aircraft's turn, and the aircraft stalled. There was insufficient altitude to recover from the stall before the aircraft struck the water.
+
+
+The slow speed of the aircraft and the pilot's shoulder and lap restraints probably contributed to the survivability of the impact. The pilot was able to exit the aircraft and stay afloat until rescue vessels, guided by the land-based witness, reached him. The lack of direct communication between the rescue vessels and the circling aircraft had no detrimental effect on the rescue during this occurrence because of the proximity of the crash to a land-based observer.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft's left engine stopped because of fuel exhaustion. The aircraft stalled during the steep left turn following stoppage of the left engine, with insufficient altitude to recover.
+
+
+
+Findings as to Risk
+
+
+The pilot was wearing lap and shoulder restraints, which probably contributed to his survival. Because of insufficient radio equipment, the personnel on board the rescue vessels were unable to communicate directly with Toronto City Centre tower or the pilot of the aircraft circling overhead the downed aircraft.
+
+
+
+Other Findings
+
+
+The pilot was certified and qualified to conduct the flight. Records indicate that the aircraft was certified, equipped, and maintained in accordance with existing regulations. There were no pre-impact discrepancies identified that would have caused the left engine to lose power.
+

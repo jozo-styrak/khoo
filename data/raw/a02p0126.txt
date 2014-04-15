@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+The pitting on the "C" channel was present when primer was applied to the part. These imperfections or pits caused a stress riser and were the origin of a crack in the "C" channel lightening hole that propagated to the blade's lower skin. The structural integrity of the main rotor blade was compromised.
+
+
+The out-of-track condition of the main rotor blade was exacerbated by the crack that propagated to the lower skin. A torque event inspection of the blade, carried out by company maintenance shortly before the incident, failed to detect any damage or crack on the underside, suggesting that crack propagation may develop rapidly and/or be difficult to detect with the prescribed visual inspection method on that exterior surface of the blade, which is usually painted black. The occurrence blade had accumulated 2981.1 hours TTSN and 24 950 torque events. The previous investigation, TSB Occurrence A01P0061, revealed that a failed blade was removed after accumulating a TTSN of 2266.3 hours. It was estimated that, that blade had about 32 523 torque events. No finite torque event number is established for the main rotor blades. The blades essentially reach "on-condition" status because the manufacturer relies on the inspections to reveal cracks and retire the component. Several main rotor blades were found to have developed cracks at or near STN 36.5. The FAA-approved stress analysis for the Model 369F Helicopter did not evaluate the stresses applied at this location. MDHI developed the inspection interval based on their evaluation of crack growth analysis. There are no prescribed inspections for identifying lightening hole cracks, or any documented standards to accept material flaws in this part of the main rotor blades, so the crack in the "C" channel rendered the rotor blade not airworthy.5 The blades may not reach their expected life of 3530 hours TIS.
+
+
+In operations where the helicopter is subjected to a high number of torque events, accounting of torque events may be more difficult and imprecise because the helicopter does not automatically register and record the number of times that it transitions from a hover to forward flight, and/or the number of lifts; it relies on the pilot's recollection of the operations. Service bulletin SB369D-201 issued on 15 May 2001 was annotated as mandatory compliance by MDHI. Under Canadian Aviation Regulations, service letters and bulletins themselves are not mandatory unless mandated by the foreign civil aviation authority or referenced by an airworthiness directive (AD). Hence, MDHI rotor blades are subjected to a "fatigue factor" that may not be accurately tracked by operators.
+
+
+The manufacturer's method of inspection for the "C" channel consists of running a finger over the lightening holes to check for surface flaws or imperfections, such as burrs or nicks; this may be inadequate because a finger swipe along the length of this channel may not reveal slight imperfections which are best detected with magnification. HTC incorporated an ultrasonic inspection as part of its manufacturing process to detect bonding voids. This inspection may not detect slight sub-surface anomalies or imperfections that are critical to the structural integrity of the main rotor blade and its fatigue life.
+
+
+About a week before the occurrence, the operator secured only one main rotor blade in light wind conditions. Tying down only one blade may exacerbate the bending forces, because the four unsecured blades flutter in the wind and exert leveraged bending forces as they rise and fall. The structural integrity of the main rotor blades may have been compromised.
+
+
+TSB Engineering Branch report LP 069/2002, MD Helicopters Inc. study, and SDR databases suggest that the main rotor blades are susceptible to cracking at the first lightening hole, blade STN 36.5. Lightening holes in the "C" channel may afford an insignificant weight saving. TSB investigation A01P0061 found that a manufacturing defect at the first lightening hole compromised the structural integrity of the main rotor blade.
+
+
+The following TSB Engineering Branch report was completed:
+
+
+LP 069/2002 - Main Rotor Blades, MD 369 Helicopters (various), C-CHFA, 18 June 2002
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The main rotor blade cracked as a result of metal fatigue, which originated from relatively large pits or imperfections on the "C" channel lightening hole surface. These pits caused a stress riser and were the origin of a crack that propagated to the blade's lower skin. The pitting on the "C" channel was present when primer was applied to the part. The structural integrity of the main rotor blade was compromised by pits before it was surface treated.
+
+
+
+Findings as to Risk
+
+
+The out-of-track condition of the main rotor blade was exacerbated by the crack in the blade, which propagated to the lower skin. Maintenance interventions to correct for the out-of-track condition were not successful because a crack propagation may develop rapidly and/or be difficult to detect with the prescribed visual inspection. method. Service Bulletin SB 369D-201R1 requires that operators track and record in the applicable technical logbook, the number of torque events experienced by the helicopter. Compliance with Service Letters and Bulletins is not mandatory under present Canadian Aviation Regulations. Main rotor blades are subjected to a "fatigue factor" that may not be accurately tracked by operators because accounting of torque events relies on the pilot's recollection of the operations. The lightening holes on the "C" channel of the main rotor blades may afford an insignificant weight saving and may have slight imperfections that go unnoticed during the quality assurance inspection process; imperfections in the "C" channel may lead to cracking under certain operations and ultimately compromise the structural integrity of the blades. There are no documented standards to accept material flaws in this part of the main rotor blades, so the crack in the "C" channel rendered the rotor blade technically not airworthy. The quality assurance finger swipe inspection method for surface flaws or imperfections at the lightening holes of the "C" channel is inadequate, because these imperfections are best detected with magnification. About a week before the occurrence the operator secured only one main rotor blade in light wind conditions. Tying down only one blade may exacerbate the bending forces, because the four unsecured blades flutter in the wind and exert leveraged bending forces as they rise and fall.
+

@@ -1,0 +1,51 @@
+
+
+Analysis
+
+
+Investigators were not able to definitively determine the reason the aircraft struck the water; therefore, several hypotheses were examined to determine which was most likely. These hypotheses included a mechanical failure of the airframe, failure of the float strut attachment eye bolt, failure of the propeller or engine, aerodynamic stall, wind shear, and the actions of the pilot.
+
+
+Examination of the aircraft wreckage determined that, other than the eye bolt fatigue cracking, there were no pre-impact anomalies. Therefore, airframe failure did not contribute to the water impact.
+
+
+The leading edge at the upper end of the left forward float strut sustained damage, which indicated that the eye bolt was in the correct position at impact. The eye bolt had fatigue cracking across greater than 75 per cent of its cross section. It could not be determined whether the overload failure of the eye bolt occurred before or at impact. Static testing revealed that, even with the eye bolt nut missing, the eye bolt likely would have stayed in position and the floats likely would not have moved any significant amount from their normal position. Therefore, even if the eye bolt had failed before impact, such a failure should not have resulted in the aircraft pitching nose-down and striking the water.
+
+
+The engine and propeller were not recovered and, therefore, could not be examined. However, they were reported to be operating normally throughout the take-off, there were no unusual sounds or vibrations before the bang heard by the pilot, and the pilot could not recall whether the bang occurred before or at impact. Damage to the engine mounts was consistent with the attitude of the aircraft at impact with the water. Therefore, a pre-impact failure of the engine or propeller was considered to be unlikely.
+
+
+The aircraft became airborne with an airspeed of about 75 KIAS and was climbing in a wings-level attitude with increasing airspeed before the impact. The stall speed of the Cessna A185F with 20 degrees of flap, at 60 degrees of bank, and an acceleration of 2G, is 71 KIAS. It is unlikely that such an acceleration could be achieved without an extreme increase in control column back pressure. Therefore, even if the pilot had increased the control column back pressure, the airspeed was greater than the stall speed and the aircraft would not have stalled.
+
+
+The take-off was made into wind near the centre of the lake, well clear of the trees on the shore. Winds were reported to be from the northeast at about five knots. Under these conditions, it is very unlikely that the aircraft encountered wind shear.
+
+
+The pilot set the horizontal stabilizer trim to a nose-down setting during the step portion of the take-off run. This resulted in a need to maintain back pressure on the control column to hold the required nose-up attitude during the final portion of the take-off and the initial climb. When the pilot glanced to the left, it is possible that he unintentionally relaxed the back pressure on the control column, resulting in the aircraft pitching nose down and striking the water. This was considered the most likely reason for the aircraft pitching nose down and striking the water.
+
+
+The pilot completed his duty period at 2100 on the day before the accident and started his duty period at 0500 on the day of the accident. This off-duty period was only eight hours and, given his additional need for transportation to and from a rest facility, meals and personal hygiene, the pilot's opportunity for sleep was less than that required by regulation. It could not be determined whether the shorter-than-required sleep opportunity contributed to the accident.
+
+
+The passenger in the left rear seat was restrained by only a lap seat belt and sustained serious injuries to his legs, chest, and head. The risk of injury was increased because the seat was not equipped with a shoulder harness. He was likely incapacitated by the injuries and not able to undo his seatbelt and escape from the sinking aircraft.
+
+
+The following TSB Engineering Branch Laboratory Report was completed:
+
+
+LP 081/02 - Aircraft Components Examination
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The horizontal stabilizer trim was set to a nose-down setting, resulting in a need for the pilot to maintain back pressure on the control column to hold a nose-up climb attitude. The pilot most likely unintentionally relaxed the control column back pressure after take-off, causing the aircraft to pitch nose down and strike the water.
+
+
+
+Findings as to Risk
+
+
+The eye bolt from the upper left forward float strut attachment had a pre-impact fatigue crack greater than 75 per cent of the cross section of the eye bolt. Injuries sustained by the rear seat passenger likely prevented his escape from the sinking aircraft. The risk of injury was increased because the seat was not equipped with a shoulder harness. The pilot's rest period the night before the accident was less than the minimum required by either the Canadian Aviation Regulations or the company operations manual.
+

@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+In the first occurrence, the controller cleared ONT331 to hold on runway 24R and did not issue a take-off clearance until after CDN02 had been cleared to land. The controller thought that he had issued a take-off clearance to ONT331 and was waiting for the flight crew to begin a take-off roll; the flight crew was waiting for a take-off clearance. Both the airport controller and the acting supervisor thought that a take-off clearance had been issued to ONT331 prior to the first loss of separation and, therefore, did not realize that a significant, abnormal occurrence had taken place. For that reason, the controller was not removed from operational duty.
+
+
+In the second occurrence, the controller cleared ACA127 to position on the active runway and forgot to issue the take-off clearance. He also forgot to use, or was unable to use, his visual cue, possibly because the flight data strip would not slide easily out of the flight data strip holder. With no visual cue to remind him that the aircraft was in position on the runway, a line of defence was lost. He did not visually acquire the aircraft in position on the runway during his scan of the area. It is possible that a combination of the lack of contrast between the aircraft and the background, traffic on an adjacent taxiway between the tower and the threshold, and meteorological conditions, in conjunction with the lack of a visual cue, resulted in the controller forgetting that he had placed the aircraft on the active runway. It is also likely that the ASDE did not display a return for ACA127.
+
+
+The controllers on duty at the time of the occurrence stated that the combination of traffic on the adjacent taxiway, reduced visibility, and the predominant colour of the aircraft blending into the background made ACA127 difficult to see at the threshold of the runway. Although the airport is equipped with ASDE and the tower controllers are able to monitor the returns, the location and idiosyncrasies of the radar make it subject to displaying false or misleading information, or not displaying information at all. The controllers are aware of these characteristics and certainly, in the case of the second occurrence, the lack of information would be a critical lapse. The shift supervisor was working the clearance delivery position at the time of the second occurrence and was unable to perform supervisory duties.
+
+
+It is very likely that the controller was fatigued as a result of an accumulated sleep debt stemming from several nights of disturbed and shortened sleep cycles. The fact that the controller thought he had cleared ONT331 for take-off when he had not, and forgot he had placed ACA127 on the threshold of runway 24R, appears to be consistent with these potential sleep-loss effects. Further, although the controller felt that he was fatigued prior to starting his shift, he believed that he would be able to perform his duties. This decision by the controller was consistent with the effects of fatigue, in that people often do not realize their actual level of fatigue, alertness, or performance.
+
+
+
+Findings
+
+
+The control tower was staffed in accordance with unit policy. The controller had an accumulated sleep debt and was fatigued. In the first occurrence, the tower controller was working the north and south tower positions combined. The tower controller was aware that he had placed ONT331 in position on runway 24R. The tower controller thought that he had cleared ONT331 for take-off on runway 24R when he had not. CDN02 was cleared to land on runway 24R when separation from ONT331 was not assured. The controller forgot about ACA127 after he cleared it to position on runway 24R. There is no uniform method used by controllers as a visual reminder that they have placed an aircraft in position on an active runway. The tower controller did not use any visual cue to remind himself that he had placed ACA127 on the threshold of runway 24R. The shift supervisor was working the clearance delivery position at the time of the second occurrence. A combination of factors made ACA127 difficult to see at the threshold of runway 24R.
+

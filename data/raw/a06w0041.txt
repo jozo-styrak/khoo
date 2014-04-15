@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The analysis will focus on the sequence of failure of the tail boom attachment fittings and the limitations of repetitive inspections.
+
+
+Fatigue cracking of the upper right attach fitting occurred, resulting in the transfer of loads to the aft ring structure and remaining three tail boom attach fittings. The resulting onset of fatigue in the locknut flexible beam elements of the upper left attach fitting, which compromised the strength of the fastener, allowed the upper left bolt to pull out of the locknut. Failure of the two upper attach fittings caused overload and separation of the lower two attach fittings. This resulted in the detachment of the tail boom and loss of aircraft control. Safe recovery following this type of structural failure would be unlikely.
+
+
+The 25-hour inspection, as mandated by AD2001-24-51, required the use of a borescope in order to inspect the upper fittings. This was later augmented by the AMOC, which allowed the operator to conduct visual inspections of the tail boom attach fittings. The 25-hour visual inspections did not identify damage to the tail boom attach fittings before structural failure. Additionally, debris around the fitting may have obscured the crack in the fitting.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 022/006 - Bolts and Anchor Nuts
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The attach fitting at the upper right attachment point of the tail boom failed in fatigue. The transfer of loads to the adjacent aft ring structure resulted in the cascading failure of the remaining three tail boom attach fittings and separation of the tail boom from the fuselage. Aircraft control was lost following separation of the tail boom. Safe recovery following this type of structural failure was unlikely. The 25-hour visual inspections allowed by the Alternate Method of Compliance (AMOC) did not identify damage to the tail boom attachment fittings before structural failure.
+

@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+Neither the weather conditions nor aircraft serviceability were factors in the occurrence. The analysis will therefore focus on crew actions and company training programs.
+
+
+The crew of JZA8105 had been initially trained on the CRJ200, which included aeroplane performance and limitations training. The crew had experience flying the CRJ200 before completing the CRJ705 conversion training. The Air Canada Jazz CRJ705 conversion training was based on the Transport Canada OEBR, which outlined aircraft difference requirements for conversion training between the CL-65 variants. Neither the OEBR nor the Air Canada Jazz CRJ705 conversion training program covered flight characteristics at high-altitude cruise. Also, Air Canada Jazz CRJ705 cockpit reference material did not include information on Vmd limitations. Therefore, the crew of JZA8105 was not aware that, unlike in the CRJ200, long-range cruise speed in the CRJ705 could be less than Vmd at altitudes near the aircraft service ceiling. Consequently, the decision to slow the aircraft to 0.70M, which was below the Vmd of 0.75M, while attempting to maintain a constant altitude, was not an appropriate course of action.
+
+
+When the captain was alerted to the airspeed falling below the targeted 0.70M, the viable speed - recovery options in order of effectiveness were to begin a descent, and to increase power. When he advanced the power levers, the engine power available at FL 400 was only slightly more than that required for cruise, and the aircraft could not accelerate beyond Vmd in level flight. When the airspeed continued to decrease, the captain selected the FCC vertical speed mode. With stick shaker activation imminent, the best course of action would have been to disconnect the autopilot and manually reduce pitch. The second stick shaker event was likely due to the crew introducing a pitch-up with a resultant increase in angle of attack and G loading. Speed recovery was eventually established by a more aggressive and sustained reduction in pitch attitude.
+
+
+The captain had obtained a limited quantity of fitful sleep the night before the incident flight, despite being afforded adequate time to obtain the required rest. His preoccupation with the FMS after reducing power, at the expense of the more critical task of monitoring the airspeed, was consistent with a type of performance decrement associated with fatigue.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 058/2005 - DFDR Examination.
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilots were not familiar with the relationship between cruise speed and minimum drag speed (Vmd) at high altitudes in the CRJ705. The Air Canada Jazz CRJ705 conversion training, which was based on the Transport Canada evaluation of CL-65 variants in an Operational Evaluation Board Report (OEBR), did not include differences in flight characteristics pertaining to Vmd. The flight crew of JZA8105 were not aware that, under their flight conditions, a low margin of power was available to sustain level flight at cruise altitude at a speed below Vmd. As a result, the crew initiated an airspeed reduction to below Vmd, from which the aircraft was unable to accelerate without loss of altitude. The captain was not well rested before the flight. The effects of fatigue likely resulted in a degradation of his concentration and prolonged diversion of attention from monitoring of airspeed after power reduction. The airspeed was therefore allowed to fall below the targeted value. The company's speed recovery training in the CRJ was limited to 10 000 feet above sea level (asl), and did not cover the differences in techniques between airspeed recovery at low altitude and at high altitude. Without the benefit of this training, the captain's initial response for airspeed recovery was ineffective, which eventually resulted in stick shaker activation.
+
+
+
+Other Finding
+
+
+A time drift originating in the digital flight data recorder (DFDR) introduced an inaccuracy of 0.16 per cent where the required standard was 0.125 per cent. Although the drift did not have an impact on this investigation, the resulting inaccuracy of time synchronization could reduce the value of flight data recorder information as it applies to establishing an accurate sequence of events in other occurrences.
+

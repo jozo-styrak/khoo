@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+Boeing Service Bulletin 737-32-1099 recommended replacement of aluminium hydraulic transfer cylinder end caps with stronger stainless steel end caps. Canadian Airlines International responded to this recommendation by issuing engineering order E.O. 3200-01033. The engineering order required replacement of hydraulic transfer cylinder end caps at the next cylinder shop visit, but it did not specify replacement of end caps on in-stock assemblies. The requirements of E.O. 3200-01033 were in effect when the serial number 585 hydraulic transfer cylinder was installed. However, because the in-stock cylinders were not modified and because the unit had not subsequently required a cylinder shop visit, the aluminium end caps were not replaced with stainless steel end caps.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 126/94 - Hydraulic End Cap Analysis.
+
+
+
+Findings
+
+
+One of two aluminium end caps installed on a hydraulic transfer cylinder (P/N 69-54600-2) failed because of low-cycle fatigue under normal service loads. The material composition of the failed end cap was consistent with the standard aluminium alloy designated AA 7075, heat treated to a T-73 condition. Boeing service bulletin 737-32-1099, issued 14 September 1979, recommended replacement of hydraulic transfer cylinder aluminum end caps with higher strength stainless steel end caps. Canadian Airlines International E.O. 3200-01033, dated 10 January 1985, did not direct replacement of end caps installed on existing cylinder assemblies in the company inventory. The aluminium end caps had not been replaced with stainless steel caps when the subject hydraulic transfer cylinder was installed on the occurrence aircraft. The hydraulic transfer cylinder was maintained as an "on-condition" item and had not been subjected to a cylinder shop visit and subsequent end cap replacement.
+

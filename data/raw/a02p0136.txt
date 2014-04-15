@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+The major element in this accident appears to be the incorrect position of the elevator trim tab at halfway between neutral (take-off) and full nose up, for take-off. The very strong nose-up pitching moment that occurred at lift-off clearly took the pilot by surprise and resulted in the aircraft stalling aerodynamically at a height from which recovery was not possible. A test flight flown by the manufacturer, replicating the accident aircraft's configuration, indicated the stick force should have been within the pilot's physical ability to counteract. But when unexpected, it is unlikely the pilot would have been able to react and counteract this considerable force in time to prevent the pitch-up and stall.
+
+
+It could not be determined why the elevator trim tab was not properly set for take-off. It may have been left in the "as found" position at the conclusion of the last flight the previous day, or the pilot might have been distracted in the process of operating the trim tab to check for full travel during pre-flight checks. Had there been a requirement in the checklist to confirm the correct positioning of the elevator trim for take-off, the chance of taking off with it incorrectly set would be minimized.
+
+
+Why the flaps were set to at least 19 degrees and possibly as much as 23 degrees for take-off could also not be determined. The pilot operating handbook limited the aircraft to no more than 10 degrees of flap for take-off, and that only for take-offs on soft or rough fields, or where a minimum ground run is required, neither of which is the case at Boundary Bay Airport. Information provided by the aircraft manufacturer indicates this flap setting would have slightly exacerbated the already strong nose-up pitching moment induced by the elevator trim setting.
+
+
+A formal weight and balance calculation prior to flight would have revealed that, with four occupants and full fuel tanks, the aircraft's weight would be in excess of the maximum allowable take-off weight. As no indication could be found that such a calculation was completed, yet a take-off was attempted, it must be concluded that it probably was not done.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The elevator trim tab was set halfway between the neutral (take-off) position and full nose-up on the cockpit indicator, which resulted in a very strong nose-up pitching moment at lift-off, causing the aircraft to stall aerodynamically at a height from which recovery was not possible. The checklist used by the pilot contained no challenge to verify the position of the elevator trim tab before take-off. The flaps were set inappropriately for the attempted take-off, adding to the instability. The aircraft was overweight at take-off; it is unlikely a weight and balance calculation was completed prior to flight. The aural stall warning mechanism was defective and probably did not activate when the aircraft stalled during the accident sequence. The wrong flap selector plate for the particular Cessna 172 model was installed around the cockpit flap lever, which limited flap extension to a maximum of 30 degrees.
+

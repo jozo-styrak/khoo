@@ -1,0 +1,52 @@
+
+
+Analysis
+
+
+Although the fuel product identifying stickers met provincial regulations, the similarity between the stickers may lead to misidentification of the fuel product. Operating with a small amount of AVGAS had no consequence on engine performance.
+
+
+Extensive examination of the engine and FCU did not reveal any anomaly or defect that could have contributed to or caused a loss of power to the engine. The locking tabs on the first stage of the compressor had been left unbent at the last engine overhaul. Except for having a high potential for engine mechanical or structural damage, the backward movement of the compressor blades had no effect on the engine operation during this event. Other than not being certified for use in civilian-registered helicopters, the presence of unauthorized parts also had no effect on engine performance. The finding of unbent locking tabs and unauthorized parts indicates a lack of quality control on the part of both maintenance facilities involved. Because military and commercial parts may have the same part number, it is essential to cross reference the CAGE code of the parts so as to trace their origin and confirm their authorized use in commercial aircraft. The lack of a CAGE code on the accompanying tag resulted in the issuance of a certificate of airworthiness without the benefit of complete and adequate documentation.
+
+
+The presence of melted metal throughout the combustion chamber and turbine blades is indicative of power being produced at the time of impact. Main rotor blades did not present the damage usually associated with blade coning that occurs if rotor decays following a loss of power.
+
+
+None of the available dynamic components (the KAflex drive shaft, the main transmission, the free wheeling unit, or the 42-degree gearbox) indicated a pre existing condition that would have interfered with their normal operation. The crew did not recall seeing any caution lights or hearing the low rotor horn, and none of the engine or low rotor RPM caution lights was lit at impact. All of these observations led to the conclusion that the helicopter systems were operating within the normal parameters at the time of impact.
+
+
+At a distance of 1000 feet from shore, the pilot would not have been able to adequately judge the helicopter's forward speed and altitude above the water. It is likely that the water bucket inadvertently entered the water while the helicopter was transitioning from a hover taxi to a hover. This may have caused the vibrations and tugging felt by the pilot and the loadmaster. The application of collective and forward cyclic would have caused the helicopter to pendulum swing toward the surface of the water. The water bucket was jettisoned after collective and cyclic inputs. However, there was insufficient time, altitude or visual references to prevent the helicopter from striking the water.
+
+
+The pilot-in-command was not wearing the available shoulder harness during longline operations, which likely contributed to the severity of his injuries.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 085/2005 - Fuel Analysis Bell 205A-1, C-GADA LP 090/2005 - Analysis of Warning Lamps LP 046/2006 - Testing of Locking Tabs
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The helicopter was positioned too far from shore to provide adequate visual references for longline operations, and it is likely that the water bucket inadvertently entered the water while the helicopter was transitioning from a hover taxi to a hover. The anchor effect of the water bucket may have caused the helicopter to swing downwards, and there was insufficient time, altitude, or visual references to prevent the helicopter from striking the water. The pilot was not wearing the available shoulder harness during longline operations, which likely contributed to the severity of his injuries.
+
+
+
+Findings as to Risk
+
+
+Although there was no effect on engine performance, the presence of unauthorized parts and the unbent first stage compressor blade locking tabs denotes a lack of quality control on the part of both maintenance facilities involved. Although the fuel product identifying stickers met provincial regulations, the similarity between the stickers may lead to misidentification of the fuel product. The crew members were not wearing a lifejacket as stipulated in the company operations manual. Although both survived their injuries, the pilot did not know how to swim and may have drowned had he not been rescued by nearby firefighters.
+
+
+
+Other Findings
+
+
+Many military and commercial parts share the same part numbers and therefore the accompanying tag is not sufficient to confirm that the part is authorized for commercial use. Its validity must be cross-referenced with the Commercial and Government Entity (CAGE) code. It is not mandatory to indicate the CAGE code on the accompanying tag. The lack of a CAGE code on the accompanying tag resulted in the issuance of a certificate of airworthiness without the benefit of complete and adequate documentation.
+

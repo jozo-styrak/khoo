@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+The observed weather conditions during the aircraft's stop at Qu bec and on take-off met the icing-condition criteria specified by the aircraft manufacturer, the operator, and Transport Canada. There was wet snow and rain, and the temperatures were conducive to icing conditions. Given the weather conditions prevailing when the aircraft was on the ground, the decision to take off without de-icing the aircraft was questionable.
+
+
+The use of the elevator trim to alleviate the normal pitch control forces during the climb made it impossible to recognize the imminent jamming of the elevators sooner. It was a potentially dangerous condition to control the aircraft with the elevator trim when the elevators were jammed. Should the elevators have suddenly become free with the trim in the full nose-down position, the aircraft would have nose-dived unless there was immediate intervention by the flight crew. On approach and especially at low altitude, this situation could potentially lead to impact with the ground.
+
+
+The surface finish of the elevator leading edges did not comply with the manufacturer's standards. This was the only observed factor that could have allowed the combination of rain and wet snow to freeze, adhere, accumulate, and cause an elevator jamming condition. No controls or flight controls associated with the operation of the elevators showed any abnormality.
+
+
+The following laboratory report was completed :
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The accumulated ice on the surfaces caused the elevators to jam. The walk-around inspection done by the pilot-in-command did not make it possible to recognize the presence of wet snow in the opening between the stabilizer and the elevators. No application of de-icing or anti-icing fluid was requested or performed prior to take-off. The atmospheric conditions were favourable to contamination of the critical surfaces and met the icing-condition criteria set forth by Transport Canada, the carrier, and the aircraft manufacturer. The leading edges of the elevators had surface-finish irregularities exceeding the manufacturer's standards and thus favoured ice build-up. The paint drips were porous in texture and allowed ice to adhere to the elevator leading edges.
+
+
+
+Other Findings
+
+
+The crew had received periodic training on aircraft critical-surface contamination. No mechanical anomalies of the elevator controls were observed that could have affected the operation of the elevators. Upon landing, the pilot-in-command checked the elevators and found them to be completely free of any restrictions. The flight crew was certified and qualified for the flight in accordance with existing regulations.
+

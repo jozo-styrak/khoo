@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+There were no mechanical failures that contributed to the occurrence. Therefore, the analysis will focus on the awareness of runway conditions, the runway touchdown point, the delay in wheel braking, and the reduction in aircraft deceleration.
+
+
+The ATIS report received by the crew indicated that Runway 03/21 was bare and wet and that Runway 13/31 was the active runway. Twelve minutes before landing, the crew received a special weather observation indicating that light snow was falling. The fact that the latest weather observation was a special report and was reporting snowfall should have alerted the crew that weather conditions had changed and therefore the runway selected for landing may be contaminated. However, the crew did not request an updated RSC report.
+
+
+Runway 13/31 had been designated as the active runway since the winds were light from the west. Active runways are chosen for various reasons such as surface wind direction, the predominate direction aircraft are approaching from, and taxi distance. Snow removal personnel and equipment were maintaining only Runway 13/31 before the occurrence.
+
+
+The aircraft touched down approximately 2400 feet beyond the normal touchdown point (3400 feet minus 1000 feet). The fact that the aircraft touched down long and at an airspeed 14 knots below the planned airspeed indicates that the aircraft floated this additional distance before touchdown. Considering that the runway was contaminated with snow, the reduced stopping distance available greatly increased the chance of the aircraft being unable to stop on the remaining runway.
+
+
+Wheel braking was applied by both pilots five seconds after the planned brake application speed of 135 knots. This brake application occurred 2000 feet after the touchdown point, leaving only 4800 feet of runway available for stopping the aircraft. The fact that both pilots were attempting to apply brake pressure simultaneously may indicate that both pilots were concerned about the stopping distance remaining.
+
+
+Analysis of the recorded aircraft flight data indicated that the initial rate of deceleration may have been sufficient to stop the aircraft before the runway end. The crew did use reverse thrust after touchdown; however, it did not maintain maximum available reverse thrust until ensured of stopping on the available runway. Even though reverse thrust has little effect below 90 knots, that limited effect and the absence of residual forward thrust during the 15 seconds the idle power setting was restored may have been enough to prevent a runway overrun.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft touched down approximately 2400 feet past the normal touchdown point; this greatly reduced the available stopping distance. The contaminated runway surface condition increased the distance required to stop the aircraft. The delay in the application of wheel brakes combined with the failure to maintain maximum available reverse thrust until it was ensured that the aircraft would stop on the remaining runway contributed to the overrun.
+

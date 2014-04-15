@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The approach into Calgary came at the end of a long duty day. The scheduled duty day was more than 11 hours, and the weather delay in Salt Lake City, because of the low visibility in Calgary, extended the duty day. By the time the crew had disembarked at the gate in Calgary, the duty day was slightly longer than 13 hours. The scheduled and actual duty day were within the time allowed by company procedures.
+
+
+The captain and the second officer commuted by air to Atlanta. Both pilots chose to arrive in Atlanta on the morning of the flight and, as a result, were subjected to a long day of activities related to their flight. The captain's work day essentially commenced at about 0700 when he reported to the Charlotte airport for his commute flight. His actions did not contravene any regulation and were consistent with company policy and normal commuting practice.
+
+
+The crew schedule is designed to reduce the possibility of fatigue. If this work period is exceeded, the likelihood of fatigue increases. The crew day does not legally include the time required to commute; however, the level of fatigue is affected by the extra time commuting. In the United States, as in Canada, the regulations do not specifically address crew commuting times. Commuting times are not included in airline calculations of time on duty for the purposes of determining the duty day.
+
+
+The approach into Calgary was proceeding without difficulty. The crew had chosen to use the autopilot for a coupled ILS approach to runway 34. They had intended to keep the approach coupled until just above the minimum disconnect height of 50 feet agl. This normally has the benefits of keeping the aircraft stabilized longer and allowing pilots to concentrate more on acquiring visual cues for the transition to landing. As the aircraft descended through about 350 feet, the pitch angle increased and pitch oscillations commenced.
+
+
+At this point, about 84 seconds after the aircraft descended below 1 500 feet agl, the approach became unstable. The aircraft was likely displaced slightly from the glide path, but, because of the proximity of the ILS land-based equipment, this slight displacement would appear to the autopilot as a relatively large angular deviation from the glide path. The autopilot thus made an aggressive attempt to return the aircraft to the glide path. Because the timing from the descent through 1 500 feet agl had not yet reached 150 seconds, and the runway was not equipped with a middle marker, the autopilot had not fully desensitized. The corrective action was therefore too aggressive, resulting in the pitch oscillations.
+
+
+The autopilot did not desensitize in time because the aircraft ground speed was higher than the assumed ground speed of the autopilot design. The ground speed was high because of light tailwinds, the relatively high-altitude airport, and a high approach speed. The approach speed, based on Vref, was higher than normal because of the increased landing weight. The use of 30 degrees of flap, which is now a normal landing configuration, was not accounted for in the original autopilot design. Had the SB 21-1132-122 modifications been made on this aircraft, the autopilot pitch control would likely have remained stable, because the desensitizing would have been complete or near completion.
+
+
+The captain did not detect the pitch oscillations until the aircraft was below the decision height and a 5-degree pitch down occurred. The captain's reaction was to disconnect the autopilot. However, while attempting the visual transition to landing at night, with few visual cues available, the aircraft drifted to the left of the runway centreline. The captain's attempt to return the aircraft back to the right at low altitude resulted in bank angles that caused the wing to contact the runway as the aircraft touched down firmly. Because of its flap geometry and swept wing design, the Boeing 727 is prone to wing strikes when landed with only relatively small amounts of bank. The transition to the landing in low visibility, with the autopilot oscillations, required a heightened amount of pilot skill and alertness. The captain's long work day may have affected his performance and ability to manage the situation.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft drifted left of the centreline during the low-visibility landing. While attempting to return the aircraft to the centre of the runway, the captain applied too much right bank, resulting in the wing strike. The autopilot sensitivity did not fully reduce during the approach into Calgary, leading to pitch oscillations. The captain disconnected the autopilot earlier than planned to try to control the oscillations. The original design of the SP-150 autopilot assumed that approaches would be flown at a flap setting of 40 degrees. The occurrence crew used a flap setting of 30 degrees, which is current standard practice. The autopilot was designed to desensitize, based on an assumed ground speed for a 3-degree glide slope, within 150 seconds of descending through a radio height of 1 500 feet above ground level (agl). The occurrence aircraft took about 110 seconds to pass from 1 500 feet agl to 50 feet agl, the minimum altitude for autopilot operation. The ground speed during the approach was higher than normal because of light tailwinds, the relatively high-altitude airport, and a high approach speed. The approach speed, based on Vref, was higher than normal because of the increased landing weight. The scheduled crew day was slightly more than 11 hours 30 minutes, which was less than the normal maximum scheduled crew day. The crew day was extended because of the delay in Salt Lake City while waiting for the Calgary weather to improve.
+
+
+
+Other Findings
+
+
+The captain and the second officer were subjected to a long work day because, in addition to the duty day required to operate the flights, they had commuted to their base of operation by air early on the morning of the flight. Long work days may contribute to fatigue. A service bulletin (SB) for the SP-150 autopilot was issued to reduce the time of autopilot desensitization to 105 seconds from 150 seconds. Compliance with the SB was not mandatory, and the occurrence aircraft autopilot did not have the SB modification. The Calgary instrument landing system to runway 34 was serviceable at the time of the occurrence. Aircraft equipped with the SP-150 and SP-50 autopilots with the same sensitivity reduction logic as the occurrence aircraft will never reach minimum sensitivity value for runways not served with a middle marker. Most airports in Canada are not equipped with middle markers.
+

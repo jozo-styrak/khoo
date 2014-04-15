@@ -1,0 +1,13 @@
+The pilot had not received adequate flight training for the red GOV light emergency and did not realize that the twist grip throttle still controlled fuel flow to the engine	, the emergency was mishandled , resulting in a severe overspeed of the aircraft 's dynamic components
+However , during the approach , he did not carefully follow the flight manual procedures necessary to manage a red GOV light emergency : slight adjustments to fuel flow , and only apply small amplitude adjustments , synchronized with the collective pitch control	maintain Nr in the green range
+returning the throttle to the FLIGHT detent	the pilot increased fuel flow , setting the fuel metering valve to the position it was in just prior to the illumination of the GOV light
+normally received during the recommended factory training course	training provided to the occurrence pilot was less than
+a proficiency or competency check was not conducted	there was no opportunity to verify the effectiveness of the training or the competency of their helicopter pilots
+the pilot had been required to fly a competency check prior to the commencement of line operations	the deficiencies in flight training have been detected
+the time of the occurrence	the RCMP Air Services operations manual did not require either a pilot proficiency check or a pilot competency check for their helicopter pilots , which would help detect deficiencies in flight training and any lack of proficiency
+The descending turn and decreased collective masked the effect of the decreased throttle	too high a fuel setting for the flight regime
+the pilot	fuel flow
+This	the overspeed
+The mishandling of the governor problem , and the lack of recall of any related in-flight training , suggests that the level of flight training the occurrence pilot received on governor failures was insufficient	him understand and respond appropriately to the red GOV light illumination
+Consequently , the emergency was mishandled	a severe overspeed of the aircraft 's dynamic components
+At the time of the occurrence , the RCMP Air Services operations manual did not require either a pilot proficiency check or a pilot competency check for their helicopter pilots	deficiencies in flight training

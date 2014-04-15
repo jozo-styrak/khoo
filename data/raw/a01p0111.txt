@@ -1,0 +1,58 @@
+
+
+Analysis
+
+
+The chain of events that led to this incident included controller expectations, and planning and monitoring issues coupled with aircraft handling and performance.
+
+
+ATC controllers consider the radii of turn of jet aircraft and their departure speeds to accurately judge the space required for aircraft to turn, climb, and manoeuvre under various conditions. In this incident, the lateral spacing required for the departing A320 to avoid conflict with the Cessna would have been achieved with the A320 turning at or shortly after crossing the NDB, even accounting for an angle of bank of 15 and a speed of 250 knots. The A320 started to turn 44 seconds after passing the NDB, however, and this delay caused the required lateral space to move towards the Cessna, thus infringing on the buffer the controller had envisaged. That the A320 was about 50 knots faster than normal significantly exacerbated this dynamic situation.
+
+
+Based on previous experience with other jet aircraft on departure from Runway 08R, the departure controller anticipated that ACA1118 would have reached at least 3000 feet at the NDB, thus allowing the aircraft to begin a turn. Had the aircraft followed any of the VNAP profiles - that is, either A, B, or Air Canada's - it would have crossed the NDB at an altitude and a speed that would have been consistent with the controller's expectations. As well, there would have been sufficient spacing between the aircraft under his control.
+
+
+The controller's intended flight path for ACA1118 required that the A320 begin the turn to the north at or near the NDB. Although the controller's plan would likely have succeeded had the A320 reached 3000 feet at the NDB and therefore begun to turn, it was fundamentally flawed in that the criterion he established for ACA1118 to begin the turn was based on the A320 reaching a specific altitude. Essentially, the controller had to ensure separation between the A320 and three obstacles: the Cessna 172M and two parachute aircraft. Providing vertical spacing from these obstacles was not a plausible option, and lateral spacing was required. For example, by instructing ACA1118 to reach 3000 feet and turn at or near the NDB, the lateral spacing he wanted could have been assured. In the event that the pilot of the A320 declined such instructions for reasons of potential aircraft performance, the controller could have reverted to an alternative plan, such as continuing the aircraft straight ahead on the runway heading.
+
+
+When the A320 did not turn as expected, the controller attempted to salvage the quickly deteriorating situation with small heading changes. It is improbable that the controller's last two instructions to turn left to 350 and 330 would have had any remedial effect on the developing collision situation. Because of the A320's wide radius of turn at 280 knots and 15 of bank, and in consideration of pilot and aircraft reaction times, the A320's flight path would have been only slightly affected in the brief time before safety would not have been assured with the Cessna.
+
+
+More-imperative and timely instructions by the controller, when he recognized that the A320 was not flying as expected, would have alerted the crew of ACA1118 to the developing traffic conflict situation. If he had heard more-imperative instructions, the pilot flying might have responded more quickly and used a greater angle of bank in turning the aircraft. Considering the aircraft's speed, a steeper angle of bank would not likely have returned the aircraft to the original flight path intended by the controller, but it would have provided more passing clearance between the two aircraft.
+
+
+In essence, as soon as the controller instructed ACA1118 to turn further to 350 , he initiated a course of events that, without substantive flight path correction by the A320, was inevitable. That the Cessna was already established in a left orbit was fortuitous, because it created a diverging flight path situation, so no real risk of collision existed. Nonetheless, the safety of the two aircraft was not assured.
+
+
+The Air Canada VNAP profile did not directly contribute to this incident; however, it is an anomaly in the general noise-abatement procedures approval process and potentially creates ATC separation difficulties in some circumstances.
+
+
+Nav Canada reasonably assessed that having only one noise-abatement procedure (VNAP A) at Vancouver would improve traffic management and reduce performance conflicts between departing jet aircraft. Although it was not found in this investigation that the VNAP was being specifically used as an aircraft separation method, the enticement to do so exists. Such use of the VNAP would not be in accordance with the noise-abatement procedures' intended purpose, which has been emphasized by the new ICAO directives.
+
+
+Two VNAP procedures are presently in effect in Vancouver - CAP's and Air Canada's - each with remarkably different vertical profiles. The Vancouver controllers were generally unaware that Air Canada aircraft followed a procedure similar to VNAP B. This lack of awareness introduced elements of inconsistency and complexity that elevated the level of risk for a loss-of-separation event and increased the opportunity for an unsafe situation. When a choice existed between VNAP A and B, controllers were informed of the profile about to be flown and took appropriate traffic management action. In the operating environment at the time of this incident, however, the potential for a loss of separation or a collision was further increased because the controllers were not aware of the remarkable differences in the profiles or that the Air Canada profile existed.
+
+
+Transport Canada, Nav Canada, Air Canada, and the Vancouver International Airport Authority apparently did not collaborate in the implementation of the Air Canada noise- abatement procedures. This lack of cooperation created a situation where Air Canada was authorized to conduct a noise-abatement profile that differed from the authorized VNAP A profile. It also created a situation of inconsistency and increased risk among air carriers operating from Vancouver International Airport.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot of ACA1118 did not conform to the published vertical noise-abatement procedure (VNAP) A for Vancouver or the Air Canada VNAP profile. As a result, his flight path was inconsistent with normal departure profiles, which were the basis for an air traffic control (ATC) clearance. Although he acknowledged the instructions, the pilot of ACA1118 was tardy in his response to the departure controller's instruction to turn left to 360 at 3000 feet. As a result, he introduced a significant displacement of the planned flight path to avoid the Cessna. Instead of using a geographical fix, such as the non-directional beacon (NDB), the departure controller used a specific altitude as the parameter to initiate a flight path. This decision did not provide sufficient lateral spacing to avoid an air proximity event. The departure controller did not use imperative phraseology when he issued the instruction for ACA1118 to turn. Imperative phraseology would have indicated a degree of urgency to the A320 pilot to turn quickly.
+
+
+
+Findings as to Risk
+
+
+The Air Canada fleet noise-abatement procedures are not consistent with the noise-abatement procedures that Canadian ATC controllers expect jet aircraft to follow. Consequently, ATC controllers are exposed to inconsistent aircraft climb performance, and there is an elevated risk of loss of separation. ATC controllers in Vancouver were generally unaware that Air Canada aircraft did not follow the published VNAP A profile. As a result, the controllers were unable to make allowance for performance differences between departing aircraft. Although aware of the differences between Air Canada's VNAP profiles and the published VNAP profiles, Transport Canada approved the implementation of the fleet noise-abatement procedures without examining operational or performance issues in depth. Without examining operational or performance issues, Nav Canada assessed that the Air Canada fleet noise-abatement procedures would not affect aircraft separation. Although the departure controller recognized that the A320 was not responding to his initial instructions in a timely manner, he did not issue corrective instructions that would have been effective in preventing the traffic conflict. The crew did not hear these instructions clearly enough to understand them. When the departure controller realized that ACA1118 was not adhering to his instructions, he issued incremental corrective heading changes. The changes could not have prevented the air proximity event because of the A320's high speed and large radius of turn.
+
+
+
+Other Findings
+
+
+The traffic alert and collision-avoidance system on board ACA1118 effectively alerted the A320 pilots to the proximity of the Cessna. However, the associated traffic alert and resolution alert warnings thwarted ATC instructions intended to warn the pilots of the approaching traffic and adjust their flight path to reduce the risk of collision.
+

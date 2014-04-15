@@ -1,0 +1,43 @@
+
+
+Analysis
+
+
+The weather at the time of the occurrence was reported to fluctuate between VMC and IMC. The minimum visibility for operating VFR in uncontrolled airspace below 1000 feet is 1 sm. The pilot had little experience flying in marginal weather. It is possible that the pilot's decision to take off in low visibility and low ceilings was affected by fluctuating weather conditions and that the Cessna pilot had taken off in similar conditions just minutes before.
+
+
+Whiteout conditions existed at the time of the occurrence, reducing the visual cues available to the pilot to maintain control of the aircraft. The pilot had little exposure to helicopter flight in whiteout conditions and may not have known to fly close to shore in order to use the trees and shoreline as contrasting cues against the white snow of the frozen lake. Inadequate ground references prevented the pilot's accurate perception of the helicopter height and attitude in reference to the surface. It is likely that the pilot lost control of the helicopter while flying in whiteout conditions over the vast snow-covered frozen surface of R servoir Gouin.
+
+
+Both the 121.5 MHz ELT from this occurrence and that of the A08Q0053 occurrence were damaged on impact and could not fulfill their role in signaling the accident. Because the SkyTrax tracking system installed on this occurrence helicopter was programmed to record the helicopter's last known position at a frequency of every 2 minutes instead of 15 minutes, it helped reduce the search area and locate the helicopter in a relatively timely manner.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 045/2008 - Skytrax Data Plotting LP 049/2008 - ELT Analysis
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+It is likely that the pilot encountered whiteout conditions, making it difficult to maintain visual reference and causing disorientation, which resulted in impact with the frozen snow-covered lake.
+
+
+
+Finding as to Risk
+
+
+The 121.5 MHz emergency locator transmitter (ELT) was destroyed on impact and the antenna was severed from its connection; therefore, it could not fulfill its role in signaling the accident.
+
+
+
+Other Finding
+
+
+The Skytrax tracking system provided additional aid in reducing the search area and locating the helicopter in a relatively timely manner.
+

@@ -1,0 +1,24 @@
+the difficulty in communications that might have resulted if the aircraft were handed off early	the East radar controller delayed transferring control of NW69 for as long as possible
+the aircraft were handed off early , the East radar controller delayed transferring control of NW69 for as long as possible ; the controller	became preoccupied with data work rather than radar monitoring as NW69 left the sector
+the workload in the North sector was high	the incoming North radar controller was not given a status briefing when he assumed that position
+he had not yet completed the update , the NADS system was operating on outdated information	The data controller was updating the information in the NADS system , but ,
+Although the NADS conflict warning indicated a six minute crossing time separation between NWT962 and NW69 , NWT962 was six minutes early	, the time separation decreased to nil
+concentrating on the NADS system	the North controllers relied more on the NADS separation calculation to detect conflicts than on their analyses of the flight progress strips
+deleting	the data tags of targets not under his control
+the crew members were not expecting a descent clearance	they did not fully understand the message or the reason for it , and initially took no action
+the controller had used phraseology such as that in MANOPS 507.1 , which incorporates the reason for the controller 's instruction	This confusion have been averted
+the estimates	it harder
+the East radar controller delayed	control of NW69 for as long as possible
+the East radar controller	transferring control of NW69 for as long as possible
+the time separation	to nil
+Formulation of an accurate mental picture	more difficult by the lack of a co-located time estimate
+The North radar controller 's IM setting	him avoid screen clutter by deleting the data tags of targets not under his control
+the deletion of the data tags of the targets controlled by the sectors adjoining the North sector	his ability to detect information about the incoming NW69 , for which he had not yet accepted control
+7 nm	the separation between the two aircraft
+they	the crews visually acquire and monitor their aircraft traffic
+the position estimates of the two flights	it more difficult for the North and East controllers to recognize the conflict between the flights
+The East controller	NW69 's hand-off to the North sector in an attempt to avoid potential communications problems in the North sector
+The North data controller 's workload	him providing the incoming North radar controller with a status briefing
+The NADS system listed an incorrect separation warning at the time of the occurrence	an outdated time estimate for NWT962
+The North radar controller 's IM setting	him receiving information about aircraft not under his control
+Both aircraft TCAS systems	the respective crews visually acquire the other aircraft and monitor the situation

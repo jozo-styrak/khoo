@@ -1,0 +1,10 @@
+the inspections in the Sikorsky S-76 Maintenance Manual -LRB- Revision 31 -RRB- and in ASB 76-65-45A are specific to only the exposed threaded area of the rod end	it is possible that a such a crack could be hidden
+the Maintenance Manual does not specify a requirement to check for cracks in the tail rotor pitch control rod assembly rod ends	it is possible that a crack could remain undetected
+a rod assembly or rod end were changed no service history on the part was available -LRB- including whether the ASB inspection had been performed on the part -RRB-	the aircraft records show compliance with the ASB although the rod end could be cracked
+an inspection -LRB- as defined in the ASB -RRB- were not performed	such a crack remain undetected
+positively identifying cracks	The ASB details a procedure
+a specific requirement to check for cracks , including instructions on how to perform such an inspection	it is likely the operator will perform a general inspection , which will not produce the same results as required in the ASB
+high cycle fatigue under normal service loads	The rod end -LRB- part number 76103-05002-102 -RRB- failed
+the need to thread the rod end further into the link	a crack being hidden by the link , the locking devise , or the nut
+A logbook entry	showing compliance with Sikorsky ASB 76-65-45A
+the thread roots in the presence of corrosion pitting	the stress concentration

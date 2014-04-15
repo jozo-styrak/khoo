@@ -1,0 +1,12 @@
+Since then , little wear was seen on the IFWU gear housing	likely that the operator 's standard operating practices , at the time of the incident , contributed to the accelerated wear seen in the incident IFWU
+IFWUs in the S-61 helicopter are susceptible to high wear rates under certain operational conditions	, IFWUs can fail , cause engine overspeed , and shut down
+A review of the flight crew 's actions during this incident revealed no indication that their actions contributed to or exacerbated the chain of events	the freewheel unit slippage
+A review of the flight crew 's actions during this incident	no indication their actions contributed to or exacerbated the chain of events that led to the freewheel unit slippage
+some standard operating procedures	the freewheel unit slippage
+a combination of frequent overrunning of the same IFWU , frequent single-engine training , and rotor engagement techniques	wear in the IFWU
+the free power turbine overshoot	the amount of IFWU freewheeling
+The Sikorsky recommendations of alternating rotor engagements between engines , moderating engine acceleration when matching torques , monitoring the free power turbine overshoot , and reducing the amount of IFWU freewheeling have	the frequency of IFWU slippages
+rotor engagements between engines	the amount of IFWU freewheeling
+It is therefore likely that the operator 's standard operating practices , at the time of the incident	the accelerated wear seen in the incident IFWU
+a combination of frequent overrunning of the same IFWU , frequent single-engine training , and rotor engagement techniques	wear in the IFWU
+As a result , IFWUs can fail	engine overspeed

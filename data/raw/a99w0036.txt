@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+The pilot of C-GVLO, although he met the requirements for the issuance of a private pilot's licence, was relatively inexperienced and not yet completely familiar with the speed and complexity of radio communications and the radio monitoring requirements at Calgary International Airport. His previous experience had prepared him to believe that, once on a runway, he was expected to carry out the take-off procedure without delay. On several occasions in the past, he had also missed the executive portion of the take-off clearance communication, "cleared for take-off," and had been prompted by the instructor to begin
+
+
+take-off. In this situation, he assumed that he had similarly missed the clearance amid the other verbiage. The runway had just been made available to him, the only other traffic of which he was aware was behind him, and he had been told that he was number one. He assumed that he had been cleared for take-off even though he had not heard the specific words. The information held by the controller, but not conveyed to C-GVLO, that he was actually number two for departure, followed by the identification of the traffic that was number one, would likely have provided a sufficient situational update to the pilot of C-GVLO.
+
+
+The transmission used to clear C-GVLO onto the runway was, "Victor Lima Oscar, right turn, back track to position runway two five, how far back do you require?" Although the clearance was easy to understand, apparently, the question on backtrack distance took precedence in the student's mind and was the message to which he attended and responded.
+
+
+There were several factors present during this occurrence that may have distracted the pilot of C-GVLO. The pilot was not accustomed to carrying another person in the aircraft and, other than the instructor, had not done so in nearly four months. The pilot had planned on using runway 16, but was offered runway 25 and accepted. He did not expect to be authorized to follow the other Cessna and did not expect to be offered take-off in front of that aircraft. He was not entirely familiar with the west practice area, having only used it on a few occasions previously, and he was aware that he would have to contact Springbank during transit to that area.
+
+
+The radio skills and heightened situational awareness necessary to operate on the surface or in the near vicinity of Calgary International Airport are not specifically targeted during private pilot training at the CFTC or mentioned in the CFTC private pilot syllabus, but are expected to be acquired by exposure to the various situations encountered during training. This procedure may not ensure sufficient familiarity with all the common safety-related circumstances or practices of which a student or newly licensed private pilot should be aware. Those situations that are experienced may not be presented with enough emphasis to convince inexperienced pilots to devise methods to assure themselves that all appropriate clearances and instructions have been followed.
+
+
+Because the controller had to look down to manipulate the mouse to enter take-off information for ACA185, he momentarily diverted his attention from the activity on the runways. Even under the best of conditions, the controller cannot monitor all areas of the airport at the same time, particularly areas separated by nearly 135 degrees of visual field, as was the situation in this occurrence. Additional inside administrative duties, which detract from outside visual monitoring, reduce the level of safety oversight that the controller should provide.
+
+
+
+Findings
+
+
+The pilot of C-GVLO took off without take-off clearance from the Calgary Tower. The pilot had previously had difficulty distinguishing the executive portion of the take-off clearance and had been prompted to begin take-off by an instructor. Little emphasis is placed on learning radio requirements and on the need for heightened situational awareness on a busy airport in the TC Flight Instructor's Guide and in the CFTC private pilot syllabus. The pilot was dealing with several new and relatively unfamiliar circumstances as he taxied out, which likely distracted from his situational awareness. The Calgary Tower air controller did not use the phraseology recommended in ATC MANOPS for situations in which an aircraft is cleared to position on an intersecting runway, but is not number one for take-off. The Calgary Tower air controller incorrectly advised the pilot of C-GVLO that he was number one for take-off. The controller on duty was current and qualified to perform the duties assigned. Staffing in the tower met NAV CANADA standards. All necessary tower equipment was serviceable and being used. The requirement to manipulate the computer mouse to enter take-off information, a duty normally performed by the tower coordinator, caused the air controller to divert his attention from the activity on the runways. The controller was not aware that C-GVLO had begun the take-off roll until the pilot advised that he was rolling. The controller requested ACA185 to abort the take-off when his instructions to C-GVLO were neither acknowledged nor complied with.
+

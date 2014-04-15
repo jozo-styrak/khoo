@@ -1,0 +1,17 @@
+At the time of the incident , traffic in the west sector was light , with low complexity , involving regular flight routes	possible that the relatively benign traffic environment contributed to the west sector controller being less vigilant than normal
+It is significant that the west sector controller could not recall noticing the progress of CDN4 and ASA131 after issuing the descent clearance to CDN4	, it is probable that the conversation distracted the west controller from his primary tasks and compromised his ability to monitor the progress of traffic under his control
+the time of the incident	traffic in the west sector was light , with low complexity , involving regular flight routes
+CDN4 reported in descent from FL350	the west sector controller did not annotate the flight progress strip for CDN4 , as required by ATC MANOPS
+the location of ASA131	and the altitude of CDN4 were less precisely defined
+The controller	the west sector was engaged in a non-operational conversation with a controller sitting adjacent to him
+participating in a conversation involves a cognitive workload , it follows that the west sector controller was less able to attend to his primary task	However ,
+the relatively benign traffic environment	the west sector controller being less vigilant than normal
+The ASA131 strip appeared under the Victoria header , whereas the CDN4 strip appeared under the Tofino header	a conflict between the two aircraft less apparent
+In short , the west sector controller did not properly annotate the flight strips for CDN4 and ASA131	the probability of a conflict being detected by reference to the flight progress board
+the conversation distracted the west controller from his primary tasks	his ability to monitor the progress of traffic under his control
+the conversation	the west controller from his primary tasks
+The west sector controller did not properly annotate the flight strips for CDN4 and ASA131	the probability of a conflict being detected by reference to the flight progress board
+This conversation distracted him from his primary task	his ability to monitor the progress of traffic under his control
+This conversation	him from his primary task
+policy	air traffic controllers engaging in non-essential and potentially distracting activities while controlling aircraft
+in non-essential	activities while controlling aircraft

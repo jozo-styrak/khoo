@@ -1,0 +1,40 @@
+The autofeather system does not incorporate a delay between the time a low propeller thrust condition is detected and the time the autofeather occurs	, with the propellers in a low-thrust condition , parameters were met for an autofeather and engine shutdown when the first officer rapidly advanced the power levers beyond the 60 position
+Several abnormal events occurred in rapid succession during the last seven seconds of the final approach	, the captain was unaware of the cause of the high sink rate , and when he made the decision to go around , he was not aware that the left engine had shut down
+Attempting a go-around at a point where the crew had intended to land , deviating from the go-around SOP , and the captain 's retarding the power levers all contributed to the crew losing situational awareness	was confusion in the cockpit and a breakdown of crew coordination , which impeded the crew 's ability to recognize and deal with the engine autofeather and shutdown
+However , inconsistencies between different sections of the AOMs , the lack of a checklist for training in the circuit , and the absence of information on rejected landings likely contributed to the confusion that the crew experienced , which affected the decision to initiate a go-around	marks on the right engine 's coordinator cam indicate that the captain had reduced the right power lever to approximately the 60 position , where it likely remained until impact
+The first officer did not provide engine power status to the captain	, the captain was not aware that the remaining -LRB- right -RRB- engine was not set to deliver maximum power
+deviating from the go-around SOP	land
+the airspeed and landing weight at which the aircraft touched down	there was more than sufficient distance remaining to stop under normal conditions
+The aircraft 's TD system provides engine over-temperature protection	, there was no immediate requirement for the captain to retard the power levers
+the flaps were not retracted to 15 upon initiation of the go-around	the aircraft did not accelerate and climb as it was capable of doing
+the flaps were retracted	the aircraft was in a left bank flight attitude
+normal power on the remaining right engine	it would have been impossible for the aircraft to accelerate to an airspeed at which the aircraft was controllable
+The resulting increased drag combined with the low power setting likely	the rapid rate of descent
+An inadvertent engine shutdown can normally be handled without losing control of the aircraft	the performance capabilities of the aircraft and crew training for such emergencies
+he	the decision to go around
+all	the crew losing situational awareness
+inconsistencies between different sections of the AOMs , the lack of a checklist for training in the circuit , and the absence of information on rejected landings	the confusion that the crew experienced , which affected the decision to initiate a go-around
+However , inconsistencies between different sections of the AOMs , the lack of a checklist for training in the circuit , and the absence of information on rejected landings likely contributed to the confusion that the crew experienced	the decision to initiate a go-around
+the captain had	the right power lever approximately the 60 position , where it likely remained until impact
+The aircraft 's TD system	engine over-temperature protection
+power on the operating engine decreased the aircraft 's energy status	its inability to accelerate to an airspeed at which control could have been maintained
+power on the operating engine	the aircraft 's energy status
+The erratic power lever movement increased the risk of an undesired activation of the right engine 's NTS system , which may have produced an engine underspeed	available power
+The erratic power lever movement	the risk of an undesired activation of the right engine 's NTS system , which may have produced an engine underspeed , reducing available power , and possibly causing the right engine to flame out
+the risk of an undesired activation of the right engine 's NTS system	an engine underspeed , reducing available power , and possibly causing the right engine to flame out
+available power	the right engine
+The aircraft 's low-energy state	its inability to accelerate to the airspeed required to accomplish a successful go-around procedure
+the aircraft 's low-energy status	the eventual loss of control
+The rapid power lever advancement caused an inadvertent shutdown of the left engine	the aircraft 's low-energy status
+The rapid power lever advancement	an inadvertent shutdown of the left engine , which exacerbated the aircraft 's low-energy status and contributed to the eventual loss of control
+The inadvertent activation of the autofeather system	the crew 's loss of situational awareness , which adversely influenced the decision to go around , at a time when it may have been possible for the aircraft to safely stop and remain on the runway
+The inadvertent activation of the autofeather system contributed to the crew 's loss of situational awareness	the decision to go around
+The shortage and ambiguity of information available on rejected landings contributed to confusion between the pilots	a delayed retraction of the flaps
+The shortage and ambiguity of information available on rejected landings	confusion between the pilots , which resulted in a delayed retraction of the flaps
+This departure from procedure	the aircraft accelerating adequately
+setting	an inadequate power setting on the right engine
+setting resulted in an inadequate power setting on the right engine	a breakdown of crew coordination
+This	the crew effectively identifying and responding to the emergencies
+Rapid power movement	the risk of inadvertent activation of the negative torque sensing system during critical flight regimes
+These inconsistencies	confusion between the training captain and the operator 's pilots
+The lack of such checklist information	pilot workload

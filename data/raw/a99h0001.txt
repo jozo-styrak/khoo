@@ -1,0 +1,35 @@
+
+
+Analysis
+
+
+The Gimli radar controller had before him all the information required to detect and resolve the conflict between ACA 118 and CDN 987 well before the loss of separation occurred. The IM display of the targets, notwithstanding the temporary partial obscuring of the data block for CDN 987, together with the flight progress strip information available to him provided the data necessary to plan, execute, and monitor aircraft separation.
+
+
+The shift record and the reports of the Gimli controller indicate that he had worked several extra overtime shifts in the immediate past. An irregular shift rotation had likely disturbed circadian rhythms, and this, together with a regular sleep period of six hours, may have contributed to a sleep debt.
+
+
+The first error leading to the loss of separation was the clearance for ACA 118 to climb to FL 410. Since the take-over briefing given by the previous controller, the Gimli controller had been contemplating the eventual conflict that was to be created by the overtaking of C-GMTR by ACA 118. (Preoccupation with a single task demonstrates misallocation of attentional resources.) When ACA 118 requested a climb to FL 410, the Gimli controller forgot the opposite direction traffic, CDN 987 at FL 390 (lapse of memory). He immediately adopted that altitude change as the solution to the perceived problem, without conducting the appropriate scan of the IM for possible conflicting traffic. (Loss of situational awareness shows a degraded ability to integrate information.)
+
+
+Having issued a climb clearance to ACA 118 (the plan and execute portions of the separation process), the Gimli controller's next responsibility was to monitor the progress of that clearance. The Gimli controller was controlling only a light traffic load. Being an experienced controller, he expected that he would be able to provide the same level of service to the aircraft under his control, even though he was performing the combined duties of the radar and the data controller. When a controller must perform both jobs at the same time, the established habit of providing "nice-to-have" information may be difficult to break. Furthermore, strong habit intrusion is particularly likely to occur when fatigue is present. The Gimli controller concentrated on providing ride information to aircraft when he should have been attending to the separation of aircraft (perseveration).
+
+
+The schedule and sleep opportunities experienced by the Gimli controller reflected a pattern known to result in an elevated on-the-job error rate. The clearance that led to the conflict, the forgetting of the position of CDN 987, and the provision of ride information while the conflict was developing are all consistent with fatigue but were not sufficient to prove that the errors were necessarily fatigue induced. Although the Gimli controller had been on a relief break only 15 minutes prior to the loss of separation, he had not rested during the break. Instead, he had engaged in a potentially stress-producing discussion with management. Without disengagement of attention for relaxation and recovery, there is little or no recovery during a break.
+
+
+The common practice of single-staffing sectors within the Winnipeg specialty of the Winnipeg Area Control Centre led to a situation in which the controller was left to control traffic with no ground-based human or electronic back-up.
+
+
+Transport Canada previously rejected the CASB recommendation to make and enforce restrictions on hours of work, on the premise that the contract was being honoured and that current staffing practices did not impact on safety. At the time of the CASB safety recommendation, Transport Canada was both the employer and the regulator of the ATC system.
+
+
+The TCAS fitted in the occurrence aircraft provided the conflict alert and resolution solution in the absence of that function by the air traffic service.
+
+
+
+Findings
+
+
+The Gimli controller did not perform a suitable scan of the IM for conflicting traffic prior to issuing climb clearance to ACA 118. The traffic volume was light to moderate. However, in the 6 minutes 36 seconds before the occurrence, the Gimli controller was occupied for at least 73 per cent of the time in passing and receiving estimates via landline, in routine exchanges with other aircraft, and in passing non-control ride information to aircraft. The latter consumed most of the final 80 to 90 seconds prior to the occurrence. In the previous 32 days, the Gimli controller had worked significant amounts of overtime, had worked several periods with minimal time off between shifts, and on only two occasions had experienced 2 or more consecutive days off. The Gimli controller's behaviour before and during the occurrence was consistent with the behaviour of a person experiencing fatigue. Fatigue was probably a factor in this occurrence. The circumstances of the Gimli controller's work-rest cycle increased the risk of an occurrence resulting from fatigue-induced errors. Though planned for implementation to meet air traffic service needs in the early 1990s, a functioning, automated conflict prediction and alert tool, as recommended by the CASB in 1990, was not available. The passing of lower-priority ride reports distracted the controller from higher- priority separation tasks, such as radar monitoring during the climb of ACA 118. Strong habit intrusion, possibly facilitated by fatigue, likely caused him to pass these reports of light turbulence which were not safety-imperative. The designated stand-back supervisor was working at another sector at the time of the occurrence; therefore, a potential level of defence was not in place. The controller involved in this occurrence was qualified and current at the position. All control equipment available to the controller was serviceable and being used. Staffing in the sector met unit standards. The Gimli sector was often staffed with one controller performing both the radar and the data tasks. The radar replay of the occurrence did not indicate the RBL that the controller used to determine the distance between ACA 118 and C-GMTR. The crew of CDN 987 complied with company policy regarding TCAS RAs. When the crew of ACA 118 did not take the action called for in the TCAS RA, they increased and prolonged the requirement for CDN 987 to take evasive action.
+

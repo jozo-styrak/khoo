@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+When the engine began to vibrate, the pilot attempted to identify and rectify the problem. He was not successful as there was very little time from the first indication of engine trouble to when the engine stopped completely. Under these circumstances, the pilot had no choice but to conduct a forced landing. The aircraft had only reached an altitude of approximately 200 to 300 feet above ground following completion of the spray task when the engine began to run rough. This left the pilot with little time to prepare for the forced approach or to select a more suitable landing area.
+
+
+Examination of the engine showed that it contained sufficient lubricating oil and that the oil filter screens were free of metal particles or other contamination. This indicates that the engine was not making metal prior to the failure. Therefore, the imminent failure would not have been detectable during routine maintenance activity. Oil supply and engine maintenance were not a factor in the failure. The propeller, valve train, and accessory gearbox sections of the engine did not contribute to the engine failure.
+
+
+The damage to cylinder number five suggests that the associated connecting rod failed first in the sequence. It then penetrated the cylinder sleeve as the engine continued to operate. The failure initiated a chain of overload failures for each of the remaining connecting rods in rapid succession until the engine stopped operating. Due to the severity of damage to the fracture surfaces of connecting rod number five, the mode of failure could not be determined.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Connecting rod number five failed for undetermined reasons. This failure initiated a sequence that resulted in the overload failure of the remaining connecting rods. When the engine failed, the pilot had little time to prepare for the forced approach due to the low altitude of the aircraft.
+

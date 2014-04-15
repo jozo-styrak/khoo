@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+Examination of the aircraft did not reveal any engine or aircraft system failure or malfunction. There is no indication that there was an emergency situation or that the aircraft experienced any problems prior to impact. The aircraft's weight and balance were not calculated prior to departure from Lake Adonis, but the aircraft was slightly under the maximum allowable weight and the centre of gravity was within the permitted limits. However, the company's use of a ready-to-use weight and balance form is irregular because the form does not allow the pilot to know the exact position of the centre of gravity. This irregularity was reported to the company in a base audit conducted by Transport Canada in 1992. Since then, no change has been made in the DHC-2's weight and balance control system by Cargair Ltd. The ready-to-use form is still part of the latest company operations manual, which was approved by Transport Canada on 23 October 1999.
+
+
+Despite the prompt report of the missing aircraft, approximately 4 hours 40 minutes passed before the rescuers arrived at the accident site. Efforts to locate the aircraft were hampered by the broken ELT antenna, which reduced the transmission range of the ELT's signal, and the colour of the aircraft, which was mostly white and blended into the snowy ground.
+
+
+The accident was survivable because of the minimum damage to the cabin, aft of the two front seats. The passengers were trapped inside the aircraft except for one passenger who managed to get out despite difficulty in moving. The pre-flight safety briefing did not inform passengers where to find the survival equipment on board the aircraft. Had they known, they could have used the sleeping bags to protect themselves from exposure and thereby delay hypothermia. The passengers did not know where the ELT was located and how to use it, however this did not impact on the search and rescue operations in this instance. Nevertheless, it remains important that every passenger know where to find the ELT and how to use it so as not to delay search and rescue operations.
+
+
+Why the pilot kept the aircraft low over the lake before proceeding towards the rising ground could not be determined. There was nothing preventing the pilot from gaining altitude while flying over Lake Adonis since the aircraft was not overloaded, the cloud layer did not constitute a ceiling, visibility was good, and the engine was functioning normally. The pilot might have maintained his south-westerly direction over Lake Adonis to gain more altitude before heading towards the rising ground. The reason for the decision to head towards the mountain is still undetermined. However, the terrain falls away quickly past the top of the mountain, and this would have afforded the passengers a splendid view of the area.
+
+
+Low flight in mountainous areas requires great vigilance. Great attention must be paid outside to identify potential obstacles on the route, such as power transmission lines, communication towers, and sometimes even bird activity. There is no indication that the pilot might have been distracted by an untimely event in the cabin or outside before the accident. Special attention must also be paid to the slope of the terrain when approaching a mountain peak. The surrounding terrain may create an optical illusion affecting the perception of the terrain being overflown, leading to underestimation of the slope. The pilot must also ensure that the aircraft has the desired performance to climb the slope at a safe obstacle clearance. The pilot was likely using cutback power to make the climb, thereby considerably reducing the aircraft's climb performance.
+
+
+When pilots direct their attention outside, their attention to the instrument readings, such as aircraft speed, decreases. Pilots must ceaselessly compare their impressions with the instrument readings. When flying facing the peak, the pilot might have suffered an optical illusion. Despite his experience, the pilot may have underestimated the slope of the terrain and delayed establishing the aircraft's climb when leaving the shore. As the slope steepened approaching the mountain peak, the pilot probably pitched the aircraft up to maintain a constant angle between the extended cowl and the peak. The aircraft's speed would have decreased, further affecting climb performance. Because the aircraft was not equipped with a stall warning system, the pilot might have realized too late that the speed was too low to maintain normal climb performance. Further, the vibration precursory to stalling, as described in the flight manual, would have been minimal because the flaps were up. The pilot's decision to fly at low altitude contributed to putting the aircraft at a reduced distance from the ground and allowed insufficient altitude to recover when the aircraft stalled.
+
+
+The following TSB Engineering Branch Laboratory Report was completed:
+
+
+LP 19/00--Lightbulb/GPS/ELT Examination.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft probably stalled with insufficient altitude for the pilot to execute a recovery. The prevailing conditions were conducive to optical illusions associated with low-altitude flight over rising terrain. The aircraft was not equipped with a stall warning system, nor was it required by regulation. The pilot's decision to fly at low altitude and probably use cutback power for the climb did not allow for safe obstacle clearance. The pre-flight safety briefing did not inform passengers where to find the survival equipment on board the aircraft. Consequently, they could not use the sleeping bags to protect themselves from exposure and thereby delay hypothermia. Rescue was late because the mostly white aircraft blended into the snowy ground, making it difficult to locate, and the ELT antenna was broken, reducing the range of the signal. Consequently, the survivors' exposure time was increased.
+
+
+
+Other Findings
+
+
+The pilot was certified and qualified for the flight. The autopsy and toxicological test results revealed no indication that physiological factors affected the pilot's performance. Records indicate that the aircraft was certified, equipped, and maintained in accordance with existing regulations and approved procedures. The aircraft's weight and centre of gravity were within the limits specified in the aircraft fight manual. There is no indication that there was an emergency situation or that the aircraft experienced problems prior to impact. The ready-to-use weight and balance calculation form is not consistent with the standard. Transport Canada reported this irregularity in 1992, but no change was made in the form, which is still part of the company operations manual approved by Transport Canada on 23 October 1999. The weather conditions were suitable for visual flight.
+

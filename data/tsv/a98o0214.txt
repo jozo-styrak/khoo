@@ -1,0 +1,4 @@
+for the rotor blade grip 's fatigue failure could not be determined	One of the helicopter main rotor blades separated from the helicopter in flight when the blade grip failed due to fatigue cracking initiated within the thread area of the blade grip
+fatigue cracking initiated in the rotor blade grip 's internal threads at the last complete outboard-most thread	The blue main rotor blade separated in flight
+fatigue cracking initiated within the thread area of the blade grip	One of the helicopter main rotor blades separated from the helicopter in flight when the blade grip failed
+The sharp root radii coupled with extensive pitting found on both blade grips	one plausible explanation the premature fatigue failure of the blue grip

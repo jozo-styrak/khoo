@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+The pilot-owner was aware that he should pay particular attention to the ailerons because maintenance work had been done on them. Consequently, his decision to be supervised by a more experienced pilot was reasonable since he had not flown for more than three months. However, the two pilots concentrated on the unrestricted movement of the flight controls instead of on the aileron deflection relative to flight control input.
+
+
+Only the before start checklist indicated that the control surfaces deflection must be checked to ensure that it matches flight control input. Although that checklist was not followed, the pilots could have noticed the problem if they had paid closer attention to the deflection of the aileron relative to the deflection of the flight controls during the walk-around inspection, the engine warm-up, and the before take-off check.
+
+
+This was not the AME's first time installing an aileron bell crank assembly. For that reason, he elected to perform the work from memory without checking each step in the maintenance manual. The work took much longer because of the many rusted screws that made the work more difficult, and the AME had to hurry to finish the job. Because of the poor appearance of the bell cranks, he elected to remove them from the wing to clean them.
+
+
+Since he was accustomed to doing this kind of work, the AME did not have to check the aileron deflection or movement with the diagram. Every time he had performed this task in the past, he had left the bell cranks in place and simply adjusted the cable tension and returned the aircraft to service without rechecking the controls deflection. When he removed the bell cranks from the wing, he should have checked the deflection as indicated in the maintenance manual, but he did not do so.
+
+
+Tests confirmed that there are significant differences between the two installations. If the AME had followed the maintenance manual procedures, the error could have been prevented.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was returned to service with the aileron controls reversed. The independent inspection made by another aircraft maintenance engineer (AME) did not reveal the reversed aileron controls. As a result, a defective aircraft was returned to service. During their pre-flight checks, the two pilots did not notice that the ailerons were reversed. The AME elected to perform the work from memory instead of using the microfiches. As a result, a check was not made when the aileron controls were reassembled. The procedures described in the manufacturer's maintenance manual for installing the aileron bell cranks were not followed, resulting in an error when the bell cranks were reinstalled.
+

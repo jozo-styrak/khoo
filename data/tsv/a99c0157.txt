@@ -1,0 +1,21 @@
+The last refuelling source was free of water contamination and the possibility of water contamination from fuel sources used in the previous 30 days is unlikely	, water contamination present on the occurrence flight may have originated primarily from condensation in the fuel tanks when the aircraft tanks were less than half full for several days between June 23 and 30
+Because the oval drain holes in the rib at wing station 59.25 were blocked , the water found trapped in the left fuel tank could not have been removed by following the purging procedures specified in the POH	, it is not possible to conclude , from the water found throughout the fuel system , whether the pilot correctly followed the POH purging procedures for the fuel system
+the aircraft remained in level flight	the airspeed would have reduced rapidly by aerodynamic drag
+the pilot did not stop the airspeed reduction and establish a safe glide speed	the aircraft reached aerodynamic stalling speed , stalled , and entered a spin
+the rapid altitude loss	It could not be determined why the pilot did not stop the reduction in airspeed and whether the pilot attempted to recover from the spin ; however , recovery from a spin entered at 340 feet agl is unlikely
+the engine power loss	While the apparent ground speed of the aircraft would have increased due to the tail wind , the airspeed was reducing
+the tail wind	While the apparent ground speed of the aircraft would have increased
+the fuel-cap seals had recently been replaced and were in good condition	it is unlikely that water entered the fuel tanks from leakage past the fuel-cap seals
+the oval drain holes in the rib at wing station 59.25 were blocked	the water found trapped in the left fuel tank could not have been removed by following the purging procedures specified in the POH
+from the water found throughout the fuel system , whether the pilot correctly followed the POH purging procedures for the fuel system	conclude
+water contamination in the fuel or from condensation within the pump itself	The corrosion found in the engine fuel pump may have occurred
+condensation within the engine crankcase and likely not related to the water contamination in the fuel	The corrosion found on the camshaft was likely
+water contamination	The engine lost power , likely
+a change in apparent ground speed , which resulted from the tail wind after the turn to crosswind	The pilot may have been subject to an illusion
+AD 85-24-03 had not been followed	Water contamination could not be eliminated from the fuel system by following the procedure in the POH
+the procedure was followed	water trapped behind the rib at wing station 59.25 have remained in both tanks
+the rapid altitude loss	Recovery from a spin entered at 340 feet agl is unlikely
+the apparent ground speed of the aircraft	due to the tail wind
+The resultant effect	the illusion of adequate speed and
+a combination of the engine-driven pump and the electrical boost pump	pressure
+The water in the fuel	the power loss

@@ -1,0 +1,45 @@
+
+
+Analysis
+
+
+The primary role of a crew is to effectively control the risks relating to a flight. In this occurrence, a series of decisions made by the crew contributed to gradually increase the risk to which the flight was exposed until the aircraft was finally placed in a position where it was impossible to re-establish flight safety. Therefore, this analysis will focus on those decisions and how they were able to circumvent the defences in place to reduce the risk related to the operation.
+
+
+Crew coordination and SOPs are the defence tools most readily available for controlling threats, errors and undesirable conditions. In this occurrence, the crew was confronted with two primary threats. The first was traffic arriving at the uncontrolled airport, almost at the same time, and the second was weather conditions that were below the prescribed minima. The accident was not a result of these threats, but rather the failure of the crew to control the threats effectively and the errors made in managing these threats.
+
+
+The traffic threat arose when the other aircraft arrived at the airport a few minutes before C-FMAI. Initially, the threat was managed effectively by the exchange of information between the pilots of the two aircraft, in which it was agreed that C-FMAI would fly a holding pattern over the intermediate approach fix for Runway 05. By flying a holding pattern at OMOLI, the flight crew members of C-FMAI believed that they were clear of the other aircraft. However, the crew had not taken into consideration the path or the altitude that the other aircraft would be flying if it executed a missed approach. Even though the CARs require that the pilot-in-command ensure proper separation with other aircraft, the regulations are not explicit as to how the aircraft are to avoid the pattern of traffic, either in terms of altitude or distance. When the aircraft flew the holding pattern to the northeast of OMOLI at a lower altitude than the missed approach altitude for Runway 23, the separation between both aircraft was no longer ensured, thereby increasing the risk of collision. Furthermore, contrary to regulations, the flight crew left the holding pattern to fly an approach opposite to the other aircraft before even confirming that it had landed. This also increased the risk of collision because the two aircraft were flying converging paths in cloud, and neither one could see the other.
+
+
+Not being aware that the weather had deteriorated, the crew of C-FMAI probably believed that the other aircraft would land without difficulty and there would be no conflict. As for the decision to fly an approach for Runway 05 instead of for Runway 23, its motivation may have been to save time. That decision increased the risk to which the flight was exposed by landing with a tailwind component on a wet runway, in addition to placing it on an opposing path to the other traffic approaching for Runway 23.
+
+
+Although the flight crew did not know that weather conditions had deteriorated, it could have expected it because the TAF received prior to departure indicated that the ceiling could lower temporarily to 200 feet. The three weather observations preceding the accident were below the prescribed minima, and the other aircraft had to execute a missed approach. Moreover, the radar data indicated an altitude of 1700 feet at the runway threshold. It is therefore more than likely that the flight crew of C-FMAI had to descend below the MDA to establish visual contact with the runway. The crew took few measures to control the threat represented by the weather, primarily because there was no approach briefing, contrary to company SOPs. This error in procedure, which was not detected by either pilot, eliminated an opportunity for the crew to clarify the approach and the roles of each crew member in the event of a missed approach.
+
+
+The pilot-in-command did not see the runway environment until he was over the threshold at an altitude that reduced considerably the landing distance available for a safe landing. Also, the tailwind component and the wet surface increased the landing roll distance. Although he had decided to execute a missed approach if the aircraft was not on the ground before the taxiway, leaving approximately 1800 feet of runway, the pilot-in-command did not convey his action plan to the co-pilot. The decision to continue the landing led the aircraft to touch down when the remaining runway distance was insufficient for a safe landing.
+
+
+Realizing the situation they were in, the pilot-in-command decided to execute a missed approach without telling the co-pilot. The co-pilot believed that the landing would be completed but the pilot-in-command intended to take off. Not having received a call from the pilot-in-command indicating his intention to go around and not seeing the hand of the pilot-in-command on the power levers, the co-pilot believed that the pilot-in-command had pushed forward the wrong controls and took action to stop the aircraft. However, the remaining runway distance was insufficient and the aircraft made a runway excursion.
+
+
+The pilot-in-command held several management positions within the company and controlled the pilot hiring and dismissal policies. This situation, combined with the level of experience of the co-pilot compared with that of the pilot-in-command, had an impact on crew cohesiveness.
+
+
+The following laboratory report was completed:
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was positioned over the runway threshold at an altitude that did not allow a landing at the beginning of the runway, and this, combined with a tailwind component and the wet runway surface, resulted in a runway excursion. Failure to follow standard operating procedures and a lack of crew coordination contributed to confusion on landing, which prevented the crew from aborting the landing and executing a missed approach. The pilot-in-command held several management positions within the company and controlled the pilot hiring and dismissal policies. This situation, combined with the level of experience of the co-pilot compared with that of the pilot-in-command, had an impact on crew cohesiveness.
+
+
+
+Findings as to Risk
+
+
+The pilot-in-command of C-FMAI decided to execute an approach for Runway 05 without first ensuring that there would be no possible risk of collision with the other aircraft. The regulatory requirement to conform to or avoid the traffic pattern formed by other aircraft is not explicit as to how the traffic pattern should be avoided, in terms of either altitude or distance, which can result in risks of collision. The regulations do not indicate whether the missed approach segment should be considered part of the traffic pattern; this situation can lead pilots operating in uncontrolled airspace to believe that they are avoiding another aircraft executing an instrument approach when in reality a risk of collision exists.
+

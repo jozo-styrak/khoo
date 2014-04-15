@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+The aircraft and flight crew were properly certified for the flight, and documentation indicated that the aircraft was maintained to current standards and regulations. It was determined that the weather was not a factor in this occurrence.
+
+
+It was concluded that the top attachment bracket was overstressed and failed at sometime prior to the occurrence. It was not possible to determine when the top attachment bracket failed; however, the combination of the polished fracture surfaces, the blackened Skydrol contamination on these surfaces, and the softened paint around the fractures are indicative of an old failure that had been working or rubbing together for sometime. Additionally, the fretting found on the mating surfaces of the upper and lower attachment brackets supports this analysis. The fretting indicates that the attachments to the aircraft were moving due to the transfer of steering loads to the lower brackets. The clean, dull fracture surfaces of the lower bracket were overload failures at the time of the occurrence.
+
+
+Failures of the attachment brackets on other aircraft have shown that towing the aircraft with the scissors connected can damage the brackets if steering limits are exceeded. The manuals and SBs support this conclusion; however, there are no visual indicators of the steering limits on the aircraft for reference by ground personnel. As well, it is conceivable that the steering brackets could also be damaged while towing the aircraft with scissors connected, without exceeding the steering limits of the aircraft. The shimmy dampening characteristics of the steering system dampen or restrict movement of the nose gear system; a sharp turn while towing with scissors connected, or turning the aircraft while towing the aircraft on an uneven surface, could transfer damaging forces to the brackets. The manuals also caution that sharp turns and abrupt stops could damage the aircraft during ground handling.
+
+
+It is most likely that the occurrence aircraft was towed beyond the steering limits with the scissors connected at some time prior to the occurrence. This resulted in the fracture of the upper bracket but did not immediately affect the handling characteristics of the aircraft. The nosewheel shimmy on landing in Toronto stressed the lower attachment to the point that it failed in overload. With the steering assembly free to move, inputs to the steering tiller would be ineffective in maintaining directional control of the aircraft.
+
+
+The operator did not implement the SBs, but this did not affect the serviceability of the aircraft. Notwithstanding, had the placard called for in SB 1125-11-181 been attached to the landing gear doors, the initial failure might have been avoided.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+It is most likely that the occurrence aircraft was towed beyond the steering limits with the scissors connected, resulting in the fracture of the upper bracket. A nosewheel shimmy on landing stressed the remaining lower attachment bracket to overload and failure, which allowed the steering assembly and nose gear to rotate uncontrollably. The aircraft became uncontrollable and exited the runway after the steering assembly failed.
+
+
+
+Finding as to Risk
+
+
+Although the aircraft manuals caution against exceeding steering limitations with the scissors connected, there are no external markings which identify the steering limitations of the aircraft nose gear.
+
+
+
+Other Finding
+
+
+Although SBs were issued that might have prevented the initial failure, there was no regulatory requirement to comply with them.
+

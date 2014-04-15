@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The analysis will discuss the loss of control during the go-around, pilot decision-making under the influence of carbon monoxide, and carbon monoxide warning.
+
+
+Wreckage examination did not uncover any control system or engine problem that would have led to a loss of control during the go-around. Two scenarios leading to loss of control were considered. First, the C of G, at about 32.3 inches aft of the aft limit, could have resulted in a loss of control. While the crew had been able to control the aircraft throughout the flight, the amount of elevator control remaining would have been marginal and may have been insufficient during the configuration changes and acceleration of the go-around. The nose-down trim position is probably an indication that the aircraft's C of G was aft of normal. Second, a large number of the 2x4s were found aft of their original position, whereas the impact forces were predominantly forward. The securing of the 2x4s, as shown in Appendix A, would not have prevented their movement, and the stack of 2x4s may have shifted rearward during the acceleration and raising of the nose for the go-around. This would have moved the C of G further aft, causing the loss of control. However, the movement of the 2x4s could also have happened after the loss of control occurred and the aircraft entered the abrupt manoeuvre.
+
+
+As detected by toxicological tests, the carbon monoxide saturation levels found in the captain likely did not affect his ability to fly and control the aircraft. However, the levels were in a range in which judgement, decision making, and visual acuity may have been adversely affected. On the first flight, the aircraft landed short of the ice strip; on the second, the aircraft landed near the halfway point of the strip. Both of these landings may have resulted from degraded judgement or degraded visual acuity in a demanding landing environment with minimal visual cues.
+
+
+The landing short on the first flight and the run through the snow short of the runway likely convinced the pilot that an aft C of G was preferable to prevent a nose-over if a similar situation occurred. The subsequent decisions about the positioning and securing of the 2x4s and the use of the previous weight and balance calculation resulted in a dangerous situation. The crew overlooked a major change in the weight and balance of the aircraft and an inadequate securing method, possibly indicating that the decision-making ability of the crew members was diminished by the level of carbon monoxide poisoning. Since the half-life of carboxyhaemoglobin is about five hours, the brief stopover between flights would not have significantly reduced the level of carbon monoxide saturation.
+
+
+Because of the self-dispatch system, there was no back-up system to check loading decisions made by the crew. The crew's decision making would have also been affected by the incorrect index number. Over time, the use of a too low index number would give the impression that greater weights could be placed in the aft sections of the cabin than would otherwise be allowable.
+
+
+The carbon monoxide detector was not found. However, had it been serviceable, the spot would have changed colour. If the detector was time expired, the spot would have also been a different colour than the surrounding circle. The crew did not have the device changed or take any action to prevent carbon monoxide poisoning. It is therefore possible that they did not include the detector in their cockpit scan and, thus, did not observe any change in the colour of the detection spot. Activation or unserviceability of the detector could go unnoticed since the device is passive and has no warning system to attract the attention of the crew. Further, it is unlikely that the crew understood the limitations of the detector since the instructions are hidden once the device is mounted in the cockpit.
+
+
+The following TSB Engineering Laboratory Report was completed:
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot lost control of the aircraft while conducting a go-around from a balked landing on an ice strip. The aircraft's centre of gravity (C of G) on the accident flight was beyond the aft C of G limit. The actual C of G of the aircraft at basic operating weight was 16.7 inches aft of the C of G provided in the weight and balance report. The load sheet index number used by the crew was inaccurate. The stack of 2x4 lumber was inadequately secured and may have shifted rearward during the go-around. The crew did not recalculate the aircraft's weight and balance for the second flight. Leaks in the heater shroud allowed carbon monoxide gas to contaminate cockpit and cabin air. The captain's carboxyhaemoglobin level was 17.9 per cent, which may have adversely affected his performance, especially his decision making and his visual acuity.
+
+
+
+Other Findings
+
+
+The carbon monoxide detector had no active warning system. The user directions for the detector, which are printed on the back of the detector, are obscured when the detector is installed. The company maintenance facility overhauled the heater as required by the Transport Canada-approved inspection program. Although the manufacturer's maintenance instruction manual for the S200 heater, part number 27C56, lists inspection and overhaul procedures, it does not specify their intervals. No maintenance instructions are available for the heater, part number 27C56. The company maintenance facility did not conduct inspections, overhauls, or pressure decay tests as specified for later manufactured heaters.
+

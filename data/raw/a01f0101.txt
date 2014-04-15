@@ -1,0 +1,54 @@
+
+
+Analysis
+
+
+The pilot-in-command is responsible for the aircraft's safe operation. S/he can decide at any time to land at the airport of his/her choice if, in his/her judgment, it is safe to do so. In this case, the flight crew decided that it was more suitable to continue to Fort Lauderdale rather than land at Varadero / Juan Gualberto Gomez Airport, which was closer. The crew's decision to proceed to Fort Lauderdale was influenced by their doubt as to the reaction time and the quality of emergency services at Cuban airports in general, better weather conditions forecasted at Fort Lauderdale, a familiarity with that airport, and by better service provided to passengers. The flight crew could not have foreseen that the condition of the right engine would deteriorate further, since the engine had been secured in accordance with the Engine Failure/Shutdown checklist.
+
+
+The decision to continue toward Fort Lauderdale and then fly a holding pattern there for one hour with one engine out is questionable. Despite the low probability that the other engine would fail, the risk was sufficiently high to warrant expediting a landing as soon as possible.
+
+
+The engine teardown was conducted to determine why the engine caught fire after windmilling for more than an hour. A significant quantity of oil, that is, about 3 USG, was lost in the first 20 minutes of flight. Due to extensive damage caused by the fire, the investigation could not determine the cause of the lost oil. According to the engine manufacturer, the engine can windmill for several minutes even if the oil level is at the minimum. Inadequate lubrication normally damages the bearings, but not in this occurrence.
+
+
+An analysis of occurrences involving magnesium alloy transmission casings revealed that, in most cases, fire was caused by a ruptured fuel line or oil line or a cracked transmission casing. In this occurrence, the investigation could not determine the cause of the fire. The fact remains that a large quantity of oil was lost within a relatively short period. A fire can be caused by that amount of oil contacting the hot section of the engine. However, if that quantity of leaked oil had contributed to the fire, there is a strong possibility that this would have happened before or just after the engine started windmilling, while the engine was still hot. The fire detection system would then have detected it.
+
+
+The oil system ensures that engine bearings receive enough oil at all phases of operation. Since the engine was turning at reduced rpm (windmilling), the reduced quantity of oil was adequate, and air pressure to the bearings provided minimum lubrication. The condition of the bearings confirms that they did not deteriorate from inadequate lubrication. Internal engine parts made of metal alloys can withstand high temperatures. If lubrication had become inadequate, the engine, in the worst case, would seize and stop but would not incur major damage and catch fire.
+
+
+The shaft between the high-pressure compressor and the accessory gearbox was intact; therefore the accessory gearbox was being driven and was turning until the landing. The accessory gearbox contains mostly gears made of materials such as steel, and the gears are inside a magnesium casing. Since the quantity and supply of oil was limited, lubrication to the accessory gearbox was inadequate. The low quantity of oil probably created a temperature sufficient to ignite the oil and cause the magnesium to catch fire.
+
+
+Although the aircraft complied with existing air regulations, the parameters recorded by the CVR and the FDR provided very little useful information for the investigation. The FDR confirmed that the right engine was shut down 20 minutes after take-off. No information was recorded regarding oil level, oil pressure or temperature, or high-pressure compressor rpm. These parameters might have yielded valuable information.
+
+
+The fire extinguishing system must be able to extinguish the fire. Extinguishing agents must be able to extinguish flames from the combustion of fluids or other materials in the area protected by the extinguishing system. Regulations state that the "occurrence of any failure condition which would prevent the continued safe flight and landing of the airplane is extremely improbable" and that "the occurrence of any other failure condition which would reduce the capability of the airplane or the ability of the crew to cope with adverse operating conditions is improbable."
+
+
+The investigation demonstrated that a magnesium fire is difficult, if not impossible, to extinguish; the extinguishing agent from the fire extinguishing system was unable to put out the fire. This occurrence might have had disastrous consequences had the aircraft been farther from a suitable airport.
+
+
+The flight crew's decision to prolong the flight exposed the aircraft occupants to a hazardous situation. The engine manufacturer does not specify the maximum windmilling time for the engine following a significant loss of oil, and the aircraft manufacturer has not clearly defined the expression "nearest suitable airport".
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 060/01 CVR and FDR Analysis LP 069/01 Gearbox Analysis.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The loss of oil reduced lubrication to the accessory gearbox, thereby increasing the heat inside the magnesium casing and possibly contributing to ignition of the casing. Although the fire extinguishing system met certification requirements, the system was unable to and was not designed to extinguish a magnesium fire.
+
+
+
+Findings as to Risk
+
+
+The aircraft manufacturer has not clearly defined the expression "nearest suitable airport". The manufacturer does not specify a maximum flight time when an emergency requires that the aircraft land at a suitable airport. The flight crew's decision to continue the flight and plan a holding pattern with one engine out is questionable. Despite the low probability that the other engine would fail, the risk was sufficiently high to warrant expediting a landing.
+

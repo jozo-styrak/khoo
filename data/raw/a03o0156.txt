@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+A review of the weather reports from two different stations in proximity to the occurrence showed that weather was not a factor in this occurrence.
+
+
+The aircraft remained afloat for an undetermined amount of time. It appears that, at some time, the pilot attempted to don his life vest, but, for undetermined reasons, it was not donned correctly and the inflation procedure was not completed. The ELT had been switched manually to the ON position, which means that the pilot had to have exited the aircraft, opened the rear luggage door from the outside to access the ELT, and manually selected the ELT on. Turning the ELT on should have ensured the transmission of the emergency signal; however, no emergency signal was transmitted due to the faulty transmitter.
+
+
+While search and rescue personnel were able to locate the aircraft from the information the pilot had provided during the distress call, the unserviceability of the ELT likely prolonged the search.
+
+
+The fuel servo metering unit was contaminated with water and over time had become somewhat corroded. During climb out from the departure airfield, it is likely the contaminants in the fuel servo either reached sufficient mass or migrated within the metering unit, such that outlet fuel pressure to the fuel injectors was restricted. As a consequence, the servo could only supply sufficient fuel pressure to the injectors to sustain idle engine power.
+
+
+The pilot's medical condition and his not wearing a life vest likely contributed to his inability to survive in the water. To remain afloat the pilot would have to tread water, thereby expending vital body heat at a fast rate. The unconscious stage of hypothermia would have been encountered sooner than for a person in good physical condition and wearing a life vest.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Examination of the fuel servo revealed water contamination and corrosion in the fuel metering unit of the servo, resulting in reduced outlet fuel pressure to the fuel injectors. The engine quit as a result of the reduced fuel pressure, and the aircraft descended into the water. The emergency locator transmitter (ELT) did not transmit an emergency signal after it was selected to the ON position. The absence of a signal from the transmitter likely increased the time required by search and rescue personnel to locate the aircraft. The procedures to inflate and don the life vest were not followed by the pilot after the ditching. The water temperature and the additional physical exertion from treading water without support of the life vest increased the rate of body temperature loss, which probably expedited the onset of hypothermia.
+
+
+
+Other Findings
+
+
+It was determined that the life vest was serviceable. The pilot's chances for survival in the water may have been affected by his medical condition.
+

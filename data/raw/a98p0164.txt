@@ -1,0 +1,54 @@
+
+
+Analysis
+
+
+
+On-the-Job Training
+
+
+The OJI took over control of the air traffic from the trainee without prior coordination or consultation. The need to solve the conflict between N6857P and C-FFMW required immediate action, which did not leave time for communications with the trainee. Once the conflict was resolved, the OJI made the decision to continue vectoring N6857P toward the airport for an approach. However, the OJI was unable to issue a clearance to N6857P until the pilot had visual contact with the aircraft ahead. This necessitated vectoring the aircraft north of course and eventually away from the approach course until the pilot visually sighted the aircraft ahead. The OJI also had to retain the aircraft on his frequency, well inside the normal communications transfer point specified in local procedures. After clearing N6857P for the approach, the OJI instructed the pilot to contact Victoria tower.
+
+
+The pilot turned the aircraft sharply toward the southwest to align it with the final approach course. With respect to N6857P, the OJI did not coordinate his actions with the airport controller at any time, nor was he able to respond to the airport controller's queries regarding N6857P. Without access to communication and in the rush to fit N6857P back into the traffic flow, the OJI did not have access to all the required data to ensure a safe and efficient approach sequence. The OJI was unaware of the airport circuit traffic and the effect his actions were having on tower operations.
+
+
+OJIs must have immediate and unrestricted access to all communications resources required to safely carry out all control responsibilities specified in ATC MANOPS. In this situation, the OJI was monitoring the activity of the trainee while sitting in front of a unoccupied IM located approximately 10 feet to the left of the trainee's IM. However, the OJI's headset was plugged into the communication jack immediately beside the trainee. The OJI was comfortable with the trainee's ability and with monitoring the trainee from a distance. Since no standards specify how close OJIs must be to the trainee, it was acceptable practice for OJIs to establish their own criteria. No additional procedures were developed for situations where OJIs felt it advantageous to remove themselves from a close monitoring situation. There is also no specific information for controllers outlining the hazards of restricted access to communications.
+
+
+There is no formal policy on the best method for assuming control of a position between an OJI and a trainee. It is left to each controller's discretion how the transfer takes place and how formal the changeover should be. The procedure can be as simple as the trainee ceasing to talk when the OJI starts, or as formal as saying "I have control". (For example, formal procedures have been established for the handover of control in the multi-crew cockpit of an aircraft.) A formal procedure between the trainee and the OJI, using such wording as "I have control" or "You have control", would be an effective practice and leave no doubt as to who is to do the controlling and communicating.
+
+
+Although OJIs have full responsibility for maintaining safe and efficient control of their traffic, whether working alone or monitoring a trainee, there are occasions where a loss of separation is imminent or has already occurred. Recovery from this type of situation usually takes extraordinary and sometimes extreme measures to rectify quickly. Such measures may involve requests for an aircraft to rapidly climb, descend, or turn. The pilot must be immediately informed that a rapid response is required to ensure a situation does not worsen. Controllers are not provided with training to help them respond appropriately to this type of situation, whether as a trainee or an OJI. Teaching and practising the most efficient techniques to re-establish separation once it is lost (potentially or actually) would provide controllers the tools necessary to recover quickly from what could be a very dangerous situation. For example, pilots are taught how to recognize and recover from unusual aircraft attitudes, recognizing that they may find themselves in this situation unintentionally. Similar training would benefit controllers who find themselves in an unfortunate event, such as a loss of separation, in order to enable them to re-establish the required separation more effectively and quickly.
+
+
+
+
+Coordination
+
+
+The Victoria terminal data controller attempted to assist the OJI by passing information concerning N6857P from his position to Victoria tower. No direct voice hotline circuit is available to the data controller, only a landline circuit. The landline circuit is normally used to pass flight information concerning aircraft still on the ground at Victoria airport and is normally answered by the ground controller. The terminal data controller did not take into account how his unexpected information may be perceived by the individual answering the line, and he did not convey the relative importance of the information that needed to be relayed to the airport controller. When a non-standard method for relaying information is used, controllers must use extra caution to ensure that the information is accorded the required priority and to confirm that the information has been properly understood. This was not done; thus, important information was missed during its onward transmission. Direct access by the data controller to the Victoria airport controller may have resulted in more complete and timely coordination. With all the required information at hand, the Victoria airport controller would have been in a better position to sequence his own traffic with that of the inbound IFR traffic.
+
+
+
+
+Supervision
+
+
+The Victoria tower supervisor's duties include replacing controllers when they take breaks and conducting preliminary investigations when an operating irregularity occurs. At the time of the occurrence, the supervisor was replacing the tower radar controller; therefore, he was unable to provide proper supervision. In order to complete a preliminary investigation after this occurrence and ensure the involved controllers were removed from duty, the tower staffing was reduced below the minimum required to fill all four control positions.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The trainee did not correct the flight path of C-FFMW, which was consistently west of the Vancouver VOR 157 degree radial flying toward the IMPOR intersection, and the OJI did not intervene. The OJI was unable to access the landline communications panel from his position at the adjacent console. This would have enabled him to communicate with other control agencies, such as the Victoria airport controller. The OJI and the trainee did not establish an action plan specifying the process and circumstances under which the OJI would intervene. The trainee did not prevent C-FFMW from turning early to intercept the localizer, even though the OJI had cautioned him. With N6857P and C-FFMW on converging tracks, the trainee cleared both aircraft to the same altitude (3000 feet). The trainee changed the approach sequence of N6857P ahead of C-FFMW on the approach to runway 27 at Victoria without communicating this plan to the OJI. The OJI did not inform the Victoria airport controller regarding his plan of action for N6857P. The Victoria terminal data/supervisor did not ensure that information passed to Victoria tower regarding the arrival controller's intention for N6857P was correctly understood. The Victoria ground controller did not correctly understand the information regarding N6857P, nor did he seek clarification. The Victoria ground controller did not correctly relay to the Victoria airport controller the information that N6857P would be continuing with a visual approach to runway 27. The Victoria airport controller was unable to communicate with the arrival controller to confirm the arrival sequence and intentions of N6857P. The arrival controller did not switch N6857P to the Victoria tower frequency until the aircraft was well within the Victoria airport controller's airspace.
+
+
+
+Other Findings
+
+
+At the Victoria terminal specialty, the workload and complexity were moderate, and the staffing was within the norms established for the traffic level. At Victoria tower, the workload was moderate to heavy, the complexity was high, and the staffing was within the norms established for the workload. Although trained as an OJI in January 1994, the OJI had not received the triennial OJI refresher course.
+

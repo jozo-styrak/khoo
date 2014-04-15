@@ -1,0 +1,16 @@
+The tower south -LRB- TS -RRB- controller cleared JZA8257 for take-off from the Runway 08R threshold without considering the change to the aircraft 's departure profile from the usual intersection departure	, an air proximity occurred between JZA8257 and WCA305
+The coordination among the TS , traffic advisory -LRB- TA -RRB- , and departure south -LRB- DS -RRB- controllers that is necessary to fulfill the requirement for traffic information and conflict resolution did not take place	, the two departing aircraft did not receive the air traffic control -LRB- ATC -RRB- services specified for the class of airspace within which they were flying
+The TA controller 's attention was diverted to other traffic under his responsibility , and he did not see JZA8257 coming up behind WCA305	, the two aircraft came into close proximity before JZA8257 saw the other aircraft and took evasive action
+occurrence	this
+he did not anticipate a conflict	When the TS controller cleared JZA8257 for take-off from the Runway 08R threshold , he did not issue traffic information regarding WCA305
+the TS controller cleared JZA8257 for take-off from the Runway 08R threshold	he did not issue traffic information regarding WCA305 because he did not anticipate a conflict
+it had become a common practice	Although they did not ask for an en route altitude of 2000 feet , the crew of JZA8257 expected to be cleared to 2000 feet
+he was busy with traffic north of the airport	the TA controller did not see JZA8257 converging on WCA305 from behind and did not provide the degree of monitoring required to detect the potential conflict
+the JZA8257 crew expected a clearance to remain at 2000 feet	they substantially decreased their rate of climb , creating the conflict with WCA305 and extending its duration
+His thinking was	his previous experience of intersection departure paths and anticipated climb rates
+It was this expectation	them reduce their climb rate before reaching 2000 feet
+them	their climb rate before reaching 2000 feet
+The earlier turn to the south and the reduced climb rate	the conflict with WCA305
+the ATC	but without the benefit of timely traffic information
+Because the JZA8257 crew expected a clearance to remain at 2000 feet , they substantially decreased their rate of climb	the conflict with WCA305 and
+they	their rate of climb

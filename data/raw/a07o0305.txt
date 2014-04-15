@@ -1,0 +1,48 @@
+
+
+Analysis
+
+
+This incident occurred when the pilot of N70AX misidentified Runway 05 as being in the distance and continued to taxi into the path of a landing aeroplane despite the following passive measures intended to defend against crew deviations:
+
+
+airfield markings and signage complied with relevant standards; signs and markings were unobstructed and visibility was good; and ATC instructions complied with relevant standards, were clearly understood, and were read back correctly.
+
+
+The crew did not correctly perceive their location on the airfield. None of the indicators of the hold-short point were prominent enough to attract their attention and overcome their perception that they were proceeding correctly. Potential factors contributing to their reduced level of awareness are familiar from previous studies:
+
+
+the incursion occurred while taxiing out; only one crew member was monitoring the taxi route and compliance with the instruction; distraction by the before-take-off checklists; night lighting conditions; fatigue associated with the third leg of the day at the 12-hour point of the crew duty day; and operational pressure (self-imposed because the crew would be at the limit of their crew day by the time they reached home base).
+
+
+Additional indications of the holding point, such as illuminated stop bars or enhanced taxiway markings system, could be provided; however, it is uncertain if these would overcome the pilot's misconception of his position. It is noteworthy that when Toronto / LBPIA began to use stop bars to additionally denote the holding point at another runway, it was only a very short time before this defence failed under circumstances in which a crew was actively looking for indications of the runway.
+
+
+It is also inconclusive whether putting the taxiing aeroplane on the same frequency as aircraft landing and taking off would have had an effect because this measure is intended to avoid coordination errors between controllers. In this instance, it would depend on the timing of clearances and frequency changes, and could induce other risks when airport controller workload is factored in.
+
+
+Monitoring by air traffic controllers provides another level of defence against incursions. The ground controller was monitoring five aircraft at the time, none of which could be viewed as being of "much lower priority". Four of these aircraft were to the east side of the field; only N70AX was northwest of the tower, resulting in the controller having to scan a large arc. When the incursion took place, the controller had looked back towards N70AX, but the impending incursion was not obvious due to relative movement being directly towards the tower and therefore not easily discernable to the human eye, especially at night. The controller attempted to use the ASDE display for additional certainty, but the event unfolded too quickly and he did not detect that N70AX had passed the hold line and was proceeding onto the runway until the aural warning sounded after the incursion had occurred.
+
+
+The RIMCAS system is intended to provide an additional level of defence. The aural warning provided insufficient time for controllers to instruct either aircraft and therefore would not have averted a potential collision. In this occurrence, even with low-visibility settings, RIMCAS would have provided a warning only nine seconds before the Learjet entered the runway. Whether configured for good or poor visibility, the RIMCAS warning comes only after an incursion has taken place. Therefore, as presently configured, RIMCAS can only assist in mitigating the consequences by defending against the collision that might follow. Averting a collision after a RIMCAS warning is highly reliant on the controller providing appropriate instructions to the flight crews in time for them to take action. This occurrence demonstrates that in the most critical situations, the shortness of time and swiftness of events can defeat this defence and the controller will have insufficient time to avert the collision. To be effective, the RIMCAS would have to provide a warning in sufficient time before the aircraft reaches a holding point to allow the controller to intervene and prevent an incursion.
+
+
+The number of runway incursions fell between years 2002 and 2005 during a period of decreasing traffic levels. Since then, it has returned to previous levels despite the defence measures that were undertaken. Also, the passive measures intended to reduce pilot deviations related to entering runways at taxiway hold points may reduce the likelihood of these types of incursion, but can not entirely eliminate them. The residual risk remains high due to the potential for catastrophic consequences in the event of a collision at high speed. The greatest likelihood of a high-speed encounter is at mid-points on runways where an aeroplane taking off is reaching its take-off speed or a landing aeroplane has not yet decelerated to taxi speed.
+
+
+Runway incursions occur for many reasons including pilot deviations, controller deviations, vehicle operator deviations, and pedestrian deviations. ASDE / RIMCAS remains the only automated device that independently detects incursions, but sufficiency of warning and reaction time limits its effectiveness. Moreover, the current ASDE / RIMCAS system installed at Toronto / LBPIA can not be enhanced to provide the greater level of protection that is said to be installed at other NAV CANADA sites.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Both crew members of Learjet N70AX were unfamiliar with the Toronto / Lester B. Pearson International Airport and did not correctly perceive their position on the field. As a result, they did not hold short of the runway as instructed by air traffic control (ATC) and unintentionally proceeded onto the runway into the path of a landing aeroplane. The co-pilot did not assist in monitoring the taxi route or compliance with instructions because he was carrying out checks while the pilot-in-command (PIC) taxied the aircraft.
+
+
+
+Findings as to Risk
+
+
+A crew's alertness may be reduced by operational pressures and fatigue associated with a long duty day and multi-leg scheduling. The runway incursion and monitoring and conflict alerting system (RIMCAS) does not provide sufficient time to prevent incursions, nor does it provide sufficient warning to allow air traffic controllers to avert a collision. There is currently no automated runway incursion warning system to warn flight crews directly of impending incursions or conflicts.
+

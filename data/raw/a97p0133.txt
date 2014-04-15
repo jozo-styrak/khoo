@@ -1,0 +1,38 @@
+
+
+Analysis
+
+
+The coordinator did not immediately inform the arrival controller about the impending departure out of Boundary Bay. The coordinator's duties do not state specifically when that coordination must occur. In this incident, the coordinator was aware that the OJI had been debriefing the trainee and decided that he would delay the coordination until the Cessna 172 was airborne. This decision to delay the coordination appears to be based on an intent to reduce interruptions to the OJI, thus aiding in the training of the student. In effect, the coordinator's actions were adversely influenced by his intent to facilitate training.
+
+
+The terminal specialty was two staff members short, and the supervisor was attempting to schedule relief breaks for the controllers. These changes are routine and necessary to provide rest to the controllers throughout their shifts. Hand-off briefings are required during all position changes, and a checklist is available at each position to aid in the transfer of essential information between controllers during these changes. Because the use of the published hand-off guidelines, in general, is not considered essential, controllers consider the mental checklist to be adequate. In this instance, the outgoing coordinator omitted to brief his replacement about essential information related to the un-coordinated departure out of Boundary Bay.
+
+
+Because there were no other visual cues or job aids at the coordinator's work station that could highlight the fact that the coordination had not been completed, the incoming coordinator was forced to rely on the memory and thoroughness of the departing controller to update him on the expected activity out of Boundary Bay airport. This type of situation results in a passive rather than active transfer of information, reduces defences that rely on redundancy, and increases the risk of error.
+
+
+After being relieved as coordinator and assigned to the departure control position, the controller again became aware that he had not completed the coordination action regarding the Boundary Bay departure. However, because he was now controlling that aircraft, he decided to monitor the situation and deal with any conflicts as they may develop. In effect, however, the departure controller was routing one of his aircraft through the arrival controller's airspace without having first coordinated this action.
+
+
+As the Cessna 172 climbed to 2,000 feet, the departure controller overheard the arrival controller discussing, with the trainee, both the presence of the aircraft and the wake turbulence requirements that were necessary between it and CDR1360. This information fortified the departure controller's mental model that the arrival controller was aware of the aircraft and was handling the situation, with reference to the arriving CDR1360.
+
+
+The departure controller based his actions on a belief that the data tags associated with specific aircraft are displayed in a way that clearly distinguishes whether the aircraft is operating under visual or instrument flight rules. However, the arrival controller was aware of numerous exceptions to the way the data is displayed and, as a result, did not use the display format as an indicator of a flights operating rules; rather, he relied more heavily on being informed in advance that IFR aircraft would be entering his airspace.
+
+
+In this incident, the arrival controller was aware of the presence of the Cessna 172. However, because he had not been informed that an IFR aircraft would be entering his airspace, he concluded that the aircraft was a VFR flight, operating above the Boundary Bay control zone. Although the display indicated a full data block with the departure controller's CJS, this information was apparently not compelling enough for him to recognize the developing conflict. It is also possible that the controller's ability to actively monitor all aspects of the arrival control position was degraded by an increased workload brought on by his responsibilities and activities as an on-job-instructor.
+
+
+Based on a compelling mental model that the Cessna 172 was operating under VFR, the arrival controller provided an approach clearance to CDR1360 that allowed the aircraft to descend to 2,500 feet; that altitude would provide a minimum spacing of 500 feet between the inbound IFR flight and what he perceived to be a VFR aircraft. The arrival controller's concerns related to wake turbulence separation requirements were discussed with the trainee and resolved by ensuring that CDR1360 passed behind the Cessna 172.
+
+
+A loss of separation did occur, but there was no risk of collision because a minimum of 500 feet of vertical spacing had been assured by the clearance and because CDR1360 passed behind and clear of the departing Cessna 172.
+
+
+
+Findings
+
+
+The arrival position was being staffed by one qualified controller and a trainee; in addition to his control responsibilities, the arrival controller was acting as an on-job instructor (OJI). The coordinator did not inform the arrival controller about the Cessna 172 departing Boundary Bay airport. Because the outgoing coordinator relied on a mental checklist during the hand-off briefing to the incoming coordinator, essential information regarding the Cessna 172 was omitted. There were no visual cues or job aids at the coordinator's work station that would have highlighted that the coordination had not been completed. There is no consistent, single method of identifying a VFR flight using the information provided in the aircraft's data tag. The arrival controller believed that the Cessna 172 was operating VFR and issued a clearance to CDR1360 that allowed the spacing between the aircraft to be to nm and about 500 feet. The procedural safeguard provided by terminal procedures, article 350.3, was routinely being circumvented by an internal coordination procedure between the departure and arrival controllers.
+

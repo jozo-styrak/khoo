@@ -1,0 +1,27 @@
+
+
+Analysis
+
+
+The aircraft twice entered what appeared to be deliberate spins. The first spin recovery was successful, the second was not. On both exercises, spin entry was below the minimum spin-recovery altitude recommended by Transport Canada and the manufacturer. Entering a spin at a lower altitude reduced the time available for pilots to recover the aircraft when the first attempt was unsuccessful.
+
+
+It was established that the common practice spin entry altitude for the club was around 4000 feet asl. Entry at this altitude, under normal circumstances, allowed ample altitude for a one-turn spin and recovery by 2000 feet agl in most of the local flying area. However, this entry altitude was below the minimum recovery altitude recommended by the manufacturer in the Spin Characteristics booklet and later model Cessna POHs. This suggests that instructors and students were not using the most current applicable references for spin training. Also, TC's safety oversight activities did not ensure that the club was following the recommendations and guidance in the applicable POHs and Cessna Spin Characteristics booklet.
+
+
+The successful recovery from the first spin indicates that the aircraft and the pilots were capable of effective spin recovery. This recovery, and post-accident investigation, suggests that there were no pre-existing physiological conditions or mechanical discrepancies that would have prevented a recovery from a spin. Consequently, the inability for the aircraft to recover from the second spin cannot be explained.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+For undetermined reasons, the aircraft entered a spin from which the pilots did not recover.
+
+
+
+Findings as to Risk
+
+
+The spin entry altitude was below that recommended by Transport Canada and the manufacturer. The generic, commonly-used reference for the Cessna 150 at the Shearwater Flying Club did not include the most current information on spin entry altitudes. Other pilots in the Shearwater Flying Club were known to enter practice spins below the recommended altitude. Transport Canada's safety personnel did not ensure that Shearwater Flying Club instructors were entering spins at or above the recommended entry altitude.
+

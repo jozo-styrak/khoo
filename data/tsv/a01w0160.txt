@@ -1,0 +1,11 @@
+The controller did not use appropriate procedures to mark the flight progress strips for ACA3697 and CDR8510 to indicate inappropriate altitudes or potential conflicts	, two aircraft converged with a clearance to the same altitude
+The problem the controller faced was to descend ACA3697 to an appropriate altitude	hand over the flight to the next sector for landing at Calgary Airport
+clearing ACA3697 to FL290	the flight was placed at a higher risk of being involved in a loss-of-separation incident with opposite-direction traffic , with a resulting greater potential for a midair collision
+the controller first had to ensure the appropriate lateral spacing with another westbound flight , ACA579 several miles to the north at FL310	descend ACA3697 to the required altitude before handoff to the Calgary arrival sector
+his attention was focused on two of the five aircraft he was controlling	The controller did not adequately scan the radar display and detect the conflict between ACA3697 and CDR8510
+it may not be evident on the radar display	This increases the risk that controllers will forget about a conflict
+the controller had	the appropriate lateral spacing with another westbound flight , ACA579 several miles the north at FL310
+the controller	a conflict with CDR8510
+The controller 's attention was fixed on one separation problem to the exclusion of another	the risk of a midair collision
+only a TCAS RA to the pilots of CDR8510	a much closer encounter between the two aircraft
+This	the risk controllers will forget about a conflict because it may not be evident on the radar display

@@ -1,0 +1,38 @@
+Nothing indicates that fatigue could have played a role in the occurrence	, the analysis will focus on the actions of the crew during the landing rollout and the environment in which those actions took place
+The aircraft was not equipped with an image -LRB- video -RRB- recording device	, critical information may have been lost which would have proven helpful in determining the events that led up to the occurrence
+The cockpit voice recorder -LRB- CVR -RRB- was not deactivated after the event	, cockpit conversations were overwritten and critical information that could assist TSB investigators was lost
+that speed	the rudder control surface was still effective
+Additionally , the autobrake provided directional stability by applying even braking on all main gears	, rudder deflection was no longer required for the aircraft to remain on the runway centreline and the PF removed the left rudder correction
+this right turn	the PF applied full left rudder and intended to apply left nose wheel tiller command
+an unintentional	attempt to apply an A320 tiller input , which would have been located lower and to the left in comparison to the B744 tiller position in the cockpit
+nose wheel steering inputs override rudder steering inputs at low speed	the left rudder deflection was ineffective in stopping the turn
+the tiller been released	it would have returned to the centre/neutral position
+no taxiways were within close proximity on either side of the runway	There was no pressing reason to turn the aircraft at the point where the skid marks appear
+Furthermore , LAHSO were not used for the landing	, the full length of the runway was available
+ADM personnel initiated work around the aircraft without prior consultation with the TSB investigators	re-open the runway as soon as possible
+the emergency response plan used at the time of the incident did not include provisions for dealing with reportable incidents	it is likely that ADM personnel did not realize TSB approval was required
+the automatic shutdown feature was not installed on the event aircraft	the CVR had to be manually deactivated by pulling the appropriate circuit breaker
+providing	investigators with a reliable and objective means of expeditiously determining what happened during an occurrence
+the PF	his hand
+the PF used left rudder	the right turn initiated by the tiller input
+However , this caused the loss of adherence of the nose wheels with the runway surface	the skid
+this	the loss of adherence of the nose wheels with the runway surface
+the autobrake	directional stability by applying even braking on all main gears
+the autobrake combined with the nose wheels regaining lateral adherence with the runway surface at the lower speed of 45 knots	loss of directional stability
+The loss of directional stability provided by the autobrake combined with the nose wheels regaining lateral adherence with the runway surface at the lower speed of 45 knots	the aircraft to veer to the right
+Instead , the PF pushed the tiller further forward and down	nose wheel deflection the right
+this forward and down input -LRB- on the right hand tiller -RRB-	a left nose wheel deflection
+Although placing the hand on the tiller is not formally discouraged in existing procedures	a hand
+a hand on a control at a speed where it should not be utilized	the risk of it being activated or used inadvertently
+habit recall from his previous experience on the A320 or his right seat experience on the B744	the PF
+While rapidly trying to execute a left tiller input , he inadvertently pushed the already deflected tiller further down	an increased right turn
+he inadvertently pushed the already deflected tiller further down , resulting in an increased right turn	the aircraft to depart the runway surface
+This inconsistency	the chance critical CVR data will be lost despite the regulatory obligation to preserve evidence following a reportable incident
+This	investigators '
+The placement of the hand on the tiller at high speed	an unintentional tiller deflection
+The placement of the hand on the tiller at high speed resulted in an unintentional tiller deflection	the nose wheels
+his left hand	the tiller
+With his left hand already placed on the tiller , the pilot flying -LRB- PF -RRB- inadvertently pushed the deflected tiller further forward and down	an increased right turn
+the pilot flying -LRB- PF -RRB- inadvertently pushed the deflected tiller further forward and down , resulting in an increased right turn	the aircraft to veer to the right and depart the runway surface
+evidence	a TSB investigator 's ability to carry out an investigation
+The use of image -LRB- video -RRB- recording devices that include imaging within the cockpit	transportation safety by providing investigators with a reliable and objective means of expeditiously determining what happened during an occurrence

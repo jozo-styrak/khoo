@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+Based on the examination of the propellor blades and the lack of any radio transmissions related to any emergency situation, it is concluded that an engine failure or partial power loss was not a factor in this occurrence.
+
+
+The pilot had a German private pilot licence with no other privileges attached to it. He also had an American private pilot licence with an instrument rating; however, regulations did not permit him to exercise the privileges of his American instrument rating while flying a German registered airplane in Canada. He was therefore restricted to day VFR flight within the confines of Canadian domestic airspace. The weather at Timmins at the time of the attempted landing was not suitable for VFR flight, and the flight was being conducted in darkness.
+
+
+The decision to attempt the flight with one VHF radio, one VOR receiver, and a handheld GPS not certified for IFR navigation reflects a disregard of aviation regulations and the safety they provide. Furthermore, the pilot filed an IFR flight plan and attempted to conduct an IFR approach in airspace in which he was not qualified to do so. The aircraft instrumentation was also not appropriate for this flight. The GPS database probably contained some information relative to the route and airports.
+
+
+The pilot knew that the cloud ceiling was 300 feet agl overcast, and the only serviceable approach aid in the aircraft for Runway 03 was the VOR, with a related minimum descent height of 733 feet agl. This would indicate that an approach to a successful landing was doubtful. The pilot was relying on a handheld GPS unit, not certified for use as a primary navigation or approach aid, to provide proper navigation and landing guidance. It is not known what the accuracy of the GPS was or what had been programmed into it. The crash occurred 1.2 nautical miles northwest of the Timmins VOR, which means that the pilot had probably not yet commenced the approach to Runway 03. It is not known why, if the pilot had the approach displayed on the GPS, he would be at such a low altitude in the area of the crash. A reasonable explanation may be that he was purposely descending in an attempt to visually acquire the airport and the surrounding area.
+
+
+Fatigue is used as a catch-all term for a variety of different experiences, such as physical discomfort from overworking a group of muscles, difficulty concentrating, difficulty appreciating potentially important signals, and problems staying awake. In the context of an investigation, fatigue is important if it potentially reduces efficiency, erodes the safety margin, or otherwise impairs cognitive or physical performance. Although it is known that fatigue has powerful negative effects on pilot performance, the general public, including many pilots and other aviation workers, underestimate the potential of fatigue to impair virtually all aspects of performance.
+
+
+Counting ground and air times, the pilot probably was on duty approximately 8 to 10 hours per day for the first two days. The third day was more taxing in that the distance flown was over 1900 nautical miles, and the time from take-off at Kulusak until the accident was 19 hours 10 minutes. With an estimated preparation time of one hour before the first flight, the duty day was over 20 hours. The flight was long, crossed six time zones, was over relatively featureless terrain, and was a single-pilot operation. Much of the flight was in instrument meteorological conditions (IMC), at night, and the aircraft lacked full instrumentation, which would require that the pilot constantly fly with reference to the flight instruments. Based on the above, it is likely that fatigue affected the pilot's performance, and may have contributed to the accident.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot attempted to fly an instrument approach procedure with the aid of a global positioning system receiver that was not certified or installed for that purpose. Given known unserviceabilities, the aircraft was not properly IFR-equipped. No published instrument approach procedures for Ontario were found either in the aircraft or at the crash site. It is likely that fatigue affected the pilot's performance, and may have contributed to the accident.
+
+
+
+Findings as to Risk
+
+
+The pilot was not using the radio telephone in accordance with restrictions placed on his radio telephone operator's licence. The pilot conducted a long-range IFR flight without sufficient radio navigation equipment. The pilot operated the aircraft on an instrument flight rules (IFR) flight plan and attempted to conduct an instrument approach procedure in instrument meteorological conditions when he was not properly licensed to do so.
+

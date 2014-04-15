@@ -1,0 +1,10 @@
+occurrence	this
+the transfer of steering loads to the lower brackets	The fretting indicates that the attachments to the aircraft were moving
+steering limits are exceeded	Failures of the attachment brackets on other aircraft have shown that towing the aircraft with the scissors connected damage the brackets
+inputs to the steering tiller would be ineffective in maintaining directional control of the aircraft	move
+the placard called for in SB 1125-11-181 been attached to the landing gear doors	the initial failure might have been avoided
+The shimmy dampening characteristics of the steering system dampen or restrict movement of the nose gear system ; a sharp turn while towing with scissors connected , or turning the aircraft while towing the aircraft on an uneven surface	damaging forces the brackets
+This	the fracture of the upper bracket
+It is most likely that the occurrence aircraft was towed beyond the steering limits with the scissors connected	the fracture of the upper bracket
+A nosewheel shimmy on landing stressed the remaining lower attachment bracket to overload and failure	the steering assembly and nose gear rotate uncontrollably
+Although SBs were issued	the initial failure

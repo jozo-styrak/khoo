@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+No mechanical conditions were identified as contributing to this accident. This analysis therefore focuses on operational factors surrounding the flight.
+
+
+Wreckage damage characteristics, damage found to two trees at the accident site, and the lack of damage to surrounding trees indicate that the aircraft followed a steep, nose-down flight path seconds before impact. The aircraft struck the trees and came to rest inverted; it likely rolled inverted when the pilot lost control.
+
+
+The pilot had declared that he intended to assess the weather in the pass at the end of the south Frederic Creek valley. The rising terrain and the cloud base near the pass limited the height above ground that the aircraft could fly and remain clear of cloud. The available manoeuvring area was also confined by the narrowing of the valley toward the south end. Although the valley was oriented predominately north-south, the pass at the south end of the valley had to be crossed in an east-west direction, making it impossible for a pilot to see through the pass until the aircraft was in it.
+
+
+The accident occurred after a left turn away from the pass, during the second attempt to get through the pass. During this attempt, the turn radius was smaller and the speed slower than in the first circuit, allowing the aircraft to come closer to the pass. It is therefore most likely that during the second attempt to investigate the pass, the pilot slowed the aircraft and, when he decided to abort flight through the pass, turned sharply to avoid the higher terrain on the north side. As a result, the pilot was forced to turn left in a more confined area and would have applied greater bank angle in the turn to avoid the steep terrain.
+
+
+The aircraft weight and balance were outside the approved and tested flight envelope, in an area where the stall characteristics of this aircraft are unproven. The aircraft weight exceeded the certificated MAUW, and the CG was outside the floatplane aft limit, the latter being a condition known to hasten the onset of stall, produce challenging aircraft attitude changes, and make recovery difficult. Furthermore, because incorrect values were used for the aircraft basic weight and passenger weight (errors of 275 and 185 pounds respectively), any weight and balance calculation would consistently have been approximately 450 pounds less than actual.
+
+
+During a turn in level flight, as the angle of bank increases, stall speed also increases. The steep and rapid turn in slow flight would have caused the Beaver to stall. The out-of-limit weight and balance condition aggravated the aircraft's response to the evasive manoeuvre and presented the pilot with an abrupt attitude change from which he could not recover before losing control of the aircraft and striking the trees. The stall and the subsequent loss of control occurred only seconds before impact.
+
+
+The Alaska cargo door installation increased the volume of the cargo compartment. This increase was conducive to larger loads being stowed farther aft, resulting in possible overloading of the cargo compartment. Unrestrained cargo likely shifted during this manoeuvring and exacerbated the out-of-limit CG, making control even more difficult. In addition, heavier cargo items would have been free to migrate during the impact sequence and become projectiles, increasing the level of injury to the occupants. However, the impact forces alone were not survivable.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot abandoned his attempt to fly through the pass because of unsuitable weather conditions. He flew into a confined area that required him to manoeuvre the aircraft aggressively to avoid the rising terrain, causing the aircraft to stall. The aircraft weight exceeded the certificated MAUW, and the CG was outside the floatplane aft limit. The out-of-limit weight and balance aggravated aerodynamic stall and produced rapid and uncontrolled aircraft attitudes from which the pilot could not recover before striking the trees. Basic weight and balance of the aircraft was incorrectly recorded in several aircraft documents, leading to remarkable discrepancies in take-off weight and CG calculations. As a result, a pilot could not calculate an accurate weight and balance. In certain conditions, calculations erroneously showed that the aircraft was below maximum allowable gross weight.
+
+
+
+Findings as to Risk
+
+
+The practice of using a non-standard passenger weight led to inaccurate take-off weight calculations and provided aan estimated total passenger weight that was 185 pounds less than actual. Weight and balance calculations performed using inaccurate figures would not have revealed that the aircraft was overloaded until it was approximately 450 pounds beyond the maximum limit. Aircraft weight exceeded the maximum allowable gross weight, and the CG was outside the aft CG limit. This weight and balance combination placed the aircraft outside the manufacturer's original design envelope, to where slow speed and stall handling characteristics are neither proven nor certificated. Cargo was not secured by the available cargo restraint and might have shifted during aircraft manoeuvring. Such cargo movement would have exacerbated the effects of the existing aft CG and likely increased the level of injury to the occupants.
+
+
+
+Other Findings
+
+
+The pilot chose to fly above cloud in accordance with the visual flight rules and could not descend through the cloud at his intended landing site. The Alaska cargo door installation increases the volume of the cargo compartment. The installation is thereby conducive to larger loads being stowed farther aft and possible overloading of the cargo compartment. The DHC-2 Beaver is not equipped with an aural or visual stall warning system, nor is it required by regulation. Warning of an impending stall is dependent on juddering or some other aerodynamic indication.
+

@@ -1,0 +1,17 @@
+Because the controller had not identified that the YOUNG intersection was a common estimate point for the two occurrence aircraft , when he received the YOUNG estimate for BAW284 , he did not calculate a YOUNG estimate for KAL231	, there was no conflict warning annotation placed on the flight progress strips of the two aircraft
+The Prince Albert -LRB- PA -RRB- sector controller did not monitor the flight progress strips in sufficient detail to determine that a conflict would occur between two aircraft	, there was no planned separation between Korean Airlines Boeing 747-200 -LRB- KAL231 -RRB- and British Airways Boeing 747-400 -LRB- BAW284 -RRB-
+The PA sector controller did not adequately use the conflict prediction tools on the radar situational display	, detection of the developing conflict and air traffic control intervention to prevent a conflict from occurring was delayed
+Clear and imperative control instructions were not used by the PA sector controller to emphasize the urgency of the heading and altitude change instructions to the aircrew , nor was traffic information passed	, the situational awareness of the aircrew may have been degraded and the desired reaction to the controller 's instructions delayed
+the PA sector controller was working alone , there was no human redundancy to alert him to the developing conflict	There was no automatic conflict alert system and ,
+various factors increased the cognitive load imposed on the controller	moderate
+The practice of placing all flight progress strips under one header required the controller to review all 12 flight progress strips under the single header	identify potential conflict
+the controller had not identified that the YOUNG intersection was a common estimate point for the two occurrence aircraft	when he received the YOUNG estimate for BAW284 , he did not calculate a YOUNG estimate for KAL231
+Although the RVSM airspace was not directly involved in this occurrence , its management requires additional operations by the controller	increases the probability of omission errors
+The reduced use of fix designators as flight progress board headers could require the controller to review more flight progress strips	detect potential conflicts and may make it more difficult to detect conflicts by reference to the flight data board
+various factors	the cognitive load imposed on the controller
+there was no conflict warning annotation	the flight progress strips of the two aircraft
+The recent implementation of RVSM airspace in the PA sector	the number of steps and cognitive complexity of the conflict prediction sequence
+its management requires additional operations by the controller	the probability of omission errors
+this	the 23 second delay before KAL231 began to descend
+air traffic control intervention	a conflict occurring was delayed
+The reduced use of fix designators as flight progress board headers could require the controller to review more flight progress strips in order to detect potential conflicts	it more difficult to detect conflicts by reference to the flight data board

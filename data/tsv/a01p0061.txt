@@ -1,0 +1,22 @@
+Large differences in the count of torque events are likely because the type of operations affects the number of torque events and the recording of this number relies on pilots keeping an accurate count	, MDHI rotor blades are subjected to a fatigue factor that may not be accurately tracked by operators
+Large differences in the count of torque events are likely because the type of operations affects the number of torque events and the recording of this number relies on pilots keeping an accurate count	, MDHI rotor blades are subjected to a fatigue factor that may not be accurately tracked by operators
+Compliance with service letters and service bulletins issued by the manufacturer is not mandatory	, some operators may not be accurately tracking the torque events encountered by the helicopter blades
+Compliance with service letters and service bulletins issued by the manufacturer is not mandatory	, some operators may not be accurately tracking the torque events encountered by the helicopter blades
+the type of operations affects the number of torque events and the recording of this number relies on pilots keeping an accurate count	Large differences in the count of torque events are likely
+the type of operations affects the number of torque events and the recording of this number relies on pilots keeping an accurate count	Large differences in the count of torque events are likely
+its structural integrity was compromised by a manufacturing defect at the edge of a lightening hole in the C-channel , internal to the blade , located about three inches inboard of the data plate	The main-rotor blade failed
+Differences in this count are likely	, component fatigue is not accurately tracked
+its structural integrity was compromised by a manufacturing defect at the edge of a lightening hole in the C-channel , internal to the blade , located about three inches inboard of the data plate	The main-rotor blade failed
+Differences in this count are likely	, component fatigue is not accurately tracked
+at manufacture	the structural integrity of the main rotor blade
+This nick	a stress riser
+the type of operations	the number of torque events
+at manufacture	the structural integrity of the main rotor blade
+This nick	a stress riser
+the type of operations	the number of torque events
+a manufacturing defect at the edge of a lightening hole in the C-channel	its structural integrity
+The defect at the lightening hole	a fatigue crack that propagated to the lower skin , rearward to the trailing edge , and around to the top skin going forward in the direction of the blade spar
+The type of operation	the number of torque events
+a manufacturing defect at the edge of a lightening hole in the C-channel	its structural integrity
+The defect at the lightening hole	a fatigue crack that propagated to the lower skin , rearward to the trailing edge , and around to the top skin going forward in the direction of the blade spar
+The type of operation	the number of torque events

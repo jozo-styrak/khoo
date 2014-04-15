@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+The analysis will examine the following: the effect of the reduced staffing level in the north speciality, the decision making of the supervisor, the communication of the TL data controller, control communications in the north, and the procedural control tools (NADS) provided to the controllers.
+
+
+The supervisor was not functioning as a standback supervisor. Management expected him to spend a significant portion of his time directly controlling traffic. With fewer staff, the supervisor had less time to spend in decision making in response to the traffic flows. His decisions to close sectors and release controllers might have been different had he had more time to consider the traffic that would arrive after 2300. He had resources that he could have retained, as indicated by his early closing of sectors and the release of controllers before the buildup of traffic in the TL sector. By 2305, he had no flexibility left and had to deal with the traffic personally in conjunction with the one remaining controller.
+
+
+The TL data controller was likely task saturated - as shown by the pace and tone of communications and his task-shedding actions concerning the low-level airspace. Task saturation likely also influenced his communication with the NU controller. His motivation was likely to shed tasks as quickly as possible; in his haste, he did not include vital information on the rerouting of SAS938.
+
+
+The workload accepted by the TL supervisor and the handoff performed by the TL controller started the process that led to the eventual loss of separation of SAS938 and KLM602. Nevertheless, the control tools provided in the northern sectors were the primary mechanisms of the loss of separation. The underlying factor is the lack of air traffic radar beyond Churchill. The volume of traffic is high and tends to concentrate to take advantage of favourable winds and altitudes. Without radar, greater separation standards have to be applied, and the only means of confirming separation is by position reports - not made directly to the controller but relayed through a third agency using radios subject to atmospheric disturbances. The geographic reporting system was used because of the lack of radar; consequently, the time required for the NU controller to detect and correct the problem was about 1 hour 40 minutes. The true position of SAS938 was effectively unknown to Edmonton ACC for about 1 hour 25 minutes. The NU controller received SAS938's position report 9 minutes late and KLM602's 13 minutes late.
+
+
+The NU controller's confirmation activities were hampered and delayed by a lack of a direct pilot-to-controller communications capability and by a degraded HF communications environment over Hudson Bay. The time taken to establish communications, verify the aircraft position, and coordinate and issue a clearance for SAS938 to descend to FL310 was approximately 5 minutes.
+
+
+The lack of automatic electronic data transfer between ACC NADS and NSiT display computers increases controller workload as aircraft move from sector to sector. The probability of error detection is low if the verbal communication between sectors is inaccurate or incomplete. In this occurrence, the NU controller had no indication of a route change from the Winnipeg ACC and had no backup means of detecting the error, even though the information had been correctly entered into the Winnipeg display computer.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The Winnipeg Trout Lake data controller was likely task saturated and, as a result, did not pass the reroute information of SAS938 to the Nunavut (NU) controller. The NADSs and NSITs in the area control centres do not pass information electronically. As a result, the NU controller did not have a means of checking the rerouting of SAS938 even though the information was entered correctly into the Winnipeg NADS. The absence of air traffic control radar and direct pilot-to-controller communications prevented the NU controller from detecting the true position of SAS938 for about 1 hour 25 minutes and delayed the implementation and confirmation of corrective action for about 1 hour 40 minutes. The supervisor spent a significant amount of time performing control duties, reducing the time available for making informed supervisory decisions. As a result, available controllers were prematurely released from duty.
+
+
+
+Other Findings
+
+
+The quality of radio transmissions from the occurrence aircraft to Arctic Radio were poor and difficult to hear. The Arctic Radio communications system is not direct from the aircraft to the controller in the area where the loss of separation occurred. Position reports to the NU controller were delayed by 13 minutes for KLM602 and by 9 minutes for SAS938.
+

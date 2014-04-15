@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The reason for the excessive wear in the exhaust valve guides for cylinder numbers 3 and 5 remains unexplained. It is unlikely that a brief overspeed event would have caused the wear, and without the physical signs of valve-train misalignment, no mechanical reason for the wear can be determined. It is possible that the two subject valve guides were incorrectly dimensioned when installed as-new.
+
+
+The even and normal wear on the primer paint on the driving sheave shows that when the engine was re-installed, the sheaves were correctly aligned. The engine cooling fan taper-fit shaft and socket joint is subject to galling damage from engine operation. Such damage can impart vibration to the vee-belts and sheaves, which is a known factor in vee-belt failure, misalignment and loss. The TSB Engineering Branch determined that the fan joint galling and the fretting on the bolts and washers found on the accident helicopter occurred in the last few hours of engine operation. It is most likely, therefore, that this amplifying vibration initially caused the two rear vee-belts to come off the sheaves. Robinson Helicopters asserts, however, that even though galling on the fanshaft has been discovered on fans being removed during normal maintenance, the galling has not been directly associated with drive-belt system problems.
+
+
+It is possible that the valve guide dimensional anomaly precipitated a vibration in the engine, which in turn was transmitted to the vee-belts and sheaves; however, no direct evidence was found to confirm this event. Such vibration, if it existed, could have exacerbated the vibrations stemming from the cooling fan, thereby leading to the loss of the vee-belts. However, if such vibration existed, it would likely have been discernable.
+
+
+The loss of two vee-belts and the sudden reduction of belt tension would cause the remaining belts to slip on the driving sheave. The sudden slip would cause a significant loss of power to the transmission system, resulting in the rapid decay of main rotor rpm and the rapid increase of engine rpm, likely to engine overspeed. The slippage would cause the accumulation of rubber on the driving sheave grooves.
+
+
+The loss of rotor rpm coupled with an engine overspeed would have been difficult to diagnose and handle in a timely manner, and the pilot would have been unable to prevent descent into the trees. Had the rpm decayed beyond effective cyclic control, he would have lost control of the helicopter. Once the helicopter struck the first tree, the damage prevented the pilot from recovering, and the collision with the terrain was inevitable.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Galling on the engine cooling fan taper-fit joint within the previous few hours of flight operations introduced vibration to the belt-drive system, which in turn caused the misalignment of the belts within the sheave grooves and led to two vee-belts running off the sheaves in flight. The sudden loss of vee-belt tension caused the remaining two vee-belts on the driving sheave to slip, leading to a rapid loss of main rotor rpm. This, in turn, prevented the pilot from avoiding the trees and led to a collision with the terrain and the destruction of the helicopter.
+
+
+
+Findings as to Risk
+
+
+The engine cooling fan taper-fit shaft and socket joint is subject to galling damage, which imparts vibration to the vee-belts and sheaves, a known factor in vee-belt failure, misalignment and loss. The wear found in the exhaust valve guides for cylinder numbers 3 and 5 was excessive for their time in service and indicated a deviation from manufacturing quality control.
+

@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The internal HSI lighting had failed, and the crew could not read the instrument easily. The intent of the design specification rule CAR 523.1381 is to make each instrument and control easily readable and discernible; however, the operating rule CAR 605.16 (1) (I) only requires "a means of illumination." The operating rule is not as stringent in its requirements and allows for operation of the aircraft with lighting deficiencies, yet it does not specify the minimum level of lighting required, or the means by which this can be met. In this case, the crew had a means to illuminate all of the instruments used to operate the aircraft, but the means chosen, a flashlight, degraded crew performance during the approach by increasing workload and causing a distraction.
+
+
+Normal maintenance procedures for recording the lighting defects had not been followed; however, company maintenance personnel and flight crews were aware of the inoperative lighting. The inoperative lighting had been accepted as a minor defect that did not need to be recorded in the journey log or promptly rectified. Company personnel did not recognize the importance of complying with required maintenance procedures, and did not recognize the importance of adequate instrument lighting.
+
+
+The HSI glide slope indicator is used as a memory aid to prompt the crew to lower the landing gear. When the captain diverted the flashlight, the first officer could not see the glide slope indicator pass through one dot above the null position because of the lack of sufficient illumination in the HSI. As a result, the "Dot Above" cue was missed, and the landing gear and flaps were not lowered and the landing lights were not selected on.
+
+
+The crew did not recognize that the aircraft's configuration (gear up) was resulting in a low-drag profile. In an effort to maintain the descent profile the crew initially reduced power more than normal and finally applied 25 of flap. The higher-than-normal flap setting increased drag and helped the crew to maintain the descent profile. It also masked the fact that the landing gear had not been extended. The aircraft was landed with some engine power still being applied. It is likely that the gear warning horn did not sound because the throttle positions were above the gear warning horn activation range.
+
+
+Flying IFR at night, with inoperative instrument lighting and in challenging weather conditions, placed the crew in a high-workload environment. Also, the crew switched control of the aircraft on short final. This would have directed the captain's attention outside the aircraft, decreasing the likelihood of detecting the gear-up configuration. The SOPs for the PA-31 did not include a short final check to alert the crew that the landing gear was not lowered. These factors combined to lessen the crew's awareness of the omitted check.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Known instrument lighting defects were not recorded, rectified, or deferred in accordance with the operator's Maintenance Control and Policy Manual. The "Dot Above" call was missed when the flashlight beam was redirected during the approach. The crew did not complete a before-landing check; the landing gear was not lowered and the landing lights were not selected on. The crew did not detect that the landing gear was up because of the high workload, the landing gear warning horn not sounding, and the increased drag resulting from the high flap setting.
+
+
+
+Findings as to Risk
+
+
+Company personnel did not recognize the importance of adequate instrument lighting. Company SOPs for the PA-31 did not include a short-final check. The operating rule CAR 605.16 (1) (I) allows for operation of aircraft with lighting deficiencies. The operating rule CAR 605.16 (1) (I) does not specify the minimum level of lighting required, or the means by which the minimum level can be met.
+

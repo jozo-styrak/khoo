@@ -1,0 +1,89 @@
+
+
+Analysis
+
+
+Because of an invalid altitude for NWA26 at 1004:46, the investigation could not determine whether less than the required separation existed between NWA26 and ACA185 (5 nm lateral or 1000 feet vertical). However, safety was not assured when ACA185 was cleared to climb to FL380 without the assurance that the required separation with NWA26 would be maintained. As a result, TCAS RAs were annunciated to both aircraft crews and a conflict alert system traffic alert was displayed on the controller's ISiT. This situation falls within the ATC MANOPS definition of a loss of separation.
+
+
+Losses of separation and short-term conflict alert warnings are unusual occurrences and require an immediate assessment of the particular situation and use of clear and concise phraseology adapted to the circumstances. Additionally, it is imperative that pilots inform ATC immediately if responding to an RA in clear and concise phraseology so that ATC will refrain from issuing contradictory instructions or clearances. These issues will be discussed below.
+
+
+
+Controller Personal Practices
+
+
+ATC MANOPS specifies separation standards to be maintained and phraseology to be used, but does not specify procedures to follow in assessing a control plan. Consequently, controllers adapted personal practices to identify traffic conflicts and develop separation plans, and the personal practices varied between controllers. The Thompson controller's personal practice for a climbing aircraft was to visually scan the ISiT and flight progress strips, but did not make use of ISiT tools such as RBL or PTL ALL to determine whether any traffic presented a conflict for the climb of ACA185.
+
+
+
+
+Separation Planning and Human Performance
+
+
+As early as 0939, the controller planned to maintain separation between DLH456 and ACA185 by having ACA185 climb from FL 360 to FL 380. The instruction for ACA185 to climb to FL 380 was issued about 5 minutes (30 miles) after NWA12D cleared the track of ACA185 and before NWA26 arrived at the crossing point with ACA185. As NWA12D cleared the track of ACA185, the controller confirmed to himself that there was no conflict with NWA12D. The controller scanned the flight progress strips and radar display, but he only saw that he had the required spacing between ACA185 and NWA12D. The controller did not perceive the conflict between ACA185 climbing to FL 380 and NWA26 at FL 370.
+
+
+The 23 minutes available to the controller before the separation plan for ACA185 and DLH456 was executed should have permitted a thorough assessment of information displayed on the ISiT and flight progress strips, including information about NWA26. However, the controller's mental plan was reinforced by the emphasized information before him: red aircraft identification of DLH456 and ACA185, blue range bearing lines on DLH456 and ACA185, and red "W"s on the DLH456 and ACA185 flight progress strips. In comparison, information regarding NWA26 was displayed without emphasis on both the ISiT and flight progress strip, and was not required to be emphasized because NWA26 was at FL 370 and did not conflict with either DLH456 or ACA185 at FL 360.
+
+
+Confirmation bias likely reduced the controller's ability to perceive important information about NWA26 undermining the plan to separate ACA185 and DLH456. Use of the ISiT RBL or PTL ALL functions could have helped the controller overcome confirmation bias and identify NWA26 as a conflict for the planned climb of ACA185. The capabilities of ISiT tools to help the controller overcome confirmation bias were negated because procedures did not require their use and the controller did not use them between ACA185 and NWA26.
+
+
+
+
+Execution and Monitoring of Separation Plan
+
+
+The controller did not identify that NWA26 would conflict with the climb of ACA185. Consequently, there was no separation plan for NWA26 and ACA185. This analysis will examine the controller's separation plan between ACA185 and DLH456.
+
+
+The controller was working alone in the Thompson sector, handling both the radar and data positions. Working alone placed an increased demand on the controller to properly prioritize his actions and ensure that the required level of attention was focused on the immediate task. When another sector called with estimates, the controller chose to process the incoming estimates rather than delaying this data transaction until after ACA185 had completed its climb to FL 380. Consequently, the time available to the controller to monitor the execution of the separation plan between ACA185 and DLH456 was reduced. The time available was further reduced because the controller chose to search for and retrieve a flight progress strip that had been sent to the incorrect sector. This had the effect of increasing the time the aircraft (ACA185 and NWA26) were at risk of collision before the controller identified the conflict and initiated corrective action.
+
+
+
+
+Controller Collision-Avoidance Instructions
+
+
+The controller took immediate action and issued instructions to maintain separation of the aircraft once the conflict between ACA185 and NWA26 was recognized. However, the instructions did not use either safety alert phraseology or imperative phraseology to emphasize the urgent nature of the instructions or the reason for them.
+
+
+ACA185 was instructed in a non-urgent manner to execute a flight level change from climb to FL 380 to descent to FL 360. This instruction was not compelling enough to trigger an immediate response; consequently, ACA185 had not yet commenced descent when the TCAS issued the RA to both flight crews 16 seconds after the descent instruction. The TCAS RA was a more compelling stimulus for the flight crews, as six seconds after receiving the RA, both ACA185 and NWA26 had commenced their collision-avoidance manoeuvres. Because the controller did not use imperative phraseology or safety alert phraseology with associated traffic information, the time needed to achieve the controller's intentions was increased and this increased the time the two aircraft were at risk of collision.
+
+
+
+
+Controller Notification of Traffic Alert and Collision-Avoidance System Collision-Avoidance Manoeuvre
+
+
+The CARs require flight crews to inform ATC about clearance deviations as soon as possible after initiating the collision-avoidance manoeuvre. However, guidance in the AIM and FAA AC120-55B for phraseology to do so is a recommended practice rather than a standard. Additionally, the characteristics of TCAS are such that an RA-commanded manoeuvre can be reversed, such as a climb RA changing to a descent RA. Consequently, company guidance provided to the flight crews regarding controller notification varied between Air Canada and Northwest Airlines. While Air Canada required crews to use the phrase "TCAS DESCENT/CLIMB," Northwest Airlines required only that crews notify controllers but did not require the use of specific phrases.
+
+
+In this occurrence, both flight crews did mention TCAS, but neither crew used the recommended phrase to notify the controller once it was known that they would deviate from their assigned altitude clearance. Consequently, the controller was not aware that they were deviating from their clearances while executing a TCAS collision-avoidance manoeuvre.
+
+
+The controller did not issue any instructions contradicting the TCAS RA. However, because the flight crews did not notify the controller of collision-avoidance manoeuvres that would result in a deviation from the ATC-cleared altitude with the correct phraseology, the controller was unaware of the TCAS collision-avoidance manoeuvre and could have issued contradicting instructions.
+
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Before executing the separation plan for ACA185 and DLH456, the controller did not identify that it would result in a conflict between ACA185 and NWA26. The time available to monitor the execution of the separation plan was reduced because the controller, who was working alone, chose to accept incoming estimates and search for and retrieve a flight progress strip sent to an incorrect sector. This increased the time the aircraft were at risk of collision before the controller identified the conflict and initiated corrective action. Confirmation bias likely reduced the controller's ability to perceive displayed information about NWA26 that negated the controller's separation plan between ACA185 and DLH456. The capabilities of integrated situational display system (ISiT) tools to help the controller overcome confirmation bias were negated because procedures did not require their use and the controller did not use them between ACA185 and NWA26.
+
+
+
+Findings as to Risk
+
+
+The time needed to achieve intended flight crew response increases when controllers do not use either imperative phraseology or safety alert phraseology with associated traffic information. This increases the time that aircraft are at risk of collision. When flight crews do not notify controllers, with the recommended phraseology, about collision-avoidance manoeuvres that would result in a deviation from the air traffic control clearances, controllers may issue contradicting instructions.
+
+
+
+Other Finding
+
+
+Both flights deviated from assigned altitudes by 600 feet during the collision-avoidance manoeuvre. These altitude excursions were close to expected norms.
+

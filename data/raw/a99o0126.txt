@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+CARs require pilots flying this model of aircraft to have their pilot's licence endorsed for high-performance aircraft. Similarly, a valid instrument rating is required by any pilot filing and flying under IFR. The pilot's private pilot licence was not endorsed with an instrument rating, nor did he have an aircraft high-performance type rating. TC pilot records indicate that, on several occasions, the pilot attempted, but never successfully completed, the instrument rating examination. The U.S. pilot certificate was issued on the basis of, and valid only when accompanied by, a valid Canadian licence. The pilot provided the U.S. training provider with licensing documentation that indicated that he held an instrument rating when, in fact, he did not hold this rating. Further, the pilot did not obtain a high-performance type rating on his licence for this model of aircraft.
+
+
+There are inconsistencies between the facts recorded on the pilot's last civil aviation medical examination with respect to medical conditions and current prescribed medications, and those learned during the investigation. TC CAM could not declare with any certainty that the combination of medical conditions experienced by this pilot would or would not have met all the criteria to allow a valid medical certificate to be issued, since the required medical investigations were either not available or had not been done for some of the conditions of interest.
+
+
+There are numerous indicators that the departure may have been rushed. The pilot and passenger arrived late at the airport due to busy highway traffic during the holiday weekend. The aircraft take-off was conducted downwind. Since the pilot was trained, and it was his practice, to conduct all take-offs using 20 degrees of trailing edge flap extended, and the flaps were found in the zero to five degrees range, the pilot most likely made a left turn shortly after take-off and raised the flaps in the turn. Finally, the occurrence site is only 1 nm west of the airport, and the aircraft had turned through more than 180 degrees prior to striking the first trees, which are also indicators that the departure may have been rushed.
+
+
+After becoming airborne at night, in rain, with little outside visual reference, the pilot would have been required to rapidly shift his scan from outside the aircraft to the flight instruments in the cockpit. This transition is a critical stage of flight and demands positive, deliberate action and the pilot's full attention. While the aircraft was at low altitude, the landing gear was retracted. Moments after landing gear retraction, the pilot turned the aircraft left for the on-course track and the flaps were raised. The aircraft's rate of climb would have been degraded when the flaps were retracted while the aircraft was banked in the left turn. The tasks of moving the gear selector and raising the flaps, although not demanding, would divert some of the pilot's attention away from monitoring the flight instruments. This diversion during the transition from visual flight to instrument flight may have caused the pilot to become disoriented and to misinterpret or improperly scan the flight instruments.
+
+
+The pilot may have also been subjected to somatogravic illusion. The overall result was that the pilot allowed the aircraft to commence a shallow descent until it struck trees, which compromised the integrity of the aircraft. With critical flight controls missing from the aircraft, it rolled inverted and entered the impact zone. Due to the severity of the impact sequence, many of the avionics components and instruments did not reveal conclusive information. The airspeed indicator imprint and the length of the wreckage trail through the heavily-wooded area indicate that the aircraft entered the impact zone at high speed.
+
+
+The following Engineering Laboratory reports were completed:
+
+
+LP 65/99--Engine Disassembly LP 66/99--Propeller Teardown Examination LP 67/99--ELT Examination LP 68/99--Instrument Examination
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The accident flight was conducted at night in IMC, and the pilot, whose private pilot licence was not endorsed with an instrument rating, was not certified for the IFR flight. The pilot may have been subjected to somatogravic illusion and allowed the aircraft to descend into terrain after a night take-off in IMC. The pilot did not completely report his medical conditions to the civil aviation medical examiner.
+
+
+
+Other Findings
+
+
+The pilot was not certified to fly this model of aircraft as his private pilot licence was not endorsed with the appropriate high-performance aircraft rating. The pilot conducted a downwind take-off. While the aircraft was turning left for the on-course track, the aircraft flaps were retracting. The aircraft struck trees while in a shallow descent. The integrity of the aircraft was compromised as it rolled inverted and entered the impact zone at high speed. The aircraft engine teardown examination revealed no pre-impact failures of any component parts or accessories in either the left or right engine that would have precluded normal engine operation. The propeller teardown examination revealed that both propellers were in a normal operating range and were rotating with power at the time of impact. The ELT did not function due to the impact damage sustained by its various components.
+

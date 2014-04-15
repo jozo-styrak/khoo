@@ -1,0 +1,12 @@
+the hydraulic-pump circuit-breaker had previously tripped	the hydraulic pump did not operate
+the landing gear was selected UP after take-off	both pilots were concentrating on visually monitoring the local traffic
+the placards are next to the landing-gear handle rather than near the indicator lights	Although the flight manual supplement adequately describes the landing-gear system , the relationship between the lights and the handle position may not be clear to all pilots
+such documentation	any other pilots who subsequently fly the aircraft would be unaware of the intermittent problem that had been identified with the landing-gear system and would therefore be placed at increased risk
+the circuit breaker had tripped , the pump did not operate	However ,
+Additionally , the landing-gear indicator lighting system was in the DIM position	the conspicuity of the indicator lights
+A more detailed checklist on the operation of the landing-gear system , rather than an elemental system description	the risk of this accident occurring
+requirement	such a checklist
+The DIM switch setting	the pilots ' ability to distinguish which set of landing-gear lights was illuminated
+A pressure switch in the landing-gear circuit failed on arrival at Chilliwack	the hydraulic pump
+The aircraft landed on water with the landing gear extended	the aircraft to overturn
+the landing-gear lights to DIM	the difficulty of distinguishing set of lights is illuminated when operating in daylight conditions

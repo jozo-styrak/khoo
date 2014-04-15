@@ -1,0 +1,16 @@
+The engine wet start was caused by a defective igniter plug which had malfunctioned during the engine starting sequence	, proper ignition did not occur and unburnt fuel pooled within the combustion chamber section
+the fuel control lever still	The captain 's decision to evacuate the aircraft was appropriate , given the untimely and inaccurate reports he received of an uncontained fire in the left engine
+the fire was isolated from the fire sensor system	There were no direct cockpit indications of engine fire
+the recorded FDR data did not show the characteristic and rapid decrease in fuel flow to the left engine normally seen when the fuel control lever was selected OFF	it is concluded that the fuel lever was not moved to the OFF position during the starting sequence
+his sequence of vital actions was momentarily interrupted by the request from the ground crew to set the brakes	the captain did not return the fuel control lever to OFF at the appropriate time ; it is likely , however ,
+ordering	an emergency evacuation of the aircraft
+the fire was contained within the combustion section of the engine , and was isolated from the fire sensor system	There were no direct cockpit indications of engine fire
+the fuel control lever still being ON	The amount of unburnt fuel introduced into the engine during the start was augmented
+incomplete slide packing procedures and by impact damage to the slide pack assembly	> / LI > The galley door escape slide had unknowingly been punctured prior to the incident
+a defective igniter plug which had malfunctioned during the engine starting sequence	start
+The igniter fired through the crack in the ceramic shield outside the combustion chamber itself , and ignited the pooled fuel	an internal engine fire
+The continued motoring of the engine by the captain with the fuel control lever ON augmented the volume of fuel pooling in the engine	any fire
+the second report was	current or accurate information
+a defective igniter plug	start
+the ignition of fuel	fire
+The captain 's decision to evacuate the aircraft was appropriate	the untimely and inaccurate reports he received of an uncontained fire in the left engine

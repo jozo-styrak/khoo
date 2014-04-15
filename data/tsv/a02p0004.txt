@@ -1,0 +1,10 @@
+an error in format and was not issued until after the loss of communication occurred	This NOTAM was delayed
+the delay in issuing the NOTAM	relevant information about the scheduled removal of the frequency was not entered into the controllers ' OIDS
+the frequency was removed from service	the warning systems worked correctly
+the controller had not provided alternate instructions	he had to rely on the aircrew to recognize that a communication failure had occurred
+the clearance to turn was not received , and as their aircraft approached the localizer	they were preparing to contact the controller and , if necessary , turn to establish their aircraft on the localizer
+such prior knowledge	warning about high terrain to the south of the localizer would have been dependent on the GPWS
+no stated requirement that the controller	alternate instructions
+However	their previous experience flying into Victoria
+their knowledge of the local terrain	a level of safety not present under other circumstances
+An active communication frequency was prematurely removed from service following a misunderstanding of a voice communication between technical staff	a loss of communications between the controller and WJA25

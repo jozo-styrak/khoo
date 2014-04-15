@@ -1,0 +1,43 @@
+
+
+Analysis
+
+
+The characteristics of the damage to the helicopter and the damage found to the trees and terrain, at and around the accident site, indicate that the helicopter was in a steep, left-bank, and slightly nose-down attitude as it passed through the trees and struck the terrain. Such an extreme attitude is not consistent with controlled flight and indicates that the pilot had lost control of the helicopter before impact with the trees.
+
+
+It is possible that the pilot encountered poor weather and lost visual reference to the ground. He did not have an instrument rating, and the helicopter was not equipped with an artificial horizon instrument or a stabilization system, greatly increasing the risk that the pilot would lose control of the helicopter if it entered cloud. Loss of control could also occur because the pilot, for unknown reasons, allowed the rotor rpm to decrease to the point where the helicopter could no longer be controlled. In either case, it is apparent that the helicopter was not high enough to allow control to be recovered before tree/ground impact.
+
+
+The litter and baggage doors were, in all likelihood, closed and presumably the lights were out during flight; however, the lights for the litter and baggage doors were illuminated at impact. It is probable that the doors moved enough during the initial impacts with the trees/ground to cause the switches to activate the lights. The generator fail warning light would have illuminated in flight had the generator failed; however, no anomaly with the generator was found. The generator light could also have illuminated had the generator ceased to operate because of low engine rpm (below about 40% Ng), or as a result of fuselage break-up at impact with the terrain. The cause of the illuminated generator warning light could not be determined. The transmission oil pressure light would illuminate if the main rotor rpm dropped below approximately 50%, as could be the case during the rotor impacts with the trees and the ground. The rotor low rpm light would illuminate because the rotor rpm dropped below 92%, either before or after the pilot lost control.
+
+
+It was determined that the engine was operating at low power during ground impact, as indicated by engine damage, the melted aluminum in the burner cans, and the engine-out light not being illuminated at the time of impact. The position of the fuel control pointer indicates that the engine was shut down at impact; however, it is probable that the pointer moved during ground impact and the break-up of the helicopter.
+
+
+The helicopter entered the trees with enough rotor/engine energy to cleanly cut through some fairly large-diameter trees; however, it cannot be stated with any certainty what the rotor rpm was at the time of the initial tree strikes. The damage to the rotor blades was consistent with high coning angle and high blade pitch angle at the time the damage was made. In level flight, these would be an indication of low rotor rpm; however, as the helicopter entered the trees at a bank angle of about 60 , the rotor blades contacting the ground immediately before impact would also result in coning and high blade pitch angle. Although no definite value of the rotor rpm could be ascertained, the transmission low oil pressure light being on indicates that the rotor rpm, at or immediately before impact, was likely below 50%. The tail rotor damage indicates that the tail rotor rpm was fairly low at ground contact, although there are indications that it was higher during initial contact with the trees.
+
+
+The permanent mounting position of the ELT on this helicopter exposed the unit to severe and unmitigated impact forces which rendered it ineffective. Had the ELT been mounted in an area which was less vulnerable to impact, it may have survived the accident and assisted the SAR efforts in locating the wreckage sooner.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot lost control of the helicopter for undetermined reasons, and it struck the ground.
+
+
+
+Findings as to Risk
+
+
+The mounting location of the emergency locator transmitter was vulnerable to impact damage, and, as a result, the external antenna adapter was sheared off at impact. The lack of an ELT signal prevented the SAR efforts from quickly detecting and locating the wreckage.
+
+
+
+Other Findings
+
+
+The degree to which weather conditions contributed to this occurrence could not be determined. The engine was found to have no mechanical defects and to operate normally, and it was operating at ground impact.
+

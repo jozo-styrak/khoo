@@ -1,0 +1,22 @@
+Also , Air Canada Jazz CRJ705 cockpit reference material did not include information on Vmd limitations	, the crew of JZA8105 was not aware that , unlike in the CRJ200 , long-range cruise speed in the CRJ705 could be less than Vmd at altitudes near the aircraft service ceiling
+Therefore , the crew of JZA8105 was not aware that , unlike in the CRJ200 , long-range cruise speed in the CRJ705 could be less than Vmd at altitudes near the aircraft service ceiling	, the decision to slow the aircraft to 0.70 M , which was below the Vmd of 0.75 M , while attempting to maintain a constant altitude , was not an appropriate course of action
+The flight crew of JZA8105 were not aware that , under their flight conditions , a low margin of power was available to sustain level flight at cruise altitude at a speed below Vmd	, the crew initiated an airspeed reduction to below Vmd , from which the aircraft was unable to accelerate without loss of altitude
+The captain was not well rested before the flight	of fatigue likely resulted in a degradation of his concentration and prolonged diversion of attention from monitoring of airspeed after power reduction
+The effects of fatigue likely resulted in a degradation of his concentration and prolonged diversion of attention from monitoring of airspeed after power reduction	The airspeed was allowed to fall below the targeted value
+occurrence	the
+the captain was alerted to the airspeed falling below the targeted 0.70 M	the viable speed - recovery options in order of effectiveness were to begin a descent , and to increase power
+he advanced the power levers	the engine power available at FL 400 was only slightly more than that required for cruise
+the captain selected the FCC vertical speed mode	decrease
+the crew introducing a pitch-up with a resultant increase in angle of attack and G loading	The second stick shaker event was likely
+fatigue	likely resulted in a degradation of his concentration and prolonged diversion of attention from monitoring of airspeed after power reduction
+the benefit of this training	the captain 's initial response for airspeed recovery was ineffective , which eventually resulted in stick shaker activation
+The Air Canada Jazz CRJ705 conversion training was	the Transport Canada OEBR , which outlined aircraft difference requirements for conversion training between the CL-65 variants
+decision	the aircraft 0.70
+the viable speed - recovery options in order of effectiveness were to begin a descent	power
+the autopilot	pitch
+The Air Canada Jazz CRJ705 conversion training	the Transport Canada evaluation of CL-65 variants in an Operational Evaluation Board Report -LRB- OEBR -RRB-
+The effects of fatigue	a degradation of his concentration and prolonged diversion of attention from monitoring of airspeed after power reduction
+a degradation of his concentration	diversion of attention from monitoring of airspeed
+The airspeed was	to fall below the targeted value
+Without the benefit of this training , the captain 's initial response for airspeed recovery was ineffective	stick shaker activation
+the resulting inaccuracy of time synchronization	the value of flight data recorder information

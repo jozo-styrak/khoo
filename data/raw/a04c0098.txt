@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+The most likely scenario, based on the damage to the aircraft and the bank and impact angles, is that the aircraft experienced an aerodynamic stall on final approach.
+
+
+The size of the open-water area and the weather conditions at Fawcett Lake would not have required the pilot to use a full-flap configuration, which is specified for use only in an emergency landing in a restricted area. However, the pilot selected FULL flap during the approach; the reason for the selection could not be determined. While the pilot was familiar with the aircraft type, training in this type of approach had not been conducted recently, nor was there any information found to show prior experience.
+
+
+During an approach with full flap, a steeper-than-normal nose-down attitude is required to maintain the required airspeed and, combined with engine power, the approach path. Any shallowing of the approach angle would bring the aircraft closer to the attitude that was normally seen by the pilot during the final stages of an approach without full flap. However, because of the drag at the full flap setting, there would be a more rapid reduction in airspeed than on a normal approach, unless significant engine power was added.
+
+
+The full nose-down position of the elevator trim, consistent with the aft C of G, indicates that the pilot may have been holding the elevator in position with forward pressure on the control yoke to maintain the desired approach path and airspeed. Any distraction could result in the pilot relaxing the pressure on the control yoke and would result in a shallowing of the approach angle. The heavy weight of the aircraft would increase the stall speed. The pilot, without training in approach and landing with full flap, may not have been aware of the nose-down pitch attitude necessary to maintain the approach airspeed and the requirement to maintain this pitch attitude until immediately prior to initiating the landing flare. The additional buffet from the full flaps may also have masked some of the aerodynamic stall characteristics. These factors may have contributed to the pilot not recognizing the impending aerodynamic stall. When the stall developed fully, the wing dropped violently at an altitude that was insufficient for the pilot to recover the aircraft.
+
+
+The ELT likely generated a signal; however, the signal would not have been transmitted because of the broken airframe antenna. The remaining antenna cable would provide a weak signal that would be attenuated further when the aircraft overturned and submerged. As well, the aircraft's immersion quickly rendered the ELT unserviceable.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 072/2004 - Instrument Analysis LP 097/2004 - Logbook Recover LP 106/2004 - Fuel Pump Examination LP 070/2004 - Examination of Wing Attachment Fittings
+
+
+These reports are available upon request from the TSB.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The pilot flew a high-drag approach configuration for which his proficiency was not established. The pilot most likely allowed the airspeed to decrease to the point that the aircraft stalled on approach at an altitude at which recovery was unlikely. The impact was non-survivable because of the high impact forces.
+
+
+
+Findings as to Risk
+
+
+The emergency locator transmitter (ELT) airframe antenna was broken off above the fuselage; however, the flight was within the 30-day period allowed by regulation for flight with an unserviceable ELT. The pilot did not secure the cargo prior to flight, which allowed the cargo to shift forward on impact. The weight and centre of gravity (C of G) were not indicated in the operational flight plan and load record, and the aircraft's weight and C of G could only be estimated.
+

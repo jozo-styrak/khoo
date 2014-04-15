@@ -1,0 +1,48 @@
+
+
+Analysis
+
+
+A nick or inclusion, in the radius of a lightening hole on the C-channel, was introduced at manufacture and compromised the structural integrity of the main rotor blade. This nick caused a stress riser and was the origin of a crack that propagated to the blade's lower skin, trailing edge, and onto the top skin perpendicular to the span of the blade, where the crack stopped near the blade spar. A recent inspection of the blade by company maintenance failed to detect any damage or crack; this suggests that crack propagation may develop rapidly and be difficult to detect.
+
+
+The blades were subjected to a variety of operations and a varying number of torque events that likely exceeded the estimated average number of high-stress manoeuvres in the flight spectrum determined by MDHI. Large differences in the count of torque events are likely because the type of operations affects the number of torque events and the recording of this number relies on pilots keeping an accurate count. Hence, MDHI rotor blades are subjected to a "fatigue factor" that may not be accurately tracked by operators.
+
+
+
+Analysis
+
+
+A nick or inclusion, in the radius of a lightening hole on the C-channel, was introduced at manufacture and compromised the structural integrity of the main rotor blade. This nick caused a stress riser and was the origin of a crack that propagated to the blade's lower skin, trailing edge, and onto the top skin perpendicular to the span of the blade, where the crack stopped near the blade spar. A recent inspection of the blade by company maintenance failed to detect any damage or crack; this suggests that crack propagation may develop rapidly and be difficult to detect.
+
+
+The blades were subjected to a variety of operations and a varying number of torque events that likely exceeded the estimated average number of high-stress manoeuvres in the flight spectrum determined by MDHI. Large differences in the count of torque events are likely because the type of operations affects the number of torque events and the recording of this number relies on pilots keeping an accurate count. Hence, MDHI rotor blades are subjected to a "fatigue factor" that may not be accurately tracked by operators.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The main-rotor blade failed because its structural integrity was compromised by a manufacturing defect at the edge of a lightening hole in the C-channel, internal to the blade, located about three inches inboard of the data plate. The defect at the lightening hole resulted in a fatigue crack that propagated to the lower skin, rearward to the trailing edge, and around to the top skin going forward in the direction of the blade spar.
+
+
+
+Findings as to Risk
+
+
+The type of operation widely affects the number of torque events, and the recording of this number relies on the pilot keeping an accurate count. Differences in this count are likely; hence, component fatigue is not accurately tracked. Compliance with service letters and service bulletins issued by the manufacturer is not mandatory. Therefore, some operators may not be accurately tracking the torque events encountered by the helicopter blades. The periodicity for the inspection of the main rotor blades may be inadequate and insufficient to find cracks that might occur before catastrophic failure. No finite torque event number is established for the main rotor blades.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The main-rotor blade failed because its structural integrity was compromised by a manufacturing defect at the edge of a lightening hole in the C-channel, internal to the blade, located about three inches inboard of the data plate. The defect at the lightening hole resulted in a fatigue crack that propagated to the lower skin, rearward to the trailing edge, and around to the top skin going forward in the direction of the blade spar.
+
+
+
+Findings as to Risk
+
+
+The type of operation widely affects the number of torque events, and the recording of this number relies on the pilot keeping an accurate count. Differences in this count are likely; hence, component fatigue is not accurately tracked. Compliance with service letters and service bulletins issued by the manufacturer is not mandatory. Therefore, some operators may not be accurately tracking the torque events encountered by the helicopter blades. The periodicity for the inspection of the main rotor blades may be inadequate and insufficient to find cracks that might occur before catastrophic failure. No finite torque event number is established for the main rotor blades.
+

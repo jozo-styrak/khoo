@@ -1,0 +1,25 @@
+cloud height is near VFR limits	the implication can be significant , whether VFR flight is permitted or not
+the crew of PCO909 been advised that the weather may have deteriorated to less than VFR minima	the crew could have formulated an alternate arrival plan , thereby avoiding the resulting conflict
+the actual flight path flown is not characteristic of the stated or implied procedure	ambiguity and confusion for other airport traffic result in conflict
+the crew of PCO909 found themselves facing deteriorating weather and traffic closing in on their position	the decision was made to abort their VFR arrival
+entering the Campbell River MF area under VFR while in instrument flight conditions	By continuing straight ahead or turning to the right , the flight crew would have been faced with weather conditions below VFR limits and a possible regulatory infraction
+the aircraft was equipped with TCAS and was being monitored	the crew continued with their approach
+making a left turn	the element of surprise and a TCAS RA resulted in GLR689 deviating slightly to the left and executing the missed approach procedure
+This	greater responsibility for traffic detection and spacing
+the Nav Canada FSS Manual of Operations , sections 411.9 and 411.10 , discusses the airport advisory service	specialists
+communications on the MF	the defence
+Timely and complete reports of position and intentions improve situational awareness for all concerned	the opportunity conflict detection and resolution
+Non-adherence to published circuit procedures have	midair collisions
+a heading perpendicular to the runway	a right-hand , 90-degree turn onto the final approach course
+ambiguity and confusion for other airport traffic	conflict
+the decision was	to abort their VFR arrival
+The crew of GLR689	their speed to remain behind PCO909
+the element of surprise and a TCAS RA	GLR689
+The reported 0800 weather conditions	visual flight rules -LRB- VFR -RRB-
+As PCO909 entered the control zone , the flight encountered weather conditions below VFR minima	the crew aborting the arrival
+it	a risk of collision with GLR689 , which was established on final approach
+A delayed and incomplete inbound report from PCO909 reduced situational awareness for all concerned and , thereby	the opportunity for conflict detection and resolution
+A delayed and incomplete inbound report from PCO909	situational awareness for all concerned and , thereby , reduced the opportunity for conflict detection and resolution
+ambiguity and confusion for other airport traffic	an increased risk of conflict
+Deviations from published procedures or stated intentions	ambiguity and confusion for other airport traffic and
+flight under instrument flight rules -LRB- IFR -RRB-	delays

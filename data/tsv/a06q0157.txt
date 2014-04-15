@@ -1,0 +1,17 @@
+Also , it is hard to easily catch the fuel drained from the gascolator to examine it	, the pilot drained the contents of the gascolator onto the ground without properly examining it
+With the exception of the right fuel filler cap chain being unhooked from the fuel filler cap , the two fuel filler caps showed no defects related to their seals	possible that water entered via an improperly secured fuel filler cap when it rained or that water formed by condensation
+The aircraft was not on level ground when the draining was done before the flight	, the water in the fuel tank was lower than the drain valve and could not be removed with the pipette
+The inspections done by the approved maintenance organization and the pilot did not find that the fuel filler cap chain for the right fuel tank was missing	, the chain was exposed to the water in the bottom of the tank , and the fuel was contaminated by corrosion from the chain hooks
+The Canadian Aviation Regulations do not require aircraft owners to comply with service bulletins	, service bulletin SEB 92-26 was not completed on C-FFRV
+the left tank fuel quantity indicator was defective	the pilot visually checked the fuel quantity in both tanks , and estimated that there was sufficient fuel for the flight planned
+the water was lower than the drain point	Since the aircraft had a right bank angle , it was impossible for the pilot to drain the water accumulated in the right fuel tank
+a level	it is hard to verify visually the aircraft bank angle
+the aircraft was parked in the same place with a right bank angle most of the time	the quantity of water in the right fuel tank was undetectable
+About 15 minutes after take-off , while the aircraft was in cruise flight , in a left turn , the water in the right tank shifted and entered the engine fuel supply system	the engine to stop
+conditions were	water condensation
+a small quantity of residual water that was not drained from the fuel tanks	its way from the right fuel tank the gascolator bowl in flight
+The accumulated quantity of water that migrated during the occurrence flight saturated the gascolator bowl	the engine to stop
+the additional drain valves as specified in service bulletin SEB 92-26	the water accumulated in the right fuel tank to be drained properly
+it	the engine to stop
+the location of the gascolator drain valve	it hard to collect fuel for visual examination before flight
+This upgrade	it possible to properly drain the water that had accumulated in the right fuel tank before the flight

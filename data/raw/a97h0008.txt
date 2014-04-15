@@ -1,0 +1,23 @@
+
+
+Analysis
+
+
+The separation of the centerline gear on take-off was the result of a combination of an over-pressure condition in the strut and a gland nut that was weakened by a manufacturing defect.
+
+
+When the aircraft was serviced in Vancouver, nine days prior to the accident, the maintenance crew followed the procedures depicted on the instruction plate on the gear leg. The information on the plate was exemplified in such a way as to invite a reversal in the order of charging for the system. Reversing the order results in an overcharged gear strut. Once the initial charging procedures were completed, there was little possibility that an overcharge would be discovered during routine monitoring inspections as the Daily Gas Pressure Monitoring check only insured that the gear strut pressures were above minimum values. There was nothing in the check to alert ground maintenance workers to an overcharged condition that was still well below the red line on the gauge.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 136/97 FDR/CVR Analysis LP 141/97 Gland Nut Examination LP 142/97 Centerline Landing Gear
+
+
+
+Findings
+
+
+The shock strut assembly of the centerline landing gear had a Stage 1 static pressure that was considerably higher than it should have been. The placarded instructions for servicing the gear's shock strut were exemplified in such a way as to invite a reversal in the order of charging of its low-and high-pressure stages. A reversal in the order of charging of the shock strut stages results in a very stiff, overcharged condition for the gear. Instructions for recharging of the centerline gear in the aircraft maintenance manual (AMM) at TASK 12-14-32-614-806 dated Jul 01/97 need clarification. The Daily Gas Pressure Monitoring check was unlikely to alert service technicians to an overcharged condition. The strength of the gland nut was reduced as a result of a manufacturing defect.
+

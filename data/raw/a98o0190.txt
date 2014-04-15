@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+Based on the wind information obtained, it is likely that the wind at Espanola was from 270 to 300 degrees at 10 to 15 knots with gusts. As the runway take-off direction was 283 degrees, it is unlikely that the aircraft was greatly affected by the wind conditions and the local topography, except that a headwind would have increased aircraft take-off performance.
+
+
+Based on the three excursions down the runway, witness description of the engine noise, and the examination of the engine, it was concluded that the engine was producing the required power. A complete examination of the aircraft was not possible because of the substantial fire damage. However, there was nothing found to indicate that there was any aircraft structural failure or system malfunction before the crash.
+
+
+The aircraft was at or near the maximum allowable weight and would, therefore, require the maximum calculated take-off distance and possibly more. The runway surface conditions and the fully extended flaps further increased the take-off distance and the distance required to climb to an altitude to safely pass over the trees. It is possible that the first excursion down the runway may have been made by the pilot in an attempt to establish runway surface conditions and that the second and third excursions were take-off attempts. Based on witness accounts and the fact that a pilot would normally change some parameter of the aircraft configuration after experiencing a failed take-off attempt, if the first excursion down the runway was a take-off attempt, it is probable that the first attempt was conducted without any flaps extended and the second attempt with the flaps extended to 25 degrees, the manufacturer's recommended flap extension for a soft-field take-off. It was concluded that the flaps were set at 40 degrees during the last take-off attempt because of the manner in which the flaps are operated and the lever locked in position. Take-offs with flaps extended fully are not a recommended practice, but the aircraft did become airborne. However, with the flaps fully extended, the high drag resulted in a loss of climb performance, which made it impossible for the aircraft to climb fast enough to clear the trees off the end of the runway. In an attempt to clear the trees, the pilot probably raised the nose of the aircraft, but because of the low speed and high drag, the aircraft stalled.
+
+
+Corrections can be made to published take-off distance estimates using published information; however, there is no manufacturer's published take-off/performance information available for the conditions of the occurrence flight. It is not possible, therefore, to estimate the take-off run required or the distance required to reach 50 feet above ground at the end of the runway for an aircraft above the maximum certificated take-off weight with full flaps extended. The distance to clear a 50-foot obstacle at the end of the runway would undoubtedly be more than with the flaps set to 25 degrees.
+
+
+The impact was survivable, most probably because the impacts with the trees and the angles at which they were struck absorbed most of the aircraft's momentum and because the passengers were wearing their restraints; however, the fire that followed the impact led to the fatalities. The likely source for the fire would have been an electrical short in the area of the battery causing arcing in the presence of gasoline vapours from the ruptured fuel system.
+
+
+
+Findings
+
+
+Records show that the aircraft was maintained in accordance with existing regulations. There was no indication of any pre-impact damage to the engine which would have prevented it from developing rated power. There was no indication of malfunction or component failure of the aircraft that would contribute to the accident. Records show that the pilot was licenced and certified to conduct the flight. There was no indication that incapacitation or physiological factors affected the pilot's performance. The estimated weight of the aircraft at take-off was at or near the maximum allowable gross take-off weight. It is possible that the pilot may have made the first excursion down the runway in an attempt to establish the runway surface conditions and that the second and third excursions were take-off attempts. The occurrence take-off was conducted with full flaps extended. A combination of the runway surface condition, aircraft weight, and pilot take-off technique, in that he used full flaps, combined to extend the distance required to pass safely over obstacles in the departure path after take-off. Based on the wind direction, runway orientation , and the local topography, it is unlikely that the aircraft encountered adverse wind conditions on take-off. The aircraft struck trees in its departure path. An intense, fuel-fed fire erupted at or immediately after impact, before the occupants exited the aircraft.
+

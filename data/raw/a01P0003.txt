@@ -1,0 +1,49 @@
+
+
+Analysis
+
+
+Information received about three years after the accident revealed that the Oilite bushings supplied by Sikorsky were not manufactured properly. The bushings had areas of large pores and incomplete sintering. These Oilite bushings were subject to premature wear and damage from normal use. This created instability of the rollers because the roller retainer rests on the Oilite bushings. The instability, increased pinch angle of the rollers and cams (caused by dents in the cams), and bronze contamination caused the rollers to slip or spit out, disengaging one of the IFWUs. Because the other IFWU was also worn and contaminated, it failed within a very short time of the initial IFWU failure, and total drive to the main rotor was lost. (When one IFWU disengages, all power demanded by the rotor system is transmitted to the remaining IFWU, increasing the likelihood that the remaining IFWU will quickly fail.) When the load of driving the main rotor was lost, the engines oversped and shut down. Rotor rpm decayed, and control was lost.
+
+
+Loss of drive from both engines, while a helicopter is climbing at a high rate (high pitch angle on the blades), contributes to rapid rotor rpm decay. Despite the reduction of collective to flat pitch, decay will not stop while the helicopter continues to climb. The main-rotor system does not enter an auto-rotative state until the relative air flow through the rotor system changes. As rotor rpm decays, the time and altitude required to regain rpm and generate lift increases. The Sikorsky S-61N flight manual does not contain warnings or limitations concerning the effects of rate of climb when total power loss is experienced.
+
+
+The spiral bevel pinion and the main spiral bevel gears demonstrated wear patterns consistent with improper alignment. In addition, there was a difference of 0.029 inch in the measurements of surfaces between the No. 4 bearing inner race and the fixture at the time of overhaul build-up. It is therefore concluded that these gears were misaligned during the build-up at the time of the last main-rotor transmission overhaul. This would have substantial effect on gear operation and could cause torsional oscillations or torsional vibrations. Gear tooth wear measured during the teardown inspection was not sufficient to account for the change in backlash at overhaul and during the teardown inspection. Gear tooth wear and changes in measurements of the surfaces between the No. 4 bearing inner race and the fixture indicate that there was movement of the No. 3 and No. 4 bearings, the spiral bevel pinion, and the main spiral bevel gears since the time of the overhaul.
+
+
+Fretting under the No. 3 and No. 4 bearing inner races on the input pinion and on the aluminum pilot liner around the No. 4 bearing, along with the loose dowel pins, is indicative of an abnormally high level of vibrations in the transmissions during their operation leading up to the accident. The only anomalies identified during the teardown that could cause such vibrations were the misalignment and subsequent movement of the Nos. 3 and 4 bearings, the spiral bevel pinion, and the main spiral bevel gears. It is therefore likely that vibrations and high forces initiated movement of the misaligned components and that movement caused the backlash to be extremely out of its specifications. This would then increase vibrations and movement of the casting as the dowel pins became loose. It was not determined why the spiral bevel pinion and the main spiral bevel gears had reduced wear on every fifth tooth. Torsional vibrations may be a possible explanation for the appearance of a cyclic wear pattern on the bevel gear teeth. Gear tooth profiles were precision charted and found to be above standard.
+
+
+Since there were no indications of vibrations affecting the IFWUs during the first 500 hours, it is likely that vibrations, shown by signatures seen in other parts of the transmission, did not affect the IFWUs.
+
+
+While metal particles were found during a teardown inspection of the main-rotor transmission, the chip detectors were not activated. This was attributed to oil flow characteristics of the transmission.
+
+
+The seat and restraint system of the pilot not flying broke free from its mountings, likely because impact forces exceeded the design criteria of the seat.
+
+
+Because neither engine was able to produce the maximum 123 per cent torque for the IFWUs, it was not likely that overtorques/loading of the IFWUs caused a failure.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+An Oilite bushing broke down because it was manufactured with large pores and incomplete sintering. This created instability of the rollers because the roller retainer rests on the Oilite bushings. The instability, increased pinch angle, and bronze contamination most likely caused the rollers to slip or spit out, disengaging the input freewheel unit (IFWU). When the first IFWU disengaged, all power demanded by the rotor system was transmitted to the remaining IFWU, which was worn and contaminated, causing it to fail within a very short time of the first failure, and total drive to the main rotor was lost, leading to the loss of control of the helicopter.
+
+
+
+Findings as to Risk
+
+
+There is no limitation on the size of pores permitted in the original equipment manufacturer's specifications for the material used to make the Oilite bushings nor is there any requirement that the material be completely sintered. The spiral bevel pinion and the main spiral bevel gears were misaligned during build-up at the time of the last main-rotor transmission overhaul and moved during operation, likely causing an abnormally high level of vibrations. No upper or lower thickness limitations were specified in either the Sikorsky or the overhaul facility transmission build-up procedures for the shim between the input and lower housings. There was also no requirement to carry out a gear pattern check. Metal particles were found during the teardown inspection of the main-rotor transmission; however, chip detectors were not activated. This was attributed to oil flow characteristics of the transmission. The pilot not flying was not wearing protective headgear. The manual governing overhaul procedures for main-rotor transmissions in Sikorsky S-61 helicopters does not incorporate multiple measurements and maximum differential between measurements from the datum fixture and the No. 4 bearing inner race. The manual does not prescribe that a gear pattern check be carried out at transmission build-up.
+
+
+
+Other Findings
+
+
+Neither engine was able to produce the maximum 123 per cent torque for the IFWUs. It was not likely that over torques/loading of the IFWUs caused a failure. Sikorsky S-61 flight manuals do not incorporate information concerning flight regimes (rate of climb) where control is compromised when there is a total loss of power or drive to the rotor system.
+

@@ -1,0 +1,65 @@
+
+
+Analysis
+
+
+
+Securing Hardware
+
+
+The bolt and associated hardware securing the push/pull actuating arm to the rudder trim tab horn was missing after the occurrence. There are several possibilities as to why the bolt failed to remain secure. Possibilities are - it was not there on take-off, it fell out at some point, or it broke during flight. The first hypothesis is not likely, as the crew would have noticed this during pre-flight inspections or in flight prior to the occurrence.
+
+
+In order for the bolt to fall out during flight the cotter pin would have to either been missing prior to or broken during the flight, the nut would have to back off and the bolt would have to move upwards against gravity. The cotter pin was present during the previous free play check and, as there is no force on the pin, it is unlikely that it would subsequently break. Installations of this assembly were inspected on the operator's other King Air aircraft and it was noted that the bolt threads were painted. This would decrease the likelihood of the nut backing off even if the cotter pin were missing. Furthermore, the bolt is held in place by a bushing in the trim tab horn. The fit between the bushing and the bolt is quite tight. This ensures that the rudder trim will pass the free play check which demands a tolerance of only 0.021 inches.
+
+
+The third hypothesis, that the bolt broke in flight, is the most likely scenario. The fracture would not have been due to overload stresses because there was no evidence of deformation on the clevis or trim tab horn. However if there were cyclic loads of sufficient magnitude present, the bolt could have failed in fatigue without damaging the surrounding components.
+
+
+As the shank of the AN173-5 bolt does not extend all the way through the lower arm of the clevis, a fatigue crack could have developed at the threads due to a stress concentration as a result of the shear load. The shank of the bolt, however, is thicker than the threads and therefore prevents them from coming in contact with the clevis and bearing any load.
+
+
+The bolt may have been manufactured from sub-standard material or not been an aircraft quality part. As the bolt was not recovered, it was not possible to examine it. Several samples of attaching hardware from the parts bin in the operator's supply section (bolts, washers, castellated nuts and cotter pins) were examined to confirm conformance with respective specifications. Most met the specifications, however, one was found to be non-conforming and many showed evidence of previous use notwithstanding the operator's policy that only new parts are used when assemblies like this are replaced. It is possible, that a sub-standard part either similar in appearance to the correct part or purposely manufactured to a lower standard and supplied as an aircraft quality part, was mistakenly installed after the aircraft was painted by the operator two years previously.
+
+
+The bushing was recovered from the aircraft by pressing it out of the horn. It was compared to another bushing from the operator's supply section. The original was 0.002 inches in diameter smaller and had a rougher finish than the new bushing. It was noted that it was difficult to insert an AN173 diameter bolt into it. The normal practice when completing this assembly is to try several bolts in the fitting and use the one that gives the tightest fit. Given the close tolerances required for this fitting and a bushing that had a slightly smaller inside diameter, the possibility exists that a technician might have used a non-conforming bolt in this installation if it resulted in the tightest fit.
+
+
+In summary the attaching hardware securing the rudder trim tab to the actuator did not remain secure. The reasons for this could not be conclusively determined.
+
+
+
+
+Vibration and Loss of Control
+
+
+The initial indication of difficulty during this occurrence was a slight vibration and an uncommanded turn to the right. The vibration may have been a result of a trim tab "buzz" due to play in the tab. The amount of free play allowable in this mechanism is quite small (0.021 inches). As a result any wear on the bolt would have a significant impact. If wear on the bolt progressed sufficiently to allow vibrations or "buzz" to commence, the bolt could fail quickly. Fatigue fractures of aircraft bolts have been known to occur in cyclic load situations in a matter of hours after installation(2). The turn to the right could have resulted from a slight rudder trim tab displacement as the bolt was wearing and the fitting was becoming looser.
+
+
+The second event that occurred was a severe vibration and loss of control. Examination of the rudder trim system determined that when disconnected, the push/pull actuating rod is free to rotate and/or move slightly in the vertical or horizontal plane. If the push/pull actuating rod moved slightly up or down the trim tab would be completely free to move. As a result there is a possibility that tab flutter could occur at airspeeds well below Vne. If this occurred the result would be large oscillatory displacement of the rudder. According to the AGARD aerodynamics textbook "a number of accidents and near accidents have occurred from flight failures in control linkages of tab systems."(3) The large control deflections and loss of control experienced by the flight crew could have resulted from rudder tab flutter. The source of excitation, which started the flutter condition, is unknown but a change in airspeed, altitude and/or aircraft attitude probably was the cause of the severe vibrations stopping. Fortunately, the flight conditions that initiated the rudder tab flutter were not present for the remainder of the flight.
+
+
+When the crew finally regained control of the aircraft they noted that 2/3 rudder was required to maintain co-ordinated flight. If the push/pull actuating rod moves slightly up or down and inward toward the aircraft body, the arms of the clevis can end-butt against the horn (see Figure 2) and force the tab to the left. If this occurred, the rudder would be displaced to the right requiring left rudder input to maintain co-ordinated flight. Tests on another King Air showed that when the rod is in this position the trim tab would be displaced approximately half its maximum deflection if the trim tab control started in the neutral position. The air stream would be sufficient to hold the tab horn firmly against the clevis unless another buzz was introduced. These tests also showed that this was a fairly stable position for the clevis that would not shift with control inputs or minor vibration.
+
+
+
+
+Illustrated Parts Catalogue
+
+
+The description of the attaching hardware for the rudder trim tab actuator in the IPC for the King Air 90 is confusing when compared to the IPC for the King Air 100. In the former the length of the bolt (IPC Fig. 54, page 3, part 54-42) is not defined (i.e. should be AN173-5 or -6) and, immediately following this entry, the IPC lists two castellated nuts and two cotter pins which appear to be part of this assembly. The extra nut and pin are actually used to secure the bolt (part 54-40) that attaches the front of the actuator to the aircraft. As well, the build-up description does not call for any washers, which are necessary to ensure the hole for the cotter pin in the bolt is within the indentations of the nut to allow the pin to seat properly. The IPC for the King Air 100, on the other hand, lists these parts in a more logical manner with each assembly (bolt and securing hardware) listed separately. Beechcraft acknowledged this inconsistency and is amending the IPC to correct this deficiency. Standard industry practices, as used by the aircraft operator's technicians, would call for the use of washers in the attachment for the King Air 90.
+
+
+The Canadian Air Regulations (CAR) prohibit the substitution of parts listed in the manufacturers IPC unless accompanied by approved data acceptable to the Minister(4). A technician referring to the IPC for guidance on how to attach the rudder trim tab actuating arm to the horn would be faced with an obvious error in the parts list. According to the CARs, an operator faced with this dilemma must identify the problem to the manufacturer and then wait for him to amend the IPC or issue data acceptable to the Minister to substitute the specified parts for a more logical assembly. This delay could result in an unacceptable grounding of an otherwise serviceable aircraft. Previously an operator could refer to a substitution guide or similar document and install an equivalent part identified therein in cases such as this. With the onset of the CARs, this is no longer possible.
+
+
+Before the enactment of the CARs the operator handled this discrepancy by either referring to the IPC description in the King Air 100 manual for guidance on how to complete this assembly or using the identical build-up that had previously been installed.
+
+
+
+
+Findings
+
+
+The attaching hardware securing the rudder trim tab to the actuator did not remain secure. The reasons for this could not be conclusively determined. Tests of a sampling of attaching hardware from the operator's supply system revealed one bolt which did not conform to the AN173 specifications and several that showed evidence of prior usage. A minor vibration and uncommanded right turn developed, which the crew was able to control. Later a severe vibration developed, which resulted in the crew losing control of the aircraft, but the vibration stopped when the parameters that sustained it changed as the aircraft descended. Left rudder was then required to maintain co-ordinated flight. The King Air 90 IPC does not identify the length of the bolt to use to connect the actuator to the horn. As well the description of the assembly is confusing and not consistent with how the King Air 100 IPC describes the assembly. The assembly normally used was an AN173-5 bolt, two washers, an AN320-3 castellated nut and a cotter pin. The Canadian Aviation Regulations do not permit the substitution of parts listed in the manufacturer's IPC unless accompanied by approved data acceptable to the Minister of Transport.
+

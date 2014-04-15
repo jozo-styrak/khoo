@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+The probability of a mid-air collision in a given airspace is predicated, in part, on the number of aircraft operating in that airspace. The area immediately east of the Gagetown restricted area CYR 724 possesses two characteristics which attracts IFR and VFR traffic. On the one hand, aircraft operating IFR between Saint John and Fredericton are obliged to fly along the V310 airway and, pilots operating VFR between these two points are naturally inclined to follow the Saint John river. Given this concentration of civilian aviation traffic along this corridor, the use of IP Delta as a holding point for the T-33 military aircraft exposed military aircraft holding in this corridor to an increased potential for a mid-air or near mid-air collision with the civilian traffic. The informal practice of IFR traffic using the river as a "visual, around the camp" route further increased the volume of traffic over and near IP Delta.
+
+
+The crew of the Jetstream sighted the T-33 during the final seconds of their approach while the pilot of the T-33 aircraft sighted the Jetstream after the near collision event had occurred. This occurrence illustrates the limitations of the see-and-avoid concept in a number of ways.
+
+
+The Jetstream crew were alerted to the military traffic by the ATS controller and by their TCAS equipment. They were actively looking for the military jet traffic, but, despite their highly motivated efforts to sight the traffic, the crew were unsuccessful in seeing the T-33 until the very final seconds.
+
+
+When first advised of the T-33's presence, the Jetstream crew were overtaking the T-33 and were above and six miles behind it. The T-33 would have been below the horizon, and its low contrast paint scheme and relatively small size when viewed from this distance and against the surrounding terrain would have rendered the aircraft virtually impossible to detect. When advised that the T-33 was at five miles and had turned toward them, still below their altitude, the Jetstream crew's problem in detecting the T-33 was further compounded by a reduction in its profile which was now being viewed head-on and by the target now remaining more or less stationary in their field of view due to its collision trajectory. The closing speed of 400 knots limited significantly the time available for detection.
+
+
+When advised that the T-33 was at 4500 feet and three miles climbing directly toward them (this information was also displayed on their TCAS), the crew unknowingly exacerbated the situation by commencing a shallow descent toward the target. This descent was not initiated consciously and was likely due to the crew focusing their attention toward locating the target, with a resulting lapse in the maintenance of altitude control.
+
+
+The T-33 pilot, on the other hand, was contending with his own set of problems. The aircraft was equipped with only one UHF radio, and operational requirements dictated that the pilot monitor the forward air controller's frequency. The pilot, therefore, was unable to advise any ATC agency of his intentions nor was he able to be informed of the presence of the Jetstream. Moreover, the T-33 was not equipped with TCAS equipment which could have alerted the pilot of an aircraft approaching on a collision course. As a result, the pilot was required to scan his entire visual field rather than concentrate his scan in the direction of the approaching Jetstream.
+
+
+When the T-33 initially entered the holding pattern, it was being overtaken directly from above and behind by the Jetstream, where it would not have been visible to the T-33 pilot. When the T-33 pilot entered his turn to the south-east, in a direction directly toward the Jetstream, the aircraft were approximately five miles apart. At that distance, the Jetstream would have presented a relatively small visual target, and its blue and grey colour scheme would have blended in with its background when viewed against the existing high cloud cover.
+
+
+
+Findings
+
+
+The two aircraft came close to colliding after approaching each other at a closing speed of approximately 400 knots. The crew of the Jetstream sighted the T-33 during the final seconds of their approach, while the pilot of the T-33 sighted the Jetstream after the near collision event had occurred. The risk of collision occurred over a military visual holding point established within the confines of airway V310 and along a known VFR route. The Jetstream crew was flying an informal "visual, around the camp" IFR procedure. The T-33 was not equipped with onboard radio (VHF) or electronic equipment (TCAS) to alert the pilot to the presence of other aircraft. The T-33's camouflage grey paint scheme blended in with the surrounding terrain. The relatively small profiles of both aircraft when viewed head on made it difficult for the crews involved to visually detect either aircraft. The high closure rate provided little time for the crews to detect the approaching aircraft.
+

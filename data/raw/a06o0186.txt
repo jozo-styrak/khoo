@@ -1,0 +1,45 @@
+
+
+Analysis
+
+
+There was no indication that environmental conditions or a mechanical failure were factors in this accident. Taking into account the distance used for the before-take-off checks, the distance available to clear the trees was considerably in excess of that predicted by the floatplane supplement for take-off and obstacle clearance. Therefore, the investigation focused on performance of the aircraft and pilot technique.
+
+
+When the propeller and floats were installed, neither of the supplemental type certificates (STCs) contained information that indicated a performance penalty. Each had a standard disclaimer that if other modifications were already incorporated, the installer should determine that the interrelationship between the new modification and existing modifications would introduce no adverse effect on the airworthiness of the aircraft. There was no physical incompatibility between the STCs and neither indicated any operating or performance limitations. The investigation concluded that the combination of the two STCs was not a significant factor in this accident. Rather, the absence of information regarding the degradation of take-off performance for the model 180H floatplane incorporating a three-blade propeller, in accordance with STC SA00852AT, resulted in both the installer of the STC and the aircraft owner being unaware that installation of the three blade propeller would result in a reduction of take-off capability.
+
+
+Poorer than expected performance had been noted by the owner after the three-blade propeller was installed and the aircraft was changed from wheel to float configuration. The only propeller approved by Cessna for the floatplane is the 88-inch, two-blade propeller. This is not readily apparent in the floatplane supplement where the 88-inch propeller is mentioned only in the performance specification table inside the cover. Also, the floatplane supplement contains no limitations as to minimum propeller diameter and the aircraft type certificate data sheet (TCDS) does not distinguish between propellers approved for land and float configurations.
+
+
+The STC was approved on the basis of equivalency between the three-blade, 78-inch propeller and the two-blade, 82-inch propeller which was the basis for certification of the 180H landplane. The three-blade, 78-inch propeller would not provide performance equivalent to the two-blade, 88-inch propeller that was the basis for the floatplane version; therefore, a floatplane equipped with the three-blade, 78-inch propeller could not achieve the performance specifications depicted in the Cessna floatplane supplement. This was not appreciated either by the Federal Aviation Administration (FAA) or by Bonaire Aviation Company, the original STC applicant. As a result, the STC was approved for land and floatplane configurations of the Cessna 180 without indicating that there was a performance penalty associated with the floatplane configuration.
+
+
+The investigation also noted that the Canadian Aircraft Products (CAP) series 3000D float STC, in its performance statement for the Cessna 180, referred to a slightly different model of Edo float than the model that was the basis for the performance charts in the Cessna owner's manual supplement for the floatplane. It also allowed for operation at a higher gross weight than was provided for by the Cessna performance charts for the equivalent float. It was not possible to trace the supporting material for approval of this STC, therefore it could not be determined what performance testing had actually been conducted for the CAP series 3000D floats at the higher gross weight. The STC does not provide performance charts for operation at higher gross weights than those published for the floats that they replace.
+
+
+The owner devised a work-around for the performance degradation by mentally acknowledging an equivalent weight penalty and adopting the non-standard procedure of raising the flaps to 10 as soon as airborne to facilitate acceleration and climb. This information was not passed on to the pilot prior to the accident flight.
+
+
+The pilot, unaware of the idiosyncrasies of N720CS, relied on his previous experience and that of the previous day's check flight to make judgments during the take-off that led to the accident. The owner, who was sitting in the back seat, could not adequately monitor the take-off and provide appropriate advice to the pilot. By the time the gravity of the situation was recognized, the aircraft was too close to the shoreline and could not avoid hitting the trees.
+
+
+A contributing factor to the accident was that the pilot did not use the full length of the lake for the take-off. Based on previous experience, a take-off could be safely conducted in the length of run available on the lake. When the expected performance was not achieved, the reduced length shortened the time available to recognize the situation and respond accordingly.
+
+
+The pilot's decision to lower full flap while maintaining full power after initial contact with the tops of trees was intended to reduce the severity of the impact. However, full-flap stall speed is not significantly less than that at 20 flap. Full flap results in a lower nose attitude at the stall and it causes a nose-down trim change, which may have an effect opposite to the pilot's intent. In addition, the drag increase with full flap exacerbates the aircraft performance degradation and eliminates any possibility of recovery. The high power setting of the aircraft on contact with the trees increased the risk of damage and post-impact fire.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+In approving the supplemental type certificate for the three-blade propeller, the Federal Aviation Administration did not recognize that the performance analysis provided by the applicant was not valid for the floatplane version or that there would be an associated performance reduction. As a result of the performance reduction, the aircraft could not achieve the published take-off and climb performance specifications; this contributed to its inability to clear the obstacles at the end of the lake. The pilot was not familiar with the take-off procedure developed by the owner of the aircraft to compensate for the performance degradation. During the take-off, the owner occupied a rear seat where he could not adequately monitor the take-off and provide appropriate advice to the pilot. The pilot did not use the full length of the lake for take-off, reducing the time available to assess the aircraft's performance and limiting the options available when the expected performance was not achieved.
+
+
+
+Findings as to Risk
+
+
+Maintaining full power after the aircraft was committed to descending into the trees increased the risk of damage and post-impact fire. The type certificate data sheet for the Cessna 180 indicates that a wide variety of propellers may be installed on the Cessna 180 but does not define which propellers are approved only for the landplane and therefore are not suitable for the floatplane. As a result, maintenance organizations and aircraft owners may unknowingly install propellers that do not satisfy the airworthiness standards for the aircraft. The 1969 Cessna 180 floatplane, amphibian, and skiplane owner's manual supplement does not indicate either in the limitations section or the required equipment section that the airworthiness standards for the aircraft require that an 88-inch propeller be installed. As a result, pilots and operators will be unaware that shorter-diameter propellers are not approved for use on the floatplane version of the aircraft. Supplemental type certificate SA1749WE, for the installation of Canadian Aircraft Products series 3000D floats, approves the floats for operation at higher gross weight than the floats they replace, but does not provide performance operating data at the higher gross weight.
+

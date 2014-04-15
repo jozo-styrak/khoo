@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+The failure of the fuel control unit ratio lever cover screw during normal engine operation would have resulted in a sudden spray of fuel into the engine compartment, producing a strong jet fuel smell in the cockpit through the cabin heater ducts. Although the fuel leakage may not have been sufficient to result in an engine flame-out, it would have decreased power output below that required to sustain flight. It is probable, based on the smell of fuel and the decrease in power, that the pilot would carry out an immediate autorotational landing. Because the area being overflown was cluttered with vehicles, trailers, and dugouts, the pilot would have attempted to stretch the autorotational glide to a clear area. Stretching the glide, with the helicopter at low altitude and relatively low airspeed, would have resulted in a loss of main-rotor rpm. This is consistent with the low-energy signatures found at the impact site. The cause of the reported sound of the engine accelerating just before impact could not be determined.
+
+
+The pilot's deceleration injuries are the likely result of his being thrown forward in his seat when the helicopter struck the fence during the landing. Helmets have been found effective in improving tolerability to deceleration injuries that can temporarily immobilize an individual, thus reducing his chances of survival by subjecting him to post-crash hazards.
+
+
+The following TSB Engineering Laboratory Reports were completed:
+
+
+LP 63/00__Main Rotor Transmission Drive Shaft, and LP 72/00__Fuel Control Unit Screw Head Separation.
+
+
+These reports are available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+A screw on the engine fuel control unit failed, resulting in fuel leakage and a decrease in engine power below that required to sustain flight. The screw did not conform to the manufacturer's drawing or heat treatment specifications and failed because of hydrogen embrittlement cracking. While the pilot attempted to autorotate the helicopter to a suitable landing area, the main-rotor rpm decayed, and the helicopter struck a steel pipe fence.
+
+
+
+Findings as to Risk
+
+
+The failed screw in the fuel control unit was an unapproved part. The pilot was not wearing a helmet.
+

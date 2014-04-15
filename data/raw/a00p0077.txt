@@ -1,0 +1,24 @@
+
+
+Analysis
+
+
+Since there was heat distortion of the gears and no remnant of oil in the tail-rotor gearbox, it is concluded that no oil was in the gearbox when the helicopter started operating on the morning of the accident. It is also concluded that, since the lack of oil was not detected prior to flight, the apprentice AME, the AME, the student, and the instructor did not check the oil level or erred in reading the sight gauge. As indicated earlier, it is sometimes difficult to tell whether there is oil behind the window.
+
+
+It is likely that the pilot lowered the nose to increase airspeed in an attempt to arrest the rotation by making the vertical stabilizer/fin more effective. If that is the case, the technique was not effective, probably because of the helicopter's relatively small vertical stabilizer/fin. Given the continued rotation, it is likely that the pilot's control inputs became out-of-phase with the helicopter's movements, and attitude control was lost.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Maintenance was conducted (100-hour inspection) on the helicopter just before the accident flight and oil was removed from the tail-rotor gearbox. The oil was not replaced; however, the inspection was signed as having been completed. The apprentice AME, the AME, the student pilot, and the instructor pilot did not detect the lack of oil in the tail-rotor gearbox prior to the flight. Due to the lack of oil, the gears in the tail-rotor gearbox overheated, smeared, and disengaged, and tail-rotor thrust and yaw control were lost. When yaw control was lost, the helicopter began to spin to the right, and the pilot did not immediately execute an autorotative descent. The pilot was unable to stop the helicopter from rotating and subsequently lost total control.
+
+
+
+Other Findings
+
+
+The pilots were certificated by Transport Canada (TC) for the flight, and the AME was certificated by TC to conduct maintenance on the helicopter. The helicopter was being operated within the limitations prescribed in the flight manual.
+

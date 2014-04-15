@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The aircraft was maintained in accordance with existing regulations, and there were no defects reported before the occurrence flight. The pilot was certified and experienced for the flight. It was determined that at least 17 of the third-stage compressor wheel blades had progressive cracks. One of these cracks progressed to a point where the blade failed under normal operating loads. The damage to the fourth-stage compressor wheel was consistent with overstress damage caused by the liberation of the third-stage compressor blades. Therefore, this analysis will focus on the failure of the third-stage compressor wheel and the subsequent hard landing and rollover.
+
+
+Although the third-stage compressor wheel was original to the engine, it was well within the total life time limits of hours and cycles, and the overhaul was done within the prescribed time frame. During the last overhaul of the third-stage compressor wheel, there were no noted discrepancies or defects. The 17 compressor blades that failed due to a progressive type of failure were covered in oxidation from the post-crash fire; therefore, a propagation rate could not be determined. However, if the fatigue cracks were present during the last overhaul, it would be reasonable to assume that they would have been noticed during the FPI of the third-stage wheel. Therefore, it is likely that the progressive failure developed at some point after the last overhaul.
+
+
+Metallurgical examination could not determine the initiating event that led to the progressive cracks on a number of the third-stage compressor blade roots. However, when a progressive failure crack reaches a critical size, the remaining blade section fails due to overstress at normal operating loads. It is likely that the third-stage compressor wheel experienced this type of blade failure, causing destruction of the third- and fourth-stage compressor wheels.
+
+
+The engine power loss occurred while the helicopter was flying over rugged terrain, which was not suitable for landing. Stretching the glide in an attempt to reach a suitable landing area resulted in a loss of main rotor rpm, which subsequently resulted in a hard landing.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 062/2006 - Engine Teardown and Examination Bell 206L, C-GSMZ
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The engine power loss event was a result of the failure of the third-stage compressor wheel. Numerous blades on the third-stage compressor wheel had progressive cracks, which had propagated through approximately 50 per cent of the blade thickness. The liberated compressor blades caused severe internal damage to the third- and fourth-stage compressor wheels.
+
+
+
+Finding as to Risk
+
+
+The glide of the helicopter was extended to avoid landing in a wooded area. However, depleting some of the main rotor rpm to extend the glide presents the risk that there may be insufficient rpm available for a safe autorotation and landing.
+

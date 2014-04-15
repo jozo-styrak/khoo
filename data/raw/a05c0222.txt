@@ -1,0 +1,45 @@
+
+
+Analysis
+
+
+The crew's planning before the approach indicated that they were not fixated on landing at Winnipeg and were prepared to execute a missed approach. They had left themselves options and appeared prepared to execute them. Although the absence of a CVR recording prevented a review of the crew's interaction, the decisions were taken mutually and indicated that crew resource management techniques were used. Their planning also indicated a heightened awareness of the degraded visual environment on the runway. The reported weather and other weather information obtained indicated that the required visual references were available for the landing and that the decision to continue at DH was reasonable.
+
+
+Information also indicated that the aircraft was properly positioned with drift eliminated at DH. The captain's decision was consistent with company operating procedures, and a normal landing in the vicinity of the runway centreline should have been assured, given the captain's training and experience.
+
+
+Analysis of the FDR information and flight simulation indicated that the aircraft began to drift left because the captain banked the aircraft four to five degrees to the left, removing the crosswind correction. The left bank, coupled with the crosswind from the right, moved the aircraft well left of the runway centreline. The computer flight simulation indicated that the left bank began after the runway approach and threshold lights disappeared under the nose of the aircraft. At this point, only the two rows of runway edge lights were visible and appeared at an angle to the aircraft heading. In this situation, the FSF ALAR briefing note indicates that there is a tendency for pilots to align the aircraft with the runway, which is likely what the PF did. The subsequent drift should have been observed and corrected.
+
+
+Once visual references were acquired by the PF and the autopilot was disconnected in preparation for landing, the first officer, as PNF responsible for monitoring the approach predominately inside the cockpit, looked up and saw that the aircraft was drifting. The captain, with PF responsibilities predominately outside of the cockpit, did not recognize that the aircraft was moving to the left. While the visual environment was degraded in darkness, and the reflection from freezing fog particles obscured the runway threshold, the external visual environment was essentially the same for both pilots. Even though the PF had to concentrate on controlling the aircraft, the PF rather than the PNF should have been more likely to detect the left drift. Consequently, other factors may have degraded the PF's visual environment.
+
+
+Another factor influencing the PF's visual environment was the combination of contact lenses and new eyeglasses. First, the effect of the reflection from the freezing fog could have been greater for the PF than for the PNF. Second, the PF may have had some distortion and loss of night vision capability that had not been experienced previously due to the characteristic of progressive eyeglass lenses to interfere with peripheral vision. Third, progressive lenses can require some period of adjustment to use effectively in moving from far to near vision. The PF had worn the eyeglasses only a few times and may not have been fully adjusted to them. Finally, the PF may not have adjusted to the need to look through the centre of the eyeglass lenses, an adjustment that is not necessary with contact lenses, which move with the eye.
+
+
+As noted in the FSF ALAR briefing note on crosswind landings, time is a critical factor in crosswind landings. The time from autopilot disengagement at 80 feet agl to touchdown was 13 seconds. In the dynamic situation of a landing at night, in degraded visibility, and with a crosswind, the PF had only a few seconds after the call by the PNF to recognize and evaluate the drift and make the appropriate control inputs. The PF reacted within three seconds but did not completely stop the drift before touchdown.
+
+
+In conclusion, it is most likely that one or more of the effects of the vision correction used by the PF adversely affected his ability to consistently use the required visual references effectively in the rapidly changing, high workload environment of a night landing in low visibility with a crosswind.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+This report is available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The captain aligned the aircraft with the runway without compensating for crosswind, allowing the aircraft to drift off centreline. After touchdown, the aircraft's left landing gear tracked off the runway. It is likely that one or more of the effects of the vision correction used by the pilot flying interfered with his ability to effectively use the visual references available to land.
+
+
+
+Other Finding
+
+
+The cockpit voice recorder (CVR) was not disabled following the occurrence and the data were overwritten. Consequently, CVR information relevant to the occurrence was not available to TSB investigators.
+

@@ -1,0 +1,15 @@
+Although air traffic control procedures provided for the transfer of control of the aircraft at 2 nm , the arrival low controller was in the habit of transferring communications of landing aircraft to the tower after he had determined that he had no further need to retain the aircraft	, when the DHC-8 unexpectedly slowed , he was unable to directly contact that aircraft by radio
+The arrival low controller did not detect the rate of overtake by the A319 on the DHC-8 in sufficient time to issue appropriate speed control instructions to the A319	, his initial control instruction to the A319 was insufficient to avert the loss of separation
+the aircraft had changed frequency as directed	Although the A319 had already been instructed to contact the tower , the arrival low controller fortuitously was able to issue one speed reduction instruction to that aircraft , but later could not issue another
+there is no margin provided for normal levels of human error , the following three operational circumstances invariably contribute to loss-of-separation incidents	However ,
+the actual speed	the arrival low controller underestimate the DHC-8 's speed reduction
+air traffic control procedures	the transfer of control of the aircraft at 2 nm
+the arrival low controller was	one
+there is no margin	normal levels of human error
+the following three operational circumstances	loss-of-separation incidents
+an aircraft deviation	separation
+The arrival low controller	direct controller-pilot communications with the DHC-8 and the A319 the tower before relinquishing control responsibility , which inhibited timely control instructions to both aircraft
+the arrival low controller 's instructions	the loss of separation
+the possibility that unexpected aircraft deviations - that may be missed or unrecognized by the trainee controller and in which the on-the-job instructor does not immediately intervene -	a loss of separation
+The use of this minimum standard	the possibility unexpected aircraft deviations - that may be missed or unrecognized by the trainee controller and in which the on-the-job instructor does not immediately intervene - will lead to a loss of separation
+The actual speed of the DHC-8 might have decreased more rapidly than the speed displayed on the indicator module	the arrival low controller underestimate the rate of deceleration

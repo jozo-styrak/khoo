@@ -1,0 +1,17 @@
+The engine MM states that wear felt with the radius scribe is reason for rejecting and replacing the torquemeter gear , and Rolls-Royce indicated that the radius scribe will typically detect wear of 0.001 to 0.002 inch	, it could be concluded that the in-service wear limit would be 0.001 to 0.002 inch
+The occurrence torquemeter gear had 0.004 inch wear , at least twice the in-service wear limit , and had failed at 4576 hours , 1076 hours beyond the MPI inspection requirement	The torquemeter gear failed of an undetected crack that progressed in fatigue
+There is no requirement to track the time-in-service for the torquemeter gear , or for any of the other gears in the gearbox	, if a serviceable gear is installed during gearbox maintenance , it is possible that the gear 's time-in-service may not be determined
+rejecting and replacing the torquemeter gear	The engine MM states that wear felt with the radius scribe is reason
+the radius scribe will typically detect wear of 0.001 to 0.002 inch	for rejecting and replacing the torquemeter gear , and Rolls-Royce indicated
+the gearbox is maintained on-condition , the gears could far exceed the 3500-hour MPI requirement	Rolls-Royce has also indicated that ,
+an undetected crack that progressed in fatigue	The torquemeter gear failed
+an MPI had been carried out on the torquemeter gear before its failure	it is likely that the crack would have been detected
+the gearbox is already opened	However , the requirement to perform the MPI is based specifically on the time-in-service of the torquemeter gear , and then
+a serviceable gear is installed during gearbox maintenance	it is possible that the gear 's time-in-service not be determined
+the gears identified in CEB 72-6061 are not considered as mandatory replacements	operators can continue to use and install serviceable part number 6893673 torquemeter gears , although it is possible that the gear 's time-in-service may not be determined
+an undetected crack that progressed in fatigue	The helical torquemeter gear failed
+it is not mandatory to replace torquemeter gear part number 6893673 with the newly released torquemeter gear	it is possible that torquemeter gear part number 6893673 will experience premature wear and failure
+The failure of the torquemeter gear	the loss of engine power to the helicopter 's transmission
+In-service wear	torquemeter gear part number 6893673
+The Rolls-Royce 250-C47B Operation and Maintenance Manual inspection requirements	the torquemeter gear and other gears installed in the gearbox to potentially exceed 3500 hours in service before a magnetic particle inspection -LRB- MPI -RRB- is carried out
+other gears in the gearbox	their time-in-service

@@ -1,0 +1,33 @@
+
+
+Analysis
+
+
+This analysis will examine pilot recency and currency requirements, pilot qualification to conduct flight training, pilot assertiveness, and the company's operational control of flights.
+
+
+The PIC met the company's and Transport Canada's recency and currency requirements; however, the training cycle is based on a 12-month period. It is common in the helicopter industry for pilots to have significant gaps in their flying because of the seasonal nature of their employment. This was not recognized in regulations or company procedures. In this case, while the PIC had received extensive training on the BH06 prior to his returning to Trek Enterprises, he had not undergone any normal and emergency training in the R44 since his initial company training flight in April 2002. His relatively low experience level, the limited number of hours flown in 2002, the 7-month gap in flying experience over the winter, and his most recent training in the dissimilar BH06, probably contributed to the PIC not recognizing the onset of a critical flight condition before control was lost.
+
+
+The PIC felt pressured to continue the flight after the first engine overspeed and, in the presence of the more experienced and higher ranking CPD, reverted, in some respects, to the role of student. As such, he continued the flight, cognizant of the overspeed limitations and inspection requirements.
+
+
+The CPD was not approved as the chief pilot or qualified as a training pilot, as he was not type endorsed on the R44. Although this flight initially was not intended to be a training flight, it became one for both pilots. Accepted flight practice requires the completion of thorough preparatory ground instruction and a pre-flight briefing prior to conducting a training flight. This will ensure that both pilots understand what the intended exercise/flight is to cover, to review normal and emergency procedures, and to establish command authority.
+
+
+The company, through the operations manager, did not ensure that both of the pilots were qualified and approved for the flight, and that they both understood the scope and limitations of the "familiarization" flight.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The helicopter's airspeed and rotor rpm were allowed to decrease to the point at which the helicopter became uncontrollable; the PIC did not recognize that the helicopter was approaching a critical flight condition and did not apply appropriate corrective actions in a timely manner. The CPD was not qualified to fly the R44, and he was unable to assume control when the PIC experienced difficulties with an exercise.
+
+
+
+Findings as to Risk
+
+
+The PIC did not have any recent experience with regards to the normal and emergency procedures of the R44 helicopter. Each pilot assumed that the other possessed sufficient experience and/or proficiency in order to provide an adequate level of safety for the flight. The most recent training and experience for both pilots was in the BH06, a helicopter that possesses a high-inertia main rotor system. Therefore, their training was not directly transferrable to the low-inertia rotor system of the R44 helicopter. The PIC was aware of the engine overspeed restrictions and the rotor overspeed inspection requirements; however, he decided to continue the flight after the first engine overspeed. There is no reference in regulations and the company's operating procedures for the training of pilots who meet regulatory requirements but have had a significant gap in flying experience.
+

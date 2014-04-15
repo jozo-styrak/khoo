@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+The aircraft wreckage was examined to the extent possible, given the massive destruction and loss by fire. No evidence of system malfunction or pre-existing defect was found. All flight control surfaces were accounted for at the accident site and no sign of in-flight detachment or malfunction was identified. The sightings of the aircraft seconds before impact confirm that it was intact, without sign of fire, with all engines operating, and with the hydraulic and electrical systems functioning. Further, the fact that the pilot flying released two loads before impact signifies that he was conscious and aware of the situation they were in at that time.
+
+
+Since there was no communication or witness accounts to the contrary, nor was the emergency dump system employed, it would be reasonable to conclude that, in this relatively simple and benign flight task, the pilots had not experienced an aircraft flight control malfunction. Additionally, the low rate of climb demonstrated by the aircraft - in the absence of mechanical reason - suggests that the pilots were not aware of their proximity to the rising terrain. A discussion of these two issues follows.
+
+
+Given the flight time and the distance to the impact point, the permutations of the radius of turn for various airspeeds show that the Electra would have described an arc over the ground dictated by two variables - airspeed and bank angle - with the wind as a constant. Accordingly, the most likely airspeed-bank combinations range from 135 to 150 knots and 40 to 45 degrees, neither of which is unreasonable for this type of operation. Such a flight path is consistent with purposely controlled flight. Values outside these finite ranges were found to produce great divergence from the last minute of flight path and were discounted. The exit route down the valley toward Moyie Lake was always available to the pilots in the event of a mechanical malfunction that required manoeuvring room over flat terrain. Accordingly, since the aircraft did not deviate from its arcing path to the left, it is unlikely that the pilots were dealing with a situation preventing climb performance or with a flight control malfunction. Furthermore, the fact that the aircraft was seen flying in a conventional attitude until shortly before impact suggests that the pilots were in control of the aircraft.
+
+
+Examinations of the engines and propellers consistently show that the engines were delivering similar and high power at impact. The reasonable conclusion is, therefore, that the engines were capable of delivering rated power before the impact. In concert with the airspeed and angle of bank calculations, the results of the rate of climb assessments reveal that the Electra could have attained climb rates in the order of 1000 fpm at any stage during the left turn. Accordingly, with consideration of the known flight path and altitude profile, no mechanical reason, aerodynamic effect, or performance factor was found that would have prevented the aircraft from attaining sufficient altitude to avoid the terrain.
+
+
+Without the likelihood of either aircraft mechanical defect or flight performance inadequacy, the explanation as to why the aircraft did not climb to avoid the terrain becomes one of human performance. With an aircraft capable of controlled, climbing flight, it would be reasonable to conclude that the pilots flew the vertical profile after the drop on the target fire and gently climbed from 3700 feet to at least 3900 feet. It could not be determined if the aircraft climbed more than the observed 200 feet difference, only to lose it again. It is also possible that, after initiating a satisfactory rate of climb for the seemingly benign task to climb to 4500 feet, the pilots became distracted in the cockpit and unintentionally allowed the climb to deteriorate. Because of the lack of direct knowledge of the cockpit circumstances leading to the accident, the reason for the pilots not climbing their aircraft cannot be identified with any certainty. Nonetheless, several factors exist that collectively lead to a possible explanation.
+
+
+Documented research10 shows that mountainous terrain in daylight, especially at midday with little shadow outline, lacks effective visual definition and is particularly difficult for pilots to assess for slope, proximity, and rate of closure. In such conditions, visual illusion and depth misperception is quite likely.
+
+
+In this accident, the characteristics of the terrain were similarly difficult to assess, and it is most likely that the Electra pilots were deceived by the apparent gently sloping nature of the surrounding terrain and did not detect the ridgeline that crossed their flight path. To them, the ridgeline and the protruding land mass would have been difficult to discern clearly until the aircraft was so close that timely and effective evasive action was impossible. Compounding their difficulty in detecting the obstacles ahead of them were the limitations to unimpeded vision resulting from the left bank in the turn toward the rising terrain, which reduced their perspective and field of vision, and the physical dimensions of the cockpit windshields. It can be said with some degree of certainty that the pilots were unaware that they were on a collision path with the terrain until the very last seconds before impact, otherwise they would have altered course and flown the simple, low-level emergency route down the valley toward Moyie Lake.
+
+
+Low-level, fire-management flight operations continually challenge the situational awareness skills of pilots and require assiduous attention to the terrain, aircraft performance, and effective crew resource management. Vision limitations resulting from cockpit design and layout characteristics can further reduce a pilot's opportunity to detect obstacles in the flight path ahead.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+For undetermined reasons, the Electra did not climb sufficiently to avoid striking the rising terrain. Given the flight path and the rate of climb chosen, a collision with the terrain was unavoidable. The characteristics of the terrain were deceptive, making it difficult for the pilots to perceive their proximity and rate of closure to the rising ground in sufficient time to avoid it.
+
+
+
+Other Findings
+
+
+Performance calculations show that the Electra - in the absence of limiting mechanical malfunction - could have climbed at a rate that would have allowed the aircraft to avoid the terrain. Although a functional cockpit voice recorder was installed in the aircraft, it was not required by regulation and it was not used; as a result, vital clues that could have shed light on the circumstances of this accident were not available. The emergency locator transmitter could not transmit a signal as a result of severe impact forces that exceeded the design criteria.
+

@@ -1,0 +1,46 @@
+
+
+Analysis
+
+
+While the crew did not enter the waypoints from the flight plan for each leg into their GPS, they did have a paper copy of the flight plan that included all waypoints, bearings, and distances between waypoints. They did not follow standard navigation procedures, either pre-flight or upon waypoint passage, which call for a comparison of flight plan information against GPS information.
+
+
+AUTEL is east of the 180 meridian and had been entered correctly with west longitude coordinates. Since IBESO, the next waypoint and west of the 180 meridian, was the first waypoint entered incorrectly into the GPS, with west instead of east longitude coordinates, there would have been significant differences between the GPS magnetic track and distance, and those shown on the flight plan.
+
+
+The GPS would have shown a track of 174 M and a distance of 425 nm, instead of the correct track of 186 M and 458 nm shown on the flight plan. Had the crew confirmed the flight plan track and distance to IBESO on passing AUTEL, it would have been apparent that there was a discrepancy between the flight plan and GPS coordinates.
+
+
+Since all longitudes from IBESO on were entered as west instead of east, all GPS distances from IBESO on would have been the same as the flight plan distances, but all GPS tracks would have been significantly different as follows:
+
+
+Neither company management nor the crew understood how the GPS databases were set up, although it is clearly described in the GPS manual. Had they understood the GPS better and believed that no data card to cover the route to be flown was available, they probably would not have dispatched the aircraft with the North American data card installed, because this deactivated the internal airports and VORs databases. Had the North American data card been removed before the crew used the GPS nearest waypoint listing, the GPS would have returned a display of airports and VORs in New Zealand instead of North America.
+
+
+Although unable to obtain a descent clearance from any ATC facility, the crew descended from FL180 to 3000 feet when their GPS indicated they were about 50 nm from their user-defined Palmerston North waypoint. Had they been where the GPS indicated, the descent would have brought them into possible conflict with New Zealand domestic air traffic and into close proximity to terrain, as they would have been in the vicinity of the Ruahine mountain range. Maximum elevation figures (MEFs) in this area, taken from a New Zealand aeronautical chart, range from 4000 feet to 5900 feet above mean sea level. The MEF is based on the highest known feature, in each 30-minute quadrangle, including terrain and obstructions.
+
+
+When it became apparent that Gisborne was the only airport within fuel range of the aircraft, the crew found that the Jeppesen trip kit purchased for the flight did not contain any Gisborne aeronautical charts. The relevant data had to be relayed to the crew by radio before landing. Under other circumstances, such as communication failure under instrument meteorological conditions, an instrument approach at Gisborne would have been impossible.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The last six waypoints of the flight plan from Pago Pago to Palmerston North were entered into both GPSs with west longitude instead of east longitude, resulting in the GPS directing the aircraft to positions east of the 180 meridian. The crew did not check GPS data against flight plan data, either pre-flight or en route during waypoint passage, and so did not detect the significant differences between GPS and flight plan tracks and distances of the last six waypoints. North American data cards were inserted in both GPSs, resulting in the internal databases of airports and VORs being deactivated, and unavailable to the crew. The crew was unaware that removing the North American data card would have reactivated the GPS internal databases of airports and VORs, including all those in New Zealand. This would have resolved the crew's uncertainty about their position. The crew received no special training on the Apollo 820 GPS or briefing on long-range navigation procedures. Therefore, they were unprepared to detect a navigational error caused by incorrect data input to the GPS.
+
+
+
+Findings as to Risk
+
+
+Instrument approach and airport charts for Gisborne were not available to the crew, placing them at risk when a diversion to Gisborne became necessary.
+
+
+
+Other Findings
+
+
+The necessity for numerous deviations east of track after AUTEL, to avoid thunderstorms in the intertropical front, may have masked the obvious direction change after IBESO.
+

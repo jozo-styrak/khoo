@@ -1,0 +1,40 @@
+
+
+Analysis
+
+
+The Moncton weather forecast called for a marked decrease in ceiling and visibility starting at 0300; however, this transition was already underway when Flight 620 flew the first approach at about 0230. The crew were unable to see the runway environment at the MDA of 270 feet agl, while the 0200 ATIS information stated that the ceiling was 1100 feet with a visibility of 10 sm. On the second approach, the crew did not see the runway lights until they had descended to 200 feet agl, at about 0240. The reported weather remained unchanged until after the second approach. A weather special released at 0249 reported that ceiling and visibility were 1100 feet and 1 sm. By this time the crew had already commenced their third approach, and they did not receive the 0249 report. Although the deterioration in the weather had been accurately forecast for this period, the frequency of the observations were not adequate to capture the weather deterioration.
+
+
+The decrease in ceiling and visibility was not detected by either the controllers or the weather observers, and no special observation was requested until after the second missed approach. The provision of more data to the weather observer, such as forecasts or pilot reports, might have prompted additional check observations. Also, better guidance as to when additional check observations are required, including specific reference to the consideration of forecasts, temperature/dew point spread, etc. might have ensured the completion of additional check observations so that the change in visibility would have been detected prior to Flight 620's first approach.
+
+
+Valid weather information is a critical element in good pilot decision making. When the destination weather is reported to be at or near minimums, crews update weather information, choose the approach most likely to be successful, and make plans for a possible diversion prior to the approach at destination. However, when the destination weather is reported to be well above minimums, crews anticipate a successful approach and landing and may forgo alternate planning and choose the most expedient approach likely to be successful.
+
+
+The Moncton 0200 weather report received during descent for the first approach was as follows: estimated 1100 feet overcast, visibility 10 sm. Based on this report, the crew planned for and executed a straight-in, localizer back-course approach to Runway 11, anticipating no difficulties. Consequently, they did not plan for a diversion, and the approach choice was based upon the most expedient approach for the reported weather conditions. Had the reported weather reflected the actual lowered ceiling and visibility, the crew would likely have planned for a diversion and conducted an ILS approach to Runway 29 as their first approach. This option would have increased the chances of landing successfully on the first approach and avoided the low fuel state.
+
+
+From post-flight calculations, there was enough fuel on board to allow a second approach. Although the aircraft was not laterally positioned to land on the second approach, the captain did not intervene to reject the landing until the aircraft was in a substantial left-wing down attitude, very near the runway surface, with power reduced. During the rejected landing the aircraft's wings were not leveled until after the nose was raised, resulting in the left wing contacting the runway. After the rejected landing there was min div fuel on board. At this time, the captain was faced with the decision to attempt a third approach in known conditions or proceed to the alternate airport without up-to-date weather information. Potentially, they could arrive at the alternate with a worse fuel state and in adverse weather conditions. The decision to attempt the third approach was inconsistent with the intent of the FOM. However, the captain was well aware of the weather conditions and that an imminent landing at Moncton was reasonably assured.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The captain's decision to intervene and reject the landing on the second approach was too late to prevent the aircraft from contacting the runway surface. The aircraft's wings were not leveled until after the nose was raised, resulting in the left wing contacting the runway.
+
+
+
+Finding as to Risk
+
+
+The forecasted deteriorating weather was not detected or reported in a timely manner.
+
+
+
+Other Findings
+
+
+The aircraft landed with less than the minimum diversion fuel required in the Flight Operations Manual (FOM); however, the decision to carry out the third approach could be considered reasonable in the circumstances faced by the captain. The weather conditions reported to the crew were not representative of the actual weather conditions at the airport. This contributed to the planning errors made by the crew and the unnecessarily low fuel state.
+

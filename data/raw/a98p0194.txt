@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+The risks of conducting VFR flight under conditions of low ceilings and low visibilities are known and are mitigated, to a degree, by the establishment of minimum obstacle clearance altitudes and minimum visibility requirements. Under minimum conditions, CARs allow pilots to conduct VFR flight in uncontrolled airspace and in weather conditions as low as 300 feet agl (the obstacle clearance limit) and 2 sm visibility; Environment Canada categorized these same weather conditions as "IFR". Stated another way, CARs allow VFR flights to be conducted in IFR weather conditions provided the aircraft is in uncontrolled airspace. The degree to which these regulations mitigate risk is questionable.
+
+
+In this occurrence, the flight was conducted under the minimum conditions that are permissible for VFR flight. When the weather and operational conditions deteriorated below these minimum levels, the pilots decided to land and wait for the conditions to improve.
+
+
+No clear rules or guidelines govern the coordinated operation of two independent flights. The pilots of the two aircraft involved coordinated their activities in advance of the flight and filed separate flight plans. They took off separately, with an initial spacing between the aircraft of about four miles. As the flights passed through the Comox control zone, they were treated as independent flights by the air traffic control system. However, as the trip progressed, the pilot of the second aircraft in the group closed in on the leading aircraft and stabilized in a position that was much closer than that described as being typical for this type of flight. By closing in on the leading aircraft, the accident pilot reduced any advantage he may have had of receiving en route weather reports from the leading aircraft.
+
+
+On encountering unsuitable weather, the lead aircraft landed. It decelerated rapidly on touchdown and the spacing between the two aircraft was reduced even further. Immediately after landing, the pilot of the lead aircraft took off again and began a full-power climb. In response, the pilot of the accident aircraft began a missed-approach procedure with less than full power. This procedure was not in accordance with the aircraft flight manual and was only done in an attempt to stop any further overtake of the lead aircraft. By following too closely, the pilot of the accident aircraft reduced his own ability to operate as an independent aircraft and placed the passengers of both aircraft at increased risk. Following this accident, the company developed and promulgated a directive to provide specific procedures for its pilots to follow when two or more aircraft are flying together on the same route.
+
+
+During the reduced-power overshoot, it is likely the airspeed was allowed to decrease to the point where the accident aircraft departed from controlled flight and stalled. The airplane did not give, "by juddering or other means", clear warning of the approach to the stall as required by its certification standards. The aircraft's response as was described by the accident pilot involved was consistent with the stall characteristics reported by ATS in their flight test report.
+
+
+The pilot involved in this accident had received the training required by the TC-approved training plan. However, he had not been exposed to the aircraft's power-on stall characteristics with an aft centre-of-gravity loading. When the aircraft initially yawed to the left, the pilot responded by applying rudder to correct an uncommanded yaw; this response was not effective. When the aircraft stalled, it yawed violently and entered a steep, nose-low attitude.
+
+
+The Air Rainbow DHC-2 aircraft were not equipped with dual flight controls, nor were such control systems required by regulation. Dual controls allow for the training and testing of new pilots throughout the entire range of the flight envelope. In the absence of dual controls, the risk is elevated when training includes areas of flight envelope where violent stall conditions may be encountered. TC recently changed the pilot training programs to provide pilots with increased exposure to stall characteristics in varying weight and balance configurations. This should improve a pilot's ability to recognize and prevent a stall.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+As visibility decreased, the pilot of the accident aircraft closed in on the leading aircraft to maintain visual contact and as a result, when the aircraft took off, the spacing between the two aircraft had been reduced to the point where the actions of the leading aircraft adversely affected the actions of the trailing aircraft. The trailing aircraft stalled while the pilot was attempting an overshoot procedure with less than the required engine power. The pilot had no warning of the impending stall by either juddering or other means as required by the certification standards. The accident pilot's training did not include exposure to the stall characteristics of the DHC-2 aircraft in a rear centre-of-gravity condition.
+
+
+
+Other Findings
+
+
+The pilot was certified and qualified for the flight in accordance with existing regulations. Portions of the flight were conducted at low altitudes and in marginal VFR or IFR weather conditions. The lowering cloud ceiling and decreased forward visibility prompted the pilots of both aircraft to plan to land. TC has recognized the need for improved training in the recognition and prevention of stalls and has modified its pilot training programs accordingly.
+

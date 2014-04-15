@@ -1,0 +1,39 @@
+
+
+Analysis
+
+
+Despite the certification of the aircraft as being airworthy in December 2002, the aircraft was in generally poor mechanical condition when it was picked up by the operator on 22 January. Mechanical deficiencies with the aircraft were subsequently resolved to the point that the aircraft was considered capable of proceeding with the flight. However, some significant deficiencies, such as the expired ELT battery, poor cabin heating, the lack of an ADF receiver, and the unserviceable turn coordinator were not corrected prior to departure.
+
+
+The aircraft was equipped to the point that it could be navigated along an IFR route; however, it was not equipped for IFR flight or for night VFR flight. It did not have a serviceable turn coordinator, and it lacked an ADF necessary for approach at the filed alternate airport. When the attitude indicator failed during the PAR approach the aircraft was in IMC. The pilot did not have a means of assessing or correcting the aircraft's flight attitude, and was, therefore, not able to recover from the spiral dive which ensued.
+
+
+The lack of heat may have had two adverse effects. The lengthy stopover in Narsarsuaq may have been due in part to the need to recover from previous cold exposure. The lengthy stopover in Narsarsuaq resulted in an arrival in Goose Bay one hour after sunset. In the frigid temperatures encountered en route, lack of cabin heating may also have resulted in frosting of the aircraft windows. Both darkness and frosted windows would have decreased the likelihood of acquiring visual references during the spiral dive; however it is not known if any of the aircraft's windows were frosted.
+
+
+The weather forecast that the pilot received at Narsarsuaq indicated VFR conditions for the destination airport, Goose Bay, with a TEMPO condition of 2000 foot ceilings and 2 sm visibility. These weather conditions were well above the PAR approach limits, and may have prompted the pilot to attempt the flight. Churchill Falls was not a legal IFR alternate for three reasons: the aircraft was not equipped with the necessary navigation equipment (ADF) to conduct an IFR approach; the aircraft did not have sufficient fuel to meet the CAR IFR alternate fuel requirements; and, the airport did not meet the weather requirements for an alternate IFR airport. Despite this, the pilot selected the airport as the alternate. It is not known why the pilot selected an alternate airport that did not meet forecast alternate weather requirements.
+
+
+Several deficiencies served to increase the risk exposure during the ferry flight: the turn coordinator was known to be unserviceable before departure; there was insufficient fuel and navigation equipment for the IFR alternate; the ELT battery had expired and the switch was in .the "Off" position; and the flight was flown in frigid temperatures without cabin heat. The combined effect of the deficiencies served to eliminate the safety defences normally available, and left little margin for error or mischance.
+
+
+The following Engineering Branch report was completed:
+
+
+LP16/03 - Instrument Examination
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+For an unknown reason, the attitude indicator gyro stopped functioning during the approach to Goose Bay. The aircraft was not equipped with a serviceable turn coordinator which would have allowed the pilot to assess and correct the aircraft's flight attitude even after the attitude indicator had failed. Control of the aircraft was lost, and the pilot was not able to recover from the spiral dive which ensued.
+
+
+
+Findings as to Risk
+
+
+The filed alternate airport, Churchill Falls, was below approach limits at the expected arrival time. The aircraft did not carry the fuel required for an alternate airport. The aircraft did not have the necessary equipment to carry out an IFR approach at the alternate. The ELT battery was time expired and the ELT was not armed. The flight was conducted in frigid temperatures with a failed aircraft heater.
+

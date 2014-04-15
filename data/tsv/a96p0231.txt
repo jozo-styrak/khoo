@@ -1,0 +1,19 @@
+fatigue ; the origin of the failure	the spindle did not receive the required magnetic particle inspection at the last overhaul
+failure could not be determined	the spindle
+the earlier damage	Although the time interval from crack initiation to final failure could not be calculated , it is likely that the crack existed at the time of the transmission overhaul
+the	crack have been detected had the spindle received the MPI that was required
+several factors relating to the control of the transmission overhaul	The MPI process was omitted
+this was not the standard procedure	That the upper case was purchased separately , and was sent out for NDT inspection with the spindles attached , created the confusion ,
+fatigue	The spindle failed
+a	lack of maintenance supervision during the overhaul process
+thereby creating bending loads on the tail rotor drive shaft which rapidly caused it to fail	move
+The failure of the transmission spindle mount	the transmission to pivot and become misaligned
+This movement	a bending load
+This movement placed a bending load on the tail rotor drive shaft	failure
+the instant failure of the spindle	the noise
+Omission of the MPI , however	the chances of early detection
+That the upper case was purchased separately , and was sent out for NDT inspection with the spindles attached	the confusion
+The use of an additional check sheet , identifying the components that require NDT	the omission of the MPI
+The failure of the spindle	the transmission move , thereby creating bending loads on the tail rotor drive shaft which rapidly caused it to fail
+The failure of the spindle allowed the transmission to move , thereby creating bending loads on the tail rotor drive shaft	it to fail
+the transmission to move	bending loads on the tail rotor drive shaft which rapidly caused it to fail

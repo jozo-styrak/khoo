@@ -1,0 +1,60 @@
+
+
+Analysis
+
+
+According to the Canadian foreign air operator certificate, the flight crew was required to comply with ICAO standards and thus with the CAR applicable provisions. Although it is possible that the flight crew was not familiar with the Canadian regulations, they knew that it was against the American regulations to land at night without runway edge lights, and there was no reason to believe that the rules were different in Canada. The CARs prohibited night landings without runway edge lights, and this is a precaution to prevent such accidents.
+
+
+Closing the runway for night use would have provided an additional precaution that would have helped prevent night landings without runway edge lights. Nevertheless, a series of decisions made by the flight crew contributed to the accident. Consequently, this analysis will focus on those decisions and how they circumvented the precautions put in place to reduce operating risks.
+
+
+The coordination of a crew and the SOPs are the most easily available defence tools for dealing with threats, errors and undesirable conditions. In this occurrence, the crew was faced with two primary threats. The first was landing at night without runway edge lights, and the second was the wrong information about the position of the PAPI.
+
+
+The airport was not closed for night use, despite the absence of runway edge lights. Nothing required it to be. The crew was therefore able to obtain authorization for a flight under instrument flight rules to this destination without being aware that the runway edge lights were out of order. If the crew members had known about the NOTAM before departure, they would have had additional information on which to base their flight decisions. The SOP manual gave the pilot-in-command the prerogative of postponing or cancelling the flight if he deemed that it was not safe to undertake it.
+
+
+The decision to carry out the approach with the intention to land, after being advised that the runway edge lights were out of order, was illegal. The captain was able to activate some runway lighting components; therefore, it is possible that he was confident that he would eventually be able to perceive the runway. Since the snow-covered runway provided little contrast with the adjacent terrain, and the flight took place at night without runway edge lights, it was impossible to distinguish the runway from the surrounding terrain.
+
+
+Even though he did not have the runway in sight, the captain continued the descent until the aircraft touched the ground, instead of executing a missed approach and returning to Montr al. The fuel on board and the weather conditions made it possible to do so. There is no indication that the crew was subjected to pressure from the company or from the passengers. It is well known that, in some circumstances, pilots put pressure on themselves out of a desire to complete the mission, especially when they have not been working long for the company, as was the case in this occurrence.
+
+
+The crew members were not familiar with the Bromont Airport, as they had never been there before. However, the airport chart and the approach chart to which they referred provided all the information they needed. The positions of the PAPI and the approach lights were clearly indicated, and there was no reason to think that there were approach lights for Runway 05R. Therefore, there is reason to believe that the crew members were not sufficiently familiar with the information shown on the approach chart, and that is why they asked the dispatcher about the position of the PAPI. Despite the fact that the crew members were misinformed about the position of the PAPI, they could have ensured that they were aligned with the runway by referring to the course deviation indicator (CDI) and the approach lights. Landing was prohibited in any event. Since neither pilot noticed the deviation on the CDI, it may be assumed that both pilots were focusing their attention outside, probably in an effort to locate the runway.
+
+
+The crew members did not inquire about the runway conditions at Bromont before departing from Montr al. Even if they had done so, the most recent report reflected conditions approximately eight hours earlier and was not representative of the current conditions. The runway had not been cleared of snow in the hours preceding the accident because the surface was covered with less than three centimetres.
+
+
+It was not until the final approach that the crew learned that the runway was snow-covered. Without even knowing how thick the snow cover on the runway was, the captain was determined to land there, even with a slight tailwind. Not knowing the actual condition of the runway surface, it would have been risky to land even if runway edge lights had been available. The landing distance calculated using the chart was not valid for a snow-covered runway. Even if the crew had used the landing performance diagram in the flight manual, the diagram made no reference to a snow-covered runway; therefore, it was impossible for the flight crew to ensure that the runway was long enough for a safe landing on a snow-covered surface.
+
+
+The key to successful piloting is good flight planning, good airmanship and effective communication between crew members. Communications must be clear and concise. In this occurrence, planning was deficient, and the communications between the two pilots were indirect and subjective. The captain did not clearly indicate his intentions when he learned that the runway edge lights were out of order. He continued his approach without explaining what his action plan was. Nevertheless, the co-pilot did understand that the pilot was going to attempt to land. The co-pilot commented on the manoeuvre that the captain was about to undertake without stating clearly whether he agreed with it or not.
+
+
+Since the captain did not have the runway in sight, it would have been prudent to conduct a go around. When the co-pilot realized that neither he nor the captain had the runway in sight, he could have asked for a go-around or he could even have taken the controls and done it himself. It is well known that some co-pilots feel uncomfortable about questioning a captain's decision or about taking over the controls. Instead, they opt for an indirect or subjective comment, in hopes of getting their message across. It could not be determined why the co-pilot did not react or question the pilot more openly about his intentions. Various factors might explain this type of behaviour: the age difference, seniority, culture, respect for authority, overall experience, or experience with this type of aircraft. In this case, it is possible that the co-pilot's level of experience compared to the captain's may have had a bearing on the crew's interaction during the occurrence.
+
+
+Contrary to regulations, the flight crew did not give a safety briefing to the passengers. Consequently, the passengers were not well prepared to assume their responsibilities in case of an emergency, which reduced their probability of survival. Due to the absence of a briefing, the two passengers seated on the side seat were unaware of the existence of shoulder straps, which were hidden behind the seat. Since they were not wearing the shoulder straps, their protection in case of an accident was greatly reduced. Even if the passengers had read the printed card, it did not explain the complex method of attaching the straps.
+
+
+The emergency exit could not be opened due to structural damage, which delayed the evacuation and could have had serious consequences. As well, the armrest next to the side seat was blocking the access to the emergency exit. The notice on the armrest was not compliant with the STC, which required that the armrest be removed before each take-off and landing. STCs are not normally provided to pilots, so the flight crew had no way of knowing about this requirement.
+
+
+Poor flight planning, non-compliance with regulations and SOPs, and the lack of communications between the two pilots reveal a lack of airmanship on the part of the crew, which contributed to the accident.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The flight crew attempted a night landing in the absence of runway edge lights. The aircraft touched down 300 feet to the left of Runway 05L and 1800 feet beyond the threshold. The runway was not closed for night use despite the absence of runway edge lights. Nothing required it to be closed. Poor flight planning, non-compliance with regulations and standard operating procedures (SOPs), and the lack of communications between the two pilots reveal a lack of airmanship on the part of the crew, which contributed to the accident.
+
+
+
+Findings as to Risk
+
+
+Because they had not been given a safety briefing, the passengers were not familiar with the use of the main door or the emergency exit, which could have delayed the evacuation, with serious consequences. The armrest of the side seat had not been removed as required and was blocking access to the emergency exit, which could have delayed the evacuation, with serious consequences. Because they had not been given a safety briefing, the passengers seated in the side seats did not know that they should have worn shoulder straps and did not wear them, so they were not properly protected. The possibility of flying to an airport that does not meet the standards for night use gives pilots the opportunity to attempt to land there, which in itself increases the risk of an accident. The landing performance diagrams and the chart used to determine the landing distance did not enable the flight crew to ensure that the runway was long enough for a safe landing on a snow-covered surface.
+

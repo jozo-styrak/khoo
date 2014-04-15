@@ -1,0 +1,36 @@
+
+
+Analysis
+
+
+The approach to landing was stable, and the aircraft touched down within normal parameters, one knot above VREF. Wheel brakes were applied from shortly after touchdown until the end of the landing roll. Intermittent skid marks on the runway confirm that the brakes were applied and that the wheel brakes and antiskid system were functioning during the landing roll. The tires were in good condition, and post-occurrence testing of the aircraft showed that the brakes functioned normally. Therefore, the poor stopping performance of the aircraft most likely resulted from slush contamination on the runway.
+
+
+Twenty-two minutes before landing, before the first communication with the Fredericton FSS, weather was suitable for an approach to either runway. The reported winds (020/07) favoured runway 09, giving a slight headwind component compared to a tailwind component on runway 15. The FSS specialist reported that there was a light coating of slush on runway 15/33 that was being swept, and the official RSC was 100% bare and wet. After the crew requested that runway 09 be swept, nothing indicated that the runways would not be usable for landing. The crew likely believed that both runways would essentially be bare and wet and that the aircraft would be able to land safely on either runway.
+
+
+The RSC for runway 09 reported to the crew about 10 minutes before arrival indicated that the runway centreline was 50% covered in thin slush. The CRFI equivalence chart does not give a value for runways that are partially or fully contaminated with slush. The crew, therefore, had no means of estimating a CRFI equivalence for the landing on runway 09. About 8 minutes before landing, the crew indicated to the FSS specialist that they had the option to land on either runway and requested that the vehicles be cleared from all runways. This suggests that the crew continued to believe that both runways would be usable for landing and that they were not aware that the slush contamination was accumulating on runway surfaces. Seven minutes before landing, the RSC reported to the crew for runway 15/33 indicated that the entire runway surface was covered in slush, eliminating 15/33 as a usable runway. This report could have served as an indication that slush was also accumulating rapidly on runway 09; however, this fact was not made clear to the crew.
+
+
+RSC reports are a snapshot of runway conditions that exist at the time of the observation. RSC reports do not indicate if a contaminant, such as slush, is accumulating or the rate of accumulation. A considerable amount of slush was noted on the runway 15 minutes after the occurrence. Much of this slush likely accumulated on the swept centreline of Runway 09 during the approximately 10 minutes between the cessation of sweeping on runway 09 and the aircraft's arrival. This amount of slush was not anticipated by the crew and significantly degraded stopping performance from what was expected. When the crew calculated the required landing distances, they assumed a .3 CRFI , equivalent to the lowest value for a wet runway. This assumption was not valid for the slush-contaminated runway, and the crew had no means of establishing a CRFI equivalent.
+
+
+The following TSB Engineering Laboratory report was completed:
+
+
+LP 120/2000 - FDR/CVR Analysis F-28 MK 1000, C-GKCR
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Slush reduced the stopping performance of the aircraft, and the aircraft was not able to stop in the runway length available. The crew was advised that the landing surface was 50% thin slush and 50% bare and wet; however, their decision to land was based on bare and wet runway conditions. The crew was not advised that slush was accumulating rapidly on the runway surface during the approach.
+
+
+
+Findings as to Risk
+
+
+The Canadian runway friction index equivalence chart does not indicate a value for runways contaminated with slush. Crews have no means of readily assessing the effects of slush on an aircraft's stopping performance. Runway surface condition reports do not indicate if a contaminant, such as slush, is accumulating or the rate of such accumulation.
+

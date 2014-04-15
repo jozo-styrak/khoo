@@ -1,0 +1,24 @@
+The presence of an undetected remnant of clear ice on an aircraft critical surface after de-icing prior to take-off is an unsafe condition for which the existing defences are inadequate to preclude beginning to take off	is that the ice may migrate between control surfaces
+freezing rain , and the residual risk in view of the inherent limitations of procedures and regulations	are aimed at reducing the hazards of aircraft icing
+the FDR already showed discrepancy in elevator movement during the control check at taxi speed , too slow for the tab to have an influence	This was rejected
+the elevator trailing edge was moved from the trailing edge down position -LRB- the locked position prior to this point of the flight as shown in Photos 1 and 2 -RRB- to the trailing edge up position -LRB- as shown in Photo 3 -RRB- during the control check	the ice
+the pilot checked the lateral controls	the elevator was approximately neutral , being held without any restraining or locking device against its own weight and wind gusts with no intentional movement
+The procedure was co-ordinated between the boom operators , the icing lead , and the flight crew	reduce the total time for the de-icing process
+A small remnant of clear ice would have minimal visual contrast between it and the wet elevator surface	, it may not be detected despite due diligence and proper qualification of de-icing personnel
+a pre-take-off contamination	inspection have been an effective defence against this occurrence
+there had been no precipitation since completion of de-icing and there was no other requirement in the Air Canada Jazz COM to perform one	In this occurrence , it was not carried out and it was not required
+ice elsewhere that had previously escaped detection	reveal
+it did	it focus on the upper surface and leading edge of the wing and probably would not detect a fragment of ice on the tail
+V1 is less than VR ,	the aircraft would not be assured of stopping safely and the potential exists for severe injury and major aircraft damage
+the forecast freezing rain was outside the certification envelope is not supported by CARs , the CBAACs that are still posted on the Web site , the AFM , or the COM	A suggestion that these flights should not have been attempted
+icing	the controls in the following ways
+it probably moved into the gap between the elevator and the shroud at the trailing edge of the stabilizer	the discrepancy was recorded by the FDR between left and right elevator position during the lateral control check
+between the boom operators , the icing lead , and the flight crew in order	the total time for the de-icing process
+the procedure used in this instance	the occurrence
+its presence	a control jam in aircraft without power controls
+the upper surface	edge of the wing
+The AFM did not present information	pilots aware of this
+CARs standards	operations in icing and recognition of in-flight icing within the scope of surface contamination training , which is the purview of TP 10643 , although TP 10643 acknowledges that other guidance may supersede it
+the failure to discriminate between certification criteria and operating rules and the lack of reference to the two CBAACs	the following
+with control movement during take-off	the pilot rejecting the take-off in aircraft without power controls ; resulting in risk of severe injury or major damage for operations where decision speed -LRB- V1 -RRB- is less than rotation speed -LRB- VR -RRB- and the aircraft can not stop on the remaining runway
+the pilot rejecting the take-off in aircraft without power controls	risk of severe injury

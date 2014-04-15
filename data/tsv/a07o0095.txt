@@ -1,0 +1,3 @@
+Retraction of the landing gear can only be accomplished if the down locks are removed during the retraction sequence	, due to the play in the landing gear handle , and the ease with which it could be bumped up , it is likely that the landing gear handle was inadvertently positioned above the locking solenoid before weight on wheels was achieved , and that during the landing roll the handle was inadvertently bumped up far enough to begin the retraction sequence
+the down locks are removed during the retraction sequence	Retraction of the landing gear only be accomplished
+the play in the landing gear handle	Therefore ,

@@ -1,0 +1,20 @@
+
+
+Analysis
+
+
+There were no witnesses to the accident, no evidence found of any airframe failure or systems malfunction during flight, and no evidence available to indicate whether incapacitation or physiological factors could have affected the pilot's performance. Concurrent with this, it could not be determined why the aircraft departed cruise flight, began a rapid descent, and struck the mountain side. Wreckage distribution and impact signatures indicate that the aircraft was in a steep nose-down attitude at impact. It is possible that, prior to the rapid descent, the aircraft's performance was affected by one or more factors such as airframe or engine icing, mechanical malfunction, or heavy weight. The ACC radar data, however, reveals that the aircraft's airspeed, altitude, and track remained relatively constant during the en route segment of flight. During the final moments of flight, from about 1941 to 1945, the aircraft's ground speed decreased from about 140 knots to 90 knots. If airframe icing was a factor in the occurrence, then it is probable that the accumulation occurred during the final five minutes of flight. If the pilot experienced engine difficulties during the flight, it would also have been during the last five minutes of flight. Examination of the engines, however, reveals that they were capable of producing power at the time of impact. The evidence gathered strongly suggests that a catastrophic event resulted in the precipitous uncontrolled descent of the aircraft from which the pilot did not recover.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 193/95 - ATC and Radar Data Analysis
+
+
+
+Findings
+
+
+The pilot was licensed and qualified for the night IFR flight, and the aircraft was certified in accordance with existing regulations. Based on estimated weights, the take-off weight of the aircraft may have exceeded the allowable limit. The area forecast predicted a probability of severe clear icing in freezing drizzle for the route of intended flight. During the pilot's weather briefing, this information was not mentioned. The pilot aborted the initial take-off from Calgary because the right engine was not developing full rpm. There was no evidence found that the engines were incapable of producing full power. Based on the propeller examination, it is likely that the engines were operating with minimal power at the time of the impact. The aircraft struck the ground in a steep nose-down attitude, with the flaps and the landing gear in the retracted positions. The state of the human remains precluded the possibility of obtaining meaningful autopsy and toxicological data. The spectral analysis indicates that at 1828, both engines were operating at a propeller speed of approximately 2400 rpm.
+

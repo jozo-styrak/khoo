@@ -1,0 +1,42 @@
+
+
+Analysis
+
+
+The engines stopped because of fuel exhaustion, which occurred after 2 hours 1 minute of flight. The flight duration is consistent with normal fuel consumption for the type of flight. Neither the pilot nor previous crews indicated any gauge malfunctions. The gauge was calibrated a few months prior to the occurrence. Consequently, an unserviceability of the aircraft or one of its systems was ruled out. Fuel exhaustion can thus be attributed to poor fuel management.
+
+
+The pilot had to assess his fuel supply during flight by monitoring gauge readings, calculating the quantity of remaining fuel and comparing the cruising range and the remaining flight time in order to decide when to refuel. Engrossed in water bucketing, the pilot lost track of flight time and did not monitor the quantity of fuel on board the aircraft. The pilot elected to head to Liberal Camp, a decision that entailed more serious consequences that were less likely to occur, rather than to land near the fire site, which entailed less serious consequences that were inevitable.
+
+
+The pilot was experiencing a more difficult adjustment period than usual owing to his lack of experience with the Bell 212, a more complex aircraft than those he was used to flying. His experience was spread out over three separate periods over 18 months. The relatively long intervals between training sessions and the SOPFEU contract, coupled with the lack of recency of his training, likely contributed to a deterioration of the pilot's theoretical and technical knowledge and, consequently, poor fuel management. Also, the pilot was not given on-the-job training, which would have allowed him to update his knowledge of the aircraft while carrying out his duties. Lastly, a somewhat short sleep period that was interrupted for two hours may have had an effect on the pilot's performance.
+
+
+The pilot's decision to wait until halfway between his departure point and Liberal Camp to assess his fuel load was questionable. As in this case, the pilot could only conclude that it was impossible to return to his point of departure or to make it to his destination.
+
+
+The Company's operations manual merely reiterates the regulations governing fuel-related requirements. Canadian Helicopters Limited did not deem it necessary to establish a special procedure to follow in low fuel level situations or when the FUEL LOW indicator light illuminates; such procedures are not mandatory under the regulations or regulatory requirements. Rather than accurately determine the amount of fuel remaining when the flight had to be aborted, the company, referring to the regulation, allows a greater degree of operational flexibility to its pilots. Consequently, the onus is on the pilot, based on experience, knowledge and judgement, to decide when to abort the flight. In this occurrence, the pilot's experience in similar situations and his lack of familiarity with the aircraft were factors that led him to elect to continue the flight. Had a clear, specific company policy on fuel management been followed, fuel exhaustion would not have occurred. If the pilot had elected to abort the flight when the FUEL LOW warning light illuminated, he would have had sufficient fuel remaining to locate a suitable landing area.
+
+
+During the autorotation, rotor speed decreased continuously until impact. Normally, if the collective is lowered to the stop position, rotor speed will return to the prescribed range. It is possible that the sudden nature of the second engine stoppage, the release of the Bambi bucket and the low altitude could have been factors that delayed the lowering of the collective control to the minimum following the engine stoppage. Accordingly, the decrease in rotor speed was constant and, because of very low rotor rpm on the landing flare, ground contact was not softened sufficiently to prevent substantial damage to the aircraft and serious injuries to its occupants.
+
+
+Though notifying SOPFEU of the illumination of the FUEL LOW warning lights would have been prudent, the pilot was not required to do so since he believed he would reach his destination. However, once he realized, halfway to his destination, that an unscheduled landing was the only viable option, the pilot should have notified the client of the flight emergency. A search could have begun immediately. In fact, after the first engine stopped, the pilot neither radioed an emergency nor notified the passenger of the impending autorotation. Rather, the pilot asked the passenger to notify SOPFEU that he was making a forced landing and required fuel. Because the second engine stoppage occurred less than forty-four seconds later and before the passenger had time to send the message, the search began one hour following the accident.
+
+
+The facts that the helicopter was severely damage and that the ELT activated, indicate that the impact forces exceeded the activation threshold of the CVR G switch. However, since the G switch was mounted in the direction of flight, horizontally, it was less sensitive to the vertical impact sustained by the helicopter following the autorotation. A CVR G switch, mounted at a 45-degree angle as required for ELT installation on board helicopters, would be more likely to stop the CVR recording at impact.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The engines stopped because of fuel exhaustion as a result of poor fuel management and a questionable decision by the pilot to continue the flight despite a low fuel indication. The relatively long intervals between the pilot's training sessions and his first commercial contract using a Bell 212, coupled with the lack of recency of his training and his limited experience with this aircraft, likely contributed to a deterioration in the pilot's theoretical and technical knowledge.
+
+
+
+Findings as to Risk
+
+
+The search was delayed because the pilot did not report the urgency of his situation by radio. The approved G-switch installation did not favour stoppage of the CVR following a vertical impact. Existing regulations for CVR installation do not take into account the potential vertical impact from a helicopter crash.
+

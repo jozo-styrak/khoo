@@ -1,0 +1,19 @@
+the cold front passage	their flight
+the flight crew contacted any of these stations	the most recent weather report that have been provided before their approach was issued at 1628 and indicated that the surface wind was 200 M at 10 knots , and was therefore favouring Runway 27
+they assessed that the conditions were becoming unsafe	The decision to make a second approach was consistent with normal industry practice , in that the crew continue with the intent to land while maintaining the option to break off the approach
+the decision to abort the landing was made	there was insufficient distance remaining for the aircraft to accelerate to lift-off speed
+the high groundspeed	A perception of sufficient airspeed
+the decision to abort the landing was made	there was insufficient distance remaining for the aircraft to accelerate to a sufficient airspeed to lift off
+they assessed that the conditions were becoming unsafe	The decision to make a second approach was consistent with normal industry practice , in that the crew continue with the intent to land while maintaining the option to break off the approach
+There were no anomalies found with the aircraft	this accident
+the obstacles and terrain contour beyond the overrun area	the severity of injuries and the damage to the aircraft
+crew	them to abandon their stop at Powell River or to change runways
+decision	a second approach
+The downwind condition on approach	the aircraft landing long and with a high ground speed , therefore increasing the landing distance
+The downwind condition on approach contributed to the aircraft landing long and with a high ground speed	the landing distance
+This , in combination with the hydroplaning	the crew stopping the aircraft in the runway length remaining
+The downwind condition on approach	the aircraft landing long and with a high ground speed
+This , in combination with hydroplaning	the crew stopping the aircraft in the runway length remaining
+the obstacles and terrain contour beyond the overrun area	the fatality , the severity of injuries , and damage to the aircraft
+Alert Service Bulletin A25-1124A -LRB- dated 01 June 2000 -RRB- , which recommended replacing the inertia reel aluminum shaft with a steel shaft , was not completed	the risk of failure increasing over time
+decision	a second approach

@@ -1,0 +1,14 @@
+
+
+Analysis
+
+
+When the aircraft landed, the elevator control system was functioning normally. There was no binding or indication of any previous binding in the elevator system, nor was there an indication of any damage to any part of the elevator system. The cause of the restriction in the elevator control system had to be something subtle and transitory. The investigation revealed that if the push-to-talk cord was wrapped loosely around the control column, a single loop could snag on the cabin air control knob, and the electrical cord would then restrict the aft movement of the control column. This likely happened as the student was attempting to recover from the stall. The action of pushing the control column forward likely allowed a loosely wrapped electrical cord hanging from the right control column to swing forward and snag the cabin air control knob. The fact that the aircraft was in a nose-down attitude would also tend to allow the loop to swing forward. When the control column was pulled back, the cord would remain snagged and tighten on the knob. This was most likely the condition the aircraft was in when the instructor took control from the student. During the landing approach, when the control column was moved forward to compensate for the flap selection, the tension on the cord would have relaxed, allowing the cord to swing free of the air control knob, freeing the control column through its full travel.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The push-to-talk cord on the right side of the aircraft was stretched to twice its normal length and wrapped loosely around the control column. The cord could therefore become entangled on the aircraft ancillary controls. It is likely that the push-to-talk cord became snagged on the cabin air control knob, restricting the movement of the elevator control.
+

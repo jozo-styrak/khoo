@@ -1,0 +1,34 @@
+improper installation or	The low-voltage indication of the electrical system made it possible to anticipate a loss of electrical power at least within the hour
+The description of the aircraft 's electrical system and the consequences of a low-voltage indication , as set out in the AOM , would have allowed the pilot to realize that the alternator was not meeting the electrical demand necessary for flight	, it can be concluded that the pilot was not familiar enough with the aircraft electrical system , as described in the AOM
+Specifically , the pilot 's last communication suggested that further communications were possible , because the intended track shortly brought the aircraft , flying at 3 000 feet asl , into St-Hubert Class D airspace	, the controller had no reason to believe that the pilot had shut down the transponder and changed the radio frequency before entering Class D airspace , where two-way communication with the ACC and activation of the transponder were mandatory
+the failure of the alternator positive-terminal cable	The Cessna 172 experienced a complete loss of electrical power
+improper	installation or both
+The description of the aircraft 's electrical system	of a low-voltage indication , as set out in the AOM , would have allowed the pilot to realize that the alternator was not meeting the electrical demand necessary for flight
+the pilot had recognized the nature of the problem , he would have been able to report it to the controller over the radio and	land in daylight before the failure
+he did not realize what was happening	The terminal controller probably stopped monitoring the aircraft
+the intended track shortly brought the aircraft , flying at 3 000 feet asl , into St-Hubert Class D airspace	Specifically , the pilot 's last communication suggested that further communications were possible ,
+the Cessna 172 had descended below 2 000 feet asl to pass under the Class D airspace	the controller at least have expected the pilot to select code 1200 for VFR flight
+4 minutes and 30 seconds when the terminal controller tried to reach it for the last time	The aircraft , which was still visible on the radar screen , had been in St-Hubert Class D airspace
+the break in communications occurred at night when the Cessna 172 was flying less than 4 nm from the St-Hubert control zone within airspace where use of the two transceivers was mandatory	The terminal controller should have informed St-Hubert tower of the situation , especially
+the pilot	who knew he was being tracked by radar , had flown a left-hand triangular pattern twice , the controller have been advised of the situation and would have informed the appropriate control units of the circumstances
+the sporadic nature of the primary radar returns and the absence of related data blocks on the radar screen that might have signalled an emergency situation	the airport controller would find it hard to detect the Cessna 172 on the radar screen and infer that the aircraft would land on the runway opposite to the active one
+he thought that the radar was tracking the flight	the pilot of the Cessna 172 wrongly assumed that the St-Hubert airport controller knew of his presence and was providing aircraft separation and the availability of runway 24L , although he had not received any visible signal from the tower clearing him to join the final leg and land
+the collision occurred less than 1 000 feet from the threshold of runway 06R and 42 seconds after the Katana 's pilot acknowledged the take-off clearance	the length of the head-on collision course is likely to have left the pilot of the Cessna 172 little time to see the other aircraft , realize the imminence of the danger and try evasive action
+the pilot had followed the NORDO aircraft arrival procedure	he have been able to see the traffic and identify the runway in use
+low	voltage
+To generate the reverse-bending fatigue loads	the degradation of the cable
+The investigation was	the decay time of the cable
+The low-voltage indication of the electrical system	it possible to anticipate a loss of electrical power at least within the hour
+The description of the aircraft 's electrical system and the consequences of a low-voltage indication , as set out in the AOM	the pilot to realize that the alternator was not meeting the electrical demand necessary for flight
+he	it to the controller over the radio
+The following factors	the terminal controller 's decision to treat the break in communications and the loss of transponder information as a normal situation
+The contrast between the lightless Cessna 172 and the nighttime background	the aircraft virtually indiscernible to the controller and the Katana 's crew
+the St-Hubert airport controller knew of his presence	aircraft separation and the availability of runway 24L
+only visual acquisition	a safe landing possible
+The aircraft 's loss of electrical power	multiple failures
+The fact that the loss of electrical power occurred at night	the emergency more complicated than a similar failure in daylight
+the pilot 's inexperience	him not to realize the imminence of the loss of electrical power and to overestimate the assistance of ATS
+he	the traffic
+the failure of the alternator positive-terminal cable	loss of power
+reverse-bending fatigue loads	degradation
+The installation of the cable was not in compliance with the recommended standard	reverse-bending fatigue loads

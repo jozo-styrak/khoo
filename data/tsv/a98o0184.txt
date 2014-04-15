@@ -1,0 +1,5 @@
+the circuit breaker for the electric motor that operated the hydraulic pump had opened	The aircraft landing gear did not extend when the flight crew selected it down for landing at Ottawa
+the depleted nitrogen charge in the hydraulic system accumulator likely caused the 60-amp circuit breaker to overheat and open , shutting off electric power to the hydraulic pump motor	The combination of repeated landing gear cycling at North Bay and more frequent cycling of the electric hydraulic pump motor
+The depleted nitrogen charge in the landing gear accumulator	more frequent cycling of the hydraulic pump motor
+The combination of repeated landing gear cycling at North Bay and more frequent cycling of the electric hydraulic pump motor because of the depleted nitrogen charge in the hydraulic system accumulator	the 60-amp circuit breaker
+Operation of the emergency landing gear extension system	all three landing gear extending

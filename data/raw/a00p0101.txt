@@ -1,0 +1,55 @@
+
+
+Analysis
+
+
+This occurrence resulted from a response to symptoms of an apparent malfunction that was, in fact, initiated by the omission of a checklist item. There was no malfunction identified, and the aircraft and its components performed in a predictable manner.
+
+
+Because the After Take-off checklist was not completed after an interruption, the pressurization equipment was not reconfigured for flight. Throughout the climb, normal checklist procedures did not result in the checklist sequence being resumed (at several opportunities), situational awareness on the flight deck was not maintained, and events were not prioritized in accordance with SOPs. Therefore, the focus of this analysis will relate to four system components: checklists, training, passenger care, and cabin emergency equipment.
+
+
+Although a bleeds-off take-off procedure is a normal procedure, it is not routine. The After Take-off checklist included the normal pressurization items but did not include non-routine pressurization items. The need to address non-routine items, such as reconfiguring from a bleeds-off take-off, is stored in short-term memory. Due to the limitations of this memory and human vulnerability to distracting events, the likelihood of this item being omitted is relatively high.2 Reconfiguration was not completed during the after take-off check, upon climbing through 10 000 feet, or on reaching cruise altitude, times when checks should have alerted the crew to set up the pressurization as required. The lack of timeliness in reconfiguring the pneumatic system may have resulted in the assessment that checklists were further along than they actually were, and these opportunities were again missed.
+
+
+The crew's response to the simultaneous cabin altitude warning horn, auto fail caution light, and climb in the cabin altitude was to refer to the Auto Fail or Unscheduled Pressurization Change checklist rather than the Cabin Altitude Warning / Rapid Depressurization checklist. The auto fail caution light is not problematic itself; it is merely an advisory that some aspect of the pressurization system is beyond acceptable parameters and that a diagnosis of other information is required to identify the nature of the problem. Actions described in the Auto Fail or Unscheduled Pressurization Change checklist only address the operation and control of the outflow valve. When completion of this checklist did not correct the problem, further diagnosis was not successful until the travelling company pilot arrived on the flight deck. This suggests that the flight crew, at the time, were not aware of the differences between the two checklists or that the auto fail caution light could be symptomatic of a wider range of problems. Company pilot training did not include operator-induced (bleeds-off) loss-of-pressurization scenarios. Because the crew had not encountered a similar situation, through experience or training, they likely lacked awareness of the limitations of the Auto Fail or Unscheduled Pressurization Change checklist.
+
+
+NASA-sponsored research suggests that the practice of completing checklists alone may have become a common method of managing the workload. This practice can contribute to a lower level of situational awareness when one crew member is removed from the operational loop. A vital cross-checking function is eliminated, and the operation then becomes vulnerable to any error committed during the "one-man show". Errors in checklist execution can be reduced by incorporating redundancy (both pilots cross-checking items) and reducing ambiguity (requiring verbal responses stating the actual value or status of an item). Research on checklist design indicates that critical items should be placed first on a checklist: the probability of successfully completing the first items on a checklist is the highest. (Asaf Degani and Earl L. Wiener, Human Factors of Flight-Deck Checklists: The Normal Checklist, NASA contract #NCC2-377, May 1990, pp. 26 and 31.)
+
+
+Existing defences - consisting of but not limited to SOPs, dual pilots, training, and checklists - were in place to prevent such an event from developing. The investigation identified some departures from SOPs, inadequate pilot cross-checks, lack of effective communications, and preoccupation as some of the items that demonstrate a loss of situational awareness by either or both crew members. Without adequate communication practices, a form of "built-in" action cross-check is by-passed, subjecting individuals to their own errors or omissions when completing tasks alone. This may result in situational awareness not being assured among the crew, thereby losing the defence of redundancy by having two pilots. Crew resource management (CRM) practices help crew members communicate better, which can affect their interaction and greatly enhance their situational awareness during all aspects of a flight. Situational awareness is a function of CRM, and CRM must support and be supported by procedural practices. This operator's practice is to have the PNF complete some prescribed checklists or items alone. The pressurization item was placed at the beginning of the After Take-off checklist and, therefore, should have been least vulnerable to omission, yet both pilots missed it on several occasions.
+
+
+Because the crew did not declare an emergency, the flight was deprived of priority handling by air traffic control and medical services at Kelowna. The operator's operations manual does require the crew to check on the condition of the passengers and the crew during or following an emergency event. However, it is unlikely that a typical crew would have the expertise to recognize anything but the most serious symptoms of traumatic stress.
+
+
+The incompatible equipment on the occurrence aircraft went undetected because of the number of different oxygen equipment fittings available and the absence of a standard requiring commonality between portable oxygen equipment within an aircraft cabin. Consequently, there was a delay, although not serious, in supplying oxygen to the infant passenger.
+
+
+The inflation of the passenger oxygen mask reservoir was a concern to many passengers because of a lack of passenger knowledge. The masks functioned in accordance with the design.
+
+
+Normal PA volume from the flight deck may not be adequate to ensure that cabin occupants receive important instructions or information during emergency events. In this situation, failure to understand PA messages from the flight deck, when crew workload prevented the relay of messages through the flight attendants, resulted in confusion.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The After Take-off checklist was not completed after an interruption. Consequently, the air conditioning and the pressurization system were not reconfigured for flight after a bleeds-off take-off. The 10 000-foot memory check was not completed, the air conditioning and pressurization system were not reconfigured, and the auxiliary power unit was not shut down. The pressurization irregularity was not detected during the memory check upon reaching cruise altitude. The auxiliary power unit was shut down at flight level 310 without verifying why it was running. The shutdown resulted in cabin depressurization. The crew did not comply with standard operating procedures and normal procedures in response to the cabin altitude warning horn and depressurization. This delayed their regaining control of cabin pressurization.
+
+
+
+Findings as to Risk
+
+
+Completing checklist tasks alone, without the participation of the other pilot, eliminates error tolerances. Consequently, situational awareness may not be assured. The crew did not declare an emergency. Consequently, the flight was deprived of beneficial services from air traffic control and, if required, the immediate assistance of airport emergency services and medical attention.
+
+
+
+Other Findings
+
+
+Portable passenger oxygen masks for one oxygen bottle in the aircraft cabin were not compatible (interchangeable) with the other portable passenger oxygen bottles in the same cabin. The public address (PA) announcement from the cockpit could not be heard or was not intelligible to some passengers, particularly those in the rear of the aircraft. The PA system does not have a manual or emergency volume selection. Passengers were not aware that supplemental oxygen mask reservoirs may not inflate when the regulated (required) amount of oxygen is provided.
+

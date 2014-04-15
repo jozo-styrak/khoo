@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+The lack of any pitting damage on the surface of the brass block and in the remaining solder indicates that arcing did not occur at this interface. However, there was sufficient heat to melt the solder and allow the braid to completely detach from the block. The block also became sufficiently heated to melt the cadmium plate on the power terminal insert. The fact that some of the ends of the remaining copper braid in the window sill were melted is consistent with the electrical arcing observed by the pilot and strongly indicates that the arcing occurred at or near that location behind the glare shield. The high temperatures associated with arcing (thousands of degrees Centigrade) resulted in the cratering of the inner glass ply and generated sufficient thermal stresses to cause the glass windshield to crack. The temperatures associated with arcing could also vaporize copper, which may explain the loss of some of the braid.
+
+
+The testing conducted by PPG indicates that the copper braid would have had to be completely separated before arcing occurred. The loss of the copper braid between the terminal and the remaining section of braid under the window edge precluded any definitive findings of what caused electrical arcing. However, it was speculated that nicking of the copper braid during construction of the window might allow the copper strands to flex sufficiently to initiate separation and allow electrical arcing to occur.
+
+
+The circuit breaker for the windshield heat did not trip because there was no electrical short to ground, which would also explain the absence of an EICAS warning pertaining to the window heat system. It was not determined what caused the forward equipment overheat warning to appear on the EICAS shortly after the smoke began. However, according to Boeing and American Airlines, the EICAS message was not related to the window overheat problem.
+
+
+The following Engineering Branch reports were completed:
+
+
+LP 111/96 - CVR Analysis; and LP 112/96 - Windshield Electrical Fault.
+
+
+
+Findings
+
+
+An electrical failure under the J5 terminal block mounted on the right front window caused localized arcing. The circuit breakers for the window heat circuit did not trip nor was power removed from the system until after the aircraft landed. The arcing caused cratering and localized melting of the inner glass ply, which eventually led to the cracking of the inner ply and the combustion of the epoxy terminal block, creating smoke. Due to the extensive damage, the origin of the failure could not be isolated; however, it is suspected that the copper braid conductors must have severed to initiate the arcing.
+

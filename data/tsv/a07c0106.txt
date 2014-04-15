@@ -1,0 +1,8 @@
+The wire chafing occurred as a result of relative movement between individual wires secured together in adjacent wire bundles in a non-standard way	The wire chafing occurred of relative movement between individual wires secured together in adjacent wire bundles in a non-standard way
+relative movement between individual wires secured together in adjacent wire bundles in a non-standard way	The wire chafing occurred
+There is no circuit breaker protection in the circuit between the circuit card and the engine fire loop	, the system would overheat until the short occurred
+The wires chafed to the conductor core	the generator PMG 60 VAC transfer to the 28 VDC A loop fire-detection circuit and cause a current surge back through to the fire-detection control electronics box in the cockpit
+to the 28 VDC A loop fire-detection circuit	a current surge back through to the fire-detection control electronics box in the cockpit
+The current surge was dissipated by resistors on the A4 circuit board warning card	a rise in temperature in the resistors the point of ignition
+The wires chafed to the conductor core	a high-voltage power surge back through to the fire-detection control electronics box in the cockpit
+The power surge subsequently shorted the resistors on an internal circuit card	the on-board fire

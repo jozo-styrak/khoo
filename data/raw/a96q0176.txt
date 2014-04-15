@@ -1,0 +1,32 @@
+
+
+Analysis
+
+
+In this accident, the aircraft's left turn on landing may be attributed to several factors. The possibility that the left brake locked up on landing was eliminated, and the runway condition was not a factor. A 15-knot cross-wind from 45 degrees can be controlled easily with the rudder pedals and was considered negligible for this type of aircraft. Application of full right rudder, as described by the crew, should have corrected the drift of the aircraft, but it did not. An aircraft may also turn because of a deflection of the nosewheel. Although such a deflection was not confirmed by analysis, the elimination of all other factors indicates that the nosewheel probably was deflected to the left during the landing. The investigation consequently focused on the actions of the crew during the landing, because the aircraft was maintained in accordance with existing regulations and the tests and analyses revealed no other malfunctions.
+
+
+On the landing, the system was armed and could be used. The nosewheel touched down at a speed of about 110 knots, and the aircraft suddenly veered left. As use of the system was not recommended at speeds over 60 knots and the button used to engage the system was hard to reach from the co-pilot's seat, the co-pilot tried to correct the drift with the right rudder pedal, without telling the pilot-in-command that he had difficulty maintaining directional control of the aircraft. As he was preparing to apply reverse thrust at about 80 knots, the pilot-in-command took the controls of the aircraft. The pilot-in-command was surprised at the amount of force he had to apply to the right rudder pedal. He did not attempt to use the nosewheel steering system, but that would have been impossible without first centring the rudder pedals because they were clearly over three degrees from the nosewheel position. Also, the pilot-in-command did not use reverse thrust because the runway surface was gravel. The marks on the runway indicate that there was no significant braking. The pilot-in-command was unable to maintain directional control of the aircraft, which continued its course to the left and exited the runway.
+
+
+The servo-valve was serviceable, but it was not possible to analyze its hydraulic fluid. The manufacturer merely suggested that the servo-valve be replaced and forgot to list the service bulletin in the bulletin index; consequently, the servo-valve of the aircraft was not replaced, but replacement was not mandatory. Publication of a service bulletin implies that the airworthiness of the aircraft is not in jeopardy; it is reasonable to believe, however, that replacement of this servo-valve might have prevented the accident.
+
+
+The lack of clarity and understanding of the emergency procedures and the lack of communication between the co-pilot and pilot-in-command did not facilitate directional control of the aircraft during the landing roll. Had there been memorized checklist items for the emergency procedure to be followed in the event of an uncommanded nosewheel deflection, and had the co-pilot told the pilot-in-command that he was having difficulty keeping the aircraft straight and was going to use the thrust reversers to bring the aircraft back on course, the pilot-in-command might have used reverse thrust and would not have been surprised at the amount of force he had to apply to the rudder pedal to maintain directional control of the aircraft. In addition, the pilot-in-command might have made greater use of the brakes and propellers and disarmed the nosewheel steering system to maintain directional control of the aircraft, as specified in the user manual approved by the Federal Aviation Administration (FAA). A CRM course would likely have had a beneficial effect on the crew and the actions they took in this occurrence.
+
+
+The following laboratory report was completed:
+
+
+LP 168/96 - Swearingen Nosewheel Steering System.
+
+
+This report is available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings
+
+
+The aircraft was certified, equipped, and maintained in accordance with existing regulations and approved procedures. The weight and centre of gravity were within the prescribed limits. The pilot-in-command and co-pilot were certified and qualified for the flight in accordance with existing regulations. The co-pilot did not tell the pilot-in-command that he had difficulty controlling the aircraft on the landing roll. The marks made by the aircraft tires on the runway surface confirm that there was no skidding and no significant application of the brakes before the aircraft left the runway. The blades of both propellers were found at the same reverse pitch angle. Examination of the wreckage, and the tests on components, revealed no pre-impact malfunctions that could have contributed to the sudden deflection of the nosewheel to the left. The hydraulic servo-valve was serviceable, but its hydraulic fluid could not be examined. The manufacturer's index of service bulletins, which was revised in February 1996, indicated that Service Bulletin SB226-32-058 had not been issued. This bulletin proposed the optional replacement of the hydraulic servo-valve in the nosewheel steering system. The operator had SB226-32-058 in its possession, but the hydraulic servo-valve had not been changed. Replacement of the servo valve might have prevented the accident. The nosewheel was probably deflected left on the landing, for reasons that could not be determined. The members of the crew had not received CRM training. There are no memorized checklist items indicating the actions to take in the event of an uncommanded nosewheel deflection.
+

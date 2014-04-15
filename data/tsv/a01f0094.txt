@@ -1,0 +1,20 @@
+The aft cargo door was most likely not closed and secured before engine start-up , taxi , and departure of the Boeing 727	, the door opened during the take-off roll
+The involved switch was discarded before it could be examined and tested by TSB	, it was not determined whether the switch was defective for the occurrence flight
+ground personnel are usually loading cargo up to the last minute before engine start	the second officer does not carry out a final , post-loading , pre-flight inspection of the aircraft before starting the engines , nor is it required by company procedures
+loading an aircraft and securing all doors became ambiguous as both agencies worked to get the job done in a timely manner	After working together at the local level for several years , Servisair Ltd. and DHL Aviation crews ' direct responsibilities
+loading an aircraft , the local DHL Aviation staff member usually loads packages into the aft cargo area without disrupting the Servisair Ltd. team 's loading in the main cargo area	Although the contract gives Servisair Ltd. responsibility
+a clearly defined set of tasks and/or responsibilities	confusion or miscommunication between two different loading crews -LRB- that is , agencies -RRB- eager to do the job in an efficient and timely manner may lead to an omission of safety-related duties , such as closing and securing the aft cargo door
+electrical contamination or malfunction	This light can become disabled
+ramp dispatch is not part of the contract	When the crew is informed in the cockpit that loading is complete and all doors are closed , the loading crew is not expected to perform a final walk-around
+the crew is informed in the cockpit that loading is complete and all doors are closed	the loading crew is not expected to perform a final walk-around because ramp dispatch is not part of the contract
+loading an aircraft and securing cargo doors might have led to the omission of properly closing the aft cargo door	Servisair Ltd. and DHL Aviation 's local procedure
+different agencies perform the same work without a clearly defined set of tasks or responsibilities	there is a risk of confusion and miscommunication that may lead to an omission of safety-related duties , such as closing and securing doors
+This investigation	no damage the aircraft
+The locations of the three parcels on the runway	further evidence the door was not fully closed before take-off
+The advancement of thrust levers to full power , release of the brakes , take-off roll , rotation , and retraction of the landing gear are	vibrations
+the closeness of an opened cargo door to the engine intake	disruption
+the contract	Servisair Ltd. responsibility for loading an aircraft
+confusion or miscommunication between two different loading crews -LRB- that is , agencies -RRB- eager to do the job in an efficient and timely manner	an omission of safety-related duties , such as closing and securing the aft cargo door
+The aft cargo door microswitch likely malfunctioned	the crew an erroneous indication that the door was secured before take-off
+Servisair Ltd. and DHL Aviation 's local procedure for loading an aircraft and securing cargo doors	the omission of properly closing the aft cargo door
+When different agencies perform the same work without a clearly defined set of tasks or responsibilities , there is a risk of confusion and miscommunication	an omission of safety-related duties , such as closing and securing doors

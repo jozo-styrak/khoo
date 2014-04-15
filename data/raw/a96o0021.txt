@@ -1,0 +1,17 @@
+
+
+Analysis
+
+
+A single pilot, flying a non-precision instrument approach in IMC in this category of aircraft, is in a high workload situation that would require his full attention and flying ability. Although the pilot was using the autopilot in the heading mode selection, he was not using altitude hold and was manually flying and controlling the aircraft power and altitude during the approach.
+
+
+When the CAP 4 containing the applicable approach chart fell to the cockpit floor, the pilot was unable to quickly retrieve it. He elected to continue the instrument approach from memory until he could retrieve the approach chart. Without reference to the approach chart, the pilot incorrectly descended 800 feet below the procedure turn altitude and then attempted to retrieve the CAP 4. His attention was diverted away from flying the aircraft at a critical phase of the flight, and the pilot inadvertently allowed the aircraft to descend about another 700 feet until it struck the trees. Fortunately, the pilot was able to initiate an overshoot and land the damaged aircraft at a diversion aerodrome.
+
+
+
+Findings
+
+
+While the pilot was conducting the approach procedure, the approach chart fell from his knee pad to the floor of the aircraft. Without reference to the approach chart, the pilot prematurely descended the aircraft to the final approach fix crossing altitude prior to establishing the aircraft on the inbound track. The pilot did not use the autopilot altitude hold mode while attempting to recover the approach chart. The pilot did not monitor the aircraft flight instruments while attempting to retrieve the approach chart, and the aircraft descended and struck trees.
+

@@ -1,0 +1,43 @@
+
+
+Analysis
+
+
+During the accident flight, it is likely that the horizontal stabilizer separated while the helicopter was cruising at speeds in excess of 70 mph, causing the tail of the helicopter to pitch up, and the pilot to lose control. Forces produced by the sudden upward movement of the tail boom bent the main rotor blades down, resulting in tail structure interference with the main rotor disc (see Photos 3 and 4). Continued rotation and mast bumping of the main rotor blades destroyed the bubble canopy, and caused the in-flight break up of the helicopter. It is likely that during ground impact the forward protruding rotor blade was forced up, resulting in an overload failure of the rotor spar.
+
+
+Photo 3. Wreckage reconstruction showing interference of tail boom with rotor
+
+
+Photo 4. All components situated relative to normal positions on type
+
+
+The separation of the horizontal stabilizer during the accident flight is probably related to the previous separation of the tail-rotor blade and its subsequent repair. The separation of the tail-rotor blade induced an excessive amount of vibration in the stabilizer that, when combined with the 22-inch arm of the airfoil, bent the stabilizer spar at the root end. The repair, in which the stabilizer spar was bent back and cold straightened, in combination with the excessive vibration, would concentrate forces at the first rivet hole of the root end. The subsequent two tail-rotor strikes then would have aggravated the localized stress concentrations. The vibrations induced by the tail-rotor blade separation and tail-rotor strikes initiated fatigue cracking. Continued operation of the helicopter resulted in continued fatigue cracking and in the eventual overload failure of the stabilizer spar. Installation of the aluminum end cap at the root of the horizontal stabilizer airfoil did not allow inspection of the area, effectively hiding the fatigue crack.
+
+
+The following laboratory report was completed:
+
+
+LP 038/04 - Horizontal Stabilizer Spar Failure.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+Separation of the tail-rotor blade during a previous flight had induced an excessive amount of vibration in the stabilizer, resulting in bending of the horizontal stabilizer spar. Cold straightening the stabilizer spar, which was not a recommended maintenance practice, concentrated stresses at the first rivet hole, resulting in fatigue cracking. Subsequent tail-rotor strikes aggravated localized stress concentrations. Separation of the horizontal stabilizer resulted in a loss of control and in a sudden upward pitch of the tail boom, resulting in the bending of the rotor blades, and causing interference of the tail-boom structure with the rotor disc.
+
+
+
+Finding as to Risk
+
+
+Installation of the end cap at the root end of the stabilizer spar hid the fatigue crack.
+
+
+
+Other Finding
+
+
+No record of the stabilizer spar repair was found in the maintenance records, contrary to the Canadian Aviation Regulations.
+

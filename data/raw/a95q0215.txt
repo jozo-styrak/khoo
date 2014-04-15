@@ -1,0 +1,26 @@
+
+
+Analysis
+
+
+Pilots flying VFR in known high-traffic areas must maintain external surveillance at all times, and they must warn other pilots of their intentions when approaching or departing an uncontrolled aerodrome. They bear full responsibility for seeing and avoiding other aircraft.
+
+
+The two pilots were not monitoring a common frequency; the pilot of the Cessna 180 set the frequency to 126.7 MHz, and the pilot of the Cessna 150 set the frequency to that of the Mascouche tower, 118.6 MHz. It is possible that the pilot of the Cessna 150 monitored the Mascouche tower frequency, given the proximity of the Mascouche control zone, and because he had to contact the controller shortly after take-off. The Mascouche controller did not inform the Cessna 150 that the Cessna 180 was going to land at Laval Aviation because he did not know that Laval Aviation and Contant runway were the same aerodrome. The Cessna 180 had departed the Mascouche control zone five minutes earlier. Therefore, neither pilot was aware of the other's intentions. As a result, collision avoidance was totally dependent on the principle of "see and be seen".
+
+
+By doing his engine checks on the runway, the pilot of the Cessna 150 was not in a position to watch the approach and spot the Cessna 180. The pilot of the Cessna 150 probably did not expect any aircraft to land on runway 19, as landings were usually made in the opposite direction. Evidently, the pilot of the Cessna 150 saw the Cessna 180 overfly the aerodrome, but he did not realize that it was executing a landing circuit.
+
+
+The pilot of the Cessna 180 was not familiar with the customs of the aerodrome. He executed an upwind landing on runway 19, which was not the current practice. He did not ensure that the pilot of the Cessna 150 knew he intended to land, and he executed a landing approach while the Cessna 150 was aligned for the take-off.
+
+
+The Cessna 150 initiated its take-off run just before the Cessna 180 flew over it. The Cessna 180 was practically over the Cessna 150 on final approach and could not be seen by the Cessna 150. The Cessna 150 was hidden by the floor of the Cessna 180.
+
+
+
+Findings
+
+
+The two pilots were not monitoring a common frequency. Neither aircraft was displaying the frequency recommended by Transport Canada. Neither pilot was aware of the other's intentions. The pilot of the Cessna 150 was not in a position to watch the approach and spot the Cessna 180. The pilot of the Cessna 180 did not ensure that the pilot of the Cessna 150 knew he intended to land. Each aircraft was hidden by the fuselage of the other aircraft. The pilots did not execute avoidance manoeuvres.
+

@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+The aircraft was equipped and maintained in accordance with existing regulations, and the pilot was certified and qualified for the flight.
+
+
+The aircraft's engine was producing power at the time of the collision with the surface of the water. Examination of the wreckage and a detailed examination of various components revealed no evidence of a loss of power. Consequently, the investigation did not determine the cause of the transient decrease in rpm reported by the pilot.
+
+
+The fact that the aircraft violently struck the surface of the water nearly one kilometre from where the rpm decrease occurred suggests that a precautionary landing or autorotation landing was not planned. A precautionary landing or autorotation landing would have reduced the horizontal impact forces.
+
+
+The whitening of the lower shoulder straps was caused by ultraviolet rays from the sun. The upper part of the shoulder straps, which was less exposed to sunlight because it was rolled up on the inertia reel, was practically not faded. Since the lower parts of the straps failed at 600 pounds of tension and the upper portion failed at 1500 pounds, it is reasonable to conclude that the degree of weakening of the straps corresponded to the duration of their exposure to sunlight. Moreover, since the upper portion of the strap, although less exposed to sunlight, failed at 66 per cent of the limit required by standard TSO C22, it is reasonable to conclude that even a strap exhibiting no signs of discolouration may have sustained some ultraviolet degradation. Since their mechanical strength was reduced to about 26 per cent of their original strength, the lower shoulder straps failed before reaching the prescribed limit. Consequently, the pilot was subjected to greater deceleration forces than he should have sustained in the accident. The degree of discolouration of the lower shoulder straps was indicative of a degradation of their strength. However, since no signs of physical wear were found, the belts were considered to be in good condition on the aircraft maintenance and TC inspections. It appears therefore that the absence of specific evaluation criteria with regard to the ultraviolet degradation of the belts contributed to the return to service of seat belts that no longer met regulatory requirements.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The investigation did not determine the cause of the transient decrease in engine rpm reported by the pilot. The attitude, speed and altitude of the aircraft did not allow the pilot to avoid a collision with the surface of the lake when the pilot raised the nose of the helicopter.
+
+
+
+Other Findings
+
+
+The pilot's seat belt shoulder straps failed at a tension level below regulatory requirements. The failure occurred as a result of degradation of the straps caused by prolonged exposure to sunlight.
+

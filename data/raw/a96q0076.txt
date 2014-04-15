@@ -1,0 +1,38 @@
+
+
+Analysis
+
+
+On departing Kangiqsujuaq, the pilot knew that the current weather conditions and the conditions forecast for Kuujjuaq were favourable for VFR flight. But the crater is in a largely uninhabited region, and the pilot was unaware that the weather quickly deteriorated west of Kangiqsujuaq and that the weather at the crater was poor. In fact, visibility in that area was reduced, and the mountainous ridge surrounding the crater was probably hidden by cloud. Also, the atmospheric conditions at the time and the local topography were conducive to whiteout. The pilot continued flight in adverse weather in which he risked losing the visual references necessary for avoiding obstructions.
+
+
+The hypothesis of an engine failure or aircraft system malfunction, or both, was eliminated, because the examination of the aircraft revealed no deficiencies and no distress calls were received. Also, if an emergency situation had occurred in flight, all passengers would likely have been found in their seats with their seat-belts fastened. There was no evidence found of any emergency or aircraft malfunction prior to impact.
+
+
+The aircraft struck the ground on the planned route, 2.5 nm east and one minute's time of flight from the waypoint entered in the GPS. All indications are that the pilot did not know his actual position in relation to the crater. The pilot was evidently using the information provided by the GPS to go directly to the crater; since the coordinates entered in the GPS for the crater were incorrect, the pilot was unaware of the actual position of the aircraft, and evidently arrived at the crater one minute sooner than he expected.
+
+
+The pilot encountered adverse weather conditions and probably used the GPS to lighten his workload. Two possibilities were examined: either the pilot descended to break out of the clouds and see the crater, or he flew under the clouds so he could see the ground and fly visual. The theory that he tried to descend below the cloud base was considered unlikely, however, as it would have been unusual for the pilot to descend to an altitude below the crater summit and below the safe altitude for the area. Also, if the pilot had attempted such a manoeuvre, it is highly probable that the aircraft would have struck the ground in a nose-down attitude.
+
+
+Instead, it appears that the pilot, who knew the area well, was trying to fly visual, by using the GPS, to arrive over the crater in visual meteorological conditions (VMC). However, the pilot encountered reduced visibility and whiteout conditions, where there was a considerable risk that he would lose visual contact with the ground due to the prevailing weather conditions.
+
+
+The slight nose-up attitude and the heading of the aircraft, about 25 degrees greater than that of the route planned and that of the breakup trajectory, suggest that the pilot initiated a climb and an uncoordinated right turn just before colliding with the ground. Therefore, it is reasonable to believe that the pilot evidently did not have the required visual references and did not see the ground in time to avoid it.
+
+
+The aircraft was not equipped with a radio altimeter or GPWS. These devices could have warned the pilot that the aircraft was dangerously close to the terrain; however, these devices were not mandatory.
+
+
+Although the autopsy report determined that serious coronary arteriosclerosis may have contributed to the pilot's death, there was no evidence that his performance was affected by physiological factors. In fact, the aircraft attitude and heading on impact indicate that the pilot was not affected by any incapacitation that could have prevented him from controlling the aircraft.
+
+
+The Nouveau-Qu bec crater is a unique terrain feature located in an inaccessible region. It could not be determined why the pilot decided to continue the flight in adverse weather. However, it is probable that his knowledge of the area, the proximity of the crater, and the information provided by the GPS influenced the pilot's decision.
+
+
+
+Findings
+
+
+The pilot was certified and qualified for the flight in accordance with existing regulations. There was no evidence found of any airframe failure or system malfunction prior to or during the flight. The pilot was unaware of the current weather conditions in the crater area. While the pilot was en route toward the crater, weather conditions deteriorated; the pilot continued flight and evidently used the GPS. Visibility was reduced, and the atmospheric conditions and local topography were conducive to whiteout at the accident site at the time of impact. In the moments preceding the impact, the pilot evidently did not have the visual references required to avoid obstructions. Because incorrect coordinates were entered in the GPS, the crater's actual position was 2.5 nm east of the position indicated by the GPS, and the pilot evidently arrived at the crater about one minute sooner than he expected. The ELT selector switch was at OFF. The aircraft was not equipped with a GPWS, nor was one required under existing regulations. The pilot suffered from relatively serious coronary arteriosclerosis which was not detected by routine medical examinations. There was no evidence that incapacitation or physiological factors affected the pilot's performance.
+

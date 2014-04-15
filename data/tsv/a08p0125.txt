@@ -1,0 +1,40 @@
+of the loss of engine power was not determined	The helicopter was functioning normally until an event caused the engine to either lose power or shut down
+The tail boom and tail rotor survived the accident and an examination revealed no tail rotor anomaly	, it is unlikely that deliberate pilot action precipitated the engine power loss
+Under these conditions , the helicopter would not have had sufficient altitude or time to develop autorotative flight following a sudden loss of engine power	, the pilot would have had no opportunity to conserve rotor rpm and a high rate of descent would have developed rapidly
+The HVD assumes that the terrain is suitable and considers altitude and airspeed only , without any discrimination for other operational factors , such as pilot skill or experience , weather , or obstacles	The HVD is a best-case scenario and shows the optimum flight path profile for take-off , landing , and en-route regimes , based upon helicopter aerodynamic performance
+It is noteworthy that a constantly repeating theme throughout the CARs is that flight operations must not create a hazard to people or property on the surface	, the final responsibility for safe operational practices remains with individual helicopter operators and pilots
+The helicopter performed manoeuvres over homes in the vicinity of the power lines	, the accident flight took place over a built-up area and would have been bound by the general prohibition under Section 602.14 and/or the conditions set out in Subpart 702
+In the absence of clear direction and guidance , companies may select the requirements that impose the least stringent conditions	, low-level aerial inspection flights over built-up areas will continue , thereby creating a hazard to persons and property on the surface
+In the absence of clear direction and guidance , companies may select the requirements that impose the least stringent conditions	, low-level aerial inspection flights over built-up areas will continue , thereby creating a hazard to persons and property on the surface
+The analysis will focus on the loss of engine power , the possibility that FCU or PTG function contributed to the accident circumstances , and the flight performance that was available from the helicopter	on the accident circumstances
+either	pilot action or mechanical event
+the FCU malfunctioned in some manner	the effect on the engine operation could have been immediate
+internal anomalies , blocked or leaking pneumatic lines , or as a result of anomalous signals from the PTG	The FCU could have malfunctioned
+The accident FCU was thermally damaged , precluding functional testing	, the in-service function of the FCU was not assessed
+the PTG was installed new and remained on the engine since that time	it can be deduced that the spacer shim found loose was placed on the shaft during manufacture in accordance with pre-design change specifications
+the remarkable shortfall in average service life of the units	it is possible that the PTG malfunctioned
+the former was true	Bighorn Helicopters Inc. likely have seen itself exempt from the general prohibition as granted under SubSection 602.15 -LRB- 1 -RRB-
+the company viewed its operation as being conducted elsewhere than over a built-up area	the general prohibition have required the helicopter to be operated at 500 feet
+an event	the engine to either lose power or shut down
+The interruption to engine power	rapid loss of rotor rpm to the point
+FCU or PTG function	the accident circumstances , and the flight performance that was available from the helicopter and its effect on the accident circumstances
+there is no scenario in such flight conditions	an experienced pilot
+The tail boom and tail rotor survived the accident and an examination	no tail rotor
+few airframe failures	a helicopter turbine engine
+an airframe or drive train event	the engine to lose power
+There was no indication of any pre-accident malfunction of any flight control or rotor drive system on the helicopter	a loss of control of the helicopter
+No evidence was found to suggest that any of the engine modules had suffered any pre-impact mechanical event	a loss of engine power
+rpm	or
+the engine rpm and the rotor rpm	seconds before impact
+Examination of the FCU and its components did not identify a failure mode	the sudden loss of engine power
+the spacer shim found loose	the shaft during manufacture in accordance with pre-design change specifications
+However	the remarkable shortfall average service life of the units
+Any manoeuvring by the pilot to avoid obstacles	this deteriorating condition
+The CARs prescribe conditions for low-altitude flight in helicopters over built-up areas that , in general	the manner of operation
+paragraph 602.15 -LRB- 2 -RRB- -LRB- b -RRB-	operation at lower altitudes and distances
+Therefore , low-level aerial inspection flights over built-up areas will continue	a hazard persons and property on the surface
+The engine lost power at an altitude and airspeed combination that did not permit fully developed autorotative flight	rapid loss of rotor rpm
+several obstacles that afforded him only one clear landing site that was beyond the gliding range of the helicopter	the pilot
+The pilot 's efforts to avoid the house and reach that site	the already high rate of descent
+Flights conducted at altitudes that do not permit safe descent , manoeuvring and landing following an event that requires a single-engine helicopter to land immediately	risk persons and property
+Therefore , low-level aerial inspection flights over built-up areas will continue	a hazard persons and property on the surface

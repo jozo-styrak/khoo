@@ -1,0 +1,51 @@
+
+
+Analysis
+
+
+The aircraft struck terrain north of the airport while the crew was in controlled flight, executing a missed approach following a rejected visual approach to Runway 01 in night visual flight rules conditions. All indications are that the aircraft was functioning normally up to the point of impact. The analysis, therefore, will discuss the decisions and actions of the crew. Although reference is made to the term "missed approach", the crew were conducting a visual approach and overshoot. After the rejected landing, the crew intended to fly a 1000-foot above ground level circuit for another landing attempt. However, given that there was no celestial light and no ground lights in the area of the missed approach, the aircraft would have had to be flown with reference to the flight instruments.
+
+
+The medical review concluded that, while the autopsy findings with respect to the first officer's cardiac conditions and thyroiditis were notable, there was no indication that they affected his performance before or during the accident. The review pointed out that cannabinoids are highly lipophilic, meaning that they are readily stored in fat. For this reason, it is possible for an individual to test positive for cannnabinoids for up to three months after drug use. The measurement of greater than 50 ng/ml is quantitative only in so far as it indicates that the concentration of cannabinoids was above the generally accepted positive level in occupational drug testing. It was impossible to determine the extent of cannabinoid use by the first officer or the timing of such use. Also, it was not possible to make a link between the first officer's performance during the flight and the level of cannabinoid in his body. It is known that cannabinoid use can adversely affect human performance. The absence of drug testing for commercial pilots reduced the chance of detecting the presence of cannabis. Any company personnel who had concerns about drug use at the company were free to take such concerns to the company aviation safety officer.
+
+
+The descent into Shamattawa, Manitoba, was started late, which led to the aircraft being high and fast on approach. Although the crew were aware that the aircraft was high and fast, they did not take effective action to resolve the problem and had to execute a missed approach. The use of the lower altimeter setting would have contributed to the aircraft being high on the approach.
+
+
+The absence of ground-based VASIS made the determination of the approach angle more difficult for the crew. The presence of an VASIS would have enabled the crew to take earlier, more positive corrective action to avoid the missed approach. The ground-based observation that the aircraft did not climb, and the absence of a 400-foot call by the first officer, indicate that the required 8 to 10 degree pitch attitude was not set by the captain. Neither pilot revealed any awareness or concern that the aircraft was not in a climbing attitude. This lack of concern is an indication that the captain, at least, lost situational awareness after the missed approach was initiated, and that the first officer was either not monitoring the flight or he also lost situational awareness.
+
+
+The loss of visual references as the aircraft accelerated along the runway and past the lights of the community were ideal for the onset of somatogravic illusion in the pilot flying. Even 7 seconds prior to impact, the captain believed that he was climbing to 1000 feet above ground level. The captain's performance was consistent with his being unable to distinguish the imposed acceleration as the aircraft speed increased from that of gravity and, although he probably thought the aircraft was climbing, it was not.
+
+
+The first officer may also have been influenced by the somatogravic illusion. During the 30 seconds of the missed approach, his tasks were to react to the captain's commands and to monitor the instruments. Apparently the first officer did not observe anything remarkable or he would have alerted the captain that the aircraft was not climbing. It is possible that he was distracted by the sudden sound of the NDB identifiers just after the missed approach was initiated. The NDB receiver was turned off just prior to impact, and since the control head is on the first officer's side of the cockpit, it was likely he who turned the NDB off. Given the short duration of the overshoot and the tasks that the first officer was performing, it is probable that he had a false perception that the aircraft was climbing.
+
+
+Even though the conditions were present for the crew to be affected by somatogravic illusions, these illusions could have been overcome by at least one of the crew. During the visual approach, the pilots were able to fly with visual reference to the surface. However, pilots are required to transition to instruments when entering, or about to enter, weather or environmental conditions where visual flight conditions do not prevail, as was the case when the overshoot was initiated. Had this transition been made, the fact that the aircraft was not climbing would have been evident.
+
+
+The company SOPs for the missed approach was less stringent than those for the company's training school. There was no stated requirement to use instruments during a missed approach nor a requirement to identify two positive rates of climb. The use of these two techniques would be a stronger defence against the possibility of somatogravic illusion and loss of situational awareness.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 097/01 - Stabilizer Trim Electrical Linear Actuator LP 098/01 - Instrument Examination LP 117/01 - Stall Avoidance System
+
+
+These reports are available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+The aircraft was flown into terrain during an overshoot because the required climb angle was not set and maintained to ensure a positive rate of climb. During the go-around, conditions were present for somatogravic illusion, which most likely led to the captain losing situational awareness. The first officer did not monitor the aircraft instruments during a critical stage of flight; it is possible that he was affected by somatogravic illusion and/or distracted by the non-directional beacon to the extent that he lost situational awareness.
+
+
+
+Other Findings
+
+
+The absence of approach aids likely decreased the crew's ability to fly an approach from which a landing could be executed safely. The company standard operating procedures (SOPs) did not define how positive rate is to be determined.
+

@@ -1,0 +1,10 @@
+The average fuel usage determined from the journey log for C-GPOW of 225 pph for similar flights was close to the company 's guidance	, the actual fuel consumption rate of C-GPOW was reasonable and close to what would be expected
+fuel	exhaustion
+fuel exhaustion	During the missed approach , the aircraft 's engines lost power
+The pilot 's pre-flight fuel estimate	his conclusion that he would have 50 minutes of fuel on arrival in Winnipeg , was incorrect
+The pilot 's decision to fly the ILS well above the glide path and at a higher-than-normal airspeed	a ineffective approach from which a landing could not be made , although the reported weather at the time of the approach was better than the landing minima for the ILS to Runway 13
+The ILS approach was flown above the glideslope and beyond the missed approach point	the possibility of a safe landing at Winnipeg
+the possibility of a safe landing at Winnipeg	the risk of collision with terrain
+The company did not provide an adequate level of supervision	the flight depart without an autopilot
+The company did not provide an adequate level of supervision	the flight depart without adequate fuel reserves
+a safety system in place	a fuel exhaustion situation developing

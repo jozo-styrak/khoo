@@ -1,0 +1,17 @@
+
+
+Analysis
+
+
+Privately owned aircraft must be maintained in accordance with a maintenance schedule. The owner can choose either a maintenance schedule provided by the manufacturer or a more general schedule like that proposed by Transport Canada at Appendices B and C of CARs Standard 625.86. The scope of the inspection for each item must be determined by the person performing the inspection, depending on the general condition of the aircraft and the type of operation. The annual inspection is an appropriate time to evaluate the airworthiness of the aircraft.
+
+
+Item 5 of the Cabin and Cockpit section of form AERO 215 calls for a check of the condition and operation of the flight controls. The aircraft technical records show that no item on form AERO 215 was initialled by the person who performed the inspection and that the AME certified on the last page of the form that the aircraft was airworthy. The defect on the stationary panel was visible from the right-hand seat in the cockpit. However, it could not be determined when the brace progressive fatigue failure initiated, leading to the failure in overload.
+
+
+
+Findings
+
+
+The records indicate that the pilot was certified and qualified for the flight in accordance with existing regulations. The annual inspection was certified by an AME. The defect on the stationary panel was visible from the right-hand seat in the cockpit. Laboratory analysis determined that the part showed evidence of progressive fatigue failure. Fatigue developed under reverse bending loads until the part was weakened to the point where it separated in overload. It could not be determined when the brace progressive fatigue failure initiated, leading to the failure in overload. Failure of the right stationary panel brace prevented the elevator control from moving freely and from being pushed forward.
+

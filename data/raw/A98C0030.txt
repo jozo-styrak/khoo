@@ -1,0 +1,38 @@
+
+
+Analysis
+
+
+Examination of the aircraft wreckage indicates that its structure, engine, and flight control system were serviceable at the time of the accident.
+
+
+The prime radar target that departed Gimli was probably that of the accident aircraft. The fact that a only a prime target was observed indicates that the transponder was either not functioning or was not turned on during the flight. The practice of the instructors was to turn on the transponder, therefore it is possible that the transponder was turned on but not serviceable during the accident flight. The unserviceability of the transponder made it more difficult for the aircraft to interact with the air traffic control system; however, it did not affect the safety of this flight.
+
+
+The available information indicates that the instructor and the student obtained the area forecast for the proposed route of flight between Gimli and Dauphin, but did not have specific weather information for the Vogar area available to them during their pre-flight planning and were therefore probably unaware of the fog that prevailed in the area of Lake Manitoba. However, the area forecast predicted scattered stratus ceilings 500 to 1,000 feet, and visibilities as low as one mile, which did not meet the weather requirement of the CARS. The instructor's decision to depart under these conditions left him little margin for any deterioration of the ceilings or visibilities from those mentioned in the forecast.
+
+
+The student was planning to return home to Ontario on the following day, and the instructor and the student were attempting to complete the flight test before the student's departure. How this may have influenced the decisions made by the student and instructor cannot be ascertained, but it is likely that it would have increased the pressure on the instructor and the student to complete the flight to Dauphin.
+
+
+The management structure at IIPTC incorporated some supervision of the instructors by the assistant CFI and the CFI. However, it did not provide for routine monitoring of the flight planning process, nor did it assist in regularly evaluating the available weather information. When the CFI and the assistant CFI reviewed the area forecast after the accident, they indicated that they did not consider the weather to be suitable for the planned flight. Had their approval been required before departure, the flight would likely not have been dispatched. The fact that the instructor was aware of the area forecast but chose to initiate the flight into an area of predicted adverse weather, and that the CFI reviewed the observed weather but not the area forecast, indicates that the importance of area forecasts in the flight planning process was not emphasized at IIPTC.
+
+
+Although the weather at Gimli and at Dauphin exceeded the regulatory requirements for VFR flight, the weather that was observed in the area of the accident site was worse than forecast and did not meet the regulatory requirements for either visibility or ceiling. The local reports indicate increasing cloud cover west of Highway No. 6, and a low ceiling and visibility over the lake in the area of the accident site. The ground observer west of Vogar was able to hear the aircraft but was unable to see it because of fog, so it is unlikely that the aircraft was at that point being operated with adequate visual reference to the ground.
+
+
+The instructor and student flew toward the area of increasing cloud cover from the east, where the cloud cover was higher and scattered, and where better visual conditions prevailed, in that the vegetation provided visual cues even though the ground was snow-covered. As the aircraft approached Vogar, the cloud thickened and the ceiling lowered. West of Vogar, much of the visual reference with the surface would have been lost as the forested terrain gave way to the frozen lake surface. The steady sound and level attitude of the aircraft as seen between the clouds east of Vogar indicates that the aircraft was, at that point, under control. The low altitude of the aircraft as reported by observers indicates that the aircraft was considerably lower than the planned altitude of 2,500 feet asl. The changing pitch of the aircraft sound, reported by an observer west of Vogar, coincided with the progress of the aircraft from flight over land to flight over the frozen lake. This manoeuvring might have been undertaken in an effort to reverse course, and the sharp cracking sound which followed may have been the sound of the aircraft striking the ice.
+
+
+The white surface of the lake provided little contrast with the broken cloud and probably removed what little visual reference was available to the pilot of the aircraft. The attitude of the aircraft as it struck the ice indicates that the pilots lost control of the aircraft and entered a manoeuvre from which they were unable to recover in the altitude available. Although the instructor had undergone some instrument flight training, he was not qualified for flight in instrument meteorological conditions, nor was the aircraft certified for flight in such conditions. The pilots probably lost control of the aircraft as the cloud cover increased, and visual contact with the ground was lost in the near-whiteout and low cloud conditions.
+
+
+The following TSB Engineering Branch Report was completed: LP 22/98 Instruments Examination. This report is available upon request from the Transportation Safety Board of Canada.
+
+
+
+Findings
+
+
+The instructor was certified and qualified for the flight in accordance with existing legislation. The aircraft's maintenance records indicate that the aircraft was certified and equipped in accordance with existing regulations, but was not equipped for instrument flight. Examination of the aircraft's structure, flight control systems, and engine did not reveal any pre-crash malfunctions. The aircraft's transponder was possibly not serviceable during the accident flight. The aircraft's weight at take-off, and at the time of the occurrence, was slightly above the maximum approved gross weight for the aircraft type. The area forecast predicted scattered stratus ceilings of 500 to 1,000 feet along the proposed flight route, with light drizzle and snow and mist. The instructor obtained a weather briefing from FSS, and the student obtained the relevant weather information from the NavCanada Internet site. The CFI reviewed the weather at Dauphin and Gimli before the accident flight departed, but did not check the area forecast. The IIPTC safety precautions policy contained specific weather limits for solo flights by students, but no specific weather limits for instructors. The importance of area forecasts in the flight planning process was not emphasized at IIPTC at the time of the accident. The weather conditions deteriorated as the flight progressed west of Highway No. 6, with low ceilings and low visibility in the vicinity of the accident site. As the aircraft approached Lake Manitoba, fog and the frozen surface of the lake offered few visual cues to the pilot, and near-whiteout conditions prevailed. Neither the student nor the instructor was qualified for instrument flight. The aircraft entered a manoeuvre from which the pilot could not recover in the available altitude and struck the ice in a nose-down attitude. The student's planned departure from IIPTC on the day after the accident flight likely increased the pressure on the instructor and student to complete the flight.
+

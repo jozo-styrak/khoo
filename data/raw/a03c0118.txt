@@ -1,0 +1,43 @@
+
+
+Analysis
+
+
+The failure of the No. 3 cylinder exhaust valve to fully open was progressive as the cam roller wore. Because the required field barometric power reference check was not completed after the replacement of the No. 1 cylinder or prior to take-off, the operator did not ascertain whether the engine was operating correctly at higher power settings. Consequently, the effects of the closed or near closed exhaust valve went undetected and may have been masked by the failure of the No. 1 cylinder.
+
+
+During assembly of the No. 3 cylinder exhaust push rod, a spacer was incorrectly installed end-wise under the ball end. When the ball end was pressed into place, the spacer was likely set and partially bent within the tube, bringing the overall length of the push rod into a range that was considered satisfactory during installation. The investigation was unable to determine when the spacer was incorrectly installed.
+
+
+During normal engine operation, the repetitive lifting action of the valve would have further bent the spacer, effectively shortening the overall length of the push rod and increasing the clearance between the valve and the valve rocker. This increased clearance would have resulted in a pounding action of the cam roller against the cam ring lobes. An adjustment of the valve clearance during the inspection conducted at 100 hours time in service would likely have brought the clearances back into tolerance; however, the cam roller and cam ring had already been damaged. Small fragments of cam roller material would have begun to break off, creating a flat spot on the roller. As the roller stopped turning and began to slide over the cam lobes, an increased wear pattern developed. At some point, the valve was again adjusted, accounting for the valve screw protrusion being out of limits. The adjustment was likely made in an attempt to bring the ever-diminishing valve clearance back into tolerance. The wear eventually progressed to the point where the exhaust valve was not opening. The failure of the exhaust valve to open would have resulted in the exhaust gases accumulating in the combustion chamber and migrating back through the opening of the intake valve into the induction system. The hot exhaust gases would have ignited the fuel/air mixture in the induction, resulting in a backfire and the loss of engine power.
+
+
+The breakage or failure of the top portion of the cam roller slot tappet guide likely occurred because the combination of wear on the No. 3 exhaust cam roller and cam lobes resulted in a longer stroke of the tappet assembly and the eventual protrusion of the cam roller pin beyond the tappet guide. This protrusion of the cam roller pin would have resulted in the cam roller pin drifting outward and splitting the top portion of the tappet guide roller slot. It is likely that the failure of the top portion of the tappet guide roller slot was the result of the engine backfire and did not contribute to the loss of engine power.
+
+
+It could not be determined when the No. 3 exhaust valve was last adjusted or when the valve adjustment screw protrusion was set beyond limits. The company did not check the valve clearances on a progressive 400-hour schedule, as required by the maintenance manual and could not account for the valve adjustment screw protrusion being set beyond limits. Had the out-of-limits screw protrusion been noted during the adjustment of the valve or during a regularly scheduled inspection, an examination might have revealed the excessive wear in the valve train and prevented the engine power loss.
+
+
+High deceleration forces when the aircraft struck the ground and trees likely exceeded the design strength of the cabin passengers' seats, resulting in an overload failure of the support structure of the seats.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+A spacer in the No. 3 cylinder push rod tube was installed incorrectly. This initiated the increased wear that eventually prevented the No. 3 exhaust valve from opening, resulting in hot exhaust gases migrating into the induction system and causing the engine failure. Following replacement of the No. 1 cylinder, the operator did not complete a field barometric power reference check, which is used in early identification of an engine problem. The valve adjustment screw protrusion was set beyond specified limits. Had the out-of-limits screw protrusion been noted during adjustment or during a scheduled inspection, an examination might have revealed the excessive wear in the valve train and prevented the engine failure.
+
+
+
+Findings as to Risk
+
+
+The licence of the AME who signed the aircraft journey log entries had expired.
+
+
+
+Other Findings
+
+
+The removal of the ELT was not placarded as required by CARs; the pilot was not aware that the ELT was not installed.
+

@@ -1,0 +1,29 @@
+
+
+Analysis
+
+
+On the basis of the propeller governor and tachometer test results, the propeller examination and damage signatures, and the lack of any conflicting evidence, it is likely that the engine was producing substantial power at impact. Although a reduction in available take-off power as a result of carburettor icing or other system malfunction cannot be ruled out, the investigation of the evidence available did not reveal any such pre-impact condition.
+
+
+The cause of this accident likely involves a combination of several factors. The pilot was relatively inexperienced with soft-field grass-runway take-offs. The aircraft was near its maximum gross weight. The pilot may have had an expectation of greater aircraft performance based on the aircraft's past performance when the engine propeller governor was set 300 rpm higher and, therefore, producing more take-off power.
+
+
+The pilot used a soft-field take-off technique which, in combination with the terrain rise at about the 1,000-foot mark of the airstrip, caused the aircraft to become airborne prematurely at a low airspeed with a nose-high attitude. During a soft-field take-off using such a technique, the aircraft would be operating at a relatively high angle of attack and in a region of the flight envelope where small increases in angle of attack result in significant increases in drag. Because of the characteristics of the laminar flow air foil, the aircraft nose must be lowered substantially before drag is reduced to allow the aircraft to accelerate.
+
+
+The aircraft touched down again about 900 feet further down the airstrip, at about the safe abort point. Once the pilot continued the take-off beyond the safe abort point, the high drag loads did not allow the aircraft to accelerate sufficiently to climb and clear the obstructions beyond the end of the airstrip. The aircraft stalled when the pilot manoeuvred to avoid impact.
+
+
+The following Engineering Branch report was completed:
+
+
+LP 133/96 - Take-Off Performance Analysis.
+
+
+
+Findings
+
+
+Records indicate that the aircraft was certified, equipped, and maintained in accordance with existing regulations and procedures. The pilot estimated that the aircraft's weight was slightly below the maximum limit and that the C of G was within the prescribed limits. The pilot was certified and qualified for the flight in accordance with existing regulations. Because of the almost complete destruction of the aircraft by the crash and fire, it could not be determined whether any pre-impact failure or system malfunction contributed to the accident; however, none was identified. There was no evidence of carburettor icing. The tachometer which was removed in January of 1996 was found to be indicating approximately 300 rpm low. The propeller governor maximum speed setting was decreased by approximately 300 rpm when the new electronic tachometer was installed. Having previously operated the aircraft at an engine speed that was 300 rpm higher, the pilot may have had an expectation of greater aircraft performance that could not be achieved on the day of the accident. On take-off, the aircraft became airborne prematurely and maintained a nose-high attitude which prevented the aircraft from accelerating and climbing sufficiently to clear the obstacles. The pilot continued the take-off beyond the safe abort point. The aircraft stalled at an altitude from which recovery was not possible.
+

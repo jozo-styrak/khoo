@@ -1,0 +1,30 @@
+
+
+Analysis
+
+
+Damage to the aircraft was consistent with an impact with the ground after a low-level wing stall. The aircraft's exact flight path could not be determined. However, conditions were conducive for low-level windshear at the time of the accident, and the aircraft was configured for take-off or manoeuvring flight. A possible accident scenario is that the aircraft encountered windshear while manoeuvring in the vicinity of the operator's boat cache north of Miller Lake, resulting in a stall at an altitude from which the pilot could not recover.
+
+
+Because C-FDNZ was maintained on an annual inspection program, its maintenance program did not meet the requirements of the CARs maintenance standards for commercially registered aircraft. However, the absence of any indication of a technical malfunction suggests that the maintenance program was not a contributing factor in the accident.
+
+
+The accident occurred at approximately 1430. However, the aircraft was not reported as missing until 2130 because it was not expected to arrive at Roderick Lake until 2000. Consequently, the flight watch system used by the camp operator and pilot delayed initiation of the search and rescue mission by seven hours. The late start, deteriorating weather, and the absence of an ELT signal all contributed to a lengthy rescue mission, which extended the time that the passenger was trapped in the wreckage to approximately 18 hours.
+
+
+The location of the ELT arming switch precluded the trapped passenger from having operated it, indicating that it must have been turned off at some time before the occurrence flight. Its location also prevented the passenger from activating the ELT after the accident.
+
+
+
+Finding as to Causes and Contributing Factors
+
+
+The aircraft stalled while manoeuvring at an altitude from which recovery was not possible. The stall was most likely induced by low-level windshear.
+
+
+
+Findings as to Risk
+
+
+The company's flight watch system delayed the initiation of the search and rescue response. The emergency locator transmitter (ELT) had been turned off and was out of reach of the trapped passenger. The absence of an ELT signal compounded the difficulty in locating the aircraft and extended the duration of the search.
+

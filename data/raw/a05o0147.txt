@@ -1,0 +1,58 @@
+
+
+Analysis
+
+
+The aircraft cartwheeled in the same direction that the pilot would typically land. At the time of landing, there was a crosswind coming from the pilot's left. The pilot could have landed into the wind on the wider portion of the lake. It could not be determined why he decided to land, in a crosswind, on the eastern section of the lake.
+
+
+The pilot made three short flights during the week preceding the accident. However, he had not flown within the eight months before, and his skills had not been assessed for over four years. Although this pilot's flying activity exceeded the requirements of Subsection 401.05(1) of the CARs, there were extended periods throughout his flying career when he did not fly.
+
+
+Currently, the demonstrated proficiency required to complete a licence, permit or rating is defined in various flight test standards. TC's Pilot Examiner Manual states that the aim of a flight test is to determine that the candidate meets the skill requirements for the licence, and to ensure that acceptable levels of safety are maintained and improved throughout the aviation industry by requiring the application of sound airmanship and flight discipline.
+
+
+However, once a candidate has successfully completed a flight test, the recency requirements allow a pilot to continue to exercise the privileges of his or her licence without having to demonstrate proficiency to another qualified person on a regular basis. As such, a pilot may continue flying for years without reinforcing, through practice, those skills considered essential for the initial issuance of a licence (for example, dealing with an engine failure, landing in a crosswind).
+
+
+In this occurrence, although this pilot's flying activity exceeded the minimum requirements of Subsection 401.05(1) of the CARs, it is unlikely that critical flight skills and procedures were practised to ensure proficiency. The current recency requirements in Canada allow pilots to go for extended periods without any retraining in critical flight skills, presenting the risk that pilots will not be prepared to deal with unusual or critical flight situations when they arise. Yet, most insurance companies require pilots to demonstrate their skills before providing appropriate insurance, and, in addition, pilots are typically required to undergo a check flight before they can rent an aircraft.
+
+
+If the aircraft doors are locked as required during flight, the design of the door lock mechanism does not permit access to the cabin from the outside by using the exterior door handles. Since the doors are the only available emergency exits, potential rescuers will not be able to readily gain access to the cabin in an emergency situation. Even if the doors were unlocked, the exterior door handle is mounted flush with the door and is not easily distinguishable in a poor visibility situation, such as encountered in this occurrence.
+
+
+The ELT switch was found in the OFF position, which, in the absence of witnesses, would have increased the response time of search and rescue units. It could not be determined why the pilot had not switched the ELT to the armed position, as required by Subsection 605.38(1) of the CARs.
+
+
+The prescription glasses that the pilot would wear for flying were found in their case in the aircraft. It could not be determined why the pilot was not wearing his prescription glasses, as required by his medical certificate.
+
+
+The following TSB Engineering Laboratory reports were completed:
+
+
+LP 077/2005 - Aircraft Recovery LP 080/2005 - Instrument Analysis
+
+
+These reports are available from the Transportation Safety Board of Canada upon request.
+
+
+
+Findings as to Causes and Contributing Factors
+
+
+For undetermined reasons, the aircraft cartwheeled after contacting the water and came to rest in an inverted position. The pilot was unable to exit the aircraft and he drowned.
+
+
+
+Findings as to Risk
+
+
+The pilot had not flown a training flight with an instructor for more than four years. This likely resulted in a degradation of his skills and decision-making processes. The current recency requirements in Canada allow pilots to go for extended periods without retraining on critical flight skills, presenting a risk that pilots will be ill-prepared to deal with unusual or critical flight situations when they arise. The design of the door lock mechanism prevents opening of the doors from the outside when locked from the inside. This same design is currently being used in all of Cessna's new production single-engine aircraft. The exterior door handles are not easily discernable when the handles are closed and the visibility is poor. The pilot was not wearing his prescription glasses while flying. The emergency locator transmitter switch was not in the armed position, preventing activation on impact.
+
+
+
+Other Finding
+
+
+It could not be determined whether the pilot had complied with the recency requirements of Subsection 401.05(2) of the Canadian Aviation Regulations.
+
