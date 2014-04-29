@@ -6,6 +6,7 @@ import edu.stanford.nlp.trees.Tree;
 public class SentencePairWrapper extends SentenceWrapper {
 
 	private Tree ROOT_2;
+	private int sentencePositionAppended;
 	
 	public SentencePairWrapper(Tree parseTree1, Tree parseTree2) {
 		super();
@@ -13,6 +14,8 @@ public class SentencePairWrapper extends SentenceWrapper {
 		this.ROOT_2 = parseTree2;
 		this.processOrder = this.ROOT.preOrderNodeList();
 		this.processOrder.addAll(this.ROOT_2.preOrderNodeList());
+		this.sentencePositionAppended = -1;
+		this.sentencePosition = -1;
 		this.initialize();
 	}
 	
@@ -69,6 +72,59 @@ public class SentencePairWrapper extends SentenceWrapper {
 			}
 		}
 		return out;
+	}
+	
+	public int getSentencePosition(Tree leaf) {
+		int position = -1;
+		for (Tree tree : this.ROOT.getLeaves()) {
+			if (leaf == tree) {
+				position = this.sentencePosition;
+			}
+		}
+		if (position == -1) {
+			for (Tree tree : this.ROOT_2.getLeaves()) {
+				if (leaf == tree) {
+					position = this.sentencePositionAppended;
+				}
+			}
+		}
+		return position;
+	}
+
+	public void setSentencePosition(int sentencePosition) {
+		if (this.sentencePositionAppended != -1) {
+			this.sentencePosition = this.sentencePositionAppended;
+			this.sentencePositionAppended = sentencePosition;
+		} else if (this.sentencePosition == -1) {
+			this.sentencePosition = sentencePosition;
+		} else if (this.sentencePositionAppended == -1) {
+			this.sentencePositionAppended = sentencePosition;
+		}
+	}
+
+//	public String getSentenceValue() {
+//		return sentenceValue;
+//	}
+//
+//	public void setSentenceValue(String sentenceValue) {
+//		this.sentenceValue = sentenceValue;
+//	}
+	
+	public Tree getRootTree(Tree leaf) {
+		Tree root = null;
+		for (Tree tree : this.ROOT.getLeaves()) {
+			if (leaf == tree) {
+				root = this.ROOT;
+			}
+		}
+		if (root == null) {
+			for (Tree tree : this.ROOT_2.getLeaves()) {
+				if (leaf == tree) {
+					root = this.ROOT_2;
+				}
+			}
+		}
+		return root;		
 	}
 
 }

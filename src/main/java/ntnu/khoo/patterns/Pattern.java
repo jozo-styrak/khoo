@@ -182,6 +182,11 @@ public class Pattern extends Token implements IPatternSlot, IFlagToken {
 		}
 	}
 	
+	// output in brat format
+	public void printCausalInformationInBratFormat(PrintStream out, SentenceWrapper sentence) {
+		
+	}
+	
 	// print causal information, if there is a conjunction, generate subparts
 	public void printCausalInformationConjunctions(PrintStream out) {
 		if (isCausal) {
@@ -190,7 +195,27 @@ public class Pattern extends Token implements IPatternSlot, IFlagToken {
 			}
 		}
 	}
+	
+	// for mathing of conjunctions - returns list of all matches
+	public List<String > getSlotMatches() {
+		List<String> matches = new ArrayList<String>();
+		for (Object token : this.processed.toArray()) {
+			if (token instanceof IPatternSlot) {
+				matches.add(this.processMatch(((Token)token).getMatches()));
+			}
+		}
+		return matches;
+	}
 
+	// for method above
+	private String processMatch(String match) {
+		String result = "";
+		if (match.length() > 0) {
+			result = match.substring(match.indexOf("|"), match.length()-1).replace('|', ' ').trim();
+		}
+		return result;
+	}
+	
 	@Override
 	public void flag(SentenceWrapper sentence) {
 		for (Object token : this.processed.toArray()) {

@@ -29,6 +29,10 @@ public class SentenceWrapper {
 	// index representing current position in sentence 
 	protected int currentPosition;
 	
+	// sentence position in text and string representation
+	protected int sentencePosition;
+	protected String sentenceValue;
+	
 	public SentenceWrapper() {}
 	
 	public SentenceWrapper(String sentence, LexicalizedParser parser) {
@@ -51,6 +55,13 @@ public class SentenceWrapper {
 			this.dotSentence = parser.parse(DOT_SENTENCE);
 			this.ROOT.addChild(0, this.dotSentence.getLeaves().get(1).parent(this.dotSentence));
 		}
+		this.processOrder = ROOT.preOrderNodeList();
+		this.initialize();
+	}
+	
+	// sample constructor, no adding of '.' at the beginning
+	public SentenceWrapper(Tree root) {
+		this.ROOT = root;
 		this.processOrder = ROOT.preOrderNodeList();
 		this.initialize();
 	}
@@ -225,5 +236,25 @@ public class SentenceWrapper {
 			}
 		}
 		return contains;
+	}
+
+	public int getSentencePosition(Tree leaf) {
+		return sentencePosition;
+	}
+
+	public void setSentencePosition(int sentencePosition) {
+		this.sentencePosition = sentencePosition;
+	}
+
+//	public String getSentenceValue() {
+//		return sentenceValue;
+//	}
+//
+//	public void setSentenceValue(String sentenceValue) {
+//		this.sentenceValue = sentenceValue;
+//	}
+	
+	public Tree getRootTree(Tree leaf) {
+		return this.ROOT;
 	}
 }
