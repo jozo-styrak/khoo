@@ -14,7 +14,8 @@ import ntnu.khoo.wrappers.SentenceWrapper;
 import ntnu.khoo.patterns.Pattern;
 import ntnu.khoo.patterns.PatternFactory;
 import ntnu.khoo.patterns.PatternMatcher;
-import ntnu.khoo.patterns.output.BratFile;
+import ntnu.khoo.patterns.output.BratOutput;
+import ntnu.khoo.patterns.output.Output;
 import ntnu.khoo.patterns.token.WildcardToken;
 import ntnu.khoo.utils.TreeUtils;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
@@ -34,17 +35,16 @@ public class TextWrapper {
 	private List<Integer> sentencePositions;
 	private List<Tree> parseTrees;
 	private StanfordCoreNLP pipeline;
-	private BratFile bratFile;
+	private List<Output> outputStreams;
 	
 	// output streams
-	private PrintStream fileStream;
-	private PrintStream debugFileStream;
+//	private PrintStream fileStream;
+//	private PrintStream debugFileStream;
 	
 	// id - identificator for multithreading
 	private String outputPrefix = "";
 	
 	public TextWrapper() {
-//		this.parser = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
 		this(LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz"));
 
 	}
@@ -59,9 +59,9 @@ public class TextWrapper {
 	    Properties props = new Properties();
 	    props.put("annotators", "tokenize, ssplit");
 	    this.pipeline = new StanfordCoreNLP(props);
-	    this.fileStream = null;
-	    this.debugFileStream = null;		
-	    this.bratFile = null;
+//	    this.fileStream = null;
+//	    this.debugFileStream = null;		
+	    this.outputStreams = new ArrayList<Output>();
 	}
 	
 	// adjusted method for new annotation
@@ -173,19 +173,13 @@ public class TextWrapper {
 		// get sentence count 
 		int count = (this.parseTrees.size() > 0) ? this.parseTrees.size() : this.sentences.size();
 		
-		// create brat output
-//		BratFile bratFile = new BratFile(System.out);
 		
 		// extract patterns for each sentence
 		for (int i = 0; i < count; i++) {
 			
-//			System.out.println(this.outputPrefix + "\nSentence: " + this.sentences.get(i));
-			if (debugFileStream != null) debugFileStream.println("\nSentence: " + this.sentences.get(i));
 			SentenceWrapper sentence = (this.parseTrees.size() > 0) ? new SentenceWrapper(this.parseTrees.get(i), this.parser) : new SentenceWrapper(this.sentences.get(i), this.parser);
-			//sentence.printProcessOrder();
 			
-			// set values for brat output
-//			sentence.setSentenceValue(this.sentences.get(i));
+			// for output purposes
 			sentence.setSentencePosition(this.sentencePositions.get(i));
 			
 			for (String patternDefinition : patterns) {
@@ -202,45 +196,24 @@ public class TextWrapper {
 						// try pattern til it fails
 						while (PatternMatcher.tryPattern(sentence, pattern)) {
 							
-							// add output to brat file
+							// add output to output file
 							if (pattern.isCausal()) {
 								List<Tree> cause = pattern.getCause();
 								List<Tree> effect = pattern.getEffect();
 								if (cause.size() > 0 && effect.size() > 0) {
-									bratFile.addRelation(sentence, cause, effect);
+									for (Output output : this.outputStreams) {
+										output.printRelation(sentence, cause, effect);
+									}
 								}
 							}
 							
-//							System.out.println(this.outputPrefix + "Matched Pattern: " + pattern.getPatternString());
-//							pattern.printCausalInformation(System.out);
-//							System.out.println(this.outputPrefix + "Verbs: " + pattern.getVerbString());
-//							pattern.printCausalInformationConjunctions(System.out);
-//							System.out.println(this.outputPrefix + pattern.getMatches());
-							
 							// flag matched literals
 							pattern.flag(sentence);
-							
-							// add output into file
-							if (fileStream != null) {
-//								fileStream.println("\nSentence:   " + this.sentences.get(i));
-//								fileStream.println("Pattern:    " + pattern.getPatternString());
-//								pattern.printCausalInformationConjunctions(fileStream);
-//								fileStream.println("Verbs:      " + pattern.getVerbString());
-								pattern.printCausalInformation(fileStream);
-//								fileStream.println(pattern.getMatches());
-							} else {
-//								System.out.println(this.outputPrefix + "No output file");
-							}
-							if (debugFileStream != null) {
-								debugFileStream.println("Pattern: " + pattern.getPatternString());
-//								pattern.printCausalInformationConjunctions(debugFileStream);
-								pattern.printCausalInformation(debugFileStream);
-								debugFileStream.println(pattern.getMatches());
-							}
-							//System.out.println(this.outputPrefix + pattern.getMatches());
+							// reset pattern tokens
 							pattern.resetPattern();
+							// reset order of sentnece
 							sentence.resetProcessOrder();
-							patternFactory.actualizeUsageData(patternDefinition);
+//							patternFactory.actualizeUsageData(patternDefinition);
 						}
 						sentence.resetProcessOrder();
 						pattern.resetPattern();
@@ -264,15 +237,7 @@ public class TextWrapper {
 		pair.setSentencePosition(this.sentencePositions.get(1));
 		List<String> patterns = patternFactory.getPatternsDefinitions();
 		
-		// create brat output
-//		BratFile bratFile = new BratFile(System.out);
-		
 		for (int i = 1; i < this.parseTrees.size(); i++) {
-		
-			//pair.printProcessOrderInline();
-			//pair.printProcessOrder();
-//			System.out.println(this.outputPrefix + "\nSentence pair: " + pair.getSentencePairString());
-			if (debugFileStream != null) debugFileStream.println("\nSentence pair: " + pair.getSentencePairString());
 			
 			for (String patternDefinition : patterns) {
 			
@@ -283,36 +248,22 @@ public class TextWrapper {
 					if (pattern.useThisPattern(pair)) {
 					
 						if (PatternMatcher.tryPattern(pair, pattern)) {
-//							System.out.println(this.outputPrefix + "Pattern: " + pattern.getPatternString());
-//							pattern.printCausalInformation(System.out);
-//							fileStream.println(pattern.getMatches());
-//							System.out.println(this.outputPrefix + "Successful parse");
 							
-							// add output to brat file
+							// add output to output file
 							if (pattern.isCausal()) {
+								// outputs only non empty relations
 								List<Tree> cause = pattern.getCause();
 								List<Tree> effect = pattern.getEffect();
 								if (cause.size() > 0 && effect.size() > 0) {
-									bratFile.addRelation(pair, cause, effect);
-								}
+									for (Output output : this.outputStreams) {
+										output.printRelation(pair, cause, effect);
+									}								}
 							}
 							
 							pattern.flag(pair);
-							if (fileStream != null && pattern.isCausal()) {
-//								fileStream.println("Pattern: " + pattern.getPatternString());
-								pattern.printCausalInformation(fileStream);
-//								fileStream.println(pattern.getMatches());
-							}
-							//System.out.println(pattern.getMatches());
-							if (debugFileStream != null) {
-								debugFileStream.println("Pattern: " + pattern.getPatternString());
-								pattern.printCausalInformation(debugFileStream);
-//								debugFileStream.println(pattern.getMatches());
-							}
 							pattern.resetPattern();
 							pair.resetProcessOrder();
 							patternFactory.actualizeUsageData(patternDefinition);
-							//}
 						} else {
 							pair.resetProcessOrder();
 						}
@@ -326,32 +277,6 @@ public class TextWrapper {
 			pair.setSentencePosition(this.sentencePositions.get(i));
 		}
 	
-	}
-
-	public void setOutputStream(String filename) {
-		try {
-			System.out.println(this.outputPrefix + "Creating output file");
-			//String outputFilename = "data/output/"+filename.substring(filename.lastIndexOf("/"), filename.lastIndexOf("."))+"-output.txt";
-			this.fileStream = new PrintStream(new File(filename));
-			System.out.println(this.outputPrefix + "Output in file \'"+filename+"\'");
-		} catch (Exception e) {
-			System.out.println(this.outputPrefix + "Error creating output file");
-			System.out.println(this.outputPrefix + e.getMessage());
-			this.fileStream = null;
-		}
-	}
-	
-	public void setDebugOutputStream(String filename) {
-		try {
-			System.out.println(this.outputPrefix + "Creating debug output file");
-			//String outputFilename = "data/output/"+filename.substring(filename.lastIndexOf("/"), filename.lastIndexOf("."))+"-output.txt";
-			this.debugFileStream = new PrintStream(new File(filename));
-			System.out.println(this.outputPrefix + "Debug output in file \'"+filename+"\'");
-		} catch (Exception e) {
-			System.out.println(this.outputPrefix + "Error creating output file");
-			System.out.println(this.outputPrefix + e.getMessage());
-			this.debugFileStream = null;
-		}
 	}
 	
 	public void parseSentences() {
@@ -371,8 +296,8 @@ public class TextWrapper {
 		this.outputPrefix = outputPrefix;
 	}
 
-	public void setBratFile(BratFile bratFile) {
-		this.bratFile = bratFile;
+	public void addOutputStream(Output outputStream) {
+		this.outputStreams.add(outputStream);
 	}
 	
 	

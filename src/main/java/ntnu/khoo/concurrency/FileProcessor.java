@@ -7,7 +7,7 @@ import java.util.List;
 
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 import ntnu.khoo.patterns.PatternFactory;
-import ntnu.khoo.patterns.output.BratFile;
+import ntnu.khoo.patterns.output.BratOutput;
 import ntnu.khoo.wrappers.TextWrapper;
 
 public class FileProcessor implements Runnable {
@@ -42,7 +42,7 @@ public class FileProcessor implements Runnable {
 //			text.loadAndParseTextFile(this.inputFile, true);
 			text.loadAndParseTextFileWithPositions(this.inputFile);
 //			text.setOutputStream(outputFolder +filename+".txt");
-			text.setBratFile(new BratFile(new PrintStream(new File(outputFolder +filename+".txt"))));
+			text.addOutputStream(new BratOutput(new PrintStream(new File(outputFolder +filename+".txt"))));
 			//text.setDebugOutputStream(outputFolder + filename + "-debug.txt");
 			
 			System.out.println(filename + "\tExtracting E2 patterns");

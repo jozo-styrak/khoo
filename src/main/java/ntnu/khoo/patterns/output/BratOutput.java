@@ -6,19 +6,19 @@ import java.util.List;
 import ntnu.khoo.wrappers.SentenceWrapper;
 import edu.stanford.nlp.trees.Tree;
 
-public class BratFile {
+public class BratOutput extends Output {
 	
 	private int phraseIndex;
 	private int relationIndex;
-	private PrintStream out;
 	
-	public BratFile(PrintStream out) {
-		this.out = out;
+	public BratOutput(PrintStream out) {
+		super(out);
 		this.phraseIndex = 1;
 		this.relationIndex = 1;
 	}
 	
-	public void addRelation(SentenceWrapper sentence, List<Tree> cause, List<Tree> effect) {
+	@Override
+	public void printRelation(SentenceWrapper sentence, List<Tree> cause, List<Tree> effect) {
 		// create strings from tree objects
 		String causeString = this.treeListToString(cause);
 		String effectString = this.treeListToString(effect);
@@ -63,14 +63,6 @@ public class BratFile {
 		
 		return count;
 		
-	}
-	
-	private String treeListToString(List<Tree> nodes) {
-		String s = "";
-		for (Tree node : nodes) {
-			s += node.label().toString() + " ";
-		}
-		return s.trim();
 	}	
 
 }
