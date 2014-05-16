@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
@@ -14,7 +13,6 @@ import ntnu.khoo.wrappers.SentenceWrapper;
 import ntnu.khoo.patterns.Pattern;
 import ntnu.khoo.patterns.PatternFactory;
 import ntnu.khoo.patterns.PatternMatcher;
-import ntnu.khoo.patterns.output.BratOutput;
 import ntnu.khoo.patterns.output.Output;
 import ntnu.khoo.patterns.token.WildcardToken;
 import ntnu.khoo.utils.TreeUtils;
@@ -36,10 +34,6 @@ public class TextWrapper {
 	private List<Tree> parseTrees;
 	private StanfordCoreNLP pipeline;
 	private List<Output> outputStreams;
-	
-	// output streams
-//	private PrintStream fileStream;
-//	private PrintStream debugFileStream;
 	
 	// id - identificator for multithreading
 	private String outputPrefix = "";
@@ -116,6 +110,8 @@ public class TextWrapper {
 		loadAndParseTextFileWithPositions(reader);
 	}	
 	
+	// for each sentence save position within the containing file - for brat ouput
+	// not removing annotation brackets
 	public void loadAndParseTextFileWithPositions(BufferedReader reader) throws IOException {
 		String originalLine;
 		int position = 0;
@@ -193,6 +189,8 @@ public class TextWrapper {
 					// try to filter given pattern
 					if (pattern.useThisPattern(sentence)) {
 					
+//						System.out.println(patternDefinition);
+					
 						// try pattern til it fails
 						while (PatternMatcher.tryPattern(sentence, pattern)) {
 							
@@ -246,6 +244,8 @@ public class TextWrapper {
 					pattern.returnToken(new WildcardToken("***"));
 					
 					if (pattern.useThisPattern(pair)) {
+						
+//						System.out.println(patternDefinition);
 					
 						if (PatternMatcher.tryPattern(pair, pattern)) {
 							

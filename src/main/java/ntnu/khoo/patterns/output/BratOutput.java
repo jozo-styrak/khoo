@@ -6,6 +6,7 @@ import java.util.List;
 import ntnu.khoo.wrappers.SentenceWrapper;
 import edu.stanford.nlp.trees.Tree;
 
+// brat output - marking phrases position in text
 public class BratOutput extends Output {
 	
 	private int phraseIndex;
@@ -38,6 +39,7 @@ public class BratOutput extends Output {
 		this.relationIndex++;
 	}
 	
+	// get the position of given leaf within scope of sentence
 	private int getOffset(SentenceWrapper sentence, Tree leaf) {
 		
 		int count = 0;

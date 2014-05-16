@@ -6,6 +6,7 @@ import java.util.List;
 import ntnu.khoo.wrappers.SentenceWrapper;
 import edu.stanford.nlp.trees.Tree;
 
+// parent for output objects
 public abstract class Output {
 	
 	protected PrintStream out;

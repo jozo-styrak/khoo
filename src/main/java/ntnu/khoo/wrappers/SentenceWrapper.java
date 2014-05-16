@@ -138,7 +138,9 @@ public class SentenceWrapper {
 	// returns to the position of previous leaf
 	public void backtrack() {
 		int i = this.currentPosition - 2;
+//		System.out.println("new i : " + i);
 		while (i > 0 && !this.processOrder.get(i).isLeaf()) {
+//			System.out.println(i);
 			i--;
 		}
 		this.currentPosition = i + 1;

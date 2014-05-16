@@ -6,6 +6,7 @@ import java.util.List;
 import ntnu.khoo.wrappers.SentenceWrapper;
 import edu.stanford.nlp.trees.Tree;
 
+// output where cause and effect are separated on tabulator
 public class PlainOutput extends Output {
 
 	public PlainOutput(PrintStream out) {

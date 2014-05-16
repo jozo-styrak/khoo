@@ -37,6 +37,7 @@ public class LiteralToken extends Token implements IFlagToken {
 	@Override
 	public boolean match(SentenceWrapper sentence) {
 		Tree matchItem = sentence.getNextLeaf();
+//		int checkpoint = sentence.getCurrentPosition();
 		
 		// match criterias
 		if (matchItem != null
@@ -56,6 +57,10 @@ public class LiteralToken extends Token implements IFlagToken {
 			isOptionLeft = false;
 			this.lastMatchPosition = sentence.getCurrentPosition();
 			return false;
+//			if (matchItem != null) sentence.setCurrentPosition(checkpoint);
+//			isOptionLeft = false;
+//			this.lastMatchPosition = sentence.getCurrentPosition();
+//			return false;			
 		}
 	}
 	

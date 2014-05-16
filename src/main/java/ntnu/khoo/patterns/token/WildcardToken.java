@@ -32,6 +32,7 @@ public class WildcardToken extends Token {
 				matched = true;
 			} else {
 				matched = false;
+				this.isOptionLeft = false;
 			}
 		}
 		

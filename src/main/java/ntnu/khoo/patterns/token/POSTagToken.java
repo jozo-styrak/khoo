@@ -34,11 +34,12 @@ public class POSTagToken extends Token implements IPatternSlot, IFlagToken {
 		
 		if (matchItem != null && sentence.getTag(matchItem).startsWith(this.value) && (this.flagged || (this.slotType != SlotToken.SlotType.NONE) || !sentence.isFlagged(matchItem))) {
 			setMatchItem(matchItem);
-			//this.lastMatchPosition = sentence.getCurrentPosition();
 			return true;
 		} else {
 			sentence.backtrack();
 			return false;
+//			if (matchItem != null) sentence.setCurrentPosition(this.lastMatchPosition);
+//			return false;
 		}
 	}
 

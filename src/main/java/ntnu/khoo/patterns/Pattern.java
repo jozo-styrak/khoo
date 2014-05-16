@@ -73,7 +73,7 @@ public class Pattern extends Token implements IPatternSlot, IFlagToken {
 				toProcess.push(t);
 				// backtracks to previous leaf
 				// not sure if it has any effect currently
-				sentence.backtrack();
+				//sentence.backtrack();
 			}
 		}
 		return token;

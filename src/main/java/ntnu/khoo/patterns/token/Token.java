@@ -14,7 +14,8 @@ public abstract class Token {
 	// string value of token
 	protected String value;
 	
-	// matched part of parse tree
+	// matched part of parse tree - each is represented by item in list
+	// may include leaf or subtree for phrase
 	protected List<Tree> matchItems;
 	
 	// if there is option left for this token
@@ -63,7 +64,7 @@ public abstract class Token {
 		return value;
 	}
 	
-	// debug
+	// debug method
 	public String getMatches() {
 		String out = this.value+ "("+this.getClass().getSimpleName()+")";
 		if (this.matchItems.size() != 0) {

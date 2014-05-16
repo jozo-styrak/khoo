@@ -10,6 +10,9 @@ import ntnu.khoo.patterns.PatternFactory;
 import ntnu.khoo.patterns.output.BratOutput;
 import ntnu.khoo.wrappers.TextWrapper;
 
+/*
+ * thread object for individual processing for each file
+ */
 public class FileProcessor implements Runnable {
 
 	private TextWrapper text;
@@ -19,7 +22,6 @@ public class FileProcessor implements Runnable {
 	private LexicalizedParser parser;
 	
 	public FileProcessor(LexicalizedParser parser, File file, List<PatternFactory> patterns, String outputFolder) {
-//		this.text = new TextWrapper(parser);
 		this.parser = parser;
 		this.inputFile = file;
 		this.patterns = patterns;
@@ -45,16 +47,19 @@ public class FileProcessor implements Runnable {
 			text.addOutputStream(new BratOutput(new PrintStream(new File(outputFolder +filename+".txt"))));
 			//text.setDebugOutputStream(outputFolder + filename + "-debug.txt");
 			
+			// extracting relations for sentence pairs
 			System.out.println(filename + "\tExtracting E2 patterns");
 			long checkpoint = System.currentTimeMillis();
 			text.extractRelationsFromSentencePairs(patterns.get(0));
 			System.out.println(filename + "\tExtraction duration: " + String.format("%.2f", (System.currentTimeMillis()-checkpoint)/1000.0/60.0) + " min");
 			
+			// extracting relations with patterns for causal links
 			System.out.println(filename + "\tExtracting E1 patterns");
 			checkpoint = System.currentTimeMillis();
 			text.extractRelationsLazy(patterns.get(1));
 			System.out.println(filename + "\tExtraction duration: " + String.format("%.2f", (System.currentTimeMillis()-checkpoint)/1000.0/60.0) + " min");
 			
+			// extracting relations with causal verbs
 			System.out.println(filename + "\tExtracting E3 patterns");
 			checkpoint = System.currentTimeMillis();
 			text.extractRelationsLazy(patterns.get(2));

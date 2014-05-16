@@ -5,10 +5,12 @@ import java.util.List;
 import edu.stanford.nlp.trees.Tree;
 import ntnu.khoo.wrappers.SentenceWrapper;
 
-// simple slot token implementation - [N:1], [N:2]
+// simple slot token implementation [1] [2]
 public class SlotToken extends Token implements IPatternSlot {
 
 	private int slotType;
+	
+	// last in pattern order
 	private boolean lastToProcess;
 	
 	private String punctuation = ".,-:()?!;";
@@ -28,6 +30,7 @@ public class SlotToken extends Token implements IPatternSlot {
 	
 	@Override
 	public boolean match(SentenceWrapper sentence) {
+//		int checkpoint = sentence.getCurrentPosition();
 		if (!this.lastToProcess) {
 			Tree matchItem = sentence.getNextLeaf();
 			if (matchItem != null) {
@@ -41,6 +44,7 @@ public class SlotToken extends Token implements IPatternSlot {
 						return true;
 					} else {
 						sentence.backtrack();
+//						sentence.setCurrentPosition(checkpoint);
 						this.isOptionLeft = false;
 						return false;
 					}				
@@ -63,6 +67,7 @@ public class SlotToken extends Token implements IPatternSlot {
 			if ((this.matchItems.size() == 1) && (this.punctuation.contains(matchItem.label().value()))) {
 				this.removeMatchItem();
 				sentence.backtrack();
+//				sentence.setCurrentPosition(checkpoint);
 				return false;
 			}
 			return true;

@@ -4,7 +4,6 @@ import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
@@ -56,13 +55,13 @@ public class ExtractRelations {
 	
 	public static void extractRelationsParallelized(int numberOfThreads, String fromFolder, String outputFolder, boolean isManFormat) throws IOException {
 		List<File> FILES = new ArrayList<File>();
-		File folder = new File(fromFolder);//new File("data/aviation_reports/files/");
+		File folder = new File(fromFolder);
 		File[] files = folder.listFiles();
 		for (int i = 0; i < files.length; i++) {
 			FILES.add(files[i]);
 		}
 		
-		// load properties from file
+		// load properties with names of pattern files
 		Properties properties = new Properties();
 		try {
 			properties.load(new BufferedInputStream(new FileInputStream("settings/settings.prop")));
@@ -71,6 +70,7 @@ public class ExtractRelations {
 			throw new IOException("Error loading system settings");
 		}
 		
+		// create object container for pattern factories
 		List<PatternFactory> patterns = new ArrayList<PatternFactory>();
 		
 		PatternFactory e1Patterns = new PatternFactory();
@@ -88,7 +88,6 @@ public class ExtractRelations {
 		e3Patterns.loadVerbGroups(properties.getProperty("e3.verbgroups.file"));
 		e3Patterns.loadPatternsDefinitions(properties.getProperty("e3.patterns.file"));
 		
-		// list object for all patterns
 		patterns.add(e2Patterns);
 		patterns.add(e1Patterns);
 		patterns.add(e3Patterns);
@@ -99,6 +98,7 @@ public class ExtractRelations {
 		LexicalizedParser parser = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
 		
 		// create executor service
+		// each file is processed within own thread
 		ExecutorService executor = Executors.newFixedThreadPool(numberOfThreads);
 		System.out.println("\n***** PROCESSING " + numberOfThreads + " THREADS CONCURRENTLY *****\n");
 		
@@ -119,22 +119,23 @@ public class ExtractRelations {
 		while (!executor.isTerminated()) {}
 			
 		// output usage data
-		PrintStream out = new PrintStream(new File(outputFolder + "usage_data.txt"));
-		System.out.println("----------- Printing e1 pattern usage -----------");
-		e1Patterns.printUsageData(System.out);
-		System.out.println("----------- Printing e2 pattern usage -----------");
-		e2Patterns.printUsageData(System.out);
-		System.out.println("----------- Printing e3 pattern usage -----------");
-		e3Patterns.printUsageData(System.out);
+		// used for testing purposes
+//		PrintStream out = new PrintStream(new File(outputFolder + "usage_data.txt"));
+//		System.out.println("----------- Printing e1 pattern usage -----------");
+//		e1Patterns.printUsageData(System.out);
+//		System.out.println("----------- Printing e2 pattern usage -----------");
+//		e2Patterns.printUsageData(System.out);
+//		System.out.println("----------- Printing e3 pattern usage -----------");
+//		e3Patterns.printUsageData(System.out);
+//		
+//		out.println("----------- Printing e1 pattern usage -----------");
+//		e1Patterns.printUsageData(out);
+//		out.println("----------- Printing e2 pattern usage -----------");
+//		e2Patterns.printUsageData(out);
+//		out.println("----------- Printing e3 pattern usage -----------");
+//		e3Patterns.printUsageData(out);
 		
-		out.println("----------- Printing e1 pattern usage -----------");
-		e1Patterns.printUsageData(out);
-		out.println("----------- Printing e2 pattern usage -----------");
-		e2Patterns.printUsageData(out);
-		out.println("----------- Printing e3 pattern usage -----------");
-		e3Patterns.printUsageData(out);
-		
-		out.close();
+//		out.close();
 		
 		System.out.println("\nTotal duration: " + String.format("%.2f", (System.currentTimeMillis()-startTime)/1000.0/60.0) + " min");	
 	}
