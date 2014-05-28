@@ -44,7 +44,7 @@ public class FileProcessor implements Runnable {
 //			text.loadAndParseTextFile(this.inputFile, true);
 			text.loadAndParseTextFileWithPositions(this.inputFile);
 //			text.setOutputStream(outputFolder +filename+".txt");
-			text.addOutputStream(new BratOutput(new PrintStream(new File(outputFolder +filename+".txt"))));
+			text.addOutputStream(new BratOutput(new PrintStream(new File(outputFolder +filename+".ann"))));
 			//text.setDebugOutputStream(outputFolder + filename + "-debug.txt");
 			
 			// extracting relations for sentence pairs
